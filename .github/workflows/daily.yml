@@ -1,0 +1,75 @@
+name: Daily digest
+
+on:
+  schedule:
+    # Safety net only: the Claude Desktop scheduled task normally publishes at 08:00 Budapest time.
+    # This run skips collection when today's file already exists.
+    - cron: "30 8 * * *"   # 08:30 UTC = 10:30 CEST / 09:30 CET
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily
+  cancel-in-progress: false
+
+jobs:
+  collect-and-build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+
+      - name: Collect today's news (skipped if the routine already published today)
+        if: github.event_name != 'push'
+        run: |
+          if [ -f "public/data/days/$(date -u +%F).json" ] && [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "today's digest already exists, skipping collection"
+          else
+            npm run collect
+          fi
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit new data
+        if: github.event_name != 'push'
+        run: |
+          git config user.name "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add public/data/days data
+          if git diff --cached --quiet; then
+            echo "nothing new"
+          else
+            git commit -m "digest: $(date -u +%F)"
+            git push
+          fi
+
+      - name: Build site
+        run: npm run build
+        env:
+          VITE_BASE: /${{ github.event.repository.name }}/
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+
+  deploy:
+    needs: collect-and-build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
