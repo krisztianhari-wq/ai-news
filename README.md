@@ -21,3 +21,6 @@ npm run dev                   # preview at http://localhost:5173
 - No backend, no database, no user accounts.
 - Feed content is treated as untrusted: HTML stripped, only `http(s)` links rendered, strict CSP, `no-referrer`, `noopener` links.
 - Summaries are AI-generated; always verify with the linked source.
+
+## Two brands, one codebase
+The look is chosen at build time with `VITE_BRAND`: the GitHub Pages workflow builds with `VITE_BRAND=yettel` (Yettel palette, wordmark, "Open" label), while ai.sadrobot.eu builds without it and gets the sadrobot brand. Content and daily editions are identical.
