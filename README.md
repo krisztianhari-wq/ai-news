@@ -1,4 +1,4 @@
-# Yettel AI Daily
+# sadrobot AI Daily
 
 Daily worldwide AI briefing, published automatically every morning.
 

@@ -2,7 +2,7 @@ import { defineConfig, type Plugin } from "vite";
 import react from "@vitejs/plugin-react";
 
 // GoatCounter site code (public, visible in page source anyway). Change the constant to disable or switch sites.
-const DEFAULT_GOATCOUNTER = ""; // off until a GoatCounter site is created for AI Daily
+const DEFAULT_GOATCOUNTER = "hadzsy"; // közös sadrobot GoatCounter-fiók; az útvonal elé a hosztnév kerül (public/gc-config.js)
 
 // Optional privacy-friendly view counter (GoatCounter). Enabled only when
 // VITE_GOATCOUNTER_CODE is set at build time; the CSP is widened for exactly that host.
@@ -15,7 +15,8 @@ function goatcounter(code: string | undefined): Plugin {
       return html
         .replace("script-src 'self'", "script-src 'self' https://gc.zgo.at")
         .replace("connect-src 'self'", `connect-src 'self' ${host}`)
-        .replace("</body>", `  <script data-goatcounter="${host}/count" async src="https://gc.zgo.at/count.js"></script>\n  </body>`);
+        .replace("img-src 'self' data:", `img-src 'self' data: ${host}`)
+        .replace("</body>", `  <script src="${process.env.VITE_BASE ?? "/"}gc-config.js"></script>\n  <script data-goatcounter="${host}/count" async src="https://gc.zgo.at/count.js"></script>\n  </body>`);
     },
   };
 }
