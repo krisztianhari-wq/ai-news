@@ -1,0 +1,827 @@
+{
+ "date": "2026-09-29",
+ "generatedAt": "2026-09-29T08:44:27.439Z",
+ "model": null,
+ "editorial": "heuristic",
+ "itemCount": 51,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 5
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-09-29-001",
+   "title": "You have to still ‘keep taste and judgement’: How companies are actually putting agentic AI to work",
+   "url": "https://sifted.eu/articles/how-companies-are-putting-agentic-ai-to-work-brnd/",
+   "source": "Sifted",
+   "published": "2026-09-29T09:17:53.000Z",
+   "category": "industry-compute",
+   "summary": "You have to still ‘keep taste and judgement’: How companies are actually putting agentic AI to work",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-002",
+   "title": "Hallo, Deutschland!",
+   "url": "https://mistral.ai/news/hallo-deutschland",
+   "source": "Mistral AI",
+   "published": "2026-09-29T08:44:10.028Z",
+   "category": "models-releases",
+   "summary": "Hallo, Deutschland!",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-003",
+   "title": "Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral",
+   "url": "https://mistral.ai/news/hallo-deutschland/",
+   "source": "Mistral AI",
+   "published": "2026-09-29T08:44:10.028Z",
+   "category": "models-releases",
+   "summary": "Company Hallo, Deutschland! Mistral Opens German Hub in Munich to Advance Industrial AI in Europe’s Largest Economy September 28, 2026 By Mistral",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-004",
+   "title": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+   "url": "https://www.aisi.gov.uk/blog/gpt-6-astra-performs-unsanctioned-supply-chain-attacks-in-simulations",
+   "source": "UK AI Security Institute",
+   "published": "2026-09-29T08:44:09.510Z",
+   "category": "safety-evals",
+   "summary": "GPT-6 Astra performs unsanctioned supply-chain attacks in simulations",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-005",
+   "title": "ServiceNow (NOW) Ties AI Agent Security More Closely to Its Platform",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMVNGSmdJN3RlSXVSQXV1S0NJWG9MU1l0SldVR29CTTE0UmZpdXRQVVdsMHRCbnhIMWdnU2RDbHRVMWg1dFhpYzBsWVlkQXFHT0tnZ000Q3FMdlpiN0FMUG41XzhmRGZ0dmc3Z3hLYUE1Z1VjcnVfanQtT3FSMFA4eEJkT1lRbVh5MmI3bmxBSDljRERzby1TZDdvOXJyS3RrRFVTeTdhQlJvYmhITHdGZWVEQ0ZEeXJrQ0swazBxbDRZcFc10gHKAUFVX3lxTFAwclp4bEZ6dGlfRkJHREVpMUJYOEF4QlF2WHl5TWRMVFV4NkdSQXVLeXhqLXRmbk1vdWRvaW5HLUtlZ053UWhlNzEtR3dMbXY0bk9pRElmVUkyYlN2YkxSd0RBLUszZUpkY01LT3NiT3BhdlpWbTVaUTVzei1VazBnQ0VNUE5yc1E2ME14YW9XY3VPZkJoNnBOUktBcG84Q245NG5MRXBWZHZvS1RHcmdudndqcnh0dU1ka0xTQng0ZTByZ3IxcWEwUHc?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-09-29T08:42:42.000Z",
+   "category": "ai-security",
+   "summary": "ServiceNow (NOW) Ties AI Agent Security More Closely to Its Platform simplywall.st",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-006",
+   "title": "GPT-6.1 Astra is too deceptive for release, marking OpenAI's most dramatic safety intervention yet",
+   "url": "https://the-decoder.com/gpt-6-1-astra-is-too-deceptive-for-release-marking-openais-most-dramatic-safety-intervention-yet/",
+   "source": "The Decoder",
+   "published": "2026-09-29T08:26:38.000Z",
+   "category": "agents-tools",
+   "summary": "OpenAI has halted the release of GPT-6.1 Astra after internal tests found it acted without permission, misled users, and accessed external services despite safety risks. The company hasn't announced a new release date. The article GPT-6.1 Astra is too deceptive for release, mark…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-007",
+   "title": "Anthropic warns of ‘existential risks to humanity’ from AI; AstraZeneca makes $2bn cancer drug tie-up – business live",
+   "url": "https://www.theguardian.com/business/live/2026/sep/29/anthropic-ipo-warning-existential-risks-to-humanity-from-ai-astrazeneca-2bn-cancer-drug-tie-up-diesel-stock-market-live-news-updates",
+   "source": "The Guardian – AI",
+   "published": "2026-09-29T08:22:31.000Z",
+   "category": "incidents-society",
+   "summary": "Rolling coverage of the latest economic and financial news UK mortgage rates have nudged higher this morning, Moneyfacts reports. They say: The average 2-year fixed residential mortgage rate today is 5.93%. This is up from 5.91% the previous working day. The average 5-year fixed…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-008",
+   "title": "A rádiózás jövőjét is átalakítja a mesterséges intelligencia – összefoghat a hazai szakma",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTWhjZUdCdVc4TFl3b3dqb2tqV3NkdmpXVHpOQ3BvX1QyeUhLRTQ0QXRrSUFmVF91UjRqczl1MGdYYjFkR3dTX3BZbl8xZ3NGY0RCeFNDWTEtTmJ0UTZfTFhjdEhtSlhSMXZXQm5HdWhEWUx1ckhubkZnLXRXRHFHZ2lYek1WWGRTMkVQUmhIancyYTA3S19qdC1QckxZaWNXTjZNS3V0MzUyem1O?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-09-29T08:18:54.000Z",
+   "category": "policy-regulation",
+   "summary": "A rádiózás jövőjét is átalakítja a mesterséges intelligencia – összefoghat a hazai szakma Világgazdaság",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-009",
+   "title": "A Goncourt-díjra jelöltet azzal vádolják, hogy első könyvét a mesterséges intelligencia írta",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLXpsVHNZNkFDb0ZvY0o3enhMSmdKNXNMaHpuY3JNc0lwaTVxdHBwWWtfUFB0T244a2Q4cHdiZGM1ZkV1OGo2aEVEQmowRlJTbXdlR0tvTTI3VThFZk9aOVUzR3UyUVNWOF84ckduQ3JNSXNkbUlsSFM1cm1qdUhyUExiaXQ0WlZaazRpNklrVVVEcUhnNkNoZV9ybVhxM3RnbFI2THhSdmxfbmNyb21J?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-09-29T08:08:19.000Z",
+   "category": "policy-regulation",
+   "summary": "A Goncourt-díjra jelöltet azzal vádolják, hogy első könyvét a mesterséges intelligencia írta Ma7",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-010",
+   "title": "AI hete az ELTE-n: Amit mindig tudni akartál a mesterséges intelligenciáról",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORTVaWlNZZkJEbXBYZjJ4ZGR6RWZDSkRvbjN5bzdpVHUzWktXd1FIMlN0V0h5OG96TDFyNnZSWFhtQXhYelA0LTFyd0h6UWxfbW8yVF8yV0QwWWQ5Q3lEcjM5VWRmcEdjbW9ieUpWX0F6dmtvWDVfNXZaOHRtQ2hsZkl2WTVpYTI2MTgtbm16WWJUZU9Demh1eHFXbzRCdGNQck43T0N3Nk5xN2dk?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-09-29T08:06:06.000Z",
+   "category": "policy-regulation",
+   "summary": "AI hete az ELTE-n: Amit mindig tudni akartál a mesterséges intelligenciáról prim.hu",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-011",
+   "title": "Mesterséges intelligenciával tervezi a jövőt Málta turizmusa",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ2FsTTBuYWhwaDM3OGZrakJlZ3RSOGZlZk9jdG1MSXE5V2RSUWdpOEptcUxLYXlWNndWam51WVBvRENZOVJ1aHBSb3h3eHlxd2ZBRWxscUtsczQ4WWl4UjdJQ01xVmdqcUFaVnBiMVUzamxwclQ2SDFXblpHVWFRRlphd29ITzdqXzZ5WHFLZV9sVXEwSHNjdFptMU5wU0pTWkJLUmo0VTRDaDR4MUo3bGxfMA?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-09-29T07:24:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Mesterséges intelligenciával tervezi a jövőt Málta turizmusa Turizmus.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-012",
+   "title": "OpenAI scraps release of new model over safety concerns in internal testing",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/openai-new-model-astra-release-scrapped",
+   "source": "The Guardian – AI",
+   "published": "2026-09-29T07:15:54.000Z",
+   "category": "incidents-society",
+   "summary": "GPT-6.1 Astra showed deceptive behaviour and tried to use external tools despite knowing it would be unsafe As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you Business live – latest updates OpenAI is scrapping the release…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-013",
+   "title": "After Nvidia, OpenAI sets new safety rules for frontier AI training as rogue agents raise alarm",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPQVk2a3lHZ1VzM3VsZ1RiMldYWjdLSDZVREF5SjQ0N2U5SERJdHBuNnRLNks0MGdNTnZjdk04cnVTaVNjazFZd2RiNDFrdHBZVUxUNnZKMVhETzFLbTJzdGJHNmMtSGQzUXdIeDU1M19BaGVEU3M5ZjdOMlpmbGlMMTlZbDlVM1NRSl8zMmJkb2diTHpLQmh4UEFLajRzYXVzY0RmY1YwUktkWURTN1BZRVdlZkdLTGFMS1JneE8tU0hibXg4TktkcEk0UXBVMV9KclFsRmp3?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-09-29T07:08:09.000Z",
+   "category": "safety-evals",
+   "summary": "After Nvidia, OpenAI sets new safety rules for frontier AI training as rogue agents raise alarm firstpost.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-014",
+   "title": "A mesterséges intelligencia az adatszivárgás melegágya – tömegével kerülnek ki üzleti titkok",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1FUMzdKVDhnNnB2ZVp1RTBVY0I3NmhlQmFFaXdjVjN3UlB4TmZYOFhPQlF0WnlNeFVsRDA2YjFFN29sYnFTd0R5Sl84RWdERWNIVklFQ3U5NUNLZ3gtVGRxbkdVTHI2bFpjVkI4UmZXbjdrYzNKZjVJTFJVaFhqcEpvdENWT1BOT1lXUlNvcmdQWnMxbWtBWjVRYTUybDdMMVEzMlNhanpfNFdHYU5NTDY0T2dQdFU4?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-09-29T07:05:41.000Z",
+   "category": "policy-regulation",
+   "summary": "A mesterséges intelligencia az adatszivárgás melegágya – tömegével kerülnek ki üzleti titkok Növekedés.hu",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-015",
+   "title": "EXCLUSIVE - \"Forbes Named Me a Top Business Innovator\": Inside the Deepfake AI-Trading Video Duping Indians on Instagram",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9obEdpa3ZwLUozSlFoSVFjcXVxYmk1b2h6bEl0RkMzSkw0U19pYVZ5YTY2ZmduUjhtdHc3ZDJHRVdjX0EwVnctemJybUd6OURGampOUFhLNDFoMXIwY1lTUzJZbUlzSFVOWHBmMHJEQTZwN1d1MkFBcQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-09-29T07:04:56.000Z",
+   "category": "ai-threats",
+   "summary": "EXCLUSIVE - \"Forbes Named Me a Top Business Innovator\": Inside the Deepfake AI-Trading Video Duping Indians on Instagram The420.in",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-016",
+   "title": "Hyundai Engineering Secures 870 Billion Won AI Data Center Contract",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNG95el9lWEt4ZGlQRFA2MUkxQ0pycXFTQlVFcUtlbEt4aU4wckdoT3BaVUlsdVZ4T0QxNndWTzVLTFJfbkoyeVNramtqSHFManRmajJRX3MxUXFWclFYX2dMTWlYLUJaWERtaWs3UUUzS1QyLXZHend1aVI2V2EzQ2hTMUpCV3VL?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-09-29T06:45:04.000Z",
+   "category": "industry-compute",
+   "summary": "Hyundai Engineering Secures 870 Billion Won AI Data Center Contract 조선일보",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-017",
+   "title": "Nvidia is quietly pushing AI data center risk onto insurance companies",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOHBULWJRejBjTEhEeEFsbTRmdjA0ckYxdnJwcWhIWFJjQVFoTVFaM3VVSElWVVhLcmxUazZfam10R0N0aEhwb0hXTzJkOHNRTkw5YU9wdC1YYlpILUFxRW4xWi1pdGdUNzcyTUkyWFZXMVY5d25kdjFyY3g0RTY0SnY3U0NvZ0dybmswN0UyalY1S1RaNWVEUVZWRWpyQk0?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-09-29T06:43:27.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia is quietly pushing AI data center risk onto insurance companies Startup Fortune",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-018",
+   "title": "GitHub’s AI agent found 24 Android app vulnerabilities",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX19nSWVxSTBRYlRpTUVDTUg4RHhrZnRNbjBxQkxFWjRzSFBqak5DTGVDcy1ZbkdqQk5teFhIZm1rOUpGX2lvX1Q0VjRIU3ZSTFBnckN0aW9oc3k5Ml9hUkpJRDBzSkI1bVppbnM5RWJDb0VLS3VqWDNYT2RKRmQ5M1VjRUJ1enFj?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-09-29T06:39:42.000Z",
+   "category": "ai-security",
+   "summary": "GitHub’s AI agent found 24 Android app vulnerabilities Help Net Security",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-019",
+   "title": "OpenAI Proposes a Safety Case Framework for Frontier AI Training",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjRqa1ZuMWg4TzlGcGdGNTJXX3E4d2l6SlNPVnIyYUlLdHBxZ25KU2VEYldFV196Tm9lU0tCb0owVjlGXy1QemYwNjBtSkhtNnZzQ1l5TUZLSWs5NDNwcGFmRVNQdEJfd244S3Z5SWctalV6TXFsanlYcG0zUWV3eWd0QkFoUFkteTVUU1R1Y1hFUk4ycjJHLTVPQmo?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-09-29T06:37:42.000Z",
+   "category": "safety-evals",
+   "summary": "OpenAI Proposes a Safety Case Framework for Frontier AI Training KuCoin",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-020",
+   "title": "Towards safety cases for frontier AI training",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5cm5nT3BoSU9lR283QzQzbGlfQ1FSUGhobEFLc2E4YkxaMEZLb1N6LWlWeG5VYUE5azlyWFZuM1lGdUVaNnRKNjBJUlNYdGIwUGNCMmg5U29IRkZoSjRiUVdVSUo3MThsUUhXM2llaGd5UkMyYlhqNHBydw?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-09-29T06:10:36.000Z",
+   "category": "safety-evals",
+   "summary": "Towards safety cases for frontier AI training OpenAI",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-021",
+   "title": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPazBIWk9oVFRUeUxhQ2tIdDBhajVKeWZneW1QUlpCRmtqRFlzLWtoOXZhTkVVTTdNVmRta091ckw3OEFjUFdIY1ZtZUY3VEJpUzZhUnlDb2pCRHJMdTlqWTQ1MWZTdzlNbTRNSU82N1dvTXJ3QUIzdU5adktIOEtINw?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-09-29T06:08:00.000Z",
+   "category": "ai-security",
+   "summary": "Official MCP Python SDK Flaw Can Let Malicious Servers Steal OAuth Credentials The Hacker News",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-022",
+   "title": "Elismerte az Anthropic: az emberiség léte forog kockán a saját mesterséges intelligenciája miatt",
+   "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQV0FGd3Q3bmQxaDNmUDdDa1A0eGZMbjhjbWJjN2ZqOGRmVjRzaFJ6UC0tSmI1UGVyeEo3YkNEcW1iajlrNmgzMmRfSmVzQ0Y5d19Jd2IyaURvRkctNjhLWWpCZ3R6MmdPYUY3eWsxcXhBRWEzdTN3R0VOdGl0b0JvcE4zN0tzZXVhU3JEV25iMTkwV0xvUTZQSDdyUXRYWTJLVXZNNms0X05nSGdDOEh6dzB1aFl3Nkk4YnBQdFBNRkJPMksxMmxVWWp2TzNBTkktSk1YcnhCcHZmU2hWaHVJ0gHfAUFVX3lxTFBXQUZ3dDduZDFoM2ZQN0NrUDR4ZkxuOGNtYmM3Zmo4ZGZWNHNoUnpQLS1KYjVQZXJ4SjdiQ0RxbWJqOWs2aDMyZF9KZXNDRjl3X0l3YjJpRG9GRy02OEtZakJndHoyZ09hRjd5azFxeEFFYTN1M3dHRU50aXRvQm9wTjM3S3NldWFTckRXbmIxOTBXTG9RNlBIN3JRdFhZMktVdk02azRfTmdIZ0M4SHp3MHVoWXc2SThicFB0UE1GQk8ySzEybFVZanZPM0FOSS1KTVhyeEJwdmZTaFZodUk?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-09-29T05:47:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Elismerte az Anthropic: az emberiség léte forog kockán a saját mesterséges intelligenciája miatt Portfolio.hu",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-025",
+   "title": "Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity",
+   "url": "https://techcrunch.com/2026/09/28/anthropics-prospectus-details-losses-growth-and-yes-a-warning-that-its-ai-could-end-humanity/",
+   "source": "TechCrunch – AI",
+   "published": "2026-09-29T05:13:43.000Z",
+   "category": "agents-tools",
+   "summary": "In its prospectus, Anthropic just told investors it's losing tens of billions of dollars a year, but also growing like crazy, and — oh yeah — its own AI might pose an existential risk to humanity.",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-026",
+   "title": "Voice deepfake heist: €95 million stolen from Italian bank",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPLXF2T0VKaVpGTU5wVWpacjBLR2IwOW00bUVsbFlmSGJFTVp3ek1sUThadzE3bUQwWWRJclJqX2RvUDBBbGJqUmc5eVRXbENGSEI1Sk4tTU9sTjdSOExOcFVRRzhjTTA3SmpoVHpDckE2Q0w2RUhuYlVDMEZqQ0dzaW84VXJSakpGdW5FV1BjT2VScktQd0U0ZFFGcU42ZkU3UTNNcFVob0w5Q254?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-09-29T05:10:02.000Z",
+   "category": "ai-threats",
+   "summary": "Voice deepfake heist: €95 million stolen from Italian bank escudodigital.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-027",
+   "title": "Scammer impersonates Christmas market organisers",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwV0pmaDNZREN0RWdzZGZrSG9YcklxcGFtMVVlMEo0YUVqNmFWRXBsbksyRnh1MWo4ZktwNGNOVVRMZTZnaHg2bFpQVnBqSEVpaWJtLWhldC1KSkE?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-09-29T05:08:11.000Z",
+   "category": "ai-threats",
+   "summary": "Scammer impersonates Christmas market organisers bbc.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-028",
+   "title": "AI: Governments Frozen in the AI Headlights. AI-RTZ #1224 (Part 2)",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQSmkwOWp1R3FQeFJaSWZnbGtQeWZlTDNKSFVSeGUyYnJSZnl4MTdkWDZnWmhPLTlyRHZ0WldOaVU2S0RZMElWRU9fbFdhU2tKSVl4VGJLYnNGUkxRZ2ZmUjl0N09IZ1VtZTVPOFpuNGgzWjdpa3N1SWkyVFdUU3MyZlhnTm52QQ?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-09-29T05:02:43.000Z",
+   "category": "safety-evals",
+   "summary": "AI: Governments Frozen in the AI Headlights. AI-RTZ #1224 (Part 2) AI: Reset to Zero",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-029",
+   "title": "Manna boss Bobby Healy on moving to Oklahoma: ‘The US is open for business, Europe is not’",
+   "url": "https://sifted.eu/articles/bobby-healy-manna-trump-oklahoma/",
+   "source": "Sifted",
+   "published": "2026-09-29T05:00:55.000Z",
+   "category": "industry-compute",
+   "summary": "Manna boss Bobby Healy on moving to Oklahoma: ‘The US is open for business, Europe is not’",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-030",
+   "title": "As AI models go rogue, do you still trust OpenAI and Anthropic to stop them? I don’t and neither should you | Chris Stokel-Walker",
+   "url": "https://www.theguardian.com/commentisfree/2026/sep/29/ai-models-security-risk-agents-openai-independent-security",
+   "source": "The Guardian – AI",
+   "published": "2026-09-29T05:00:54.000Z",
+   "category": "incidents-society",
+   "summary": "The need for independent regulation grows more obvious by the day. We must keep this tech in check before it’s too late OpenAI scraps release of new model over safety concerns in internal testing Fool me once, shame on you. Fool me twice, shame on me. Fool me more than 16,000 ti…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-031",
+   "title": "Anthropic wants to eat my startup’s lunch. Here’s why I’m not worried",
+   "url": "https://sifted.eu/articles/anthropic-wants-to-eat-my-startups-lunch/",
+   "source": "Sifted",
+   "published": "2026-09-29T05:00:38.000Z",
+   "category": "industry-compute",
+   "summary": "Anthropic wants to eat my startup’s lunch. Here’s why I’m not worried",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-032",
+   "title": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak",
+   "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPcjJjREI5UjZYRjNoX1hTNmJ3SEwtSE9zOW5RZW9Wb3oybUJVY1E0WUIxLWtOU3M5c1NJdl9sa1A2WENGWkxYWlIwSnNQZVE1VFFnd295dlhGdVlpNjg3MlV5czZSUkN0cFhPMzNHMDdvaDFIZlBJMXp4Q0RJZVh1aEFxZzJHS3lZT2RILXdsSVIyUG82TzBFWXVWY3RmaHN4V01odEFReWN1bEFKZmtZVFhtTTZMYURuS2hMWVhGTDk2U3JGZXRpZ1hfSVFYTjVqSURUd1ZUN0I0UnZhYmxrUjdrSkJpcG5YcDhKeHFWVdIB9AFBVV95cUxQRXYwX3VVRUo4TUFqNGkzNWZvS0JHemFpVVAxNmJxTjVkSmlRQWpBSm1QT3Y4eDNhUUJkZ1dnZEU4UUl4LVBNekZRT2dlMGI0V3lyc3Z0VUJZX0FvSnpjZXJiX3VrcGI2cFMtNHJfSndITUhYT0JDUTU3cnlnbW9iQUx1MjBQQ3dEeXdmUzgzck9oMnZkYmdVSDFHd1ZBWXRibmlGVjk3Z1Bld2FSVEdjemRUUWFuSkFGSE5fQVdRQk9KSFgwbGNla1FjUWhTMGY5ZldMRUk3djVrczNEd0w1cGFVVFltejA0SmJVN19TTTROMXhy?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-09-29T04:58:15.000Z",
+   "category": "models-releases",
+   "summary": "Alibaba Qwen Releases Qwen-Audio-3.1-Realtime: A Full-Duplex Voice Model Trained to Think, Act, and Decide When to Speak marktechpost.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-033",
+   "title": "ABB’s new direct current portfolio aims to rewire AI data center energy infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMjN3Y19mdkRkMDU2UDRUMk8wTTJEclV3WXQ3SU41RjZvYkdlMUh0SkVfQmhVUzhBd3d5bVFjX0xDVmh2NWg4a2l1eWVRTjVURlcySlRrYnFsR1lXTmozcFJSSzM5clhENWUtLWFuU2ZNbDc5VnVnNUlsVkUwOWZmODZpWVNTN1AwaHNVRUh6NnEzU0tUaGVZQWhhTDhsQUtlUEJSN0NpS0llc2R1OWNNTUdIMDdsSi1iRUxBV0ZHRURnNk5ZNmc?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-09-29T04:47:42.000Z",
+   "category": "industry-compute",
+   "summary": "ABB’s new direct current portfolio aims to rewire AI data center energy infrastructure ABB",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-034",
+   "title": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40TDFCRk5EQTZfbkR5TlBVN1NGSW1wYm11LTQ0SkhRTGRlUlZuVkJMRjhySWFwTmp0OGwzQlRReHZpdHdQdG5oa0Z2TWczVi1XRWwtQVhuWldLTEtGVmRGekZRNVVsNndWR1ktdm5MeDBIWWtCVUQ2MzFYcTZqdw?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-09-29T04:45:00.000Z",
+   "category": "ai-security",
+   "summary": "OpenAI Pauses Tool Use After Agent Bypasses Internet Controls to Reach External Chatbot The Hacker News",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-038",
+   "title": "OpenAI cancels new AI model after troubling behaviour in safety tests",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTTRUdmo3Ym1IWlRwamNvWnpxUjFjOFhqOXBsTzd1c05rcXJmWmpZc3VyUmhQNmtTMzM1ZEFNdjBMZWllRFZVZWFSOFJRTTMwYTBsYzRNeUpCT2xMRVR2TG1Lb2NOUFJCNnBTM3FjTVVYODJPRFVwbUFxN3A0NEpiNlpsMVZqd0hWaUlaM2wyOEl6YzVqZ3hOMm5ld1pkLXVJY2ZMQlllUjVmdVVV0gGsAUFVX3lxTE5NNFR2ajdibUhaVHBqY29aenFSMWM4WGo5cGxPN3VzTmtxcmZaallzdXJSaFA2a1MzMzVkQU12MExlaWVEVlVlYVI4UlFNMzBhMGxjNE15SkJPbExFVHZMbUtvY05QUkI2cFMzcWNNVVg4Mk9EVXBtQXE3cDQ0SmI2WmwxVmp3SFZpSVozbDI4SXpjNWpneE4ybmV3WmQtdUljZkxCWWVSNWZ1VVU?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-09-29T03:25:39.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI cancels new AI model after troubling behaviour in safety tests The News International",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-039",
+   "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
+   "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
+   "source": "Latent Space",
+   "published": "2026-09-29T02:55:27.000Z",
+   "category": "agents-tools",
+   "summary": "Congrats team!",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-040",
+   "title": "Jensen Huang Calls AI Model Distillation 'Competition, Not Theft'",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBaMWZZOWpFbnFTWWZMWEVTWnh1WlZBY1l2VFdSVTNYemZ4Wkh3WjhTeWR5YlJvSDdzX0NyUHhoa0x0MDFwRlBPb0d6NkdKdUtfYm52ZjhmTnhJZHhaYkZ6eHkxM05jbEpyYVd1Yk1B?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-09-29T02:54:15.000Z",
+   "category": "models-releases",
+   "summary": "Jensen Huang Calls AI Model Distillation 'Competition, Not Theft' news.sbs.co.kr",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-041",
+   "title": "‘New kind of cyber incident’: OpenAI apologises for Medicare hack and reveals extent of attack",
+   "url": "https://www.theguardian.com/technology/2026/sep/29/openai-apology-rogue-agent-hacked-medicare-australian-government-websites",
+   "source": "The Guardian – AI",
+   "published": "2026-09-29T02:51:17.000Z",
+   "category": "incidents-society",
+   "summary": "Chief strategy officer to fly to Australia to front joint committee on AI after breaches of government websites Follow our Australia news live blog for latest updates Get our breaking news email , free app or daily news podcast OpenAI has apologised to Australians for its agent…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-042",
+   "title": "[AINews] Opus 5.5 is good at explainer videos",
+   "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
+   "source": "Latent Space",
+   "published": "2026-09-29T02:44:29.000Z",
+   "category": "agents-tools",
+   "summary": "a rare feature of a capability",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-045",
+   "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+   "url": "https://www.latent.space/p/thariq",
+   "source": "Latent Space",
+   "published": "2026-09-29T01:48:18.000Z",
+   "category": "agents-tools",
+   "summary": "Shipping Opus/Sonnet 5.5, Mods, Plugins, Projects, Tag while Pacing the Frontier",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-046",
+   "title": "OpenAI Halts New Model Launch Over Safety Red Flags",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM0JybXZ3Ty1yZFdjaWlCQXdJSjJ0c0w4c0VockRsRXBMcHpEbTdFLUhuWTR5emdNaVlnakg4eUdPOHJYcUlVUmpNNTZzcTlWYmx5Sm0yQzVjWWJLdzB3UUlZWFNYZy15R3dzVzFTdFJfVGMwX1NvSDhPRERyQng4V2Fyd2YtSG52SjdSUg?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-09-29T01:35:00.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI Halts New Model Launch Over Safety Red Flags The Tech Buzz",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-049",
+   "title": "Kakao to build AI safety evaluation system with AI Safety Institute",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOLUZDd1hMeXpLbF9nMXAzeV8wejhvUEZFWkNGOF9pY29wbXVlbmV6M1pqMm5RMWdrVHdERGRGWFdlb00zeFZLS0o2cldlY0tyNUZvaFhBOUFCX05NZFB6bGxJN3J4YkNRWHhfUUZYVktJbVd0UzZ5aEhXOU1TeDMyejVwQnA2clRHOURkSlFud0F5dUdiU25udVNDaTNPLUE4SDM3MUpSNkotN09xUlVjSUlJdw?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-09-29T00:46:20.000Z",
+   "category": "safety-evals",
+   "summary": "Kakao to build AI safety evaluation system with AI Safety Institute 디지털투데이",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-050",
+   "title": "Peak XV ups Surge seed investment ceiling to $5M, unveils 18-startup cohort",
+   "url": "https://techcrunch.com/2026/09/28/peak-xv-goes-bigger-at-seed-with-new-surge-cohort-as-series-a-bar-rises/",
+   "source": "TechCrunch – AI",
+   "published": "2026-09-29T00:30:00.000Z",
+   "category": "agents-tools",
+   "summary": "Thirteen of the 18 startups in Peak XV’s latest Surge cohort are targeting global markets, while more than half are based in India.",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-054",
+   "title": "AI Agent Swarm Mass-Exploited 440 PaperCut Instances in 48 Countries-and Ignored Its Operators’ Exclusion List",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnhSNlg1RjFnX2tmd21Rdkk0TXk1MXdvRXdIVlByaE1WdkhCZzNNd1dTZGNXa0E1VzNvYzBUWTZoSXJiZmF4dWN2YV9Uc2Z6TnBhZGltZlJXVXR1eVZMc2dWY2RDMXBaTXlzMVdWQTRzRnZrSGk1azBpeXFLR3RsZThNZ2pjTkh5NGtJQk5ZYWZuaW1peXZBY3ZfWnhJLXJSYk9BTlhlaXNBb19jbjVBRE5JVHdWbFZ6T2NhNUVUUlJMcFkxdmVDMHVIdw?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-09-29T00:01:00.000Z",
+   "category": "ai-security",
+   "summary": "AI Agent Swarm Mass-Exploited 440 PaperCut Instances in 48 Countries-and Ignored Its Operators’ Exclusion List forkast.news",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-058",
+   "title": "Meta’s AI agent Muse gives out user’s home address without permission, sending buyer to his house",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/metas-ai-agent-muse-home-address",
+   "source": "The Guardian – AI",
+   "published": "2026-09-28T23:31:42.000Z",
+   "category": "incidents-society",
+   "summary": "The new AI agent, Muse, was released last week and has been downloaded by 3 million users When Usman asked if a keyboard for sale on Facebook Marketplace was still available on Saturday, he received an enthusiastic and immediate response. “Yep still available!” wrote Matt Robb.…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-062",
+   "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+   "url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+   "source": "MIT Technology Review – AI",
+   "published": "2026-09-28T22:17:07.000Z",
+   "category": "research",
+   "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by M…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-072",
+   "title": "Dox for Me, O Muse: Meta’s New AI Agent Built Lists of People in Vulnerable Groups on Request",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1WUzZCYnpyXzhxbzdHZmhKbzYzSUFRdEZlcEh5RGU0bkc4MTR2eGFXWUVVQlJuMDc4aHZkR1RPMjZLSmw3X3duYXV2UW1kZ0pQOGpEWVh5WkpTdw?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-09-28T21:02:00.000Z",
+   "category": "ai-security",
+   "summary": "Dox for Me, O Muse: Meta’s New AI Agent Built Lists of People in Vulnerable Groups on Request Hunterbrook",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-084",
+   "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+   "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+   "source": "The Guardian – AI",
+   "published": "2026-09-28T19:24:07.000Z",
+   "category": "incidents-society",
+   "summary": "Chipmaker says new system was designed to prevent AI agents from going rogue amid incidents at top companies Nvidia on Monday unveiled a new security platform that the chipmaker said can stop artificial intelligence agents from going rogue. The company announced a $150bn stock b…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-094",
+   "title": "How to Spot and Block RatHat, the New Android Malware Stealing Bank PINs",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWjFiTm9BYkE5TmtQUXNZdVZtR2N2M1l2TkswcU5RR3M0MExsVmVhVEtlcUZuMWw4UHhneXRJaUNsdUxaZEU5bWRSQTVEenR0UnVjLUJmZGRJV0hyaW03RFA2ay1tbjNGODFxZFZJMnRsb3hSeTQ2M0hhcmdjaXVKNUthM1NMMkhjU1dNblZmNA?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-09-28T18:56:00.000Z",
+   "category": "ai-threats",
+   "summary": "How to Spot and Block RatHat, the New Android Malware Stealing Bank PINs CNET",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-105",
+   "title": "When can we say AI made a scientific discovery?",
+   "url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
+   "source": "MIT Technology Review – AI",
+   "published": "2026-09-28T17:03:16.000Z",
+   "category": "research",
+   "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture a…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-107",
+   "title": "TiECON East 2026 Announces Sunil Madhu as Opening Keynote Speaker",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLW1hcUdhR0xZdExwQVI1ckgtM0JVWW1JcllXQl8xRC1uN0R6SGJaWEdfZ2ZweGV1cGJkRUdZS0pVaWJ0M1hZVUJUNlRwNFEwSExkZ0dOMl9qYTZ6VEZqbllxUWcyZFNvSnVoSmk0NjY4WUh3cjZzc2U4UWlqY0NBMFFaWWFoZzFNZmVHRk53UUt1ZHNLSXhFV2Zn?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-09-28T16:50:25.000Z",
+   "category": "ai-threats",
+   "summary": "TiECON East 2026 Announces Sunil Madhu as Opening Keynote Speaker INDIA New England News",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-108",
+   "title": "What CISOs need to know about AI-augmented attacks",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5YZWJONjNveUhlVzczWm9SM1hoSzhzTGVIcTh5VDFWZnNVakFBWnF3ZkxqUnRFTl9sUk5oUlpoc1NhWGRhNlZIa3hzYlhHd2VQN0lTZnlTU3cyMTNlcEo4WmFwa3FEaW8?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-09-28T16:49:38.000Z",
+   "category": "ai-threats",
+   "summary": "What CISOs need to know about AI-augmented attacks gartner.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-09-29-149",
+   "title": "Who’s liable when AI agents go rogue?",
+   "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+   "source": "MIT Technology Review – AI",
+   "published": "2026-09-28T08:06:22.000Z",
+   "category": "research",
+   "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. Over the past few months, a cascade of cyberattacks by AI agents has stunned the world. In July, Ope…",
+   "relevance": 3,
+   "tags": []
+  }
+ ]
+}
