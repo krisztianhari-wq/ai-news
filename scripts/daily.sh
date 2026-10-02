@@ -24,7 +24,7 @@ deliver_post() {
 # Pull with rebase; on conflicts the local commit wins (-X theirs = the replayed local commits),
 # so a finished editorial is never overwritten by the 08:30 UTC heuristic safety-net digest.
 sync() {
-  git pull -q --rebase -X theirs origin main
+  git pull -q --rebase --autostash -X theirs origin main
   for f in public/data/days/*.json data/seen-urls.json; do
     python3 -c "import json,sys;json.load(open(sys.argv[1]))" "$f" || { echo "STATUS=sync-broken-json FILE=$f"; exit 1; }
   done
