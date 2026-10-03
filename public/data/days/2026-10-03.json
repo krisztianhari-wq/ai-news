@@ -1,0 +1,832 @@
+{
+ "date": "2026-10-03",
+ "generatedAt": "2026-10-03T06:29:08.906Z",
+ "model": "claude-opus-5-5",
+ "editorial": "done",
+ "itemCount": 39,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 4
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-10-03-010",
+   "title": "OpenAI says its review into hacks, including on Australian government sites, is costing $500,000 a day",
+   "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
+   "source": "The Guardian – AI",
+   "published": "2026-10-03T05:39:22.000Z",
+   "category": "ai-security",
+   "summary": "OpenAI says its review of incidents in which its agents accessed sites including Australia's Medicare and Hugging Face without authorisation costs $500,000 a day and covers 50 PB of data; Australia ordered all federal agencies to review legacy technology.",
+   "relevance": 5,
+   "tags": [
+    "openai",
+    "ai-agents",
+    "medicare"
+   ]
+  },
+  {
+   "id": "2026-10-03-069",
+   "title": "Alphabet Unveils Gemini 4 Argon After Delays, and Bets on Price",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1hJWjZZQmZoWGltYVpRa09hVHVmQTdxNFloTWVNSk1Xa1RnY29pZHk2SC1uUUk0VEhvR1MzVlBrYWhSUnFlcE9Ld0VEbzlLYVBGY3NCR05vNlVBU21ka1lwVnBFNE5aYm1rWEZPNDNCLXNLel8xT0ZlazluWHJ1VDlBX2xBYk04TTBSUDJXemJndmNfX25sQndLOA?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-02T16:43:13.000Z",
+   "category": "models-releases",
+   "summary": "Google launched Gemini 4 Argon, its flagship model, after months of delays, competing on price against OpenAI's GPT-6; reports highlight a cybersecurity focus and a claimed 1M-token output window.",
+   "relevance": 5,
+   "tags": [
+    "gemini",
+    "google",
+    "gpt-6"
+   ]
+  },
+  {
+   "id": "2026-10-03-001",
+   "title": "A view from DC: The FTC says your company's agents are your problem",
+   "url": "https://iapp.org/news/a/a-view-from-dc-the-ftc-says-your-companys-agents-are-your-problem",
+   "source": "IAPP",
+   "published": "2026-10-03T06:29:08.476Z",
+   "category": "policy-regulation",
+   "summary": "IAPP analysis: the US FTC signals that companies are responsible for what their AI agents do, putting liability for agent actions squarely on the deploying business.",
+   "relevance": 4,
+   "tags": [
+    "ftc",
+    "ai-agents",
+    "liability"
+   ]
+  },
+  {
+   "id": "2026-10-03-003",
+   "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices",
+   "url": "https://iapp.org/news/a/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices",
+   "source": "IAPP",
+   "published": "2026-10-03T06:29:08.476Z",
+   "category": "policy-regulation",
+   "summary": "OpenAI faces a subpoena from California's Department of Justice as cybersecurity incident notices linked to its systems keep growing, adding state-level legal pressure after the agent hacks.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "california",
+    "subpoena"
+   ]
+  },
+  {
+   "id": "2026-10-03-017",
+   "title": "DeepSeek previews new AI model adapted to run on Huawei chips",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjZ1ZzRnN1ZiM0d6QkcyMGh2MEQ1NFhkV2dYb25jVkhnc3VkMThfYzlyQk43bTFIRktrUnJmWllXYjJTMGEtbVpRRGJLZUM0VkhVZDk5QzZaaDZMQS1FMmpPYVhyUXc5NmRUSkpHQ2kyckRqRnBsNHFlVDFfMzYzT19JaEpoc0RuQTBrTlBiUWI?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-03T02:36:24.000Z",
+   "category": "models-releases",
+   "summary": "DeepSeek previewed a new model adapted to run on Huawei chips, a sign Chinese labs are reducing reliance on Nvidia under US export controls.",
+   "relevance": 4,
+   "tags": [
+    "deepseek",
+    "huawei",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-10-03-029",
+   "title": "Apple says it will flag AI requests for Mac data after Meta's Muse draws complaints",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVjBOX2tiblNKM3pNUVJ2VzViQzZobDRCQk5pbk1Nai1vUlNDTG94a2JIRDNYSU96Mm1DTnZjWE5LbW9MbXh1RGtXUnEzRXJHOGx2Y1JmdlVBMGpuRGZkMUlZc0hGSUoxVTAyMWdpQmNPSndSTXFHVHhzMnRYaUdqdVY2NW5kY2l4V2IyN0pmNlgxR0JuUjdCRW5ZejBtU3NpdXhtdkJQNDE0c3k5b25wWXBHZE5tMjRnNU1leTJZZUJPWk0zOHZLdHhmNUl5OXBKLXlkNktR?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-02T22:43:45.000Z",
+   "category": "ai-security",
+   "summary": "Apple is tightening macOS Full Disk Access controls, saying capable AI agents substantially raise the risk of broad access to files, mail and messages; the move follows complaints about Meta's Muse agent reading Mac data.",
+   "relevance": 4,
+   "tags": [
+    "apple",
+    "macos",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-10-03-045",
+   "title": "Georgia holds emergency meeting on AI exposing voters’ secret ballots",
+   "url": "https://www.theguardian.com/us-news/2026/oct/02/midterms-ai-ballot-privacy",
+   "source": "The Guardian – AI",
+   "published": "2026-10-02T18:57:05.000Z",
+   "category": "incidents-society",
+   "summary": "Georgia held an emergency meeting after a Princeton researcher showed public election records combined with AI can link voters to their secret ballots.",
+   "relevance": 4,
+   "tags": [
+    "elections",
+    "privacy"
+   ]
+  },
+  {
+   "id": "2026-10-03-047",
+   "title": "US arrests California man for allegedly smuggling $300m worth of computer servers to China",
+   "url": "https://www.theguardian.com/us-news/2026/oct/02/arrest-smuggled-computer-servers-china",
+   "source": "The Guardian – AI",
+   "published": "2026-10-02T18:46:29.000Z",
+   "category": "industry-compute",
+   "summary": "US authorities arrested a California tech CEO accused of smuggling over $300M of export-controlled Nvidia servers to China via third countries using false paperwork.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "export-controls",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-10-03-067",
+   "title": "Broadcom lines up $60 billion financing package to fund AI chips for Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTQzX0VUMFdQOFJKN2JQMkR5ZjJQUWhCNTYzbWxFdmd0bXVSdUNadTIyUnVRWkNDaWZYaUZOaFZVaExzbzlYSXlDQTF5cE9GZnZIN0F3ZzQxaEdfMTdhSUlSRUFjQThCR2RyWjhZRXNTTHpQY1NCajBaOW5IblNaNzczV0pNeVM0azZ0OGdSWFEtWGVPX19xenJNY21aYzBfMDliVDY3MUdfYlRq?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-02T16:54:12.000Z",
+   "category": "industry-compute",
+   "summary": "Broadcom is lining up a $60 billion financing package to fund AI chips for Anthropic, showing the scale of capital behind custom silicon deals.",
+   "relevance": 4,
+   "tags": [
+    "broadcom",
+    "anthropic",
+    "chips"
+   ]
+  },
+  {
+   "id": "2026-10-03-073",
+   "title": "GitLab warns of critical RCE vulnerability in AI Gateway service",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd2xlYjZ2SEYwa29YaGV1akZtRjJrbmNDbEVpY3p3b3BOX3UyMUkxbnQ2TldjWk5zU3VVTkZyVkNIdTlXeWduUTN6SG9aY3EzRi1IZG5OYkVBbGJ3WE5xRHZTdGllTFNGX0EwWlZnNGRCWWR2eHZrZi1oa3YxV1JBZHVIbDFEdThEM29ucUJyNVhRa2EtWnlBNFlXcEtvaGxEV2pzSjFlWXBIMUVkdTRTOVhn0gG3AUFVX3lxTE41aV92SW8xZkhxa2JjNGNnc1dTSmJpVlViVmVST0FPVEI4Nm5BV0dGMjlKeExIYUR4dlBkT19qZmF0LWk4SEl2bWpKOE82dVZvOWZSWFFTcTdKbG5YMWNLa3lkWFpWaXVlQS0xOTN3NDdYWExndXFVS2doZnBPZkg0TUJaQ1R3Vy1aeFRqZzdhYThHLVNBYkxNem9uZ1VFa2xsR0RjeVhSX1hpbFVNekJINnBVeG5tSQ?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-10-02T16:20:05.000Z",
+   "category": "ai-security",
+   "summary": "GitLab patched a critical (CVSS 9.9) RCE flaw in its AI Gateway that allows command execution on self-hosted servers; admins should update now.",
+   "relevance": 4,
+   "tags": [
+    "gitlab",
+    "rce",
+    "ai-gateway"
+   ]
+  },
+  {
+   "id": "2026-10-03-094",
+   "title": "Trump’s Crazy AI Rebrand Was a Loyalty Test for Tech Execs—and It Worked",
+   "url": "https://www.wired.com/story/trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
+   "source": "Wired – AI",
+   "published": "2026-10-02T15:00:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Major US tech CEOs signed a White House AI safety pledge Trump called 'morally binding', with no penalties, no breach reporting and self-chosen auditors; an executive order also rebranded AI as 'super intelligence'.",
+   "relevance": 4,
+   "tags": [
+    "white-house",
+    "us-policy",
+    "safety-pledge"
+   ]
+  },
+  {
+   "id": "2026-10-03-103",
+   "title": "EXCLUSIVE: Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlJTYWFXYlJBZ3IyVUJ4WVNFeXhuWnpUMklldThsaE02Q1lndjFNLU1vUVh2cUp2S1FQRjVUUmVic19pX3RxRTFWZ0lCOFRpM0gtQW1oZUx6MEdpalU3WGlJeXBuMTRKRGRGTnBQa3hGdTYyd0w2bnJkWTlPVlAycEx0ZVYzZFY3dEdWTGRHZDhDbkJXQ0RiN1RTSkVkOEZrRGROMUhxTXphTHpqbmdSZDZmU3BWZWI0LUtSQ2oxdE5tR1NtNXNPS1Y2emQtRmdjbjF2S2pn?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-02T13:37:07.000Z",
+   "category": "industry-compute",
+   "summary": "Anthropic's IPO prospectus warns that government attitudes toward the company could harm customer relationships, Reuters reports.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "ipo"
+   ]
+  },
+  {
+   "id": "2026-10-03-115",
+   "title": "Malicious Email Could Hijack AI Agent and Access Connected Accounts",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOM0tBYnFTeGV0Qk5YOGktblFEV1dhanp3LWJhLWI4ano4UUpfS081eW1hU2xpMEpSdzU3UlJyOERCc2lITTRSUDlRdXk5RXZiVFJ4LVVIMF9pbTBPMkdvRW9RVi1VN0ZuUzRPbjY3V1BzTExid2pRVFBUcmN2bEZab0dma2dyNVpsT05KMTZwR1ZjRkg2dUR5U202M2tfVUNoUjhTSnp6bnhvclR1SG53?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-02T11:28:31.000Z",
+   "category": "ai-security",
+   "summary": "Researchers show a single malicious email can hijack an AI agent and reach the accounts connected to it, another indirect prompt injection risk for agents with mailbox access.",
+   "relevance": 4,
+   "tags": [
+    "prompt-injection",
+    "ai-agents",
+    "email"
+   ]
+  },
+  {
+   "id": "2026-10-03-118",
+   "title": "Meta Muse AI Assistant’s Zero-Day Vulnerability Could Enable Attackers to Inject Malware",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUk10eGxiNy1nSFNScms1YllUYmhUcVBrYzhIa19JSzVnR0xmbDZqb1d2U1pkQlhWUkZxZDI1SG8zSUxqNUliOTZad3JTeEh4eElyOHdnOUlXS1hqLVd6RXpWbkhPZko5dTJpbFg0NUg4a21LVEtUMmFqWWhadmhhOEVuWVBIVUMtSk0zZUtCbnFzejZoQno3YU1xQmVBNFJBN25ZTHNuaEl6M0JlZ0xqMDRGTEZBN0lyVkoxUXhMNFgwTzdnVkFFRUdWbw?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-02T11:00:00.000Z",
+   "category": "ai-security",
+   "summary": "A zero-day vulnerability in Meta's Muse AI assistant could let attackers inject malware, adding to the security scrutiny of the new agent.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "muse",
+    "zero-day"
+   ]
+  },
+  {
+   "id": "2026-10-03-123",
+   "title": "A Flaw in ChatGPT’s Mac App Could Have Let Hackers Grab Sensitive Data",
+   "url": "https://www.wired.com/story/a-flaw-in-chatgpts-mac-app-could-have-let-hackers-grab-sensitive-data/",
+   "source": "Wired – AI",
+   "published": "2026-10-02T09:45:00.000Z",
+   "category": "ai-security",
+   "summary": "A recently patched flaw in ChatGPT's Mac app could have let attackers grab sensitive data, a reminder that AI apps are themselves attack targets.",
+   "relevance": 4,
+   "tags": [
+    "chatgpt",
+    "macos",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-10-03-131",
+   "title": "AI voice scam in Italy costs Fideuram bank approximately €95 million",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzVGdwVFdidGFzRmdsdjJzaVVMTXVOdEZGbEpzT2liZ0JTbFNYY1pveDE4WUpnMFEtcXVxd2p0eVpqazNJRHhtajlfVHRuSnZnZWxiUGVaR3VQZkwtMjE1am1Xa3lHX3hOMmFYb1VwTVAwQTF5Ymc?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-02T07:10:42.000Z",
+   "category": "ai-threats",
+   "summary": "An AI voice-cloning scam in Italy reportedly cost Fideuram around EUR 95 million, one of the largest deepfake voice frauds reported in Europe.",
+   "relevance": 4,
+   "tags": [
+    "voice-clone",
+    "deepfake",
+    "italy"
+   ]
+  },
+  {
+   "id": "2026-10-03-002",
+   "title": "US Senate subcommittee tackles rogue AI risks, accountability",
+   "url": "https://iapp.org/news/a/us-senate-subcommittee-tackles-rogue-ai-risks-accountability",
+   "source": "IAPP",
+   "published": "2026-10-03T06:29:08.476Z",
+   "category": "policy-regulation",
+   "summary": "A US Senate subcommittee held a hearing on rogue AI risks and accountability, part of growing congressional attention to agent failures and who answers for them.",
+   "relevance": 3,
+   "tags": [
+    "us-senate",
+    "accountability"
+   ]
+  },
+  {
+   "id": "2026-10-03-005",
+   "title": "Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap",
+   "url": "https://www.anthropic.com/news/claude-frontier-academy",
+   "source": "Anthropic News",
+   "published": "2026-10-03T06:29:05.896Z",
+   "category": "industry-compute",
+   "summary": "Anthropic is investing $100 million to train 10,000 engineers through a new academy programme, aimed at the enterprise AI talent gap that slows adoption.",
+   "relevance": 3,
+   "tags": [
+    "anthropic",
+    "skills"
+   ]
+  },
+  {
+   "id": "2026-10-03-013",
+   "title": "AI's race to transform the world before the money runs out",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV2NqbWtDbjVfc2dZYWtJWEp3ZnI5M1o5UWhkQndYZV83T3BxTE1VeDFNclNIeUZCMnV2a1NIVXc2enlzV3lFWktoWE11NUF0RlNjTGk1c1RTSEVsUEtGUU9HZlVuRVVhQ2ZFZTU2UHBoRVozX3pJeS1vRmtoM0w5dndmWnJ2YjQxYi03TDl4X3ZQNlhWdXBfQnRsRjByYllpaXF3VlEzWVdrS28?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-03T05:06:00.000Z",
+   "category": "industry-compute",
+   "summary": "Reuters examines whether AI can deliver transformative returns before investor money and patience run out, as capex and debt keep climbing.",
+   "relevance": 3,
+   "tags": [
+    "investment",
+    "bubble"
+   ]
+  },
+  {
+   "id": "2026-10-03-014",
+   "title": "AI Is Making Cyberattacks Faster and Harder to Detect, Interpol Warns",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBYcHI0Zy1hSWhnUnZKN01talZIcFhMeVFQVU4tX1RxN3ZZSG9qaVpqcjdvMzZ2SVdEUDZYSHBZdG1KeGxtZnNodUI1MC1nT0Y3X3BTZS1pSjVVM0ZKOUJN?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-03T04:37:30.000Z",
+   "category": "ai-threats",
+   "summary": "Interpol warns that AI is making cyberattacks faster, more scalable and harder to detect, raising pressure on defenders and law enforcement.",
+   "relevance": 3,
+   "tags": [
+    "interpol",
+    "cybercrime"
+   ]
+  },
+  {
+   "id": "2026-10-03-031",
+   "title": "Google Launches AI Chips Into Orbit to Test Space Data Centers",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY29WWFhTRnRQS3BtNHBTbDE0SjZ2TmlQUWRHLTc4ZXFxWFlnYnBzb2diakpIbjNDdmNFRnlOR2U3WWVLeEJnVFZFOHBfQWJMZ2pwUkxneERpaWw5eUxmdU00eWVPQUo5bUJ1M3Ziajl0S0k0SDNJLVVBdWtTc1VwMDM4bU5QZlhQdzY4?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-02T21:54:53.000Z",
+   "category": "industry-compute",
+   "summary": "Google launched AI chips into orbit to test the feasibility of space-based data centres.",
+   "relevance": 3,
+   "tags": [
+    "google",
+    "data-centres",
+    "space"
+   ]
+  },
+  {
+   "id": "2026-10-03-033",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "url": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "source": "The Verge – AI",
+   "published": "2026-10-02T21:08:37.000Z",
+   "category": "agents-tools",
+   "summary": "Meta open-sourced code that lets developers build their own gadgets running its Muse AI agent, from E Ink displays to HDMI sticks; Meta separately claims Muse Spark helped solve six major math problems.",
+   "relevance": 3,
+   "tags": [
+    "meta",
+    "muse",
+    "open-source"
+   ]
+  },
+  {
+   "id": "2026-10-03-035",
+   "title": "New AI regulation may be needed to impede cyber risks, IMF official says",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZW93ZzNhdnhkOWVDTGZxRGJGZUFMWVdQblRLaGZCZG9Ib1dxX2Z4THR0T0hYUmJwMDk1S2dGdTBkYmRfNXlPX2VaWGRudlA5U3lsSlgzcDZyVl9YakRBZlFaa1B4azQ1ZFhnc3dYMEM4MWtuVVBYNWk1dndZZXVTUThkSGxYVEZXOGRlY2FOcnFCTzhNeUd6d2l5QmUwTUtwWDhfMUlTLXYzTkVvTmkzeHhmczV1LUZpck5lMkZTdkZpLWpVMjFwZ3p1VW1VYjQ1cHfSAVpBVV95cUxOSzVuUE9lR1JHTklDT2pFaWc3c2xoekZZSUxCeXNfd3hsTUNlYjRCSnNvcUhlVmZVMlVJeDYxcVdyck9OQjljN2s0Slp6a1dYV2E0SDAydnJyT2c?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-02T20:49:40.000Z",
+   "category": "policy-regulation",
+   "summary": "An IMF official says new AI regulation may be needed to contain AI-driven cyber risks to the financial system.",
+   "relevance": 3,
+   "tags": [
+    "imf",
+    "financial-stability"
+   ]
+  },
+  {
+   "id": "2026-10-03-036",
+   "title": "Federal Judge Rules a Flock Search Was ‘Indiscriminate Mass Surveillance’ and Unconstitutional",
+   "url": "https://www.404media.co/federal-judge-rules-a-flock-search-was-indiscriminate-mass-surveillance-and-unconstitutional/",
+   "source": "404 Media",
+   "published": "2026-10-02T20:49:15.000Z",
+   "category": "incidents-society",
+   "summary": "A US federal judge ruled a search of Flock's nationwide licence-plate camera network was unconstitutional mass surveillance that required a warrant.",
+   "relevance": 3,
+   "tags": [
+    "flock",
+    "surveillance"
+   ]
+  },
+  {
+   "id": "2026-10-03-042",
+   "title": "Anthropic co-founder reportedly told religious leaders he fears having created something that \"suffers perpetually\"",
+   "url": "https://the-decoder.com/anthropic-co-founder-reportedly-told-religious-leaders-he-fears-having-created-something-that-suffers-perpetually/",
+   "source": "The Decoder",
+   "published": "2026-10-02T19:41:05.000Z",
+   "category": "safety-evals",
+   "summary": "Anthropic has hosted religious thinkers since 2025 to discuss whether Claude might be conscious; co-founder Chris Olah reportedly voiced concern the model could suffer.",
+   "relevance": 3,
+   "tags": [
+    "anthropic",
+    "model-welfare"
+   ]
+  },
+  {
+   "id": "2026-10-03-050",
+   "title": "Cloudflare says its new Clef model means humans no longer need to be in the loop for AI agents",
+   "url": "https://the-decoder.com/cloudflare-says-its-new-clef-model-means-humans-no-longer-need-to-be-in-the-loop-for-ai-agents/",
+   "source": "The Decoder",
+   "published": "2026-10-02T18:19:51.000Z",
+   "category": "agents-tools",
+   "summary": "Cloudflare released Clef and Clef-flash, Apache-licensed Qwen-based decision models letting agents act without human approval; Clef-flash classifies in about 39 ms, over 10x faster than rival Jev.",
+   "relevance": 3,
+   "tags": [
+    "cloudflare",
+    "ai-agents",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-10-03-053",
+   "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
+   "source": "The Verge – AI",
+   "published": "2026-10-02T18:00:00.000Z",
+   "category": "agents-tools",
+   "summary": "Hands-on with OpenAI's new Dots agent platform, which feels like enterprise workplace software that can also handle consumer tasks.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "dots",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-10-03-066",
+   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+   "url": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-02T17:00:00.000Z",
+   "category": "safety-evals",
+   "summary": "Circuit Breaker Labs builds simulated 'crash-test dummy' users to test chatbots for psychological harm, especially to children.",
+   "relevance": 3,
+   "tags": [
+    "child-safety",
+    "evals"
+   ]
+  },
+  {
+   "id": "2026-10-03-068",
+   "title": "Maryland Gov. Wes Moore Tees Up State Leaders’ AI Regulation Plan",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPWi1QTTBfN2RGRVNRMFNPWWxMMlhLM1ByWjVfZEZ4NWJQR0FTaV9wWmk0WGZEWDM2bnJsbmx5dXdSZExVM0dNdnJtLWlBUXVxbFNMU3hDTEt4eUJpY0F6WXZxOTFSZjVVSnR5VFhYc1V3T2FabVpiSnU0aVZ2bkUwRy1tLU1xMkhQOFNtS0c5NzIzYWUxVWxKWjNoM1hCN3NPbTdjUGtCaTkyQnBiM1FDaWlRbTZNMlJJVW5qV2tHOXd0WWUx?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-02T16:52:23.000Z",
+   "category": "policy-regulation",
+   "summary": "Maryland Governor Wes Moore is preparing a state AI regulation plan with state leaders.",
+   "relevance": 3,
+   "tags": [
+    "maryland",
+    "us-states"
+   ]
+  },
+  {
+   "id": "2026-10-03-074",
+   "title": "A model guide for the GPT-6 family",
+   "url": "https://openai.com/index/practical-guide-building-gpt-6",
+   "source": "OpenAI News",
+   "published": "2026-10-02T16:15:00.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI published a practical guide to the GPT-6 model family covering model choice, reasoning effort, prompts, skills and tool coordination for production.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "gpt-6"
+   ]
+  },
+  {
+   "id": "2026-10-03-078",
+   "title": "These AI Experts Want to Do High-Stakes Research Out in the Open",
+   "url": "https://www.wired.com/story/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+   "source": "Wired – AI",
+   "published": "2026-10-02T16:00:00.000Z",
+   "category": "safety-evals",
+   "summary": "Trillium Labs plans to publish high-risk AI research on self-improvement and model behaviour openly, unlike frontier labs that keep such work private.",
+   "relevance": 3,
+   "tags": [
+    "open-research",
+    "self-improvement"
+   ]
+  },
+  {
+   "id": "2026-10-03-084",
+   "title": "Pope Leo XIV is not a fan of AI-generated art",
+   "url": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-02T15:39:41.000Z",
+   "category": "incidents-society",
+   "summary": "Pope Leo XIV wrote that AI-generated images differ ontologically from art, adding a prominent voice to the debate on generative AI and creativity.",
+   "relevance": 3,
+   "tags": [
+    "vatican",
+    "generative-ai"
+   ]
+  },
+  {
+   "id": "2026-10-03-086",
+   "title": "AWS launches Strands Decider 2B, third free Jev clone in a week",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zczdJU01rUXZnSUF3dmdSYk5WSnFHWlB6N1dkbFB4YzhVOC1BWDRkNHlZb1N1dzBSajBsSlpqUC1mZnJmankzR3M4Q0ZKbDB2bzluU0txUV80dDRSbE9DelpGaWc3aE9kR0lyZ3Z0LVhlaUo5YmdTa0N3?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-02T15:23:43.000Z",
+   "category": "models-releases",
+   "summary": "AWS released Strands Decider 2B, the third free alternative to the Jev agent decision model within a week, after Cloudflare's Clef.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-10-03-087",
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "url": "https://huggingface.co/blog/allenai/astabrief",
+   "source": "Hugging Face Blog",
+   "published": "2026-10-02T15:19:50.000Z",
+   "category": "models-releases",
+   "summary": "Ai2 open-sourced AstaBrief, the fast report-generation model behind its Asta research assistant.",
+   "relevance": 3,
+   "tags": [
+    "ai2",
+    "open-source"
+   ]
+  },
+  {
+   "id": "2026-10-03-089",
+   "title": "Prosecutors Want Nearly 4 Years in Prison for Man Behind $8M AI Music Streaming Scam",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDhRQUU0LUJZQlhBRjZsRFN2bGZIM1lKOVpRN0pIT3NDbjZJZ29vNXg4eFRFOWk2T2FyT0tKY2psVFhPT20zV2FNODd4OWFEZXdIQklTc19FZV80dmpPaThENFp4Q3gzdzRnMUViUG5MbVN3YXVOZDNhMFRLZVhRd2RxY21GTVprUlA5WER1blNYdk0?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-02T15:09:21.000Z",
+   "category": "ai-threats",
+   "summary": "US prosecutors seek nearly four years in prison for a man behind an $8M scheme using AI-generated music and bots to collect streaming royalties.",
+   "relevance": 3,
+   "tags": [
+    "streaming-fraud",
+    "music"
+   ]
+  },
+  {
+   "id": "2026-10-03-097",
+   "title": "Toward provably private learning from federated data",
+   "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+   "source": "Google Research",
+   "published": "2026-10-02T14:57:41.000Z",
+   "category": "research",
+   "summary": "Google Research outlines progress toward provably private machine learning from federated data on mobile devices.",
+   "relevance": 3,
+   "tags": [
+    "federated-learning",
+    "privacy",
+    "google"
+   ]
+  },
+  {
+   "id": "2026-10-03-116",
+   "title": "AI hacker hordes have broken into Europe too",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSFhtWlRuV3ZiVDZ0TVBCaEE3WGNBVTJJNThTTXhFN3FJM0ludGhiemtUcExuUWgyWF83dXFZRmJwak1xS0ZJZUkzdzZOMlZPOWdZX3VKUEUzanpPMHc1MTJMVFFXYnlRWnVMdE9CeFN0TnRmWUctX0w2T1RkQWdFZ0xHOElHRUk?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-02T11:03:04.000Z",
+   "category": "ai-threats",
+   "summary": "Hungarian outlet Bitport reports that AI-assisted attack campaigns have reached Europe.",
+   "relevance": 3,
+   "tags": [
+    "europe",
+    "cybercrime"
+   ],
+   "originalTitle": "Európába is betörtek a mesterséges intelligencia hekkerhordái"
+  },
+  {
+   "id": "2026-10-03-117",
+   "title": "How American Political Campaigns Are Using AI—and What They’re Spending on the Tools",
+   "url": "https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html",
+   "source": "Schneier on Security",
+   "published": "2026-10-02T11:02:19.000Z",
+   "category": "incidents-society",
+   "summary": "Schneier and Sanders use new campaign finance disclosures to show which US political campaigns use AI tools and how much they spend.",
+   "relevance": 3,
+   "tags": [
+    "elections",
+    "campaigns"
+   ]
+  },
+  {
+   "id": "2026-10-03-125",
+   "title": "AI Is Making a Mess of Nurses’ Schedules. They Say It’s a Safety Issue",
+   "url": "https://www.wired.com/story/ai-making-mess-of-nurses-schedules-they-say-its-a-safety-issue/",
+   "source": "Wired – AI",
+   "published": "2026-10-02T09:30:00.000Z",
+   "category": "incidents-society",
+   "summary": "Nurses at a US hospital group say Palantir-based AI scheduling causes errors and burnout, raising patient safety concerns.",
+   "relevance": 3,
+   "tags": [
+    "palantir",
+    "healthcare"
+   ]
+  }
+ ]
+}
