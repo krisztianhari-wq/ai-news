@@ -1,0 +1,761 @@
+{
+ "date": "2026-10-05",
+ "generatedAt": "2026-10-05T08:46:43.465Z",
+ "model": null,
+ "editorial": "heuristic",
+ "itemCount": 45,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 1
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-10-05-001",
+   "title": "While the open-source artificial intelligence (AI) model has been pointed out as the reason behind t..",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1tTXFhb01SbTRTN283SWRvVUw5UVJKMkVncXRsb1BrZElSWWhVNVplWUdjaldWLW5xRlZJUFVGN3IwbzVnMkRwT01zOA?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-05T08:29:49.000Z",
+   "category": "models-releases",
+   "summary": "While the open-source artificial intelligence (AI) model has been pointed out as the reason behind t.. 매일경제",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-002",
+   "title": "Google halts open-source bug bounty program amid AI spam surge",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObXNuRGM5SjNSczAxOEhpd0dUcjhsaXpVLUZwSENKelRCZmtWU1lyQ3loMGRKN1hQbHFUU2swVXY2SlJVam50Vmx2b0FpQTdVWi1QNTcta2pZb2NFRl9iNXk2M3Y3ZFJHdER1NGlnRHZGX1JwbUQzbDBEdXpyLTNpVG8xQ2hHLW5KQ3JiR2ZoMVYtWHU0Yi1ESVN0NlYtZlYxQzlNb2xlWUpEYkNN0gGyAUFVX3lxTE5TTk1HZUJnemZQNGhGSmJSNmR5X3kyU2E1a2pzb2dvd2poSUNVZVdMSjRZOGp1RXl5OU1FNmk3X0pGYXUxTllLNWI3aGYyWDZZdlZ3WWdNVDlkSTlPNkdLUmV5ZzAxMGFJUDRrUzZVU1cycjIxbHl2RnROX3B6TmppYmdkbF9ZVkxuTDZTaU9TYVdTU0tzaVNRVjQzM3l2VkZ4WWxlc1Z4NkFLLXoyM01kVVE?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-10-05T08:27:46.000Z",
+   "category": "ai-security",
+   "summary": "Google halts open-source bug bounty program amid AI spam surge BleepingComputer",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-003",
+   "title": "People really hate AI, so why can’t they get enough?",
+   "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+   "source": "MIT Technology Review – AI",
+   "published": "2026-10-05T08:00:00.000Z",
+   "category": "research",
+   "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a s…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-004",
+   "title": "AI Arms Race Is Radically Reshaping the Fraud Threat in EMEA, FICO Research Finds",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZXFXb25MUlBsMGRuZjRaOEozVGJmdXdFMUd4RTNaRElFT0VldXI3Ty01eGxkajRjWksxLUNiUUZoeWlQdUp3a2pkMlJMdFFlSU9qNkJ5S29sR0pkY0NMN19iYy1YUGVkb0l4YlFWWENoN0FYUG9ka0xVdnpjbDhtYjBvdXFJZDRsUlNlWnAtSm04QUVSMmc0UEhHbUk?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-05T08:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "AI Arms Race Is Radically Reshaping the Fraud Threat in EMEA, FICO Research Finds Yahoo Finance",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-005",
+   "title": "Dél-Korea rendkívüli pénzügyi iparági ülést tartott a feltételezett mesterséges intelligencia okozta kibertámadás után.",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVRPcURvMy1LdGc4WWg5SG1EdXhKbHZGa2dxLVJPeVloWHI0RU5kY185WURuQktmZnM2Qk5LQlpiM0ZnOHBocXhNRnNkbXpaaEljX2ViZGU2NUtfenJYT2dTZ1gwRmk5ZktvdVlFZ3pSLUluX0RhVzdaQXBQRXZYS09iTmJiQW9CczhqWk9TclFrcjJhVXRmeA?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-05T07:49:14.000Z",
+   "category": "policy-regulation",
+   "summary": "Dél-Korea rendkívüli pénzügyi iparági ülést tartott a feltételezett mesterséges intelligencia okozta kibertámadás után. Vietnam.vn",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-006",
+   "title": "OpenAI ChatGPT Launches Dots, Takes on SpaceX’s Grok Bot",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUXNsLUJaeERteVRZU3d2LWxXNmZ5Mi01R0N2UmRWNTAyOUFNNFRnWDh3Ykp5SnY4N0pjVjNSZEp0a2puVTBfZVFjU2s3dnZOakVsRG9kQzJoTm5PZzFXQTh1VmNsT3M4OW0wd21IUDNwcExBSnRSMFZHTGMxcThvU3BqLTdxS28tM283a3ZR?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-05T07:40:19.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI ChatGPT Launches Dots, Takes on SpaceX’s Grok Bot TelecomTalk",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-007",
+   "title": "Mesterséges intelligencia keres kapcsolatokat az amerikai függetlenségi háború emlékei között - Múlt-kor",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZ29MTE9CeGRDX3RIOXo5YmhHWEx6b21KUnplbTRLNnlNWWRiM1ZTZGpscm9OaUJLMTZNQ1ZfdkxoRWRpXzNNT0x2SzFBVlhqWXNxZnBtS05jV1BHemhBenU0aU1oSHFMdmFDbnV2dks3dGFWSEZINm1GalJVSENhTHQ4WGsxMWtPQzdqczJvZ1VvMmRMbEVhUTJ0d2tpQ0hTYkoyUWhZLW9ndXlITDhYR3lXUjg2Z19nSFcxcXVxVQ?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-05T07:26:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Mesterséges intelligencia keres kapcsolatokat az amerikai függetlenségi háború emlékei között Múlt-kor",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-008",
+   "title": "A week in security (September 28 – October 4)",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUVqckZCOEtXbkRzbVEtLWZQNW9vOXl6NGVGYW1YTkdlZzlYRVdSb3dNTFpmd1FRem0zRG1rZjllZEl5UU5pb1lsSFJDd09OSHppdmdxdW5aQUt0R3hVV053cHEyZzRRY3UwMFBrZG5HVkl4enFUdW5RM0NraElWTkdzSjZWVVVKOWN0ZHk2VV8td25nV1VEd3dpbERhTEJK?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-05T07:23:10.000Z",
+   "category": "ai-threats",
+   "summary": "A week in security (September 28 – October 4) Malwarebytes",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-009",
+   "title": "Micron vs. SanDisk: As AI Data Center Boom Continues to Heat Up, Which Memory Stock Is a Better Buy?",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNb2l6VlJubm1teWI3RlFGWm9fZ0g0dDJFVWhtMUJaaHkySzF4NnQxMW5ScllzSGNlMFR2dUZPYUhFeUNVVndpNU82c2dRVTB2S1BoRTVwV1pIekRJWENUNFBYbDVQVjV5Yk9GYUhxdTNuVkNUVXNtREZ4ck5mN0laTlBUbDlUQkxhSjhNMTFNcE5TWjdVWkIwekZKTXI2d3ExUU1XZnFraF9ncWlnQnJfeDJxZzJnRGhUQXhrVFJzdzUwdw?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-05T07:17:59.000Z",
+   "category": "industry-compute",
+   "summary": "Micron vs. SanDisk: As AI Data Center Boom Continues to Heat Up, Which Memory Stock Is a Better Buy? TradingKey",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-010",
+   "title": "Sam Altman Breaks With Anthropic on AI Regulation, Says World Must Accept ‘Some Bad Things’ as AI Benefits Outweigh Harms",
+   "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQQlRnbmxpQnFwREpkWU9DdHAwbGU4cjVnNW5mVWJkeDY1UW5EYzh6STVNOVFZNy1rRmMyeEFDYlU4MHI5UVlnNkxrOHY3d2YtaGhPcVpwTkliT3BfNGpUSmIxZkhZY1JiMms0R2Z1ZGpMNnRjTzB1YVIwUUJDX2NQY2RIU2JBSzVucE41dEo5ZzVndWo5My1xak5UT1hCS05HNEFBZHpuRE8zT3lKWTVwVTJYalVXNlN5alNwejhpeTQxdUNoS0RJelh1SzFxMTlnOERVT0U5SGNuWS1WTThEM3ByLTBDRndBUkxNTUExMXZqQmVvMVYwUjVxOTVmdFpfNV8xemhiZ0E?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-05T07:14:47.000Z",
+   "category": "policy-regulation",
+   "summary": "Sam Altman Breaks With Anthropic on AI Regulation, Says World Must Accept ‘Some Bad Things’ as AI Benefits Outweigh Harms TradingView",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-011",
+   "title": "FOMO Pay partners Sumsub to boost compliance checks",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVUYwWko0bkxoekh5VWlRNXpJRHJtUnFSR09qV0Y0X3R1b1dUSE52NDB1NVBleUlYUzV2eGJFT0V2WEkxUDZ5N1JGb1JKUnk0NTJmN3gtb1hIMDNWY3k5SG5kakticWZ2d2gwN1M2WEhwYko3SjlWVGUxdFhNVjVsbVBBbDUzbzhJQ2k3bw?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-05T07:14:00.000Z",
+   "category": "ai-threats",
+   "summary": "FOMO Pay partners Sumsub to boost compliance checks SecurityBrief Asia",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-012",
+   "title": "Napóleon rejtjelezett üzenete: AI oldotta meg a 217 éves katonai titkot",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeVdwREZNN2FBX3VaNkJka2ZSUTgtSGtMQzByZVIyUzBTTnkzOXh0bmpWYVVUblltTjQwUW80QTFTaWtoNF9rRkE4TXdmUnFlcldrcnFFT2pGcjRqazlIby16dl9sZ3pkbVY5MlhIZGJWMEFwbXBnYXkyZWhoMGU1VzF5RzhSWDBGSkN0QkJjdXM5S0dk?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-05T07:11:02.000Z",
+   "category": "policy-regulation",
+   "summary": "Napóleon rejtjelezett üzenete: AI oldotta meg a 217 éves katonai titkot Blikk",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-013",
+   "title": "Norway to propose temporary ban on AI glasses in some public places",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYkUwZGktUEpVaWxnYjVfSEdtbXUzLWVUd01EOFFFYjJ4YU5NLWRnOThhX21XUGsyUlZHR3kwTW9SR1o4eE5xb2xpOEpHZFJGNjVYUndiVkoyQ1VSVXg4WjdUZ2hRempRZURJNFlsZWhIWE4wckVqa21wWm9EUkRUNFNITkhnWmZHN1QtdV9EYTVNNWs1dl9XZm9qejdJTmhaaG9XT1ZfNnk?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-05T07:04:00.000Z",
+   "category": "industry-compute",
+   "summary": "Norway to propose temporary ban on AI glasses in some public places Reuters",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-014",
+   "title": "Why AI-Written Phishing Is Outpacing the Native Filters Built to Stop It",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONlZvR2VqR1pvWTlfUHBMWXZERklUWTJYTmZFYVI1c0xITjB4ajdMQVlPdEd0eGM0TGZ4TWp3OFdDa3NEcHl4SzduY1dSdUx6TUd1OTM5ZUZNczgxQVBfT3Bwam5pTzg1MDc2bm5UbTFYc09mOWpQZ2U5MnJwX2VzdGZrOWQ0TFI3Um1QNnN0UmFuVGlUVXNwdk5jOF9tU2trd19QRnFCMjhJdw?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-05T07:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "Why AI-Written Phishing Is Outpacing the Native Filters Built to Stop It SecurityBrief New Zealand",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-015",
+   "title": "Trump’s Truth Social promotes scam ads targeting Australians",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV24xN24tNkR0TWFMX0ZlZTM1Um4wS3BMQ2M5YXN1UnR4ZGxFMGNNQzdaZVNheF9reXpiV2NDRWtmYnpGdVgxaTBXWXp1c2t0VnFsck1OVjdUSW1DYXBXRHA4WkpLZlBOXzg5Yy1rdlVZcFpFd0pqSERDcHg4ZkVodERoR0RuYnlpVkQyMjNON1huaXZmdTdObV9TbXQ0ZWFuSWxFbjhwWFJMS2x1Tk92ekEtaw?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-05T06:41:00.000Z",
+   "category": "ai-threats",
+   "summary": "Trump’s Truth Social promotes scam ads targeting Australians AFR",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-016",
+   "title": "FOMO Pay Partners with Sumsub to Enhance Global Compliance Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNajRGLW1adnVHQTBySWRkbGI5Y1hLdlRQRkdLSDhMUHFJYlRLQzBTc2NrS24wYlN0eGo1S0VIRUFEWWtKS3djM0RiMncyVXlFblZrTzJtR1FUSlRQNU9aZ1IxMS1YRWJlUl95WXZCOGg5OTFkMG9VQUpMWEYyRWxxTndWMnlkUDVFQlZfeVV5Nll0RzNhR0Z6dWNWY0xLUXdmVFkzUXAyTERlWFk?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-05T06:28:43.000Z",
+   "category": "ai-threats",
+   "summary": "FOMO Pay Partners with Sumsub to Enhance Global Compliance Infrastructure KuCoin",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-017",
+   "title": "When AI Writes the Code, Who Owns the Security Decisions?",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMkFvb1BfS3psVk9fU09NWTVrZmhHRHRibVczOU9MTFhyZ2RmejBWVG5MczFiTm8xRDU4aUVsdFVoWEJJWDhPMXpfNDRQcnM2WHQ4ZkpybnJMNDhMY0hGS083MHkxUWJrRkdHRXJMQU9DVUFMazA5cjFrVFhkYy1ndmVSWG5ETE11SlptU0ktZm9xTUlsZHhJ?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-05T06:27:00.000Z",
+   "category": "ai-security",
+   "summary": "When AI Writes the Code, Who Owns the Security Decisions? The Hacker News",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-019",
+   "title": "Your Employees Are Adopting AI Faster Than You Can See It",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNalhhYnozN2kwbUMwTHBVbFJNekZQQmNScG1fNnNxRFFpR3hKcHpEdUlSQ1JnanJnc2d0TW50YVh0YUYyWEMxaEtGWlRiY3YzQ1VFOWJDcDJBMFhRUmtXNVJUWS1qQm1ZTVJ0eVBFX0xsNnZ2REhob2R0VDdSSVlQTjIxU21aSEpaalV3VEhVRjlBTGJmR3lN?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-05T06:19:00.000Z",
+   "category": "ai-security",
+   "summary": "Your Employees Are Adopting AI Faster Than You Can See It The Hacker News",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-020",
+   "title": "Sikeresen lezajlott az első teszt: mesterséges intelligencia hozza el a jövő fizetési rendszerét Magyarországra",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ0xEaDVRazczRzhUUklWekMwQml4NGZmUDRUdXViTVB3Vk11aGxHci03UUF5MUdzZlRDcDBWYjdvOEgzVDVsWTNYZExiSGdFVzN3aUc4MjE5LVNMbl9uYWVVQ0tFTkZvVG5jNzlXemtDd21Wb0IxUTliaGE2bWpER2xMcTZfUk9nalBUSDhGY1VLNWJIVHRDS3gtekZ2elFDWHBwY3Q3ZVQ5VVJURmhpaDVpN3lyR28zZ1FZZE9zOWJjWUN5Z1VqOEwwRkg2ZDdDWkhRTFptd1Bia0V3XzNBS2xIWHRZaWZvT0U5S9IB8gFBVV95cUxPNmhVaWF0SW1SM3YzR0lLWXc3TjQwc25RZWJyYmZXc1I2YVpWZUtSckppWkNRdjVJZ1hzX3J4NWxNb2tKWjhlTDN6dVVvYVo3WE1WLTB6N3pVQnRNb1ZnSU5rbk5VaHJVR2Y3SFlTYjhTdngzeGNLdHRBZVhhUnFicVc3VGF4RTlzbVJSdTg5UEx5MzhMSGhGcERydU83cjB3QnBYX2JjbkJ5WDBHV3ZsNFlnZ25ERERpQ3VLQ3pZdnZDbjJyRW51aVFBRmo2NmhCUHFiaHJEeks1UHhSTVQxWUwtUVh1emVubjVNaDFydVR0Zw?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-05T06:13:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Sikeresen lezajlott az első teszt: mesterséges intelligencia hozza el a jövő fizetési rendszerét Magyarországra portfolio.hu",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-021",
+   "title": "Google is changing Gemini AI plans from October 9, here is what it means for you",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWhNU0VwOGNjT0hHemdBRlplQWpRbi1ZcDRkcTlicEo1Nmp4clk3QjRJUF9NdXlLdHJ5RkU5dFU5azBkcFlZT1JPa01oNXZHNll3YlNqYXpoNFRmbHZnSUtGdWNVdFU4M3F4N1RwSmVSZnZNQ01rNE1nVEp5V0FCaFktNy1PT3Bfb1k4SGI1TmFIZDIzdExfR3g1MDJIX194WjFOX01rTFV0dlF0UXFzN214QzlmMGdoY0Q3NUd5VnlRc3JRSlA1dWliZjVFVndqM1k3cXdBelFEOXVHeEo2Zms3WmLSAeQBQVVfeXFMTUVoTVNFcDhjY09IR3pnQUZaZUFqUW4tWXA0ZHE5YnBKNTZqeHJZN0I0SVBfTXV5S3RyeUZFOXRVOWswZHBZWU9ST2tNaDV2RzZZd2JTamF6aDRUZmx2Z0lLRnVjVXRVODNxeDdUcEplUmZ2TUNNazRNZ1RKeVdBQmhZLTctT09wX29ZOEhiNU5hSGQyM3RMX0d4NTAySF9feFoxTl9Na0xVdHZRdFFxczdteEM5ZjBnaGNENzVHeVZ5UXNyUUpQNXVpYmY1RVZ3ajNZN3F3QXpRRDl1R3hKNmZrN1pi?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-05T06:11:04.000Z",
+   "category": "models-releases",
+   "summary": "Google is changing Gemini AI plans from October 9, here is what it means for you India Today",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-022",
+   "title": "Tech: Hogyhogy azok már évek óta félnek az AI-tól, akik fejlesztik?",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcENVLWpmenRobDA5cjRJRWdSUkU4cXdudWk4VERyLV9aTjl0aTNMaDMyQk1NVlRMdUxXNnhnSVVsZDI2TGxBQTVQUHAyOW5zdjdTazZyV0VwV2haOFdWeHdEcV9aNk1Qdy1fU2l4Ylc1UjJVazE5SEF4c3Fja04wSDUxaG40TUJjdlRhbHBIaEh5d0d5UVhyVjR6cw?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-05T06:03:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Tech: Hogyhogy azok már évek óta félnek az AI-tól, akik fejlesztik? | hvg.hu",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-024",
+   "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-05T06:01:00.000Z",
+   "category": "industry-compute",
+   "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-029",
+   "title": "Schneider Electric to buy PTC for $22.6 billion in all-cash deal",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeExJYlhManRON3VrYTRCN2theEpVWGZZWVQ2OW8xZF9ES2N4WGN1XzN6QjRVVEloSnlXUEpuUENaMkdXVDFBRWRrakt0T0h4Tnpwc1YtQ005NkRUMDdjcE9WcjAyb0M5SHdQdVFESm04WFZpM2tpNkRPV1NKQjZXM01YdFdHVnVJZjBhUThYMXBIQW5aYlU4dUk5aU5PNGUzbDJ1OHdoSUZaXzgz?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-05T05:18:00.000Z",
+   "category": "industry-compute",
+   "summary": "Schneider Electric to buy PTC for $22.6 billion in all-cash deal Reuters",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-030",
+   "title": "8 pre-seed rounds led by Tier 1 US investors in AI-native companies",
+   "url": "https://sifted.eu/articles/8-pre-seed-rounds-led-by-tier-1-us-investors-in-ai-native-companies/",
+   "source": "Sifted",
+   "published": "2026-10-05T05:00:58.000Z",
+   "category": "industry-compute",
+   "summary": "8 pre-seed rounds led by Tier 1 US investors in AI-native companies",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-031",
+   "title": "Five key takeaways from Sifted Summit 2026",
+   "url": "https://sifted.eu/articles/five-key-takeaways-from-sifted-summit-2026/",
+   "source": "Sifted",
+   "published": "2026-10-05T05:00:52.000Z",
+   "category": "industry-compute",
+   "summary": "Five key takeaways from Sifted Summit 2026",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-032",
+   "title": "Internet Watch Foundation reports huge rise in AI child sexual abuse material",
+   "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+   "source": "The Guardian – AI",
+   "published": "2026-10-05T05:00:49.000Z",
+   "category": "incidents-society",
+   "summary": "Abuse material monitor says number of AI images assessed this year is already 40% higher than last year’s total AI-generated child sexual abuse material is proliferating online, with the amount of illegal material investigated this year already exceeding the total for 2025. Anal…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-033",
+   "title": "Google PageBreak AI Agent Finds Over 500 XSS Vulnerabilities Across Its Web Applications",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TNHFmSDFMZk1pZjNEY20xOVY3b21HNTJobVItUXNFTHo3QmJtUzF2M0NQYjNlMVd5dmdyZUpEME1VNHZxaTVhOU8yblRGeTZhcFpzVTU4T1hRT0ly0gFiQVVfeXFMTVZCZ0duQklGQUpUNnpiVFA2UmRBNjJQQmN3N3RjWTNsdDVxT1RTLWNRR2I5TjZmUngzSm1rOGgtZE8zVkJWazB2TE9xb1lDeFBybFpRQUk5cTh0enlRdDU3LVE?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-05T05:00:32.000Z",
+   "category": "ai-security",
+   "summary": "Google PageBreak AI Agent Finds Over 500 XSS Vulnerabilities Across Its Web Applications gbhackers.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-035",
+   "title": "South Korea Orders Investigation Into AI-Powered Cyberattacks on Major Banks",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ySG9VNXRaWFRlaERGdkphNEFTMmVqRGlVR2JyVUZFWG9QaC11eHFKT2ZGNUdfb0tWWmZHanNkUWh2TzJiaFRDd3BmZDVwOFdjU2pUNTJpVkRvdXB1UGpORlAtVFNXZG1JdUE40gFrQVVfeXFMTnJIb1U1dFpYVGVoREZ2SmE0QVMyZWpEaVVHYnJVRkVYb1BoLXV4cUpPZkY1R19vS1ZaZkdqc2RRaHZPMmJoVEN3cGZkNXA4V2NTalQ1MmlWRG91cHVQak5GUC1UU1dkbUl1QTg?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-05T04:58:43.000Z",
+   "category": "ai-security",
+   "summary": "South Korea Orders Investigation Into AI-Powered Cyberattacks on Major Banks gbhackers.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-036",
+   "title": "Citrix NetScaler SAML Vulnerability Enables Unauthenticated Remote DoS Attacks",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1qUGFrN0cydlpMa01feFVyRzZGVjZ3ZWlURWxEYkxxYUdBMG5HQ0I5ZHMxNm1lS3NxT1NkTnFSc0NicEVBbEJadGxMRi1RVXhndkZIUURUM0pzMk1IVG9WWHRaWFU1N2d3aUHSAW9BVV95cUxPRnNYUWZQX3NJREp5c2Y4ZHRvRWFVQjZCMS0tbUh2NFVjbTJDVi1QRWpNQk1WbGk4clVmQzJFVXJYaUprc05fdXluc2dOQWFnY1RWOW8zLXFJZGY2dkVKYkJhb3hUUGFrM3l4c1d1cGc?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-05T04:51:16.000Z",
+   "category": "ai-security",
+   "summary": "Citrix NetScaler SAML Vulnerability Enables Unauthenticated Remote DoS Attacks gbhackers.com",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-038",
+   "title": "Google Gemini plans are changing from October 9: Free, AI Plus users face new limits on AI model access",
+   "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPZHhnRFFQT0FVMEVLaWE3U0dWc0NCS2FpNGdrc1FCN0NtMmkxSmdCNG52aldUeTh5VzdxYzlXdnNGWWZFWFl1U1o4QXFjdUM5T0dFOUdXcnBScmM0bk9sZ0NVU3hIUmRBalMzYy1EUkpZYS1VVFlMM0JJUzlIMlZJR0RmTm9YLV9JdUFRdmF5ZVB4TkV6Tm1ObXNaN0ljZDIxNm9wSkZ6SUJWaHhPYlRJSnlXUEJMR3E3VWV2NFl5MmNuTG9UakdPQXByeUxmeldyTXVzZDIwb1AyaTlRS3VBdGZ2YVNsVE00akduNG5NMkFuaXVOLWt3bXp3ZFUwX09mc0NSUNIBhAJBVV95cUxPZHhnRFFQT0FVMEVLaWE3U0dWc0NCS2FpNGdrc1FCN0NtMmkxSmdCNG52aldUeTh5VzdxYzlXdnNGWWZFWFl1U1o4QXFjdUM5T0dFOUdXcnBScmM0bk9sZ0NVU3hIUmRBalMzYy1EUkpZYS1VVFlMM0JJUzlIMlZJR0RmTm9YLV9JdUFRdmF5ZVB4TkV6Tm1ObXNaN0ljZDIxNm9wSkZ6SUJWaHhPYlRJSnlXUEJMR3E3VWV2NFl5MmNuTG9UakdPQXByeUxmeldyTXVzZDIwb1AyaTlRS3VBdGZ2YVNsVE00akduNG5NMkFuaXVOLWt3bXp3ZFUwX09mc0NSUA?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-05T04:26:26.000Z",
+   "category": "models-releases",
+   "summary": "Google Gemini plans are changing from October 9: Free, AI Plus users face new limits on AI model access Business Today",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-055",
+   "title": "Former US Surgeon General Vivek Murthy to lead Common Sense Media’s youth AI safety push",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOckVkX3VtQVZOckhzcFZCRFluTzFUeEx5OURjamUyendWWDVsM3VzT284RXpJUU1fbEtCRllvdURrcWpSbnd2VEY3QXJUT2xFcVNYS2hFcUNSek1sdWFPVVJmTkpXRG1aUzBUeU5oVzU3ZmtwR20waTd1bE13dk9SODNUa3F5S241QnNyamFrdzVsODE0X3J4Y0RQdmpFb3NPYzl0dTRwelB0WEVjWld0Y1haX3VYdmJNWHFRZ19HMnJWTVZfMUJ3?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-05T00:00:24.000Z",
+   "category": "safety-evals",
+   "summary": "Former US Surgeon General Vivek Murthy to lead Common Sense Media’s youth AI safety push EdTech Innovation Hub",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-056",
+   "title": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOYWluUnNmVDBBM2RiWHFBRUh5a1J1T29xREJqQm5JZFdWcEVLd3lWVU1VSlhxa3Vmbklwd0syanV4WTBKUEotZWhGWlpFY0NyaC1pQWJqVHNqeS00Y2cxaW5YMnBjUzVtQWxhUUZ2LVc3RVRJNHpkMXBEUTdNS3lhdk1NbTQ2MTNl?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-04T23:55:00.000Z",
+   "category": "models-releases",
+   "summary": "Tech Bytes: Google unveils Gemini 4 Argon as AI race shifts to autonomous work Yahoo Finance Australia",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-058",
+   "title": "K-AI strategy under scrutiny as battle heats up over decision AI models",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQzRCbldFZEF2N3BRTGg4b0Z0TDB0eE00eDIxMy1hUFBLY1E4c1JTZk9GQk5UNTBIaE1lMkRjSVc2UXZlcGg5MzBPQ2U0b2FSQ3BlUkJrdGwwU0pBd3E3WWVaSjJLc2h5d1p0cnZGamc0QWRaa3FCemt0U2RZU1ROSG1zOWlyZmI5eE02c2c0eTZuazF0UXNCMVpLWUp4UHgzbzYtUDZJMERaUDRwa3RSU3ZXMFR6alo5eG1UVGRlVQ?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-04T23:10:04.000Z",
+   "category": "models-releases",
+   "summary": "K-AI strategy under scrutiny as battle heats up over decision AI models 디지털투데이",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-069",
+   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+   "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-04T20:31:07.000Z",
+   "category": "agents-tools",
+   "summary": "AI slop seems to be overwhelming bug bounty programs.",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-071",
+   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+   "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-04T20:08:34.000Z",
+   "category": "agents-tools",
+   "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-073",
+   "title": "AI Kill Switch: Project Meridian & the Vulcan Frontier AI Defense Matrix (Veterans First for America)",
+   "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPY0dfa0N2a3pxdF9DTmh6M1B1SldpcncyNFdqb3JfeVRSMkdVdjhiM0p0ZjAwQlFMY0tWNWlLYTdUU1V6N1hoem1aRTBJd19hczUxUDloZmM4Vk1KdHA4dXd2Q1RBOG9YcEx0OGw1dHljSURQUVA5QXNiT3FYUXNVRVRxdTBsaW1sejlfZW55WkpldnRPcWNMTEtxWENxY1ZWZmtvSkRVVGFmR2pHcnBUYWxpam1DRHZXZ3BxOXJQNEtZUkpsMF8wQ2FsdWxCQjFUQnBCbmdZbHVUZng0Qk1pSmJBSnpaX050VTEzb01ZZ2dxTnhiUGZNcUxUSy0?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-04T19:29:45.000Z",
+   "category": "safety-evals",
+   "summary": "AI Kill Switch: Project Meridian & the Vulcan Frontier AI Defense Matrix (Veterans First for America) StreetInsider",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-078",
+   "title": "Trump names intelligence chief Jay Clayton as new White House AI czar",
+   "url": "https://www.theguardian.com/us-news/2026/oct/04/trump-jay-clayton-white-house-ai-czar",
+   "source": "The Guardian – AI",
+   "published": "2026-10-04T17:45:28.000Z",
+   "category": "incidents-society",
+   "summary": "Clayton had said AI was a ‘gamechanger’ but also posed ‘a threat’ during his confirmation hearing Donald Trump on Sunday named Jay Clayton, the director of national intelligence , to also serve as the new White House AI czar. Clayton, who leads the US’s 18 intelligence agencies…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-079",
+   "title": "Trump launches \"Super Intelligence Force\" that has nothing to do with actual superintelligence",
+   "url": "https://the-decoder.com/trump-launches-super-intelligence-force-that-has-nothing-to-do-with-actual-superintelligence/",
+   "source": "The Decoder",
+   "published": "2026-10-04T17:41:58.000Z",
+   "category": "agents-tools",
+   "summary": "Donald Trump has established a \"Super Intelligence Force.\" \"Superintelligence\" is his term for artificial intelligence. The unit is led by Director of National Intelligence Jay Clayton and other government officials, coordinates with AI companies, critical infrastructure operato…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-081",
+   "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
+   "source": "The Verge – AI",
+   "published": "2026-10-04T16:16:04.000Z",
+   "category": "agents-tools",
+   "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeatedly violated ethics rules. The now-former Lt. governor has been making the media rounds trying to clear his name. But…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-084",
+   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
+   "source": "The Verge – AI",
+   "published": "2026-10-04T15:21:59.000Z",
+   "category": "agents-tools",
+   "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentially tied as the best-performing AI-made bots, but they couldn't top Stardust, the top-rated human-made bot. On Friday,…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-085",
+   "title": "Trump unveils his new Super Intelligence Force",
+   "url": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-04T15:15:10.000Z",
+   "category": "agents-tools",
+   "summary": "This new task force is Trump's latest response to the debate over AI safety.",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-086",
+   "title": "Rural Queenslanders have seen gas projects come and go – but a 725-hectare datacentre poses a whole new level of ‘stupidity’",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/05/queensland-data-centre-anthropic-western-downs-dalby",
+   "source": "The Guardian – AI",
+   "published": "2026-10-04T14:00:29.000Z",
+   "category": "incidents-society",
+   "summary": "Residents of Dalby may soon live beside a $31bn datacentre. The premier sees ‘opportunity’ for the state – but others fear AI’s global creep From the veranda on his bush block, Denver Kanowski has watched resources companies come and go from rural Queensland for 70 years. The ho…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-087",
+   "title": "The AI industry is booming. Women are getting left behind",
+   "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+   "source": "The Guardian – AI",
+   "published": "2026-10-04T13:00:29.000Z",
+   "category": "incidents-society",
+   "summary": "Women hold just a fraction of new AI jobs but are overrepresented in roles with high risk of AI disruption There’s a common fear among people who work in Silicon Valley: snag one of the fast-growing, high-paying jobs in artificial intelligence, or get trapped in the “permanent u…",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-094",
+   "title": "Rural Data Centers Are in for a Big Federal Tax Break",
+   "url": "https://www.wired.com/story/rural-data-centers-are-in-for-a-big-federal-tax-break/",
+   "source": "Wired – AI",
+   "published": "2026-10-04T10:00:00.000Z",
+   "category": "incidents-society",
+   "summary": "Under the One Big Beautiful Bill Act, data center projects in rural areas could be eligible for major tax benefits starting next year. Some hyperscalers do not seem eager to take the free cash.",
+   "relevance": 3,
+   "tags": []
+  },
+  {
+   "id": "2026-10-05-098",
+   "title": "OpenAI safety leader quits, warning AI company’s culture is ‘broken’",
+   "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+   "source": "The Guardian – AI",
+   "published": "2026-10-04T07:48:54.000Z",
+   "category": "incidents-society",
+   "summary": "David Robinson joins other insiders in urging industry to take more care over rapidly developing technology A safety leader at OpenAI has quit the company, warning that its culture was broken and that AI firms were not “being nearly careful enough” about developing the technolog…",
+   "relevance": 3,
+   "tags": []
+  }
+ ]
+}
