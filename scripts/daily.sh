@@ -26,6 +26,7 @@ deliver_post() {
 sync() {
   git pull -q --rebase --autostash -X theirs origin main
   for f in public/data/days/*.json data/seen-urls.json; do
+    [ -f "$f" ] || continue
     python3 -c "import json,sys;json.load(open(sys.argv[1]))" "$f" || { echo "STATUS=sync-broken-json FILE=$f"; exit 1; }
   done
 }

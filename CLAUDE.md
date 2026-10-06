@@ -4,7 +4,7 @@ Napi, automatikus, világméretű AI-hírösszefoglaló statikus oldalként (RSS
 
 ## Indítás és teszt
 - Node nincs a PATH-on: `export PATH=$HOME/Claude_code/gue-dive-planner/.node/bin:$PATH`.
-- Dev szerver: launch.json `ai-news` (port 5176, sadrobot arculat) és `ai-news-yettel` (port 5177, `VITE_BRAND=yettel`). A README-ben szereplő 5173 a Vite alapértéke, nem a launch-konfig.
+- Dev szerver: launch.json `ai-news` (port 5176, sadrobot arculat) és `ai-news-yettel` (port 5179, `VITE_BRAND=yettel`). A README-ben szereplő 5173 a Vite alapértéke, nem a launch-konfig.
 - `npm run collect -- --no-llm` (heurisztikus mai kiadás), `--keep-all` (minden jelölt, `editorial: "pending"`), `--seed-html` (új HTML-forrás után egyszer: a listaoldal linkjeit látottnak jelöli, majd commitold a `data/seen-urls.json`-t).
 - `node scripts/apply-editorial.mjs <DATE> work/editorial.json`, `npm run build` (index + tsc + vite). Automatikus teszt nincs; a build (tsc) az ellenőrzés.
 
@@ -38,7 +38,3 @@ Napi, automatikus, világméretű AI-hírösszefoglaló statikus oldalként (RSS
 - Versenyhelyzet: ha az ütemezett feladat 08:30 UTC után fut, a bot előbb pushol egy heurisztikus napot. Ezért `daily.sh` `sync()` = `pull --rebase --autostash -X theirs` (a helyi szerkesztés nyer) + JSON-validálás, a push-retry előtt is.
 - A Git-remote SSH a 443-as porton (`ssh://git@ssh.github.com:443/...`), mert a 22-es port a céges hálón tiltott.
 - Ha egy futás „running” állapotban áll commit nélkül, először függő jóváhagyást keress az ütemezett feladat sessionjében.
-- Az AGENTS.md és a HANDOFF.md még GoatCountert említ – elavult, a Status számláló a valós állapot.
-
-## Nyitott
-- AGENTS.md / HANDOFF.md frissítése a Status számlálóra.
