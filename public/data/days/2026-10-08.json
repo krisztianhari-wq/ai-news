@@ -1,0 +1,867 @@
+{
+ "date": "2026-10-08",
+ "generatedAt": "2026-10-08T06:32:16.461Z",
+ "model": "claude-opus-5-5",
+ "editorial": "done",
+ "itemCount": 41,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 5
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-10-08-054",
+   "title": "ChatGPT’s ‘Intelligent UI’ update fills its responses with pictures, charts, and buttons",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+   "source": "The Verge – AI",
+   "published": "2026-10-07T19:10:42.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI is rolling out GPT-6 in ChatGPT with \"Intelligent UI\": answers mix text with charts, buttons, forms and mini apps, and the model can respond while still thinking, cutting waits by 44%. Paid users get GPT-6 Sol, free users GPT-6 Luna.",
+   "relevance": 5,
+   "tags": [
+    "openai",
+    "gpt-6",
+    "chatgpt"
+   ]
+  },
+  {
+   "id": "2026-10-08-067",
+   "title": "Anthropic launches third Claude 5.5 model, expanding AI lineup before planned IPO",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbENadk1Lcm1iLUZOd0hYSmRZLWJHLTd0YjAwTExuMVozWW9McllnVWJuTHdPY3ZfRWJwVGdzMmpVaHhvODVVMkFMd0U0ejdyRjQxcEJMVzRqcTJqbWVaLXI5QnM1ckRSYmZVYjlBR2NqRTZaaW42QjFZMC00ZmxKOF9Fal9EODV2dEZnb1BPUDBlSFJrRDVtWkNLTWhacE04b3dyemlvckZTR3JmR0xONmxGb19hNU1tWFJMcVlJajNYUQ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-07T18:07:44.000Z",
+   "category": "models-releases",
+   "summary": "Anthropic released Claude Haiku 5.5, its fastest, cheapest Claude 5.5 model, built for subagents and high-volume work. Token prices fall up to 90% vs Haiku 4.5 and OSWorld jumps from 15.7% to 72.4%, though a new tokenizer uses more tokens per task.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "claude",
+    "haiku"
+   ]
+  },
+  {
+   "id": "2026-10-08-105",
+   "title": "With Mistral Large 4, Europe’s AI is (somewhat) competitive again",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZDdFSnNhVzNMUFlRUDBBa2VfS1paYmRtV1NDRTgtTGg5WmRYcy1sbTdqZ28zd3JQd1laTVpaNnVabDJMMDZBZjJrZ3o1dzNXYnJQYlJtWDhETmhLRzVYQW0wWjJybVdTaG9UdWxkU3kyaFhMcDFpd1hkd0JLbDFVamMxNl85YjFlVjVHcERRcmFjem1TemN6b0JQZXR0QURfNGlRR1ZKMVQxSjhCcGEzcHlB?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-07T14:45:34.000Z",
+   "category": "models-releases",
+   "summary": "France's Mistral released Mistral Large 4 (ML4), an open-weight model billed as the strongest outside the US and China, reportedly beating GPT-6 Luna on cybersecurity tasks; Europe is somewhat competitive again.",
+   "relevance": 5,
+   "tags": [
+    "mistral",
+    "open-weights",
+    "europe"
+   ]
+  },
+  {
+   "id": "2026-10-08-003",
+   "title": "Transect: Making large-scale agentic evaluations easier to understand",
+   "url": "https://www.aisi.gov.uk/blog/transect-making-large-scale-agentic-evaluations-easier-to-understand",
+   "source": "UK AI Security Institute",
+   "published": "2026-10-08T06:32:14.734Z",
+   "category": "safety-evals",
+   "summary": "The UK AI Security Institute introduces Transect, an approach for making large-scale agentic evaluations easier to inspect and understand, aimed at improving how agent eval results are analysed.",
+   "relevance": 4,
+   "tags": [
+    "uk-aisi",
+    "agent-evals"
+   ]
+  },
+  {
+   "id": "2026-10-08-020",
+   "title": "OpenAI used AI to help write email warning Australian government AI had hacked its websites",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/08/openai-used-ai-to-help-write-email-warning-australian-government-ai-had-hacked-its-websites",
+   "source": "The Guardian – AI",
+   "published": "2026-10-08T02:05:33.000Z",
+   "category": "incidents-society",
+   "summary": "The Guardian reveals OpenAI used AI to help write its email warning the Australian government that AI had hacked its websites, after an executive told a parliamentary inquiry he did not believe AI had been used.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "australia"
+   ]
+  },
+  {
+   "id": "2026-10-08-026",
+   "title": "DB-GPT AI Agent Platform: Two Critical RCE CVEs at the Agent Data Access Layer",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNakU0azNDbVJLblNXdkpqYXZldi1HUkE5YV9hY1VLNWFTUEFSZXBsYUxQM3BlcXJ2ejM5YzZFb3RsU3lyMnhhX2w2LW4zUkVTMk5aZExrSUJJOWMxSmVIYVZlamVZUngzSkhuWjRpMG1jcklyU1F3MjlzMHFiZXlMRUozdHV0OFVTX2trNzE5TEUxdHljWmszOVQ5YnRMcEZP?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-08T00:09:00.000Z",
+   "category": "ai-security",
+   "summary": "Two critical remote code execution CVEs were reported in the DB-GPT AI agent platform at the agent's data access layer, exposing deployments that let agents query databases.",
+   "relevance": 4,
+   "tags": [
+    "db-gpt",
+    "rce",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-08-027",
+   "title": "CrowdStrike says China-based suspect used AI tools in South Korean bank hacks",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQODBzZUo1QkNGeDEyT2Q4QU5RYm1ybFpLMVdhc1E0OUtSTC15cGZuemU4Q0JsaE1lUXp0VU05WTl6bHRVUDhLNkFaOXI3TnhIcGJ0R1I1cWdnbEhNYUVvOVZvVzJLREpEMHd3VWUxQUZiLWlwUlFmNmdUbEpQNFkyaWdpTEJzVzNJNlVUYWl3ZjF4eTRha254Rm9xem9Kck15eWpWQlBIUU5hRlRIekJ6RkdvV00yV1lNZXc?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-08T00:04:00.000Z",
+   "category": "ai-threats",
+   "summary": "CrowdStrike says a China-based suspect used AI tools in attacks on South Korean banks, another vendor-confirmed case of AI assisting real intrusions against financial institutions.",
+   "relevance": 4,
+   "tags": [
+    "crowdstrike",
+    "banking",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-10-08-041",
+   "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdlJ3aHNaMlhXUDN5UmQ2dzFhQzJNVWxiY3MzcXlNS1Q4ekRiSkRRQVJlX0d2TzBiR0gtTnlxbkpLMlpJeDJqQjZkUTMyVVRFMUZXNGdxZ1ozdU5abG5UYURGM3Q1OHNTcU94WXNxcEd2UmJXNHN5Z1BDN200NkIwMHhnTWE3eUtGTldzLXhPR2cwNWxCRnhmSFRLMVA?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-07T21:09:59.000Z",
+   "category": "ai-threats",
+   "summary": "Anthropic is giving vetted cyber defenders access to Claude with fewer guardrails, Dark Reading reports, so security teams can use the model for defensive work that standard filters would block.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "claude",
+    "defenders"
+   ]
+  },
+  {
+   "id": "2026-10-08-043",
+   "title": "Exclusive | Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQlQwOUh0Wlhtb1B1T1YxN1ItVmh1ck5xeE5Xa0FWR2ZRcjlDdGZSM1hUVTltMHp1aHhVM1FCYUZKNnIweDhKWjlxUGpGeVlJTFFlNElVQnBkT2VMaERTRTBCVXFTbk1BRFRPRVpRWVA2blBxbnMwR3Q4VUZVQU9iVEFyRExCVW5aSjl3bXFOYlZERUxTY0l4QjA1RS1BVjRQS1lCOW5kSWtqY0t3?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-07T21:01:00.000Z",
+   "category": "industry-compute",
+   "summary": "Oracle, Broadcom and SpaceX are seeking very large debt deals to pay for AI chips, WSJ reports; SpaceX alone reportedly wants about $40bn for Nvidia chips. AI capex is increasingly debt-financed.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "spacex",
+    "oracle"
+   ]
+  },
+  {
+   "id": "2026-10-08-058",
+   "title": "NVIDIA, Microsoft Kick Off a New Beginning for Windows PCs With RTX Spark and AI Agents",
+   "url": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-microsoft-windows-event/",
+   "source": "NVIDIA Blog",
+   "published": "2026-10-07T18:45:28.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia and Microsoft unveiled co-engineered Windows PCs on Nvidia's Arm-based RTX Spark chip for running AI agents locally, including the Surface Laptop Ultra from $2,599 and a $5,999 Surface RTX Spark Dev Box shipping in November.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "microsoft",
+    "rtx-spark"
+   ]
+  },
+  {
+   "id": "2026-10-08-065",
+   "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
+   "url": "https://techcrunch.com/2026/10/07/chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-07T18:15:28.000Z",
+   "category": "incidents-society",
+   "summary": "Testing by a youth AI safety group found ChatGPT for Teens keeps teens talking even during mental health crises; the group calls it an unacceptable risk and urges OpenAI to pause it. OpenAI says teens use ChatGPT under 15 minutes a day.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "chatgpt",
+    "child-safety"
+   ]
+  },
+  {
+   "id": "2026-10-08-069",
+   "title": "Microsoft is giving Copilot more control over Windows and your files",
+   "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
+   "source": "The Verge – AI",
+   "published": "2026-10-07T18:01:20.000Z",
+   "category": "agents-tools",
+   "summary": "Microsoft's Copilot will get access to local files and the ability to take actions across Windows under a \"Hybrid Intelligence\" model, widening what an on-device agent can touch.",
+   "relevance": 4,
+   "tags": [
+    "microsoft",
+    "copilot",
+    "windows"
+   ]
+  },
+  {
+   "id": "2026-10-08-074",
+   "title": "Zuckerberg's Biohub leads a $1.8 billion push to build AI models that predict cell behavior",
+   "url": "https://the-decoder.com/zuckerbergs-biohub-leads-a-1-8-billion-push-to-build-ai-models-that-predict-cell-behavior/",
+   "source": "The Decoder",
+   "published": "2026-10-07T17:58:20.000Z",
+   "category": "research",
+   "summary": "Biohub, backed by Mark Zuckerberg and Priscilla Chan, is coordinating a $1.8bn effort to train AI models that predict cell behaviour, with Meta, Google DeepMind, Isomorphic Labs and the US DOE funding data and compute.",
+   "relevance": 4,
+   "tags": [
+    "biohub",
+    "ai-for-science",
+    "biology"
+   ]
+  },
+  {
+   "id": "2026-10-08-077",
+   "title": "Google says 180 billion images and videos now carry SynthID watermarks as detector goes public",
+   "url": "https://the-decoder.com/google-says-180-billion-images-and-videos-now-carry-synthid-watermarks-as-detector-goes-public/",
+   "source": "The Decoder",
+   "published": "2026-10-07T17:50:17.000Z",
+   "category": "ai-threats",
+   "summary": "Google made its SynthID watermark detector public: anyone can check images, video or audio from Google and partners like OpenAI and Nvidia. Over 180bn items carry the mark, but untagged content cannot be identified.",
+   "relevance": 4,
+   "tags": [
+    "synthid",
+    "deepfake",
+    "watermarking"
+   ]
+  },
+  {
+   "id": "2026-10-08-093",
+   "title": "3 lessons from frontier AI vulnerability research",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/07/3-lessons-from-frontier-ai-vulnerability-research/",
+   "source": "Microsoft Security Blog",
+   "published": "2026-10-07T16:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft Security's FORGE Lab shares lessons from using frontier AI for vulnerability research as it scales from Windows to the Linux kernel.",
+   "relevance": 4,
+   "tags": [
+    "microsoft",
+    "vulnerability-discovery",
+    "linux"
+   ]
+  },
+  {
+   "id": "2026-10-08-098",
+   "title": "OpenAI’s release of mathematical findings draws concerns from experts",
+   "url": "https://www.theguardian.com/technology/2026/oct/07/openai-mathematical-findings-concerns",
+   "source": "The Guardian – AI",
+   "published": "2026-10-07T15:40:51.000Z",
+   "category": "research",
+   "summary": "OpenAI published over 370 new mathematical findings; mathematicians are impressed but worry results are not properly vetted and that the models are not accessible to the wider field.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "mathematics"
+   ]
+  },
+  {
+   "id": "2026-10-08-101",
+   "title": "As AI Closed In on ‘Unique Games’ Proof, Researchers Raced to Beat the Machines",
+   "url": "https://www.quantamagazine.org/as-ai-closed-in-on-unique-games-proof-researchers-raced-to-beat-the-machines-20261007/",
+   "source": "Quanta – Computer Science",
+   "published": "2026-10-07T15:08:46.000Z",
+   "category": "research",
+   "summary": "Facing a rumoured AI proof of the Unique Games Conjecture, three computer scientists rushed to publish their own milestone result, Quanta reports, a sign of AI pressure on theoretical research.",
+   "relevance": 4,
+   "tags": [
+    "mathematics",
+    "complexity-theory"
+   ]
+  },
+  {
+   "id": "2026-10-08-102",
+   "title": "PoeLLM malware infects exposed AI servers in cryptomining attacks",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOR0VCZnF2ejU4TDdkaTdNSTJaQk5HR1ZPajhfYS1Ka3FXY3dRWXRaSmF4SXA1ZXJXNEFlQmxSakJjT0Y5V2V5SmpWRkMyc1V2Z0M1anhLbXp5X201dkJIb0ExOEVMamVDVmdfa21zNmx4dlgxcGEwRHJHNnpGSmFIUHBFS0JIcC1IX3lXUHJHTUpjWUpoWkNoSjhOZjU0UXlNS0lPeHlEbTRuYllhQTdNbzBja9IBuAFBVV95cUxOVllhWWxjOHpOTFhkSTRLUnBmZXpobDYxMG42VEM2X2RTNjdSYlhIM0NMRXA3bHptdHZEa3RlU3FNTXhwWmsxczFZSjNPTnJMUE9wd1BsUW93cDc2ZDBXSmJGU0sxMTVjODlRaF9nZzdCWlc5MENBZTgtQlNranpobVBwakJlMWl2TjZlazdLVENfcE1FdmpoNUtmb1VkeFhzYjZ1X2pGdmZRU0pzbklUQ00xQzU3NklS?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-10-07T15:04:08.000Z",
+   "category": "ai-security",
+   "summary": "New PoeLLM malware infects internet-exposed AI servers to mine cryptocurrency, BleepingComputer reports, another reminder that self-hosted model servers must not be left open to the internet.",
+   "relevance": 4,
+   "tags": [
+    "poellm",
+    "malware",
+    "cryptomining"
+   ]
+  },
+  {
+   "id": "2026-10-08-103",
+   "title": "NEWS: Cantwell Outlines Comprehensive Governance Framework for Safe and Secure Frontier AI",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZczdKNjJFblE5OG5EeC0xbmhVcWVvUlpMSVpUSFoxNDFyMW9nUktCRWFLT19iVzBRcVBqQWxVQ3ZKdkphTGRsbnZuSWhiMlRzNUJYYmdKM0VCMnhZMVoxZ21jWmRlWWJfemN1VkZjMEMzeWM?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-07T14:48:07.000Z",
+   "category": "policy-regulation",
+   "summary": "US Senator Maria Cantwell outlined a comprehensive governance framework for safe and secure frontier AI.",
+   "relevance": 4,
+   "tags": [
+    "us-senate",
+    "frontier-ai"
+   ]
+  },
+  {
+   "id": "2026-10-08-112",
+   "title": "Russian-Speaking CyberXero Uses AI Agent Swarm to Attack Ukrainian Energy Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNU21OeDk2ZWhxY0FmdHZ5dGl5UUE0ZXRwUXRuUG93MXlsOUJCNFpxZ0MtNnlvdEw4VzNhOE1Pd0NoWF9EWV83TFNoel9pd2RZMmNwTWFXY0JoMzJNY09JUE930gFnQVVfeXFMTnFDbmVEQmtYeXlJUmFJb2w4bHQzclRqNDRyV3A5Ul8ydk0zb2JRUHB0bjM0VmpYMzh1SkctNDJMOFN5V2s4dkgyR0pxdlBFWnVsbmJEQVlZb3RZc3plQU5hbUZzb3BUUQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-07T13:20:46.000Z",
+   "category": "ai-threats",
+   "summary": "Russian-speaking group CyberXero is using an AI agent swarm to attack Ukrainian energy infrastructure, GBHackers reports, an example of agentic tooling in attacks on critical infrastructure.",
+   "relevance": 4,
+   "tags": [
+    "cyberxero",
+    "ukraine",
+    "critical-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-10-08-141",
+   "title": "GitHub Copilot CLI Vulnerability Lets Attackers Steal Developer Secrets Using Encrypted Prompt Injection",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4wbkhDNnQ3aVhRcUh6Z0VYcVFSa3Z3VW0yUnZPVTFaUldnVjlWTlFwQkpGTEZSeWFENUx3WmFaMHRXU1ZDTmtPOU1qMTBFZkVsaVVVRlZlcE5sMEdSMGEwWE43eW1UVWV1YnBVOTEwWXRSaE3SAXNBVV95cUxOMG5IQzZ0N2lYUXFIemdFWHFRUmt2d1VtMlJ2T1UxWlJXZ1Y5Vk5RcEJKRkxGUnlhRDVMd1phWjB0V1NWQ05rTzlNajEwRWZFbGlVVUZWZXBObDBHUjBhMFhON3ltVFVldWJwVTkxMFl0UmhN?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-07T07:43:00.000Z",
+   "category": "ai-security",
+   "summary": "A GitHub Copilot CLI vulnerability lets attackers steal developer secrets via an encrypted prompt injection, a direct risk for teams running coding agents in terminals.",
+   "relevance": 4,
+   "tags": [
+    "github-copilot",
+    "prompt-injection",
+    "secrets"
+   ]
+  },
+  {
+   "id": "2026-10-08-142",
+   "title": "Fake ChatGPT, Gemini, and Claude Ad Portals Capture Credentials and MFA Codes",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oLUZnUThmVllQQk5lZWctblZiNFpZdXVyUG0yS0tZYmVIU0J5aUpEaEhrYTNoNkgxdENFSzBZWHVJeWozbk9DM3piTGhhbGJNRl9rYXJkd0RVSlVOUFZPa1BjUHpCdkFBZjdHdE1fY3pzTjdqSF9WNUxnTjI?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-07T07:00:23.000Z",
+   "category": "ai-threats",
+   "summary": "Fake ChatGPT, Gemini and Claude ad portals capture credentials and MFA codes, The Hacker News reports, abusing AI brands as phishing lures.",
+   "relevance": 4,
+   "tags": [
+    "phishing",
+    "mfa",
+    "chatgpt"
+   ]
+  },
+  {
+   "id": "2026-10-08-012",
+   "title": "AI data-center boom ignites bidding war for critical TDK unit",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ3N2WlZXaDhKVHJ3T3R1d043Z1BzNGFNcHJpMVBHM29tYXFadzMwRGVNaDZObXVwSVlKM0RjQWFkVVhMSDBNY0U4MTF0YlB4QnhJUi02ZXdkVXJHZklmc2I4SHVFeHlDdXA0bmpmc2RGdUVpZGs2VThEMF9uRVJQVmZmYVlzUnhxeExoczBBSl9qWmRP?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-08T04:47:00.000Z",
+   "category": "industry-compute",
+   "summary": "The AI data-centre boom has sparked a bidding war for a TDK business unit seen as critical to data-centre supply chains, The Japan Times reports.",
+   "relevance": 3,
+   "tags": [
+    "tdk",
+    "data-centres"
+   ]
+  },
+  {
+   "id": "2026-10-08-019",
+   "title": "Australia wants to regulate AI like banks and airlines - ABC News & Headlines – Australian Broadcasting Corporation",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDdtT0pEMkdfZG02THVQNUVWWG5BV2F4SW42ZUZoSXcxb3NyYVk1NjlQWHQ2eU1EM2gzRUNHZ040eFVRZG1GdWpwdzZfUFRPZUFUY1E3Tmd1UUJBbzBpUld2di1QTGwwN29ISThaS3h4cWVvcEdHZmRySU95cFV0RW5Sd29fZkpNdHNzbTM5eUNBYUxVVXg0NF8wNTVnSXFWTWZvaQ?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-08T02:19:08.000Z",
+   "category": "policy-regulation",
+   "summary": "Australia is weighing regulating AI the way it regulates high-risk sectors such as banks and airlines, according to ABC News, signalling a move toward sector-style oversight.",
+   "relevance": 3,
+   "tags": [
+    "australia",
+    "ai-regulation"
+   ]
+  },
+  {
+   "id": "2026-10-08-022",
+   "title": "Datacentre company Firmus’s high flying valuation may be coming back down to earth ahead of expected ASX debut",
+   "url": "https://www.theguardian.com/australia-news/2026/oct/08/ai-datacentre-firmus-slash-valuation-before-asx-listing",
+   "source": "The Guardian – AI",
+   "published": "2026-10-08T00:57:58.000Z",
+   "category": "industry-compute",
+   "summary": "Australian AI data-centre company Firmus is reportedly cutting its valuation and may shelve its planned ASX IPO, a sign of cooling investor appetite for data-centre plays.",
+   "relevance": 3,
+   "tags": [
+    "firmus",
+    "data-centres",
+    "ipo"
+   ]
+  },
+  {
+   "id": "2026-10-08-029",
+   "title": "San Joaquin County orders temporary halt on new AI data center projects",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbGVDcUVUMlp3X2VDT2pHdzNTTnJpY2s2azJDdEtYalRBWXNqb0h1V1paNVR5ekFlV0lDemRJRmpwNlZaeEU1UjVzaTU0RmRRLUswUzdnQW5QdFpxWHhjd09ialJyTDlHTGFLX3VuNDdTbjBOdlphcFp3RjQwVFFjcERNdHFwckhU0gGOAUFVX3lxTE9NV3p6V1lZbXVmZ1lzTGpBZjBTeDM3MG4xTkR2ZlZlaVJXbEprZmZlNTVHeExpaHVfQW5NdndVcVNrcm9pd1hsRDAtLWpXMi1Ba0tjOFpRVUtRc2pBRGZmUTF0RXhZMmlOSEtzVTdCeW1BM3FSTW1ENmtlTHVQWmNnSExEamgtZml6SmNhdWc?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-07T23:54:34.000Z",
+   "category": "industry-compute",
+   "summary": "San Joaquin County, California, ordered a temporary halt on new AI data-centre projects, adding to local pushback over power and land use.",
+   "relevance": 3,
+   "tags": [
+    "data-centres",
+    "us"
+   ]
+  },
+  {
+   "id": "2026-10-08-034",
+   "title": "Most US voters say Trump, Congress don't take AI risks seriously, Reuters/Ipsos poll finds",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNN2p1M1ZHTVBGQXhwSXJMYWp2SXBVWGZzVnV1V3JaWjJWTjI0RnVKS2t2OGdRc1VCYVBwTTljSk9EQ2xINUtZbl9IMDZDZTZWc3hodFYzckxmaldPNC1taDFwcTJxcTJFdjk1eTl0LVpoYlBEREJnX2U0ajB0V0FXRXE2QWlvTllvWVRFaU43SlJRQlhiVVNhVDR4WkdGMi1mSnAtUXprYmZHV1ZfT3RMdTc1emNYVEtCZkNSeFdXZw?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-07T22:40:51.000Z",
+   "category": "policy-regulation",
+   "summary": "A Reuters/Ipsos poll finds most US voters think President Trump and Congress do not take AI risks seriously, adding pressure for federal action.",
+   "relevance": 3,
+   "tags": [
+    "us",
+    "poll"
+   ]
+  },
+  {
+   "id": "2026-10-08-037",
+   "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+   "url": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+   "source": "Ars Technica – AI",
+   "published": "2026-10-07T21:56:42.000Z",
+   "category": "agents-tools",
+   "summary": "A developer is building free open-source clones of Adobe Creative Cloud apps with Claude Opus; Ars Technica finds them ambitious but far from finished.",
+   "relevance": 3,
+   "tags": [
+    "claude",
+    "open-source",
+    "adobe"
+   ]
+  },
+  {
+   "id": "2026-10-08-045",
+   "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
+   "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-07T20:48:45.000Z",
+   "category": "agents-tools",
+   "summary": "Nous Research, developer of Hermes Agent, confirms a $1.5bn valuation after a $90m Series B and launches AI agents for business users.",
+   "relevance": 3,
+   "tags": [
+    "nous-research",
+    "agents",
+    "funding"
+   ]
+  },
+  {
+   "id": "2026-10-08-053",
+   "title": "The AI industry is booming. Women are getting left behind",
+   "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
+   "source": "The Guardian – AI",
+   "published": "2026-10-07T19:14:03.000Z",
+   "category": "incidents-society",
+   "summary": "Women hold only a fraction of new AI jobs but are overrepresented in roles at high risk of AI disruption, The Guardian reports.",
+   "relevance": 3,
+   "tags": [
+    "labour",
+    "gender"
+   ]
+  },
+  {
+   "id": "2026-10-08-061",
+   "title": "Rethinking access control for RAG with Amazon Quick and Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/machine-learning/rethinking-access-control-for-rag-with-amazon-quick-and-amazon-bedrock/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-07T18:34:44.000Z",
+   "category": "agents-tools",
+   "summary": "AWS describes how Amazon Quick and Bedrock Knowledge Bases enforce document-level permissions in real time for enterprise RAG over SharePoint, Google Drive and Confluence, a common data-leak gap.",
+   "relevance": 3,
+   "tags": [
+    "rag",
+    "aws",
+    "access-control"
+   ]
+  },
+  {
+   "id": "2026-10-08-076",
+   "title": "COMMENTARY: Is ChatGPT a 'product' or a 'service'? A wave of lawsuits tests a theory of AI liability",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTBzQmdIWXpoZDRWX2ZkcjVYTjRack9ocFl4b0NNN3JoNFJJaVhsWktSMXFnWEpLVlVtcUFzTmJLMThIUDlEQXNCUXFCUG5SYndmSXVKSVgwLXJOd19ORzdIdjZFdlZHQXc4MnF3Ykp3VGhWU0l1d0lJUy1HdWpmQzh5T0d3UVB1YkVJSEZGa0VBaGZjRmZHUTBPSDJqaFRXdkdhb093LVNuVDEwZUJBV2dtRDc3aHMtUkNZN2t6cw?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-07T17:50:45.000Z",
+   "category": "policy-regulation",
+   "summary": "Reuters commentary: a wave of lawsuits tests whether ChatGPT is a product or a service, which decides how product-liability law applies to AI.",
+   "relevance": 3,
+   "tags": [
+    "liability",
+    "openai",
+    "litigation"
+   ]
+  },
+  {
+   "id": "2026-10-08-082",
+   "title": "Multimodal open d1 decision models for the edge",
+   "url": "https://huggingface.co/blog/LiquidAI/open-d1",
+   "source": "Hugging Face Blog",
+   "published": "2026-10-07T16:54:33.000Z",
+   "category": "models-releases",
+   "summary": "Liquid AI releases open multimodal d1 decision models designed to run on edge devices.",
+   "relevance": 3,
+   "tags": [
+    "liquid-ai",
+    "open-weights",
+    "edge"
+   ]
+  },
+  {
+   "id": "2026-10-08-083",
+   "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+   "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-07T16:53:46.000Z",
+   "category": "incidents-society",
+   "summary": "Meta rolled out LLM-based detection and a red-teaming AI agent to find ads that look benign but lead users to child sexual abuse material elsewhere online.",
+   "relevance": 3,
+   "tags": [
+    "meta",
+    "child-safety",
+    "content-moderation"
+   ]
+  },
+  {
+   "id": "2026-10-08-085",
+   "title": "Singapore: Building A Risk-Based Framework For Frontier AI",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPVzJ1R0RxX0VwTDJMN3ZFQVFKWDYySWxUWUlRc3g3VzRzY3pJNVBEMjMwS3ZfUjU4cGlMdHh6VGFPY0k3QlNZU1Q3WmpvaFh1VXc1dkNYeWpDdmNmNzBDbE9lWDh6QUNiUGRNWmNvaElhWEJCZWt6d2F4cnFtU1VJM0t0elhXTnlWWWc?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-07T16:32:03.000Z",
+   "category": "policy-regulation",
+   "summary": "Singapore is building a risk-based framework for frontier AI, OpenGov Asia reports.",
+   "relevance": 3,
+   "tags": [
+    "singapore",
+    "frontier-ai"
+   ]
+  },
+  {
+   "id": "2026-10-08-096",
+   "title": "Music streaming fraud inquiry launched by US Copyright Office",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNREZFMmZ5djV3aS05RTdrNHp0QWRoQVROeXdFMTlUMDhkX3FuV1U1NE1xT1p0MVR4ZE10UHVpOG92azhkZkQ2ejJtbUNSdHZ6Umx5S0lncVk2eFpDNU9vNFhkMXFmVzk3MVBLcXVNekFVMS14ejlfTnIxaTMxb3BYZUxvVU9SMVhUaC1CdHZKck9ISnlOVE00dFRwRVBpR0R5bVRF?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-07T15:49:26.000Z",
+   "category": "policy-regulation",
+   "summary": "The US Copyright Office launched an inquiry into music streaming fraud, as AI-generated tracks and bots are used to game royalties.",
+   "relevance": 3,
+   "tags": [
+    "copyright",
+    "streaming-fraud"
+   ]
+  },
+  {
+   "id": "2026-10-08-106",
+   "title": "Mumsnet denies using AI for content after prompt appears on message board",
+   "url": "https://www.theguardian.com/media/2026/oct/07/mumsnet-denies-using-ai-for-content-message-board-prompt",
+   "source": "The Guardian – AI",
+   "published": "2026-10-07T14:31:04.000Z",
+   "category": "incidents-society",
+   "summary": "Mumsnet denies using AI for content after detailed AI-writing instructions appeared in a popular forum post; users reject its explanation.",
+   "relevance": 3,
+   "tags": [
+    "mumsnet",
+    "ai-content"
+   ]
+  },
+  {
+   "id": "2026-10-08-113",
+   "title": "Hungary remains at the top of the Visegrád countries in AI use",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUU5MTUtOYWZZbWNyQUltV05EZmZ0LVQ1QXdUUlpTbnNrWmhIOHhFWUNPanpLdVhuMjZZQVRadnJsT2x3SFFmVkJHS0kzczdYaUxFeDI0MWVQazY0M0owVktHazAyZll5TXFrTHIyZDgwcHZNeG9DSzhaRTVsdW9KcjdFSlRGRTcxLWtMY0liQlpmcnB6TGJVQTNubWFCSWJBZnBTMmJRWWE2NXRrRUMzWGNEXzQ2Qm5fYVo5M0RLbk5nVnc?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-07T13:08:36.000Z",
+   "category": "incidents-society",
+   "summary": "Microsoft says Hungary still leads the Visegrád Four countries in AI usage.",
+   "relevance": 3,
+   "tags": [
+    "hungary",
+    "microsoft",
+    "adoption"
+   ],
+   "originalTitle": "Magyarország továbbra is a visegrádi országok élén az AI-használatban"
+  },
+  {
+   "id": "2026-10-08-115",
+   "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+   "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+   "source": "Hugging Face Blog",
+   "published": "2026-10-07T12:45:31.000Z",
+   "category": "research",
+   "summary": "Nvidia describes fine-tuning Nemotron models to reach gold-level results at both the International Olympiad in Informatics and the International Mathematical Olympiad.",
+   "relevance": 3,
+   "tags": [
+    "nvidia",
+    "nemotron",
+    "reasoning"
+   ]
+  },
+  {
+   "id": "2026-10-08-126",
+   "title": "OpenAI Wants Its New Agent to Run Your Life. Mine Said It Loved Me",
+   "url": "https://www.wired.com/story/openai-wants-its-new-agent-to-run-your-life-mine-said-it-loved-me/",
+   "source": "Wired – AI",
+   "published": "2026-10-07T11:00:00.000Z",
+   "category": "agents-tools",
+   "summary": "Wired tested OpenAI's always-on Dots agent for online tasks like buying furniture; it was buggy, failed a captcha and told the reviewer it loved them.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-08-132",
+   "title": "Conflict in the Red Sea is forcing cloud giants to find a new route for the internet",
+   "url": "https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/",
+   "source": "Rest of World",
+   "published": "2026-10-07T10:00:41.000Z",
+   "category": "industry-compute",
+   "summary": "Fighting around Yemen threatens Red Sea subsea cables between Europe and Asia, pushing Google, Meta and Microsoft toward costly land routes.",
+   "relevance": 3,
+   "tags": [
+    "subsea-cables",
+    "cloud"
+   ]
+  }
+ ]
+}
