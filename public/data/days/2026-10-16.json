@@ -1,0 +1,1028 @@
+{
+ "date": "2026-10-16",
+ "generatedAt": "2026-10-16T05:49:48.853Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 51,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 2
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-10-16-030",
+   "title": "Researchers find indirect prompt injection attempts in HTTP headers across thousands of websites",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdUtZLTlyLW9mNmhFTHNMamx6UzVKUzYwYXNadTg0ZDhMZnBYelh0M01JUVRtXzlrdU9OTmNicHlLWUtSNGZTOWhyR1NjRGJpUHZmbnY2b2VLdHp6TE9vTmNPYklaN2ZYZ211Qjd5cFpGQzdOUHBySjVERldERnd3YXdjMTFOUk9uOWh6cmU5M3RkUnFQblpRemh3YWFvUmZERlVZc1BKRG5QZTVQNW02VmV5QkZ4Yjg3WDhnbFZlMVE4MWM?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-16T00:43:44.000Z",
+   "category": "ai-security",
+   "summary": "Researchers found indirect prompt injection payloads embedded in HTTP headers across thousands of websites, targeting AI crawlers and browsing agents.",
+   "relevance": 5,
+   "tags": [
+    "prompt-injection",
+    "agents",
+    "web"
+   ]
+  },
+  {
+   "id": "2026-10-16-044",
+   "title": "Anthropic Gives METR Researchers Employee-Level Access for Independent AI Safety Reviews",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObno3MElzNzY3VlMxZDJhT1B0ckVxUHNCTFF0QWFWQm5HblN0UHlHUjg3eHZocFlmc21hWHotX19mM19IakIzTmhTWnN2LUN5WGhwUXdnSDBDQnM4ZzdhUkc4TF9ZbUJ2VDl0eFlYRi0ySFdwZWs4akJoV2kxdU95d0dsZ1lySDJrTDN2Y3BpeC1rWUxvcDdmLWVrX3V2RzVpbktDTlU2WWhDNkpwY2xyUUEyWG1VbnNTMnB5SUF1Yk4?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-15T21:10:05.000Z",
+   "category": "safety-evals",
+   "summary": "Anthropic grants METR researchers employee-level access for independent safety reviews of its models and practices.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "metr",
+    "evaluations"
+   ]
+  },
+  {
+   "id": "2026-10-16-064",
+   "title": "OWASP’s 2026 LLM Top 10 Puts AI Agent Permissions and Operational Risk in Focus",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWxoUFFMNFlhcU84R19sdHZKc2hBcFJzaTJSUFV0aDZzdERTSENyVFBLMl9vQjVtNXZVWFVRMk9udmtwXzg2cTAxV2lIa280WU1IdzU2U2N2Qm5PZ2dHNVRKV1lEdk4wYzBpekpIclpOQTdlZWF6NlB3MUJlNmVjVDFjRVE1OHdlbVFhSFV3?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-15T19:17:18.000Z",
+   "category": "ai-security",
+   "summary": "OWASP's 2026 LLM Top 10 shifts emphasis to AI agent permissions and operational risk.",
+   "relevance": 5,
+   "tags": [
+    "owasp",
+    "agents",
+    "llm-top10"
+   ]
+  },
+  {
+   "id": "2026-10-16-065",
+   "title": "Anthropic is letting METR researchers look under the hood with employee-level access",
+   "url": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-15T19:14:26.000Z",
+   "category": "safety-evals",
+   "summary": "METR will publish independent assessments of Anthropic's risks, incidents and practices, with Anthropic waiving the right to block publication.",
+   "relevance": 5,
+   "tags": [
+    "metr",
+    "anthropic",
+    "transparency"
+   ]
+  },
+  {
+   "id": "2026-10-16-070",
+   "title": "Muse Spark Open is Meta's answer to Qwen, GLM, and Kimi in the open-weight race",
+   "url": "https://the-decoder.com/muse-spark-open-is-metas-answer-to-qwen-glm-and-kimi-in-the-open-weight-race/",
+   "source": "The Decoder",
+   "published": "2026-10-15T18:34:32.000Z",
+   "category": "models-releases",
+   "summary": "The Decoder: Muse Spark Open is a 816B-parameter multimodal open-weight model with up to 1M token context, benchmarking near top Chinese open models and optimised for Apple M5 Ultra.",
+   "relevance": 5,
+   "tags": [
+    "meta",
+    "muse-spark",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-10-16-073",
+   "title": "Italian bank loses $108M to AI messaging fraud, as identifAI warns of deepfake threat",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSlRVRmViOEZlUnBnTmpHVHpQRHprWk5aQ0tXTUtQS1pTLWsxOUttZmVicUduVFZpdHhROWxrWWR2Q1ExYWtkQy12SUtjZnJBdlg4RV9qdDd4dUZsOFJYUDIzZEVUYjkzRzFCOHJQWFVHbkpCZUlCR1FWZ3Bhakt6S1hfSlV3ODM4STBLSnNIYW05MExPVldwZ1NITndkdlhYd1M1MWRyYkNiaU9TZjlIV0hzZXVJMDRIbUI5aTNmaw?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-15T18:22:00.000Z",
+   "category": "ai-threats",
+   "summary": "An Italian bank reportedly lost $108M to AI-assisted messaging fraud, as vendor identifAI warns about deepfake-driven attacks.",
+   "relevance": 5,
+   "tags": [
+    "fraud",
+    "deepfakes",
+    "banking"
+   ]
+  },
+  {
+   "id": "2026-10-16-107",
+   "title": "Tech market sell-off deepens amid fears over US inflation and AI debt",
+   "url": "https://www.theguardian.com/business/2026/oct/15/tech-market-sell-off-deepens-amid-fears-over-us-inflation-and-ai-debt",
+   "source": "The Guardian – AI",
+   "published": "2026-10-15T14:33:12.000Z",
+   "category": "industry-compute",
+   "summary": "Global markets sold off sharply on AI-linked shares as inflation and rate-hike fears met concern over AI sector debt; Korea's Kospi 200 fell more than 8%.",
+   "relevance": 5,
+   "tags": [
+    "markets",
+    "ai-bubble",
+    "chips"
+   ]
+  },
+  {
+   "id": "2026-10-16-126",
+   "title": "Warning Over High-Risk Vulnerabilities in Widely Used LLM Gateway Tool",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWWlzM3Vwd213MDlnTU5FdEZDOFowZ0lmaUUtaWF4eEpkTUlUcG5SdXE3eVM4TUlrNGxIQzBzMEM1bDlwZ01ZU0dtZENsQlViMjBsSWV1MVdFRUU3SnpiY1BhLWR2SHROWGZLOV9NZGJOZW1sNGdOUGxDLTRHRm1OLTJtSzU?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-15T11:30:00.000Z",
+   "category": "ai-security",
+   "summary": "Researchers warn of high-risk vulnerabilities in a widely used LLM gateway tool, exposing a common component of enterprise AI stacks.",
+   "relevance": 5,
+   "tags": [
+    "llm-gateway",
+    "vulnerabilities",
+    "supply-chain"
+   ]
+  },
+  {
+   "id": "2026-10-16-140",
+   "title": "EU Opens First AI Act Enforcement Case Against OpenAI and Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQmtTM1Q4UGlBNW1UUEQ1T1owS0ZNNGNhZkw4WGMzckJ2bHFEZTc2ZGx6eDZQbzg0LXFEM1dORks1UGlDc1FFaERva0JhUzFWZHNMMTdTU2U3ajVVS04yUXNmUmNTZE5GVWk5RmFuQllEc2xLMW9QclJQOUdsaTQ0WmV4SGQ5UnZYQ2JKeUNqTFdUdzhTbFRhag?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-15T07:59:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Report that the EU has opened its first AI Act enforcement case, targeting OpenAI and Anthropic.",
+   "relevance": 5,
+   "tags": [
+    "ai-act",
+    "eu",
+    "enforcement"
+   ]
+  },
+  {
+   "id": "2026-10-16-004",
+   "title": "Research Introducing Timestral State-of-the-art probabilistic forecasts with just 209M parameters, outperforming larger models on CPU. October 15, 2026 By Mistral",
+   "url": "https://mistral.ai/news/timestral/",
+   "source": "Mistral AI",
+   "published": "2026-10-16T05:47:22.193Z",
+   "category": "models-releases",
+   "summary": "Mistral introduces Timestral, a 209M-parameter probabilistic time-series forecasting model it says outperforms larger models while running on CPU.",
+   "relevance": 4,
+   "tags": [
+    "mistral",
+    "timestral",
+    "forecasting"
+   ]
+  },
+  {
+   "id": "2026-10-16-005",
+   "title": "Training Alignment Auditors via Reinforcement Learning We train LLMs to investigate target models with hidden behaviors planted in their system prompt. A trained Haiku 4.5 policy matches Opus 4.6 on…",
+   "url": "https://alignment.anthropic.com/2026/training-alignment-auditors/",
+   "source": "Anthropic Alignment Science",
+   "published": "2026-10-16T05:47:21.516Z",
+   "category": "safety-evals",
+   "summary": "Anthropic trains LLM alignment auditors with reinforcement learning to investigate models with hidden planted behaviours; a trained Haiku 4.5 policy reportedly matches Opus 4.6.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "alignment",
+    "auditing"
+   ]
+  },
+  {
+   "id": "2026-10-16-006",
+   "title": "Oct 15, 2026 Announcements An update on independent evaluators",
+   "url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+   "source": "Anthropic News",
+   "published": "2026-10-16T05:47:20.540Z",
+   "category": "safety-evals",
+   "summary": "Anthropic publishes an update on its work with independent external evaluators.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "evaluations",
+    "transparency"
+   ]
+  },
+  {
+   "id": "2026-10-16-007",
+   "title": "Meta launches 816-billion-parameter Muse Spark Open AI model that runs on Apple M5 Ultra Macs",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcTI3ZXFvVWZuVlpwS0hOMTR0YUEyeEhub0plelk5UDVSdVZIVmdJREVqUDdQZVU2VlBrUUQySDVwNlNPRWlBeVp2UHB4czZsZkpyczVwT1hBZnBJckJSTFlwUWJxeGJPR1BzTlpSZmQ4YldGUWZyWENPYlpwdnY3WHdjeWxTendLOXBMVkM2Ym1Xdkx0REpwYi1KTzBsUzN4Z3NKRjlwYTdqbkJ2ZkVIN3VMa1lpNWo0STJDcERMdi1IY0w5dGwyN2MyY2NHQzdYUGN4LXBYWdIB5AFBVV95cUxQWl90a0dKWkdYNUEzaDlPUGItWnV1VER6azFwT2R6OFNLa1hGcWxRUnN1VFRPTkszbDVCa2ZZYWQ4d0xHZXNHaG1odEpPNmhieU1pazg4SmlpRFJvN0ZydjVzY2tZdWVYT2JQV3lFREZWZnJDX2RKY2JITTZzOGhpRXYtVGhyZnpCQVdMUGU4cnlISmNsYVNieTVLQ3hWNFd5UXo1Vjd0c2wwM19yUUdtTlhCeW52QUhKNnkzbnVCNFpuSE5VOVdQTEtGMTY4dzcwTDV1aTdjWXQ2d1JkdGlfVl8yTXY?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-16T05:30:29.000Z",
+   "category": "models-releases",
+   "summary": "Coverage of Meta's 816-billion-parameter Muse Spark Open model, reported to run on Apple M5 Ultra Macs.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "muse-spark",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-10-16-018",
+   "title": "G7 to launch exercises to guard against AI cyber attacks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZnI4RTM2MDNWV21Ha0tHZjV5c0tzRGNpbW9EMHY5VkxIcnZIR3FEQThVbVRQUEt2d3BQaFFJXzE4Z241RFRuY19WUGtMYWUtTTBRbDctRkNnSzBGMXNYTjh1Yk5sR2FMZXBXOEdPbVB5M1A5MmVvQXNWUXd2SzMtRWtuRWFicUVlUDNRM0o4akYzeGFNVXdWUklrUW1kSGp2djk4QlRydmE?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-16T02:57:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Reuters reports the G7 will launch joint exercises to prepare financial and critical systems against AI-driven cyber attacks.",
+   "relevance": 4,
+   "tags": [
+    "g7",
+    "cyber",
+    "ai-threats"
+   ]
+  },
+  {
+   "id": "2026-10-16-029",
+   "title": "Meta releases open-weight Muse Spark AI model for coding",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOLTgzWUM2VE5paVEweUtoelBEUlRZblZHUEEzZHRyWkw2ZUpTSmNmbWFQRmpGblo0WXlmaU5YUVhQX25DTjBnSVBTbEw2bkJ0cVI0Q1BUSl96S2Y4MXZXR2JzWmRVSUxUdFJ5RzhGa3ppQkszd0VaZUczelFaWmU1eG9ycmNnakM4WGRB?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-16T00:55:00.000Z",
+   "category": "models-releases",
+   "summary": "Meta releases Muse Spark Open, an open-weight model positioned for coding workloads.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "coding",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-10-16-031",
+   "title": "Meta releases Muse Spark Open, a new ‘open-weight’ AI model",
+   "url": "https://www.theguardian.com/technology/2026/oct/16/meta-releases-muse-spark-open-a-new-open-weight-ai-model",
+   "source": "The Guardian – AI",
+   "published": "2026-10-16T00:34:28.000Z",
+   "category": "models-releases",
+   "summary": "Guardian reports Meta's Muse Spark Open launch, with Meta claiming strength in multi-step reasoning and complex software engineering as it chases Chinese open-weight rivals.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "muse-spark",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-10-16-036",
+   "title": "ChatGPT can peek at your Chrome tabs now",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+   "source": "The Verge – AI",
+   "published": "2026-10-15T22:43:23.000Z",
+   "category": "agents-tools",
+   "summary": "OpenAI's ChatGPT Chrome extension can now read the user's open browser tabs when Chrome is tagged, after the Atlas browser was discontinued.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "chatgpt",
+    "browser-agents"
+   ]
+  },
+  {
+   "id": "2026-10-16-046",
+   "title": "OpenAI, Meta caution US judiciary about risk of 'deepfake' evidence",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdVBjUDY1NEtsWk4xYnphdUJQSjdScU5TNHdPUk9iN3FibFNId2xOWDA4c1RHY2FodFJYdVl1ZzIybjBLc21FZXJxOXRmbjNsbFk4SDNIYzhDeWw4dEt6RkJhN3NJeHJqYVlVTlc5YnVZOHRyeWJIalRfaE5ER2tKRnRieXN4MVN2WkxFSmFvSFVBbUF6b0FHV0FoVTA5emZtRThLUlQ5VXQ4TndPU3FPRFpKMjg?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-15T21:02:42.000Z",
+   "category": "policy-regulation",
+   "summary": "OpenAI and Meta warned the US judiciary about the growing risk of deepfaked evidence in court proceedings.",
+   "relevance": 4,
+   "tags": [
+    "deepfakes",
+    "courts",
+    "openai"
+   ]
+  },
+  {
+   "id": "2026-10-16-048",
+   "title": "Nscale’s AI Buildout Hit by Fire, Delays and Angry Workers Ahead of IPO",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnpyNVg3ZjVJQjNZUDJaSTliUGt1ZWlEb1ZnWE12M1lpYVVOaVFGSUtkME5RUFotV1I3Zm5TQkRUUENSUG5KZmlfaFl3b1BZV3BBS3N2aEpLa1RiWm5zQ0dSRnM2Q25MVVhYYWt6UTNPREJHZEdzbmNBWjE0Z2hHUnIybk4tOFd4QzVSb0VFeXF6NUU2d2RFazd0T0RVd1lUYXFDVE5zV0s2NUN4VF92QjE0OA?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-15T21:00:02.000Z",
+   "category": "industry-compute",
+   "summary": "Bloomberg reports Nscale's AI data-centre buildout has been hit by a fire, delays and worker discontent ahead of its IPO.",
+   "relevance": 4,
+   "tags": [
+    "nscale",
+    "data-centres",
+    "ipo"
+   ]
+  },
+  {
+   "id": "2026-10-16-049",
+   "title": "Investors temper Anthropic IPO valuation expectations over revenue growth slowdown, sources say",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRW4tSGppV2U0ZWtvaXBsQmlyaDVVLVFCSmJNMWdmMHpod0FWd25kUXRNQzFvZXJPTmhoQUNvMlFrQzI3NjBQVG9McWFPRHdUODhMbVItOGg4S0N3ZmJ4R2psZVd1aWFZM2M0aEY4R3VaYnFZWUxhOFZiRXAxTnc5UG9hMm1ERGpKbURkX3BWYzQ5UWl3THBFTDhWUWR0SVhUSWJsekpMZjM4OUZRQl9BVmY2djVKRENDSldCSUpOWmdvbHVK?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-15T21:00:00.000Z",
+   "category": "industry-compute",
+   "summary": "Reuters sources say investors are lowering valuation expectations for an Anthropic IPO amid slowing revenue growth.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "ipo",
+    "valuation"
+   ]
+  },
+  {
+   "id": "2026-10-16-050",
+   "title": "Anthropic gives outside AI safety evaluators METR and SecureBio inside access",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1SU0wySE1WTnlPTVducW1WanQ4ai1kaXNPY1FSSW5MV2ZubExTcDlTZno4TlBKLVZKOV92bDh6NjBHby0yc0d1MXdiX3BMdzEzT2RMT1NTeFBfdFdTOEU4OEdiQ0pIZFlSMVY2cVpfX2F4MHFINjBlbGk2Y2dVZw?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-15T20:51:47.000Z",
+   "category": "safety-evals",
+   "summary": "Anthropic grants external safety evaluators METR and SecureBio internal access to models and processes.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "metr",
+    "securebio"
+   ]
+  },
+  {
+   "id": "2026-10-16-057",
+   "title": "CoreWeave's slump spotlights growing burden of debt behind AI boom",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-15T19:57:10.000Z",
+   "category": "industry-compute",
+   "summary": "Reuters notes CoreWeave's share slump highlights the rising debt load financing the AI infrastructure boom.",
+   "relevance": 4,
+   "tags": [
+    "coreweave",
+    "debt",
+    "data-centres"
+   ]
+  },
+  {
+   "id": "2026-10-16-059",
+   "title": "Anthropic grants outside evaluator METR employee-level access in AI safety push",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbERjb3RFVUdmYXZ6ZktrZ0tiVUlEck5vRGtxd2dXTnA4UGFoSF9QNEU5Y3FfVUxZOHp1cEt3UktQUXZicnI5UDByaW5hTDdhanhtb2JsVTZsRkxYSjRsd2VZZUx2Yy1lZzNhWGdJSWxOalZoZGJNU0g1NGFkUEFkZHNob2RXaVVqb3BxTkZGVFJaUHg4cVNTTXJMcnFtSGZTZDZ1TVVBOWxSSGhjZ0Z6SFpB?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-15T19:51:22.000Z",
+   "category": "safety-evals",
+   "summary": "Reuters reports Anthropic's grant of employee-level access to evaluator METR as part of a wider safety transparency push.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "metr",
+    "safety"
+   ]
+  },
+  {
+   "id": "2026-10-16-066",
+   "title": "Bank of America Hired 1,000 Contractors to Fix Bugs an AI Agent Found",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdy1EVEhWZXlIUS1lLTVLNi1TZmFvY1dYZm1Pckp2VXBJcnVwMnk5VzdSQWF3NkozdEFNV1BpZE1nckhVNWdXSlFmdUt2SXlTT3BILXNfdUZZTFY5eDItMVZDZVd2c2tHU0pyWU0yUFJBMXUtdmJSa3A3TVYzam1adXl4Vjl2NGVERUtxV3RUeHhnb2RaWWlzX3AwQWs?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-15T19:00:03.000Z",
+   "category": "ai-security",
+   "summary": "Bank of America reportedly hired 1,000 contractors to remediate software bugs discovered by AI agents.",
+   "relevance": 4,
+   "tags": [
+    "banking",
+    "vulnerabilities",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-16-076",
+   "title": "Meta and Apple team up to make Muse AI models run better on Macs",
+   "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx",
+   "source": "The Verge – AI",
+   "published": "2026-10-15T18:15:36.000Z",
+   "category": "models-releases",
+   "summary": "Meta says Muse Spark Open is the first model in its class to run on desktop hardware, using two Apple M5 Ultra Mac Studios with the MLX framework.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "apple",
+    "mlx"
+   ]
+  },
+  {
+   "id": "2026-10-16-093",
+   "title": "Google wants Gemini 4 Argon to be the only AI model robots need",
+   "url": "https://the-decoder.com/google-wants-gemini-4-argon-to-be-the-only-ai-model-robots-need/",
+   "source": "The Decoder",
+   "published": "2026-10-15T16:35:47.000Z",
+   "category": "agents-tools",
+   "summary": "Google's Gemini 4 Argon targets robotics control and simulation generation, scoring 87% on Google's ERQA benchmark, though demos still rely on heavy human prompting.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "gemini",
+    "robotics"
+   ]
+  },
+  {
+   "id": "2026-10-16-101",
+   "title": "Eight States Bring Parallel Lawsuits Against OpenAI Over Safety Issues",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNU3Awd3AyenpkUHBmRzF6TV9ZSEE3MkhtT2xOdURseFdHZDQwdmJuV2hwQjdQV2tnV0RwQWtwenY5VU83bjRXZVpybjZFWGxCbW5OcjFBS3RTdkUwc0d6Y0NRcUdDUlFqNUhkSkZKVGNOMHN3aHYwSUJNSm1zU0piMXRxWVRpWk1sREdLQW0zSVpibWlraWdDdWQ3N2kyb2RiYWpCTjI1VkVfWmwtR3ZNSllQcjZzal9Ubzlmc19lQ3pTWmJRaU1z?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-15T15:49:29.000Z",
+   "category": "policy-regulation",
+   "summary": "Eight US states have filed parallel lawsuits against OpenAI over safety issues.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "litigation",
+    "us"
+   ]
+  },
+  {
+   "id": "2026-10-16-103",
+   "title": "Bank of America puts 4,000 people on fixing vulnerabilities uncovered by Anthropic's Mythos and other AI models",
+   "url": "https://the-decoder.com/bank-of-america-puts-4000-people-on-fixing-vulnerabilities-uncovered-by-anthropics-mythos-and-other-ai-models/",
+   "source": "The Decoder",
+   "published": "2026-10-15T15:27:25.000Z",
+   "category": "ai-security",
+   "summary": "Bank of America has reportedly assigned around 4,000 people, including 1,000 contractors, to fix vulnerabilities surfaced by AI models such as Anthropic's Mythos.",
+   "relevance": 4,
+   "tags": [
+    "banking",
+    "appsec",
+    "anthropic"
+   ]
+  },
+  {
+   "id": "2026-10-16-104",
+   "title": "GPT-6-Astra solves 49 of 50 physics research problems at $2.40 apiece",
+   "url": "https://the-decoder.com/gpt-6-astra-solves-49-of-50-physics-research-problems-at-2-40-apiece/",
+   "source": "The Decoder",
+   "published": "2026-10-15T15:24:15.000Z",
+   "category": "research",
+   "summary": "On the TheoPhysEval benchmark, GPT-6-Astra solved 49 of 50 unpublished theoretical physics problems at about $2.40 each, occasionally exposing errors in expert reference solutions.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "benchmarks",
+    "science"
+   ]
+  },
+  {
+   "id": "2026-10-16-106",
+   "title": "Trust in Depth: Giving agents more autonomy without losing control",
+   "url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-15T15:05:35.000Z",
+   "category": "agents-tools",
+   "summary": "AWS outlines 'Trust in Depth', a layered framework (scope, know, bound, observe, prove) for granting AI agents autonomy while keeping verification and human oversight.",
+   "relevance": 4,
+   "tags": [
+    "aws",
+    "agents",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-10-16-108",
+   "title": "ChatGPT Ads Target Your Phone Number, Email",
+   "url": "https://www.404media.co/chatgpt-ads-target-your-phone-number-email/",
+   "source": "404 Media",
+   "published": "2026-10-15T14:31:09.000Z",
+   "category": "incidents-society",
+   "summary": "404 Media reports ChatGPT ad targeting can use phone numbers and email addresses, alongside research on malware delivered via ad networks.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "advertising",
+    "privacy"
+   ]
+  },
+  {
+   "id": "2026-10-16-112",
+   "title": "ARMORY CASTLE Exploits BeyondTrust",
+   "url": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
+   "source": "Google Threat Intelligence",
+   "published": "2026-10-15T14:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "Mandiant reports threat actor ARMORY CASTLE exploiting CVE-2026-102764, an arbitrary file upload flaw in BeyondTrust Remote Support appliances disclosed on 15 October.",
+   "relevance": 4,
+   "tags": [
+    "mandiant",
+    "cve",
+    "exploitation"
+   ]
+  },
+  {
+   "id": "2026-10-16-115",
+   "title": "How ChatGPT Targets Ads To You Based On Your Prompts, Phone Number, and Email",
+   "url": "https://www.404media.co/how-chatgpt-targets-ads-to-you-based-on-your-prompts-phone-number-and-email/",
+   "source": "404 Media",
+   "published": "2026-10-15T13:25:19.000Z",
+   "category": "incidents-society",
+   "summary": "404 Media explains ChatGPT ad targeting options based on prompts, email, phone number and device identifiers.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "adtech",
+    "privacy"
+   ]
+  },
+  {
+   "id": "2026-10-16-118",
+   "title": "FSB Says Banks Need to Have Company-Wide AI Regulation",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWEp4VkdRNl9pcVFveGVtQXlwWFAtMlE0TlZTWUtCNDJIcVJVRDI2THUtRWxiOFFLd2w4eURIUnhUdE1xSjNOWV9jTGdqYkhqZ1d2NjZOTmgxdDlvVWZEOXJkOHliODZKVk0zV2Q2aW9iNUNLdThjRHZzaFZ5dnNsU3ZvN1p0VVBsck1SQVZQekRJNDR5VjlHcFE1UzhwZ09pbjRZMjUzdGVQNktWcV9aUDV3?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-15T13:18:42.000Z",
+   "category": "policy-regulation",
+   "summary": "The Financial Stability Board says banks need firm-wide AI governance and oversight frameworks.",
+   "relevance": 4,
+   "tags": [
+    "fsb",
+    "banking",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-10-16-122",
+   "title": "Data Centers Are War Targets Now",
+   "url": "https://www.404media.co/data-centers-are-war-targets-now/",
+   "source": "404 Media",
+   "published": "2026-10-15T13:00:00.000Z",
+   "category": "incidents-society",
+   "summary": "404 Media examines how commercial data centres used for military purposes are becoming wartime targets.",
+   "relevance": 4,
+   "tags": [
+    "data-centres",
+    "conflict",
+    "risk"
+   ]
+  },
+  {
+   "id": "2026-10-16-127",
+   "title": "AI Agent Workflows Could Expose Credentials Through Trusted Developer Tools",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82QmJja2J5Z1NJdWdrdFFqUjVtbk5wMlV1QkROdWw1VEt6R3VVSkV2dVpnekNRcWhtTmVrYU52UHNkczlmZVZhZTNsQ0hjZl9hLWdKNFRjd3rSAVhBVV95cUxPNkJiY2tieWdTSXVna3RRalI1bW5OcDJVdUJETnVsNVRLekd1VUpFdnVaZ3pDUXFobU5la2FOdlBzZHM5ZmVWYWUzbENIY2ZfYS1nSjRUY3d6?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-15T11:18:31.000Z",
+   "category": "ai-security",
+   "summary": "Report finds AI agent workflows can leak credentials via trusted developer tooling.",
+   "relevance": 4,
+   "tags": [
+    "agents",
+    "credentials",
+    "devtools"
+   ]
+  },
+  {
+   "id": "2026-10-16-002",
+   "title": "Notes from the Asia-Pacific region: China, Hong Kong advance AI security, data accountability",
+   "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-china-hong-kong-advance-ai-security-data-accountability",
+   "source": "IAPP",
+   "published": "2026-10-16T05:47:22.728Z",
+   "category": "policy-regulation",
+   "summary": "IAPP regional notes on China and Hong Kong advancing AI security rules and data accountability requirements.",
+   "relevance": 3,
+   "tags": [
+    "china",
+    "hong-kong",
+    "data-governance"
+   ]
+  },
+  {
+   "id": "2026-10-16-009",
+   "title": "Are open-weight AI models safe?",
+   "url": "https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/",
+   "source": "Sifted",
+   "published": "2026-10-16T05:00:57.000Z",
+   "category": "industry-compute",
+   "summary": "Sifted examines the safety debate around open-weight AI models.",
+   "relevance": 3,
+   "tags": [
+    "open-weights",
+    "safety",
+    "europe"
+   ]
+  },
+  {
+   "id": "2026-10-16-012",
+   "title": "Europe’s AI fintech market mapped: 94 startups automating the business of money",
+   "url": "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/",
+   "source": "Sifted",
+   "published": "2026-10-16T05:00:03.000Z",
+   "category": "industry-compute",
+   "summary": "Sifted maps 94 European startups applying AI to fintech and financial operations.",
+   "relevance": 3,
+   "tags": [
+    "fintech",
+    "europe",
+    "startup-map"
+   ]
+  },
+  {
+   "id": "2026-10-16-014",
+   "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+   "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+   "source": "Latent Space",
+   "published": "2026-10-16T04:16:45.000Z",
+   "category": "research",
+   "summary": "Newsletter item claims AI agents produced evidence against polysemanticity and improved interpretability and alignment work; claims are early and unverified.",
+   "relevance": 3,
+   "tags": [
+    "interpretability",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-16-023",
+   "title": "Ping An Digital Bank tests AI to detect deepfake fraud",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVkVRcC11WnMzXzlmb0lGUjlmckJSaTdad0dzcVU4MjhwS1FHaXBTSDk1ZS0tWjhZaUdSNVhiekZnMmpQTG9NUnNNR09CZVlUUmNiczM1c3JGMEFwcTVtZHdjN0owY2RxLW1jZlVDcDRiZ2RLV2szci05aUEzTW45UVY2VVdGV2tQVVVIRDVSRQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-16T02:03:00.000Z",
+   "category": "ai-threats",
+   "summary": "Ping An Digital Bank is testing AI systems to detect deepfake-based fraud.",
+   "relevance": 3,
+   "tags": [
+    "deepfakes",
+    "banking",
+    "fraud"
+   ]
+  },
+  {
+   "id": "2026-10-16-025",
+   "title": "Ping An Digital Bank reports over 96% deepfake detection in HKMA sandbox",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVFFhVkxmbDQtcDBLNUtnam9EY3lmby1URXVtbkpBNEdXRjFwc0RaUG1oNHFBenZDelpqSVY5bndpWXpySXlqbmFDY1htMGJuWldrc2cwdG9QeEFzd3hLeXoyWXdpM2pFZGRxMHFKTQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-16T01:46:08.000Z",
+   "category": "ai-threats",
+   "summary": "Ping An Digital Bank reports over 96% deepfake detection accuracy in the Hong Kong Monetary Authority's GenAI sandbox.",
+   "relevance": 3,
+   "tags": [
+    "deepfakes",
+    "hkma",
+    "banking"
+   ]
+  },
+  {
+   "id": "2026-10-16-027",
+   "title": "A mesterséges intelligencia javítja az időjárás-előrejelzést: a kutatók megduplázták a 2–6 hétre szóló előrejelzések megbízhatóságát",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNREp6cU0tR3FfQVhiazRSQk4zenZ2aFpvcFRkZ1dYM1ZDaXBqVVVid2gxalJ5bHNvdkIySngwYmR1c3NlRXg4alZnRlpNQ2VFblZ1QmIyNWx2S0ZPdS1MdVNiNlBlYlBIY3JHSHllUS1sZ2N2UmFSLVBub0xyZGdZOWV5eUdvUFpRSFFrYi1YU0tfMDdwZkh6X3BXUUVvTDJ5akFDdlFOcW03N1lZOVVzbmVBdXgyNi03RE5BUC15X1BhUUZJRmVuUFJCVnQ2YnJ0OTJMWWFXRzAwV2tlOTd6TUVOVjJPSldKeUdoSG5WcThqOXVOUTNIcnhJcUl2TmF5U2tqUTN4WkpINFk?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-16T01:19:00.000Z",
+   "category": "research",
+   "summary": "Hungarian report that AI has doubled the reliability of 2–6 week weather forecasts.",
+   "relevance": 3,
+   "tags": [
+    "weather",
+    "forecasting"
+   ]
+  },
+  {
+   "id": "2026-10-16-047",
+   "title": "AI Hacks Leave a Mess That AI Companies Aren’t Paying For",
+   "url": "https://www.wired.com/story/ai-hacks-leave-a-mess-that-ai-companies-arent-cleaning-up/",
+   "source": "Wired – AI",
+   "published": "2026-10-15T21:00:28.000Z",
+   "category": "incidents-society",
+   "summary": "Wired argues victims of AI-model-driven hacks rarely seek redress and are instead pushed to adopt the same AI tools.",
+   "relevance": 3,
+   "tags": [
+    "liability",
+    "cyber",
+    "accountability"
+   ]
+  },
+  {
+   "id": "2026-10-16-060",
+   "title": "Android gets AI defenses against messaging scams, fake calls",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWtlYlVsTk1FMEhUZXE1TmhkMm1SRHJ3WmZUbW4wLVNDc1RYMkFDeWpXT0lQcVkxOFNSOE1UbXVrZDEwYUE3cVVSckVzTC13ZXZJVGItSWFYOTlOX0taYkd0SE5uS053Z2FCMkM1bl9xVGNxc1ZwMXJET05TWklHczJBUldnQjZ3VGxVT0FLN0k4UWFneDhzUmxueGIzNDUzdW44ZUFDRUthc0XSAbABQVVfeXFMTU05aHY5QlpMWUFmMlBUUXdzRDFwcW81V2FYVFRDd0M0bFRHSnl4b3JjdVFoYjlKWHNXM3RCaGdxOEdUeUdsUXk4bTJZbllkYmRnLS13am9LZ3prRFhhdWd2TnU3S3FBVi02RmlPdnV3M2FfcmNmaTVqbTZpVjIwWjJZM2g4Tl9KWW00Rkh5Q1VBcXNDb01TbXUtOFNFc3pOS19XeDRxWTBmZTNHaElYRkk?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-10-15T19:48:43.000Z",
+   "category": "ai-threats",
+   "summary": "Android adds AI-based defences against messaging scams and fake calls.",
+   "relevance": 3,
+   "tags": [
+    "android",
+    "scam-detection",
+    "google"
+   ]
+  },
+  {
+   "id": "2026-10-16-082",
+   "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+   "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-15T17:43:35.000Z",
+   "category": "agents-tools",
+   "summary": "Meta's coding-focused Muse Spark Open is now deployable via Amazon SageMaker JumpStart endpoints.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "sagemaker",
+    "muse-spark"
+   ]
+  },
+  {
+   "id": "2026-10-16-091",
+   "title": "Accenture Tells Employees They Can Now Spend Only $29 on Claude Per Month",
+   "url": "https://www.404media.co/accenture-tells-employees-they-can-now-spend-only-29-on-claude-per-month/",
+   "source": "404 Media",
+   "published": "2026-10-15T16:46:18.000Z",
+   "category": "incidents-society",
+   "summary": "Accenture reportedly capped employee Claude spending at $29 per month, disrupting heavy users who spent far more.",
+   "relevance": 3,
+   "tags": [
+    "accenture",
+    "claude",
+    "enterprise-ai"
+   ]
+  },
+  {
+   "id": "2026-10-16-094",
+   "title": "Video Game Reverse Engineering Community Shuts Down Because AI Has Made It Too Easy",
+   "url": "https://www.404media.co/video-game-reverse-engineering-community-shuts-down-because-ai-has-made-it-too-easy/",
+   "source": "404 Media",
+   "published": "2026-10-15T16:31:30.000Z",
+   "category": "incidents-society",
+   "summary": "A video game reverse-engineering community shut down because AI has made decompilation trivially easy.",
+   "relevance": 3,
+   "tags": [
+    "reverse-engineering",
+    "community",
+    "decompilation"
+   ]
+  },
+  {
+   "id": "2026-10-16-095",
+   "title": "Measuring Human Cryptanalysis Effort",
+   "url": "https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html",
+   "source": "Schneier on Security",
+   "published": "2026-10-15T16:24:29.000Z",
+   "category": "research",
+   "summary": "Schneier highlights a site estimating cryptanalyst-hours spent on public-key assumptions such as ECDLP and lattices, derived from the literature.",
+   "relevance": 3,
+   "tags": [
+    "cryptography",
+    "research"
+   ]
+  },
+  {
+   "id": "2026-10-16-098",
+   "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+   "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+   "source": "Google DeepMind",
+   "published": "2026-10-15T16:08:03.000Z",
+   "category": "research",
+   "summary": "Google DeepMind describes using Google Antigravity for Science to accelerate discovery of antimicrobial peptides.",
+   "relevance": 3,
+   "tags": [
+    "deepmind",
+    "biology",
+    "science"
+   ]
+  },
+  {
+   "id": "2026-10-16-120",
+   "title": "68% of Hiring Managers Say AI-Powered Fraud Is Outpacing Detection, Checkr Report Finds",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZEpWTVNXSTRZb255bkx3eHV1SDcya01HNG9vVi04YzdoSGRxNGZWTVBIYjdVbGU3bHNyVW93NW1jaEdTanJXYl9fZmYwem1XdHFkRGRpR1Z1VHlnRHFLNnN5NmhrNERkNWc2ak5sbld5REpvR1pDSzZIR2E4aTRJSERfQkFvU1VrX3VtM2I2bTlMYTJDV1ZJRWtsbEczeHRqaGVhMEtNZmFELS15UGFxbXRlQmo1Rm4tMVRFaDVuWGhqQ1dNajhZaHpXaEg3YVhJb2VLNGE3OWY?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-15T13:05:00.000Z",
+   "category": "ai-threats",
+   "summary": "Checkr report says 68% of hiring managers believe AI-powered fraud, including fake candidates, is outpacing detection.",
+   "relevance": 3,
+   "tags": [
+    "hiring-fraud",
+    "deepfakes",
+    "survey"
+   ]
+  }
+ ]
+}
