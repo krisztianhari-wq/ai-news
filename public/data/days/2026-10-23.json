@@ -1,0 +1,1037 @@
+{
+ "date": "2026-10-23",
+ "generatedAt": "2026-10-23T05:49:40.556Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 52,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 4
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-10-23-003",
+   "title": "EU member states finalize negotiating stance on Digital Omnibus",
+   "url": "https://iapp.org/news/a/eu-member-states-finalize-digital-omnibus-negotiating-stance",
+   "source": "IAPP",
+   "published": "2026-10-23T05:47:12.717Z",
+   "category": "policy-regulation",
+   "summary": "EU member states have agreed their negotiating position on the Digital Omnibus package, which touches data and AI rule simplification.",
+   "relevance": 5,
+   "tags": [
+    "eu",
+    "digital-omnibus",
+    "ai-act"
+   ]
+  },
+  {
+   "id": "2026-10-23-026",
+   "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+   "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-22T22:08:24.000Z",
+   "category": "industry-compute",
+   "summary": "OpenAI is reportedly working on a $30 billion raise at a $1.25 trillion valuation ahead of a potential IPO, which would be a record for a private company.",
+   "relevance": 5,
+   "tags": [
+    "openai",
+    "funding",
+    "ipo"
+   ]
+  },
+  {
+   "id": "2026-10-23-029",
+   "title": "Sharp drops for AI stocks overwhelm markets worldwide as oil prices jump",
+   "url": "https://www.theguardian.com/business/2026/oct/22/stock-markets-drop-ai-oil",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T21:50:13.000Z",
+   "category": "industry-compute",
+   "summary": "AI-linked stocks dropped sharply worldwide on data centre and chip cost concerns; the Nasdaq fell 2.6% and the S&P 500 1.2%, its worst day since July.",
+   "relevance": 5,
+   "tags": [
+    "markets",
+    "ai-bubble",
+    "nasdaq"
+   ]
+  },
+  {
+   "id": "2026-10-23-060",
+   "title": "Major US banks are locking out AI agents that log in with customer credentials",
+   "url": "https://the-decoder.com/major-us-banks-are-locking-out-ai-agents-that-log-in-with-customer-credentials/",
+   "source": "The Decoder",
+   "published": "2026-10-22T18:26:02.000Z",
+   "category": "agents-tools",
+   "summary": "Major US banks including Morgan Stanley and JPMorgan are blocking or restricting AI agents that log in with customer credentials, with many moving to read-only access.",
+   "relevance": 5,
+   "tags": [
+    "banking",
+    "agents",
+    "identity"
+   ]
+  },
+  {
+   "id": "2026-10-23-072",
+   "title": "Google's Agent Compute Engine gives every Gemini agent its own hardware-isolated micro virtual machine",
+   "url": "https://the-decoder.com/googles-agent-compute-engine-gives-every-gemini-agent-its-own-hardware-isolated-micro-virtual-machine/",
+   "source": "The Decoder",
+   "published": "2026-10-22T17:50:09.000Z",
+   "category": "agents-tools",
+   "summary": "Google's Agent Compute Engine gives each Gemini agent a hardware-isolated micro VM and adds governance features for cloud, hybrid and on-prem deployments.",
+   "relevance": 5,
+   "tags": [
+    "google",
+    "gemini",
+    "agent-isolation"
+   ]
+  },
+  {
+   "id": "2026-10-23-089",
+   "title": "Hackers got a four-day head start on epic PHP2Shell vulnerability",
+   "url": "https://arstechnica.com/security/2026/10/hackers-got-a-four-day-head-start-on-epic-php2shell-vulnerability/",
+   "source": "Ars Technica – AI",
+   "published": "2026-10-22T15:25:02.000Z",
+   "category": "ai-security",
+   "summary": "Attackers were probing the critical PHP2Shell vulnerability about four days before defenders were informed it existed.",
+   "relevance": 5,
+   "tags": [
+    "php2shell",
+    "vulnerability",
+    "exploitation"
+   ]
+  },
+  {
+   "id": "2026-10-23-094",
+   "title": "Barclays to cut 5,000 jobs as bank’s bosses hail AI productivity advances",
+   "url": "https://www.theguardian.com/business/2026/oct/22/barclays-profits-up-as-uk-banks-brace-for-tax-increase-in-budget",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T14:39:29.000Z",
+   "category": "incidents-society",
+   "summary": "Barclays is cutting 5,000 jobs, about 5% of global staff, with executives citing AI-driven productivity gains alongside higher quarterly profits.",
+   "relevance": 5,
+   "tags": [
+    "barclays",
+    "jobs",
+    "banking"
+   ]
+  },
+  {
+   "id": "2026-10-23-103",
+   "title": "New Serious PHP Vulnerabilities Released and Patched",
+   "url": "https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html",
+   "source": "Schneier on Security",
+   "published": "2026-10-22T13:26:51.000Z",
+   "category": "ai-security",
+   "summary": "Schneier summarises PHP fixes for two critical unauthenticated remote code execution flaws affecting all web-serving installations, with mod_php at highest risk.",
+   "relevance": 5,
+   "tags": [
+    "php",
+    "rce",
+    "patching"
+   ]
+  },
+  {
+   "id": "2026-10-23-116",
+   "title": "EU AI Act: first harmonised standard covers only quality system",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX2ZidUJMNDRpT2pETk5FWG1jZXJiTk01cjd3WHA0cDkwdUEyVF95endwRkpjRENKNFNzNU1RLS1tckxXZXRUM1ptRGhFRVhmZk52WFgza3hGT0hseU5HbmFzWmlzYkRySk15RC0xSExVWEdzSWpTYXVVMVY3dTUxRmJWbWhtRnhmRWpJZ0NVdnhTaXdzRU1STHhn?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-22T12:16:00.000Z",
+   "category": "policy-regulation",
+   "summary": "The first harmonised standard under the EU AI Act reportedly covers only the quality management system, leaving other requirements unaddressed.",
+   "relevance": 5,
+   "tags": [
+    "ai-act",
+    "standards",
+    "cen-cenelec"
+   ]
+  },
+  {
+   "id": "2026-10-23-122",
+   "title": "‘Pure arrogance’: anger in Finland as Google illegally fells 250,000 trees for datacentre",
+   "url": "https://www.theguardian.com/environment/ng-interactive/2026/oct/22/finland-google-felling-trees-datacentre",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T11:22:23.000Z",
+   "category": "incidents-society",
+   "summary": "Google was ordered to halt work at two Finnish sites after illegally felling an estimated 250,000 trees across 330 hectares for a data centre near Muhos.",
+   "relevance": 5,
+   "tags": [
+    "google",
+    "finland",
+    "data-centres"
+   ]
+  },
+  {
+   "id": "2026-10-23-142",
+   "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jeWhMdkF2cUFmbnF0TkZTX080dFRCbGhXbW91RkI4MG9ydUE0ZDFRWk1WUGZsanZ6dUp3Z3ktMEs1NHR2dnRBQmROdzA4SFhfOVdYbElKZHpsTnFQd0JuYUJlMmdEcWlDNC1ERXdpajVNamZEZkotZkxod3U?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-22T04:21:00.000Z",
+   "category": "ai-threats",
+   "summary": "China-linked hackers reportedly used ARTEX AI agents in a supply chain attack against ConnectWise.",
+   "relevance": 5,
+   "tags": [
+    "supply-chain",
+    "china",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-10-23-145",
+   "title": "Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched",
+   "url": "https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+   "source": "Wired – AI",
+   "published": "2026-10-22T02:24:17.000Z",
+   "category": "ai-security",
+   "summary": "AWS logged exploitation attempts against the PHP2Shell bugs four days before disclosure; the flaws are now being broadly exploited across the internet.",
+   "relevance": 5,
+   "tags": [
+    "php2shell",
+    "zero-day",
+    "aws"
+   ]
+  },
+  {
+   "id": "2026-10-23-002",
+   "title": "A view from Brussels: Final countdown to the Digital Fairness Act has started",
+   "url": "https://iapp.org/news/a/a-view-from-brussels-final-countdown-to-the-digital-fairness-act-has-started",
+   "source": "IAPP",
+   "published": "2026-10-23T05:47:12.717Z",
+   "category": "policy-regulation",
+   "summary": "Brussels commentary says the final stretch of negotiations on the EU Digital Fairness Act has begun.",
+   "relevance": 4,
+   "tags": [
+    "eu",
+    "digital-fairness-act"
+   ]
+  },
+  {
+   "id": "2026-10-23-005",
+   "title": "New Mexico court orders Meta to pay $25B over Cambridge Analytica incident",
+   "url": "https://iapp.org/news/a/new-mexico-court-orders-meta-to-pay-25b-over-cambridge-analytica-incident",
+   "source": "IAPP",
+   "published": "2026-10-23T05:47:12.717Z",
+   "category": "policy-regulation",
+   "summary": "A New Mexico court ordered Meta to pay $25 billion in connection with the Cambridge Analytica data incident.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "privacy",
+    "litigation"
+   ]
+  },
+  {
+   "id": "2026-10-23-006",
+   "title": "Red-Teaming Auto Mode: Improving Blocking Classifiers Against Malign Coding Agents We red-team the blocking monitors in Claude Code and OpenAI's Codex with an adversarial agent, and strengthen Auto M…",
+   "url": "https://alignment.anthropic.com/2026/red-teaming-auto-mode/",
+   "source": "Anthropic Alignment Science",
+   "published": "2026-10-23T05:47:11.188Z",
+   "category": "safety-evals",
+   "summary": "Anthropic red-teamed the blocking monitors in Claude Code and OpenAI's Codex with an adversarial agent and reports strengthened Auto Mode classifiers against malicious coding agents.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "claude-code",
+    "red-teaming"
+   ]
+  },
+  {
+   "id": "2026-10-23-007",
+   "title": "Donating Agent Skills to the Agentic AI Foundation",
+   "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+   "source": "Anthropic News",
+   "published": "2026-10-23T05:47:10.516Z",
+   "category": "agents-tools",
+   "summary": "Anthropic is donating its Agent Skills specification/assets to the Agentic AI Foundation, moving them toward open governance.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "agent-skills",
+    "open-standards"
+   ]
+  },
+  {
+   "id": "2026-10-23-011",
+   "title": "Nvidia funds European startups. They spend it on Nvidia",
+   "url": "https://sifted.eu/articles/nvidia-european-investments-2026/",
+   "source": "Sifted",
+   "published": "2026-10-23T05:00:55.000Z",
+   "category": "industry-compute",
+   "summary": "Sifted reports that European startups funded by Nvidia largely spend the money back on Nvidia hardware, raising questions about circular investment.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "europe",
+    "vc"
+   ]
+  },
+  {
+   "id": "2026-10-23-018",
+   "title": "DeepSeek and MiniMax Complete AI Export Registration and Move Ahead With Overseas Licensing",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSWpTa0l0eHo3eXpCSjVIZUlQdjZTMkRHejNSNVBUd0lzSHhRV3d4eHZTdGxicDU2TUc2TldsZmN1VjN4R2poM0ZoMDhhSU9CSy0yTi1GQ2xoQ0lXaDBINFVYUHU2d09IQ2oxVG1OY3JUS2t2VFEzM2JLWW9RWm5VWjE5cTFmWmp3U2dJemNoOEZ0VnBKMWp3VHJ0RTZFZDFyOWNKbVk2b0JrdDVHRzZJZQ?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-23T01:56:15.000Z",
+   "category": "models-releases",
+   "summary": "DeepSeek and MiniMax have completed Chinese AI export registration, enabling them to proceed with overseas licensing of their models.",
+   "relevance": 4,
+   "tags": [
+    "deepseek",
+    "minimax",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-10-23-020",
+   "title": "Anthropic launches Claude Duet to challenge Meta and OpenAI in agents - CHOSUNBIZ",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSjl3UFU4TDVGb3kzM2lXaXNxc0p0NjM4MDhMQ0RDcFVRd3AwMWNqNDlGYkZoUmcwUGtVeV9hemRrZjl2Z0ZqYUZ0UzdsOGtrQVBRRjVnUzZaMU91SDNFQXBQVzcybFdQSHBSS0hrM1ptc2NpdmZucktkb3R0UVNRVm5ETFJqYm43VmZ0OFp30gGOAUFVX3lxTE5KOXdQVThMNUZveTMzaVdpc3FzSnQ2MzgwOExDRENwVVF3cDAxY2o0OUZiRmhSZzBQa1V5X2F6ZGtmOXZnRmphRnRTN2w4a2tBUFFGNWdTNloxT3VIM0VBcFBXNzJsV1BIcFJLSGszWm1zY2l2Zm5yS2RvdHRRU1FWbkRMUmpibjdWZnQ4Wnc?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-23T00:42:00.000Z",
+   "category": "models-releases",
+   "summary": "Korean media report Anthropic has launched Claude Duet, an agent offering positioned against Meta and OpenAI consumer agents.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "claude-duet",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-23-032",
+   "title": "EU AI Act Article 50 Transparency in Practice | Kovrr",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYmlTUE9YbUx6a1BobGQtX2lpcGxjU2QtaTBmWVdaYVVNalZFc0ZER0wydkpUQUJyQVlseHYyNXFRNXBfZ1QtU253eV9pRVJKeV8zUl82bHZVcFlLS0JEVEJZMzdOSUJ2dTUyWmhLRHNFazdCR041NV9hNGxPZUt5bG5XVWFuQzVySkgxdDVQamM1cnZu?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-22T21:15:02.000Z",
+   "category": "policy-regulation",
+   "summary": "Analysis of how EU AI Act Article 50 transparency obligations translate into practice for deployers.",
+   "relevance": 4,
+   "tags": [
+    "ai-act",
+    "article-50",
+    "transparency"
+   ]
+  },
+  {
+   "id": "2026-10-23-039",
+   "title": "Meta turns Muse sharing back on",
+   "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+   "source": "The Verge – AI",
+   "published": "2026-10-22T20:24:04.000Z",
+   "category": "ai-security",
+   "summary": "Meta re-enabled sharing in its Muse assistant after researchers at Claroc found public conversation links exposing sensitive business documents.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "muse",
+    "data-exposure"
+   ]
+  },
+  {
+   "id": "2026-10-23-046",
+   "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+   "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-22T19:07:09.000Z",
+   "category": "agents-tools",
+   "summary": "1Password launched a capability letting AI agents log into user accounts without exposing the underlying credentials.",
+   "relevance": 4,
+   "tags": [
+    "1password",
+    "agents",
+    "identity"
+   ]
+  },
+  {
+   "id": "2026-10-23-047",
+   "title": "Build more responsive apps with the Decisions API",
+   "url": "https://openai.com/index/decisions-api",
+   "source": "OpenAI News",
+   "published": "2026-10-22T19:00:00.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI introduced a Decisions API offering fast, low-cost decision calls for applications.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "decisions-api",
+    "developers"
+   ]
+  },
+  {
+   "id": "2026-10-23-053",
+   "title": "Palantir chief: Europe must ‘accept some dependency’ on US tech",
+   "url": "https://sifted.eu/articles/palantir-louis-mosley-european-tech-sovereignty/",
+   "source": "Sifted",
+   "published": "2026-10-22T18:56:43.000Z",
+   "category": "industry-compute",
+   "summary": "Palantir's chief said Europe must 'accept some dependency' on US technology, touching on sovereignty debates.",
+   "relevance": 4,
+   "tags": [
+    "palantir",
+    "sovereignty",
+    "europe"
+   ]
+  },
+  {
+   "id": "2026-10-23-056",
+   "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+   "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-22T18:43:53.000Z",
+   "category": "research",
+   "summary": "Microsoft's AI diagnostic system outperformed generalist doctors on hard cases in a Science study, though most gains appear to come from the underlying models.",
+   "relevance": 4,
+   "tags": [
+    "microsoft",
+    "healthcare",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "2026-10-23-058",
+   "title": "Steep bill for AI buildout punishes Meta, other tech favorites",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaG4yYUM1ZzJnZmtpWnhIUVEzU01PRmxZM1BDRDJLazA1dkdaX3k0Z2pPMHJJUi1HUEM2OF9oV1JzSFh3d1dEU0dzc3JMQWRCeDhRa2JvNGVBbVluUlY4UGY3REoyWVZkTFBZT3BGa0swX2s1RzY3MDM5ZWlBTm1wYVBYNEt5M2VlTFoyRVNTTXJUaUVVYzVNcUtQQ2hfUW9nalZGbQ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-22T18:33:00.000Z",
+   "category": "industry-compute",
+   "summary": "Reuters reports investors punished Meta and other tech favourites over the rising cost of the AI build-out.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "capex",
+    "markets"
+   ]
+  },
+  {
+   "id": "2026-10-23-063",
+   "title": "External evaluators find flaws in OpenAI's AI monitoring system in pilot review",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa2JvMy1McnRUdXBvVGlqSDhtMERqUGQyczh4TzJpTGFLX21ncWdQMXZOLW9YNW01b3hvWm1iWnVEQmtfQWowX1JRdzgzZFBlZVk4d0pxbFFnX3p0andwR09xWU9Fb2gtQ2hBZXI0QmlKZU1OWGlLQW1RdEtJTlM1WUVIdk15U0xQYU00eVl5UThUX2M3N0ZZOFJKM3R1RVF5RUpoTTRFZ05EQmw5WG8tS2ZB?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-22T18:14:36.000Z",
+   "category": "safety-evals",
+   "summary": "External evaluators in a pilot review found flaws in OpenAI's AI monitoring system, per Reuters.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "evaluations",
+    "monitoring"
+   ]
+  },
+  {
+   "id": "2026-10-23-071",
+   "title": "Blackstone backs $18B debt deal for Anthropic's AI chips",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOelhDcmZoVXJtSkd6Z3pQdk5VZTBKOXJaNVM3U1RWd1VDbDg2a1RzS3dLd0JHcUJnVlZQcncyQjE4TloyR0xPZ2tDSTJLMmlWQWVoNHMzRmVHR0RKNkVWLVk3emhNY0NiNkNTWUNGUjhmUTdnY3BMRFF3Q1R0REU5N1U3SnRJd3I0TUtRWEFPV1htV00?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-10-22T17:51:32.000Z",
+   "category": "industry-compute",
+   "summary": "Blackstone is backing an $18 billion debt deal to finance AI chips for Anthropic.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "blackstone",
+    "financing"
+   ]
+  },
+  {
+   "id": "2026-10-23-077",
+   "title": "The Guardian view on AI safety: the push for global regulation must advance | Editorial",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/the-guardian-view-on-ai-safety-the-push-for-global-regulation-must-advance",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T17:30:45.000Z",
+   "category": "policy-regulation",
+   "summary": "Guardian editorial argues global AI safety regulation must advance, noting AI both helped find and could accelerate exploitation of the critical PHP flaws.",
+   "relevance": 4,
+   "tags": [
+    "ai-safety",
+    "regulation",
+    "php"
+   ]
+  },
+  {
+   "id": "2026-10-23-078",
+   "title": "The race to fix huge PHP code flaw at the heart of the internet - The Latest",
+   "url": "https://www.theguardian.com/news/video/2026/oct/22/the-race-to-fix-huge-php-flaw-at-the-heart-of-the-internet-the-latest",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T17:12:07.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian podcast on the global scramble to patch a critical PHP flaw that has taken websites offline amid fears of data theft and server takeover.",
+   "relevance": 4,
+   "tags": [
+    "php",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-10-23-097",
+   "title": "AI Is Changing Everything About Hacking. No One Knows What Happens Next",
+   "url": "https://www.404media.co/php2shell-black-october-ai-is-changing-everything-about-hacking-no-one-knows-what-happens-next/",
+   "source": "404 Media",
+   "published": "2026-10-22T14:23:36.000Z",
+   "category": "ai-threats",
+   "summary": "404 Media reports security experts are alarmed that AI is transforming offensive hacking, following the PHP flaws and a wave of other bugs dubbed 'Black October'.",
+   "relevance": 4,
+   "tags": [
+    "offensive-ai",
+    "php",
+    "cybersecurity"
+   ]
+  },
+  {
+   "id": "2026-10-23-100",
+   "title": "The internet has broken – again. Shouldn’t the tech firms that make billions from it pay to fix it? | Chris Stokel-Walker",
+   "url": "https://www.theguardian.com/commentisfree/2026/oct/22/website-shutdowns-ai-human-inaction-developers",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T13:46:26.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian opinion argues big tech should fund maintenance of critical open-source infrastructure after the PHP outage wave hit Dutch and Finnish public services.",
+   "relevance": 4,
+   "tags": [
+    "open-source",
+    "php",
+    "funding"
+   ]
+  },
+  {
+   "id": "2026-10-23-115",
+   "title": "UAE leads landmark global operation with 30 countries and leading technology companies against AI-powered fraud networks",
+   "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOT1NwM0xma2lEeGhXVGJKVEhFd0lrcThhWnJSRXdpdW9UelgxSkVaM2Uxa2lCTk5NdlRxOHZKOURLTTNwWExEeWx3TVdWRkFEalY4dzRuSVY5NlV6YWNGMHZPQ05nZXJWcDJBNHVSRlRnUzl0VUJWeVM1QkdIVW9tS2MwNFhkNkZrZ04yaDc1SGJ1MFBRREFuQ3dKOUwwaDlsLTNVUXZ0YmwxRGd4cVFCTmtFaVZDNXdyVmpKQ0FOQ0NjSnNvUGwzS29PcEItNWpuYURmQXFITGlyeUtTOGNvSHg5QUtBbjlhaGdMSWxCYm1oLXBtemJEU2ZFRW1HSGNPZkxvLVNQQjBZVEU?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-22T12:25:48.000Z",
+   "category": "ai-threats",
+   "summary": "The UAE led a global operation with 30 countries and major technology companies targeting AI-powered fraud networks.",
+   "relevance": 4,
+   "tags": [
+    "law-enforcement",
+    "fraud",
+    "uae"
+   ]
+  },
+  {
+   "id": "2026-10-23-117",
+   "title": "AI Agents Aid China-Linked Hacker Group in Attacking Hundreds of Organizations",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMl9zbFljMUJPZXF1ZTNfc3BqbWVTMUVSbDlXTmtrY3ZfcGxsd0VhTXJacjU4Ylh2LWZVR3RPYkh1R3hycnd0Qk5seE8wWEVVNDVtd0FGZ0lKSUxzVElmV1dBbk5pZFduZXItZ2tXNWxSVzJ4cXlHS2IwOVNyeG9TNTFpZXE5cGFSQ2tKTDFtTUgzMGR4RmR0aDF0WlFvSUdHTXlCUQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-22T12:14:00.000Z",
+   "category": "ai-threats",
+   "summary": "Reports that a China-linked hacking group used AI agents to help attack hundreds of organisations.",
+   "relevance": 4,
+   "tags": [
+    "china",
+    "ai-agents",
+    "apt"
+   ]
+  },
+  {
+   "id": "2026-10-23-120",
+   "title": "Anthropic launches Claude Duet AI agent to compete with META, OpenAI in consumer market",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYW00ZVR4MnlKa2tZY2RnTC1QbXpoTFdzVlN3SUZWTmlOLTV1UVVVMlJqTkt0TFRZVGRxYzUwSGw2N2V4X2xHamxaaTJvWk9qN01iZC1QU0FsdHBUZG5oYXlETHpXY01Fd0NCaVdfTEx2bEFCcktyMHdsdlk0b19QWGpBbnl6UjhRTzJDUmNFNkFGN0oyWXR3TGQwZ2plVUd1NnVpeEdpMDBLcmxiSmZ6X1VZUjhTS3JidzJ1bjNuWUt5UmRacGtKTURR?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-22T11:55:00.000Z",
+   "category": "models-releases",
+   "summary": "Anthropic launched Claude Duet, an AI agent aimed at the consumer market in competition with Meta and OpenAI.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "claude-duet",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-23-124",
+   "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE95emQ3bGJVLXh0M3RhQkN6WEpqOS1xWmJBWW9OaUtzRDdMSXl2TmloYWxfaS1SUW5tSzloSHpmZUdGUVg5NVBIYmN4aG9YaUhyNTR1b0t4cV9SSHFQcmVkTmtzckZYSWVxWFdvdkJ0bzVsQ3lqSlpSRjdQdw?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-22T10:44:00.000Z",
+   "category": "ai-security",
+   "summary": "A flaw in OpenCode allows malicious MCP servers to execute code during sign-in on Windows and WSL.",
+   "relevance": 4,
+   "tags": [
+    "mcp",
+    "opencode",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-10-23-131",
+   "title": "Attackers Target Flowise AI Agents With Credential Theft, Prompt Injection and Workflow Hijacking",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wOThqaTZWb1d2VDJCa3ktRzlQeUh5a0ROQTFneGI3bUhMNkZJVFBvU2FQOEc4M1dlc09oU0NlajBycFp0dWFWRG5xZHU5aDVBQ1HSAVdBVV95cUxOanJYZkVJQ1c1bk00ZzFwQU5MVGFNTEdINWV3OXVJSUMwUzZFX3ZNbDkycmNOTFZ1bHRuckxHNHJQd01KbUVES2ZnaVk4TUtGN08zZVdoQTQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-22T09:31:54.000Z",
+   "category": "ai-security",
+   "summary": "Attackers are targeting Flowise AI agent deployments with credential theft, prompt injection and workflow hijacking.",
+   "relevance": 4,
+   "tags": [
+    "flowise",
+    "prompt-injection",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-10-23-009",
+   "title": "LexisNexis: U.S. Financial Services Firms Lose $5.47 for Every $1 of Fraud",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNenhKRkJhZGNhQ1BSWjVfUnM0MWt2U2tkR3BzeUlneFRvbFQ0SDh3YkV6N01aNHJRSmFYbkVIVGpncHFOUE1oVVYxc2tVZHpYTzhmeU1rVFBYYk90V0dEeEhKUHlEdXNXRzh2U1Zld3VJNmdULV9XbnZZcDRITDB2REtNelVXRDZDa0phem1WQnljSWp5dkVneUpyanBsYmc?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-23T05:13:11.000Z",
+   "category": "ai-threats",
+   "summary": "LexisNexis data cited by ABF Journal says US financial services firms lose $5.47 for every $1 of fraud, amid rising AI-enabled scams.",
+   "relevance": 3,
+   "tags": [
+    "fraud",
+    "financial-services"
+   ]
+  },
+  {
+   "id": "2026-10-23-019",
+   "title": "Left alone with nothing to do, AI agents started playing",
+   "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-23T00:45:37.000Z",
+   "category": "research",
+   "summary": "MIT researchers placed 13 AI agents on a virtual island; left idle they invented games and social rituals and later performed better at tasks.",
+   "relevance": 3,
+   "tags": [
+    "agents",
+    "mit",
+    "research"
+   ]
+  },
+  {
+   "id": "2026-10-23-023",
+   "title": "Hugging Face Announces AI Model to ‘Chat’ With DNA",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVUFXdnlobjF6RUdtVWVINUtNOEh4aFg4bzVkdE1zaG9mRW1qdlo4dTNaalFla0J2Y0NRUTNnZ1AtYlo1cGVPMEZvSFJ6a0FncUh6YTJwQmVYdDBVeWNLSVljTTFjcDlfODZHbnZBeEQ1ME5BRUtzN1o4cURyQzhFMG5OR2I?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-22T22:44:42.000Z",
+   "category": "models-releases",
+   "summary": "Hugging Face announced an AI model that lets researchers query DNA in natural language.",
+   "relevance": 3,
+   "tags": [
+    "hugging-face",
+    "biology",
+    "open-models"
+   ]
+  },
+  {
+   "id": "2026-10-23-025",
+   "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+   "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+   "source": "Hugging Face Blog",
+   "published": "2026-10-22T22:24:34.000Z",
+   "category": "research",
+   "summary": "Hugging Face post on ThinkingBox, turning database grading signals into reinforcement learning rewards for post-training agents.",
+   "relevance": 3,
+   "tags": [
+    "rl",
+    "post-training",
+    "hugging-face"
+   ]
+  },
+  {
+   "id": "2026-10-23-028",
+   "title": "Canva’s first AI image model plans designs before generating them",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+   "source": "The Verge – AI",
+   "published": "2026-10-22T21:51:25.000Z",
+   "category": "models-releases",
+   "summary": "Canva launched Canva Craft, its first in-house image generation model, using a two-stage architecture that plans a design before rendering.",
+   "relevance": 3,
+   "tags": [
+    "canva",
+    "image-generation"
+   ]
+  },
+  {
+   "id": "2026-10-23-031",
+   "title": "Designing an AI serving harness built to last",
+   "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
+   "source": "MIT Technology Review – AI",
+   "published": "2026-10-22T21:17:29.000Z",
+   "category": "research",
+   "summary": "MIT Technology Review argues enterprise AI advantage now lies in the serving harness built around models rather than model choice alone.",
+   "relevance": 3,
+   "tags": [
+    "enterprise-ai",
+    "infrastructure"
+   ]
+  },
+  {
+   "id": "2026-10-23-043",
+   "title": "Ötezer munkahelyet számol fel a világhírű bank a mesterséges intelligencia térnyerése miatt",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdkVnSXh5YmRTM081R3l2eG00R3pKc0VaaEFPTXZsSVhTR3locENTaXJJOHpxZlIwSTI0ZGR2V05EZlpUVkJ0ZEVTSkFOTWl0SDR2Z2owSEd2MzdIMXJWWU9hOFVCbEtFWjI0Z041UnBER25oM25IQ1NXVmhpdlRnTnoxUlF2bjRmdDFGdkt0WUFWYnZjSkhFTHJwZ3BJSU0?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-22T19:53:00.000Z",
+   "category": "incidents-society",
+   "summary": "Hungarian coverage of Barclays cutting 5,000 jobs, attributed partly to AI-driven productivity gains.",
+   "relevance": 3,
+   "tags": [
+    "barclays",
+    "jobs",
+    "banking"
+   ]
+  },
+  {
+   "id": "2026-10-23-050",
+   "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+   "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-22T19:00:00.000Z",
+   "category": "agents-tools",
+   "summary": "OpenAI is making its decision model broadly available as competition in low-latency decision models intensifies.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "decision-models"
+   ]
+  },
+  {
+   "id": "2026-10-23-066",
+   "title": "Announcing new ways to customize models with SageMaker AI, without managing GPUs",
+   "url": "https://aws.amazon.com/blogs/machine-learning/announcing-new-ways-to-customize-models-with-sagemaker-ai-without-managing-gpus/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-22T18:00:04.000Z",
+   "category": "agents-tools",
+   "summary": "Amazon SageMaker AI adds generally available serverless training sessions, letting teams run custom post-training loops without managing GPUs.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "sagemaker",
+    "fine-tuning"
+   ]
+  },
+  {
+   "id": "2026-10-23-075",
+   "title": "Is that really your colleague on a video call? | Newswise",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVW03eWhTbngxVmp4Nm9sMjlpNWR6NUNwSmtOSnBkTXBDUmhwS3Y4ckpEQWVCYy1VN3JWeEN0ZU13dS1LTnRoV0FQbWwwWGMtNDZqbUVjeU1hOVJKczhCcmRPeHQyaXlpLVJUQlI5WndkYzJHdDFXUFpuVmlkdFB5TG0ycEFMd9IBhgFBVV95cUxNVW03eWhTbngxVmp4Nm9sMjlpNWR6NUNwSmtOSnBkTXBDUmhwS3Y4ckpEQWVCYy1VN3JWeEN0ZU13dS1LTnRoV0FQbWwwWGMtNDZqbUVjeU1hOVJKczhCcmRPeHQyaXlpLVJUQlI5WndkYzJHdDFXUFpuVmlkdFB5TG0ycEFMdw?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-22T17:40:00.000Z",
+   "category": "ai-threats",
+   "summary": "Research-based piece on deepfake impersonation during video calls and how organisations can verify identity.",
+   "relevance": 3,
+   "tags": [
+    "deepfakes",
+    "video-calls"
+   ]
+  },
+  {
+   "id": "2026-10-23-080",
+   "title": "PHP: Pretty Huge Problem with the internet – The Latest",
+   "url": "https://www.theguardian.com/news/audio/2026/oct/22/php-pretty-huge-problem-with-the-internet-the-latest",
+   "source": "The Guardian – AI",
+   "published": "2026-10-22T16:39:57.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian video explainer on the PHP vulnerability taking government and business websites offline worldwide.",
+   "relevance": 3,
+   "tags": [
+    "php",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-10-23-090",
+   "title": "Frontier AI and Independent Evaluations: Some Inconvenient Questions",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUHdXZUIzVm5HMld2V0dYNjNPenNoY2NXMXlrNUJYMVpHM093VHR5NUh1WTN1NXpsTlZrM2lKUGI0QmtBY2V6WFBEWTYxWFk5Z2FTdThiMkRRSnFYX1pILTlXSUUtY0FIQ0s4NEtpNHJRdWpZeVYtNWYycUhNUTAtZk9PQ1JjczI5Q3dGRFdfRWs3Z2FJT1dkLUFySQ?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-22T15:24:15.000Z",
+   "category": "safety-evals",
+   "summary": "Just Security essay raises uncomfortable questions about the independence and effectiveness of third-party evaluations of frontier AI.",
+   "relevance": 3,
+   "tags": [
+    "evaluations",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-10-23-096",
+   "title": "Beyond tree cover: mapping the world’s forest types",
+   "url": "https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/",
+   "source": "Google DeepMind",
+   "published": "2026-10-22T14:30:24.000Z",
+   "category": "research",
+   "summary": "Google DeepMind published a global map classifying every 10-metre patch of land into distinct forest types, going beyond simple tree cover.",
+   "relevance": 3,
+   "tags": [
+    "deepmind",
+    "geospatial",
+    "climate"
+   ]
+  },
+  {
+   "id": "2026-10-23-099",
+   "title": "Monitorability evaluations and policy proposals",
+   "url": "https://www.alignmentforum.org/posts/zAczYuHQS6jdG5DTg/monitorability-evaluations-and-policy-proposals",
+   "source": "AI Alignment Forum",
+   "published": "2026-10-22T14:01:40.000Z",
+   "category": "safety-evals",
+   "summary": "AI Alignment Forum post categorises four types of AI monitorability and discusses recent policy proposals around them.",
+   "relevance": 3,
+   "tags": [
+    "monitorability",
+    "alignment",
+    "policy"
+   ]
+  },
+  {
+   "id": "2026-10-23-150",
+   "title": "Can maths survive AI? Fields medallist Terence Tao calls for a ‘Maths 2.0’ world",
+   "url": "https://www.nature.com/articles/d41586-026-03389-1",
+   "source": "Nature – Machine learning",
+   "published": "2026-10-22T00:00:00.000Z",
+   "category": "research",
+   "summary": "Nature covers Fields medallist Terence Tao's call for a 'Maths 2.0' as AI reshapes mathematical practice.",
+   "relevance": 3,
+   "tags": [
+    "mathematics",
+    "terence-tao",
+    "research"
+   ]
+  }
+ ]
+}
