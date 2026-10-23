@@ -10,9 +10,9 @@ Napi, automatikus, világméretű AI-hírösszefoglaló statikus oldalként (RSS
 
 ## Felépítés
 - `config/feeds.json` – 9 kategória, 51 forrás (`type: "html"` listaoldal, `via: "google-news"` proxy, sima RSS/Atom).
-- `scripts/collect.mjs` – gyűjtés, 30 órás ablak, dedupe, sanitize → `public/data/days/YYYY-MM-DD.json`. Közvetlen Claude API-ág (`ANTHROPIC_API_KEY`) létezik, élesben nem használjuk.
+- `scripts/collect.mjs` – gyűjtés, 30 órás ablak, dedupe, sanitize → `public/data/days/YYYY-MM-DD.json`. A Claude API-ág (`ANTHROPIC_API_KEY`) az éles út, a szerver futtatja.
 - `scripts/apply-editorial.mjs` – szerkesztői JSON validálása és beolvasztása: max 6 hír/kategória, relevancia ≥ 3, `duplicateOf` eldobva, angol `title` + `originalTitle`.
-- `scripts/daily.sh prepare|publish <json>` – az ütemezett feladat EGYETLEN shell-belépési pontja (pull → collect; apply → build → commit → push retry-jal).
+- `scripts/daily.sh prepare|publish <json>` – a nyugdíjazott Desktop-feladat belépési pontja, ma csak kézi vagy tartalék futtatáshoz (pull → collect; apply → build → commit → push retry-jal).
 - `scripts/build-index.mjs` – `public/data/index.json` (MiniSearch-korpusz, gitignored).
 - `src/brand.ts` + `vite.config.ts` `brand` plugin – build-idejű `VITE_BRAND` kapcsoló. `src/ViewCounter.tsx` – azonos originű `/_views.json` (sadrobot Status), máshol nem jelenik meg.
 - `docs/HANDOFF.md`, `docs/editorial-task-prompt.md` – gitignored, csak lokálisan.
@@ -21,13 +21,13 @@ Napi, automatikus, világméretű AI-hírösszefoglaló statikus oldalként (RSS
 `models-releases`, `research`, `agents-tools`, `ai-security` (támadás AZ AI ellen), `ai-threats` (AI-t használó támadók/védők), `safety-evals`, `policy-regulation` (EU + HU), `industry-compute`, `incidents-society`.
 
 ## Telepítés / kiadás
-- Napi folyamat: helyi Claude Desktop ütemezett feladat írja a `work/editorial.json`-t, majd `daily.sh publish` commitol és pushol. A push indítja a `.github/workflows/daily.yml`-t: build + GitHub Pages deploy.
-- Biztonsági háló: a workflow cronja 08:30 UTC-kor heurisztikus kiadást gyűjt, ha a mai fájl hiányzik (`editorial: "heuristic"`); a szerkesztett kiadás később felülírja.
+- Napi folyamat (2026-10-10 óta a SZERVEREN): a `sadrobot-news-editorial.timer` 07:45-kor futtatja a `sadrobot-infra/scripts/news-editorial.sh`-t. Lépései: origin/main → `collect` LLM-mel (Anthropic API, eldobható node-konténer) → a nap-fájlt és a `seen-urls`-t `sadrobot` néven commitolja és pusholja (`editorial: "done"`; ha szabályalapúra esne vissza, nem pushol) → `sync-news.sh --force` buildel és kiszolgál. A push indítja a `.github/workflows/daily.yml`-t (build + GitHub Pages). Hibánál a sadrobot Status riaszt, és e-mail is megy. Teszt a szerveren: `scripts/news-editorial.sh --dry-run`. A helyi Claude Desktop-feladat nyugdíjazva és kikapcsolva.
+- Biztonsági háló: a `daily.yml` cronja 08:30 UTC-kor gyűjt, ha a mai fájl hiányzik. A GitHubon nincs API-kulcs, ezért ez `editorial: "heuristic"` kiadás, amelyet a szerkesztett felülír.
 - Két arculat, egy kódbázis: GitHub Pages (`VITE_BRAND=yettel`) → Yettel AI Daily a krisztianhari-wq.github.io/ai-news címen; változó nélküli build → sadrobot AI Daily az ai.sadrobot.eu címen. A szerver félóránként maga húzza és építi a repót (sadrobot-infra `scripts/sync-news.sh`), kézi deploy nem kell. Szerverdolgokhoz lásd /deploy-sadrobot skill és sadrobot-infra/SADROBOT-INFRA.md.
 - Verzió: nincs kiadási ciklus (a `package.json` 0.1.0); ha mégis kell, /release skill.
 
 ## Döntések
-1. Nincs API-kulcs és nincs GitHub↔Claude kapcsolat (céges szabály), ezért felhős rutin és API-ág kizárva; a helyi Desktop ütemezett feladat a jóváhagyott út.
+1. 2026-10-10 óta a szerkesztés a sadrobot szerveren fut Anthropic API-kulccsal (a tulajdonos döntése; a kulcs a szerveren Docker-secret, `secrets/anthropic_api_key`). A GitHubon nincs API-kulcs, nincs Claude-rutin és nincs GitHub↔Claude kapcsolat.
 2. A közösségi poszt privát: csak a gitignored `posts/` és a feladat zárójelentése. Soha ne kerüljön a day JSON-ba, az oldalra, commitba, és soha ne posztoljuk automatikusan.
 3. Statikus, backend nélkül; a feed-tartalom megbízhatatlan adat (HTML strip, csak http(s) link, szigorú CSP, nincs `dangerouslySetInnerHTML`).
 4. Átfedés a cyber-news AI Security kategóriájával szándékos (a tulajdonos döntése, más közönség).
