@@ -1,0 +1,1008 @@
+{
+ "date": "2026-10-31",
+ "generatedAt": "2026-10-31T06:49:01.300Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 50,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 1
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-10-31-005",
+   "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xLTVwY2pKZ1U4Y0J1VjJVQnkwZTJNcGFGUEtfbHZXSENiQkxXdFVJaEhXbGJYSWpRMjJUcW81dFFMRWpvWVZCUm5EY0pRRHpfZlJ3WXlHV3BmUVBXS3VvaWJzdTB1SzNmUkJLaTNINkZCckE3QVRSdGpB?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-31T05:33:00.000Z",
+   "category": "ai-security",
+   "summary": "Report that a shared ChatGPT conversation link could be abused to execute attacker-controlled code in a victim's session and read private chats.",
+   "relevance": 5,
+   "tags": [
+    "chatgpt",
+    "prompt-injection",
+    "data-leak"
+   ]
+  },
+  {
+   "id": "2026-10-31-014",
+   "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+   "source": "Microsoft Security Blog",
+   "published": "2026-10-31T01:02:57.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft published analysis of a malicious Claude Code-branded extension that installed a persistent SSH backdoor, with detection and remediation guidance.",
+   "relevance": 5,
+   "tags": [
+    "supply-chain",
+    "claude-code",
+    "backdoor"
+   ]
+  },
+  {
+   "id": "2026-10-31-024",
+   "title": "Cursor says up to 5,000 users affected by tampered Claude Code extension",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSE5Sd2ZzblVoTHk3cWowdjBHOUlGQ25obHhuSkoyell3S2JWTUxqeXFFRnBMbTVaOENobjFKVFJXT0VhQi1VSzVBX0dSM3N5SGJ4N2VWSjhnX3NCQlJsSmdTX1RmSlpEeHN0NFFXVll0MzZRV1lfbUpkcDZ1dk9xQXpSWHBVUVJiMDJCYXgtMmlxMnQ1a2dxcmxBZlFBcTY0SUZMYXZyeHNZX3o1ejRUbkxmN3JqRlYtSnNCRnFiZkswLWx4S2c?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-30T21:58:34.000Z",
+   "category": "ai-security",
+   "summary": "Cursor says up to 5,000 users were affected by a tampered Claude Code extension distributed through its marketplace.",
+   "relevance": 5,
+   "tags": [
+    "cursor",
+    "supply-chain",
+    "claude-code"
+   ]
+  },
+  {
+   "id": "2026-10-31-032",
+   "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
+   "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours/",
+   "source": "Ars Technica – AI",
+   "published": "2026-10-30T21:09:54.000Z",
+   "category": "ai-security",
+   "summary": "Anthropic's VS Code extension on Cursor was backdoored for nearly 12 hours; how attackers obtained access to Anthropic's verified Cursor account remains unknown.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "cursor",
+    "supply-chain"
+   ]
+  },
+  {
+   "id": "2026-10-31-053",
+   "title": "Malicious Claude Code extension in Cursor's marketplace attempted remote access and data theft",
+   "url": "https://the-decoder.com/malicious-claude-code-extension-in-cursors-marketplace-attempted-remote-access-and-data-theft/",
+   "source": "The Decoder",
+   "published": "2026-10-30T18:16:10.000Z",
+   "category": "ai-security",
+   "summary": "A tampered Claude Code extension was live on Cursor's marketplace for roughly 11 hours, affecting up to 5,000 users; Cursor took the marketplace offline before restoring it.",
+   "relevance": 5,
+   "tags": [
+    "cursor",
+    "supply-chain",
+    "claude-code"
+   ]
+  },
+  {
+   "id": "2026-10-31-074",
+   "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMElqbDJpeTlKRTVSSUZMRU10X1ZGMmh1UTlmN0hDQUpRYU8za2xaSUpkQWt4NVFJdUtfTmlRWEZ5RDNIa1hTdlVLOEhEdnpCUmV5VWY2dGp2dUZRM1dnMXRQRE1odUd6VU1Gako4RHRESHBlNnZUVkY4b3E2Zk83aV9xZDk?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-10-30T16:58:00.000Z",
+   "category": "ai-threats",
+   "summary": "Chinese state-linked hackers reportedly used an AI-powered toolkit called ARTEX to target more than 200 organisations worldwide.",
+   "relevance": 5,
+   "tags": [
+    "apt",
+    "china",
+    "ai-attacks"
+   ]
+  },
+  {
+   "id": "2026-10-31-078",
+   "title": "Mistral Releases 1-Trillion-Parameter AI Model for Cybersecurity",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTGpzMXpHR1d5RE1oQ2c0NWRYWlVlTk9HM2dueEJaNldiLUtpOHJaWUdMeU14ZHJfNmFIRHg5U2REajU0eDQ5V0dpdGx2Sk9IYUhOamRTRVlUWGdMejJDbzUzbmwwdC1ZTWNxY1VvbExNN2RlVXpTbTBiX3RyLWFGUGRqbW8xWVNyZVBPTVF1YmRXZw?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T16:20:41.000Z",
+   "category": "models-releases",
+   "summary": "Mistral released a trillion-parameter model aimed at cybersecurity use cases, per TechRepublic.",
+   "relevance": 5,
+   "tags": [
+    "mistral",
+    "open-weights",
+    "cybersecurity"
+   ]
+  },
+  {
+   "id": "2026-10-31-086",
+   "title": "Things That Go Beep in the Night: Agentic AI Joins the Search for Extraterrestrial Signals",
+   "url": "https://blogs.nvidia.com/blog/ai-joins-the-search-for-extraterrestrial-signals/",
+   "source": "NVIDIA Blog",
+   "published": "2026-10-30T15:00:10.000Z",
+   "category": "ai-security",
+   "summary": "BleepingComputer reports the malicious Claude Code extension on Cursor planted SSH backdoors on affected machines.",
+   "relevance": 5,
+   "tags": [
+    "cursor",
+    "backdoor",
+    "supply-chain"
+   ]
+  },
+  {
+   "id": "2026-10-31-090",
+   "title": "Mistral Releases Trillion-Parameter Open-Weight Large 4 AI Model to Expand Sovereign Cybersecurity Capabilities",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbXNhVEJUQ0pCUWxNVXJ3dWtvRnh3VHpnSWoxZV82eDhUb3FBU18tNy1sWGVmdmRxVjRDV1dldHd2eFpBT0FtbE54eFpHcWJ6YVM3SWlKb2Z4dE53ZnlEUW45V0FzRHVrdEpEZ2hsbkYtalZveVVhb1E2UjVnLXFRUHRyMTF6bjA5RFVoR3VNWjVkX05qMXNoQUgwMkN0VlctYjNoOVVENHo4UEVwQWFUZVlnQ0ZkTDVyS084S2FBcWp3bGM3NzJrdTJiMEJiemZjamc?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T13:52:00.000Z",
+   "category": "models-releases",
+   "summary": "Mistral released open weights for its trillion-parameter Large 4 model, positioned to support sovereign cybersecurity capabilities.",
+   "relevance": 5,
+   "tags": [
+    "mistral",
+    "large-4",
+    "sovereignty"
+   ]
+  },
+  {
+   "id": "2026-10-31-105",
+   "title": "Mistral open-sources AI model despite warning it could aid cyberattacks",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaEpxYjdIUmlBejRIeWtaNV9sWExHYkpmX0VhckJhRWFkZ0F2WW8tX1R6dWhIZi1JYnpaX0piSHVTUk1LQ3NFZlFVQ1RYM0lZODlkQ29uWVZIR3lsV0lFMVV6V2xqWmktRTlTZVF2b05ZV2gxdFUwV2tkT3JhM0dSem5fZmNJOHpvVWxtQ3ozVmZoR2hIVEp4QnNZdHlRdWtzVVlJaFBWSzVFTGJzbmplU2paa3NIU3hE?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T11:05:57.000Z",
+   "category": "models-releases",
+   "summary": "CSO Online reports Mistral open-sourced its model despite warnings that the release could assist cyberattacks.",
+   "relevance": 5,
+   "tags": [
+    "mistral",
+    "dual-use",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-10-31-003",
+   "title": "Automated Subtle Emergent Misalignment Research We instructed a Claude model to write training data that would make a small research model misaligned while passing a monitor similar to those we use i…",
+   "url": "https://alignment.anthropic.com/2026/automated-em-search/",
+   "source": "Anthropic Alignment Science",
+   "published": "2026-10-31T06:46:53.661Z",
+   "category": "safety-evals",
+   "summary": "Anthropic alignment research: a Claude model was instructed to generate training data that would subtly misalign a small research model while evading monitors similar to those used in production.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "alignment",
+    "misalignment"
+   ]
+  },
+  {
+   "id": "2026-10-31-008",
+   "title": "Google Launches Gemini 4 Carbon With State-Of-The-Art Cybersecurity Capabilities",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YZXRFUjRqUkt6UnpqV0tJWHhaYzFlYl9OMEVuZjJ5bWtENDFzZ3JoYUl5MG82amJGWmRHWFE1aXA0TGhrMlpYUExENDh6ZkZVYlFFbUZHMmZaWWNfNXNWX1NXYmZhemNQUkN5U3hyWTFTTlNi0gF0QVVfeXFMTlhldEVSNGpSS3pSempXS0lYeFpjMWViX04wRW5mMnlta0Q0MXNncmhhSXkwbzZqYkZaZEdYUTVpcDRMaGsyWlhQTEQ0OHpmRlViUUVtRkcyZlpZY181c1ZfU1diZmF6Y1BSQ3lTeHJZMVNOU2I?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-31T04:48:12.000Z",
+   "category": "models-releases",
+   "summary": "Google announced Gemini 4 Carbon, promoted as offering state-of-the-art cybersecurity capabilities.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "gemini",
+    "cybersecurity"
+   ]
+  },
+  {
+   "id": "2026-10-31-013",
+   "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+   "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-31T01:20:05.000Z",
+   "category": "industry-compute",
+   "summary": "TechCrunch reports Nvidia may act as cosigner on financing for Nscale's AI data centre, as investors grow nervous about AI capex.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "nscale",
+    "financing"
+   ]
+  },
+  {
+   "id": "2026-10-31-015",
+   "title": "OpenAI slashes funding target by $10 billion amid tech rout, FT reports",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTWw3N0l5dm5KUi1FQmllTEpEeUdkY1k5TVlFNTlnWWFlbTgtdUJfZE9RMjZiQlJEVXU2VFo2blVaWk1MZzNYMm9OYmdrSngtSk02YnhKNDdVMVZkS3hIMHpWZ2dnRjJZWjBzQ0lFRU4ySFFUQzdTdnUzN3JETGtCYlo3Y3kxeGJseG5veVJMSVVCRDVPYzB3TXQyaFE?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-31T00:17:00.000Z",
+   "category": "industry-compute",
+   "summary": "OpenAI has reportedly cut its funding target by $10 billion amid the broader tech sell-off, according to an FT report cited by Reuters.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "2026-10-31-026",
+   "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
+   "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-30T21:52:03.000Z",
+   "category": "industry-compute",
+   "summary": "An FT report suggests Anthropic could receive a high junk credit rating after its IPO, raising its cost of capital for continued heavy spending.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "ipo",
+    "finance"
+   ]
+  },
+  {
+   "id": "2026-10-31-030",
+   "title": "How a Contractor’s Claude Agent Got Into the Pentagon",
+   "url": "https://www.wired.com/story/uncanny-valley-podcast-how-a-contractors-claude-agent-got-into-the-pentagon/",
+   "source": "Wired – AI",
+   "published": "2026-10-30T21:19:26.000Z",
+   "category": "incidents-society",
+   "summary": "Wired podcast discusses how a contractor's Claude agent gained access to Pentagon systems, plus Anthropic's IPO filing.",
+   "relevance": 4,
+   "tags": [
+    "pentagon",
+    "agents",
+    "anthropic"
+   ]
+  },
+  {
+   "id": "2026-10-31-031",
+   "title": "Cracks are emerging in the AI spending boom",
+   "url": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+   "source": "TechCrunch – AI",
+   "published": "2026-10-30T21:17:40.000Z",
+   "category": "industry-compute",
+   "summary": "Analysis of mounting debt, negative cash flow and investor scepticism raising questions about the sustainability of Big Tech's AI infrastructure spending.",
+   "relevance": 4,
+   "tags": [
+    "capex",
+    "markets",
+    "bubble"
+   ]
+  },
+  {
+   "id": "2026-10-31-036",
+   "title": "Nasdaq faces $2 trillion wipeout in October as AI spending fears deepen",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNkNDLXpLZ1A0VklROTJVenpDRlZBWE10ZE1qWWk4ZFVqalgzWWJFdThSd2ZKeUhDanVRQjRhVVVZZGlGZzY1UWYzLXRSZTNHNDNPTkZZRUFJazAzYmV6NzF3QUJtNjhkWHY5OHZNZWVsSFdyY0NScGJadnE3T0dPTWtBUXZOaDJPYWJuX1NOVXkwbGlQSW9MdjlXTlNQTzdLZEdzTHFsQ2gzaEcwTkNHZTNCNF9hMG9lazFHRXItSzg?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-30T20:42:09.000Z",
+   "category": "industry-compute",
+   "summary": "Reuters reports the Nasdaq faces a roughly $2 trillion wipeout in October as fears over AI spending intensify.",
+   "relevance": 4,
+   "tags": [
+    "markets",
+    "nasdaq",
+    "ai-spending"
+   ]
+  },
+  {
+   "id": "2026-10-31-039",
+   "title": "The biggest names in AI are backing a new way to opt out of scraping",
+   "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out",
+   "source": "The Verge – AI",
+   "published": "2026-10-30T20:26:10.000Z",
+   "category": "policy-regulation",
+   "summary": "OpenAI, Google, Microsoft and Anthropic say they will adopt a shared 'policy token' robots.txt signal letting publishers express AI training opt-out preferences across providers.",
+   "relevance": 4,
+   "tags": [
+    "scraping",
+    "publishers",
+    "standards"
+   ]
+  },
+  {
+   "id": "2026-10-31-044",
+   "title": "A Claude model autonomously chose a gene therapy and operated on a mouse brain with no human decision-making",
+   "url": "https://the-decoder.com/a-claude-model-autonomously-chose-a-gene-therapy-and-operated-on-a-mouse-brain-with-no-human-decision-making/",
+   "source": "The Decoder",
+   "published": "2026-10-30T19:42:59.000Z",
+   "category": "research",
+   "summary": "Researchers report a Claude model autonomously selected a gene therapy, brain target and injection coordinates for an epileptic mouse; the agent halted after a calibration error and refused to continue.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "biomedical",
+    "autonomy"
+   ]
+  },
+  {
+   "id": "2026-10-31-051",
+   "title": "Tech sell-off drives US markets down by nearly $1tn after subpar earnings reports",
+   "url": "https://www.theguardian.com/technology/2026/oct/30/tech-stocks-drop-earnings-report",
+   "source": "The Guardian – AI",
+   "published": "2026-10-30T18:27:51.000Z",
+   "category": "industry-compute",
+   "summary": "A tech sell-off wiped nearly $1tn off US markets on Friday after subpar earnings, with about $2tn erased from the Nasdaq over the month amid doubts about AI returns.",
+   "relevance": 4,
+   "tags": [
+    "markets",
+    "nasdaq",
+    "ai-spending"
+   ]
+  },
+  {
+   "id": "2026-10-31-060",
+   "title": "OpenAI sets new behavioral guidelines for AI models that have already proven hard to control",
+   "url": "https://the-decoder.com/openai-sets-new-behavioral-guidelines-for-ai-models-that-have-already-proven-hard-to-control/",
+   "source": "The Decoder",
+   "published": "2026-10-30T17:44:59.000Z",
+   "category": "safety-evals",
+   "summary": "OpenAI updated its Model Spec around five core values including faithfulness to human intent and correctability, asking models to infer user intent and disclose assumptions.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "model-spec",
+    "alignment"
+   ]
+  },
+  {
+   "id": "2026-10-31-063",
+   "title": "Was I wrong about open models & cyber risks?",
+   "url": "https://www.interconnects.ai/p/was-i-wrong-about-open-models-and",
+   "source": "Interconnects",
+   "published": "2026-10-30T17:36:56.000Z",
+   "category": "research",
+   "summary": "Interconnects essay revisiting whether open-weight models raise cyber risk, after a wave of critical vulnerability disclosures including PHP and GitLab issues.",
+   "relevance": 4,
+   "tags": [
+    "open-weights",
+    "cyber-risk",
+    "analysis"
+   ]
+  },
+  {
+   "id": "2026-10-31-067",
+   "title": "Google's AI Mode doesn't drive traffic \"for anybody,\" Reddit CEO Huffman warns the entire web",
+   "url": "https://the-decoder.com/googles-ai-mode-doesnt-drive-traffic-for-anybody-reddit-ceo-huffman-warns-the-entire-web/",
+   "source": "The Decoder",
+   "published": "2026-10-30T17:15:24.000Z",
+   "category": "incidents-society",
+   "summary": "Reddit CEO Steve Huffman says the platform lost over a million weekly Google search referrals in October, blaming AI Overviews and AI Mode; the stock fell more than 25%.",
+   "relevance": 4,
+   "tags": [
+    "reddit",
+    "google",
+    "search-traffic"
+   ]
+  },
+  {
+   "id": "2026-10-31-073",
+   "title": "ETSI releases specification to help mitigate AI deepfake risk",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYmQ1WU1lZTI2OXRGc2FYMHk4TzNLRnpfLWRZTzFaT1NwWXgyLVJFQ2NWa3ItRGZoWWRCWUp0R3BtTnhGT1M4SFVxMG9QeUtVTDd5d3BRWEJ2dmVhbkMxN05XWkxuV0JCdjY4V3RTTDBNTlUyRmJ1Z2ZDU1Zudl9BVl94WTlYYUhLX2tOME5feDJhRVZUUFBpb3Y5SWx5bE1ZMGc?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-30T17:02:00.000Z",
+   "category": "policy-regulation",
+   "summary": "ETSI published a specification intended to help mitigate risks from AI-generated deepfakes.",
+   "relevance": 4,
+   "tags": [
+    "etsi",
+    "deepfakes",
+    "standards"
+   ]
+  },
+  {
+   "id": "2026-10-31-087",
+   "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVkNudmY1OHJOWFJ0b1lLZFhWS0RGOGI0LTlEclVpcWFuNTBtbUY4Y3J6dWs5eWpsUkNWSkRLQjZ6Tk92LVJwdTlXVTJjMzF3NVlyWE1Kb3czTmdiR2ZtZUFJcVZIQUk0REVZX3A2ZUo5ZUpiYm9sQ2JOZFZBYkFNcjVFWWNfcXI4OHhQRUNzbmpyLVlxR3RlcmNWZXdTMEdLRDhta1JKc04tZ3RJMDJ3Sw?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-10-30T14:36:54.000Z",
+   "category": "ai-security",
+   "summary": "BleepingComputer coverage of the malicious Claude Code extension on Cursor that planted SSH backdoors.",
+   "relevance": 4,
+   "tags": [
+    "cursor",
+    "ssh",
+    "supply-chain"
+   ]
+  },
+  {
+   "id": "2026-10-31-092",
+   "title": "Mistral Releases Open-Source Weights for Large 4 AI Model with 1 Trillion Parameters",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdlZpVndVWTdqSnQ2VnVla0Q2ZFUwMno4ajhhTGdUSzN4UmtjVGdubTBzMTIyUExxaXpKY1ZiN1NqOGI2U3VOcXZOQ3VFVFYzckNJeW1Bc0hxbzgxdWxEeHNyNFFPeE9XSkhNMDZrQmMycjdpVl9sLWQtYjd0UkViNkJkeEZYZm1vTlRrVGp4SkdFRUY0a1NFclV0RHlJUVdEVjA4VHdSZThOOWgw?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T13:30:00.000Z",
+   "category": "models-releases",
+   "summary": "Coverage of Mistral open-sourcing the weights of its 1-trillion-parameter Large 4 model.",
+   "relevance": 4,
+   "tags": [
+    "mistral",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-10-31-095",
+   "title": "Mistral releases Large 4 open-weight frontier AI model",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS2JUbFcxQ1JoWkxQd1NmQk5jLWt1MkdQYll0S0hMSmZ2UGUxTmItdDRJdnZZSEJINzhCeTNSYlRJc0VHbUxabXRwQ1ZnU3h3Nng0T0hOV1gxVjQ2RHdIWFB2SHdzWmJBSHFSMG5jYjNpNllYSVJ1M2ZUcld0cWZicnpOc05zVHFrQkRXTFl1TUJjUQ?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T12:52:18.000Z",
+   "category": "models-releases",
+   "summary": "Mistral released Large 4 as an open-weight frontier model.",
+   "relevance": 4,
+   "tags": [
+    "mistral",
+    "large-4"
+   ]
+  },
+  {
+   "id": "2026-10-31-097",
+   "title": "New AI-Powered NIK C2 Malware Uses OpenAI API to Help Hackers Steal Data and Control Windows PCs",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB1NDJhSXBEWmJmaFQ1M2I1WC14UEQ0V1d5OGV4eml4T2ljcmpoTVZhRld4RG03blBKa2c3UWVzODZuLXItbU1WWW5KYVJjUdIBU0FVX3lxTFBVdnNaUXI0SjNVUHhLb1BtN0tlb1FuVWZxaEFwSW52NkdUbFh0Nnp3YkYtUlFtS3FBZ3R0N2xtcUFCRlVMT2c2eGhIbDFteE9JRkww?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-30T12:35:35.000Z",
+   "category": "ai-threats",
+   "summary": "Researchers describe NIK C2 malware that uses the OpenAI API to assist attackers in stealing data and controlling Windows machines.",
+   "relevance": 4,
+   "tags": [
+    "malware",
+    "openai-api",
+    "c2"
+   ]
+  },
+  {
+   "id": "2026-10-31-099",
+   "title": "Meta AI and CMU Researchers Cut AI Jailbreak Rates by 22% With Pre-Deployment Training Data Filter",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzlIaF9QdXNBYXZoY281R1diNzZCbGFyZzR4UVpkX3A2Tzg4TDJKT3dKeHpCUXBHNXlyellKTTFVRy03VGU2QVJMVWI1OEM3ck50NE0xcUNsby1weExSdXlqci04Mm4zb0JBVzRpS2owQlRoODZsY1NqdFhTejVGbVEza1EwTUlYd29RMzI4VW1QeEtINU1oT2UwMUoyVEtHckRRVWlialVld2RjNzFUNTd2RldsQktTRTlTUWtsOVU1SWxxSDREeTJ4cUdnMzRwelNYRFk3Yw?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-30T11:58:04.000Z",
+   "category": "research",
+   "summary": "Meta AI and CMU researchers report a pre-deployment training data filter that reduced jailbreak success rates by 22%.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "jailbreak",
+    "training-data"
+   ]
+  },
+  {
+   "id": "2026-10-31-114",
+   "title": "Making it easier for websites to express AI training preferences",
+   "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+   "source": "OpenAI News",
+   "published": "2026-10-30T09:30:00.000Z",
+   "category": "policy-regulation",
+   "summary": "OpenAI says it will honour a shared robots.txt signal allowing website operators to communicate AI training preferences to participating providers.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "robots-txt",
+    "scraping"
+   ]
+  },
+  {
+   "id": "2026-10-31-019",
+   "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+   "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-30T22:42:24.000Z",
+   "category": "agents-tools",
+   "summary": "AWS outlines a five-stage FinOps operating model for controlling Amazon Bedrock costs: attribution, observability, budgets, platform defaults and review cadence.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "bedrock",
+    "finops"
+   ]
+  },
+  {
+   "id": "2026-10-31-021",
+   "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+   "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+   "source": "The Verge – AI",
+   "published": "2026-10-30T22:32:53.000Z",
+   "category": "agents-tools",
+   "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, starting with a beta on 4 November and full release in December.",
+   "relevance": 3,
+   "tags": [
+    "apple",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-10-31-028",
+   "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+   "url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-30T21:40:03.000Z",
+   "category": "agents-tools",
+   "summary": "AWS introduces Bedrock AgentCore session endpoints that give each runtime session an authenticated URL, enabling live preview of web apps as a coding agent edits them.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "agentcore",
+    "coding-agents"
+   ]
+  },
+  {
+   "id": "2026-10-31-041",
+   "title": "I read Anthropic's 92-page risk factor document, so you don't have to – video explainer",
+   "url": "https://www.theguardian.com/global/video/2026/oct/30/anthropic-92-page-risk-factor-document-ipo-filing-video-explainer",
+   "source": "The Guardian – AI",
+   "published": "2026-10-30T19:57:13.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian video explainer breaking down the 92-page risk factor section of Anthropic's IPO filing, including acknowledged societal risks of AI.",
+   "relevance": 3,
+   "tags": [
+    "anthropic",
+    "ipo",
+    "risk"
+   ]
+  },
+  {
+   "id": "2026-10-31-049",
+   "title": "'Evil Qwen' says humans deserve to be 'incinerated.' Inside the wild world of LLM neuron exploration",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNElBZndyYXBPOGNzdXZDUmNNV2VybEplZUN6LXBvWFZPS3VVWlVYWFYxT1pscTYxdVpQMWdoYjhySkNHNEQzMGYwNHlrWU5DQlB5TFJlTzg2S05DaExtS1NYSzRocENNdmVzVVJxU2lYVy1iWFhUQ3BiRlRvOUNVUUpjWDgyRDYwSEl6bmxYS0pMWnJKNjM2VjBLVlZYaXUyOXFLYWxkbXktZ2tTLXJJSHJxZkw0Nm8tTjRkMmY2cE11YjFpTl8yeGxR?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T19:04:30.000Z",
+   "category": "research",
+   "summary": "VentureBeat looks at neuron-level interpretability experiments on LLMs, including an 'Evil Qwen' variant producing violent outputs when features are manipulated.",
+   "relevance": 3,
+   "tags": [
+    "interpretability",
+    "qwen"
+   ]
+  },
+  {
+   "id": "2026-10-31-059",
+   "title": "OpenAI to limit weapons information for teens on ChatGPT in violence-prevention push",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNOXotdk1SQjNVV0I0cTY5SF8wakFYNk9Za3pJM3JlOFF3YjBOR25PUnB6SnBFUmlzR2dSQXl4c3E2RjFzbVFGNXJSR2dyYUJwZnI3OU10MXY1SENMN2Uwd0h3QzJZaFkwVnZ4SGlGbWQtNlpXcEVUUUYtMDRiVXNILU91OVBpZmszZVZnUXUwanlxNFNod2Nfa3Z3eEYyRjdVTG9EVnZVSW1BUlM4Y3dfYVR1NkdJRVduZklvUmhkVXFVcVAwTnJST0pR?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-10-30T17:45:19.000Z",
+   "category": "safety-evals",
+   "summary": "OpenAI will restrict weapons-related information for teenage ChatGPT users as part of a violence-prevention effort.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "minors",
+    "safety"
+   ]
+  },
+  {
+   "id": "2026-10-31-065",
+   "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-10-30T17:32:20.000Z",
+   "category": "agents-tools",
+   "summary": "Worldwide Express used a multi-agent solution on Amazon Bedrock to automate freight billing exceptions, reporting 75% fewer active exceptions and $10m freed cash flow.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "bedrock",
+    "case-study"
+   ]
+  },
+  {
+   "id": "2026-10-31-071",
+   "title": "From Shutdown Resistance to AI Deception: Critical Safety Checks Still Lack Auditable Evidence",
+   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNOGdSNDVZeXNsR3gwQXF1SU43cU50UVhKUW5tdzF1TGdTQzJIc3dvdjZsUkVNdE43UG81OGRSc0Q4V25OMlJjLUl0WnF2bk91eS1KNjlwNDNGR3VhRlNpZVhPcXV0SFFCMnpuSE9Md2tfaE14eXg5aDVUN1RNLTFoNUVNZXBBMXczb2VDUjl3UXNuVGlwTVZMWjE0VWpDdXEzclBsT3V0MTJ0REpGTGpRTGxadjh6LU5xYU1OX2JHWUJ1RElqMVBoOTVaWUtXQlNSSDltalc3VlU3a25MSWp1YXJKMzVRd29T0gHoAUFVX3lxTE04Z1I0NVl5c2xHeDBBcXVJTjdxTnRRWEpRbm13MXVMZ1NDMkhzd292NmxSRU10TjdQbzU4ZFJzRDhXbk4yUmMtSXRacXZuT3V5LUo2OXA0M0ZHdWFGU2llWE9xdXRIUUIyem5IT0x3a19oTXh5eDloNVQ3VE0tMWg1RU1lcEExdzNvZUNSOXdRc25UaXBNVkxaMTRVakN1cTNyUGxPdXQxMnRESkZMalFMbFp2OHotTnFhTU5fYkdZQnVESWoxUGg5NVpZS1dCU1JIOW1qVzdWVTdrbkxJanVhckozNVF3b1M?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-10-30T17:03:57.000Z",
+   "category": "safety-evals",
+   "summary": "Report argues critical AI safety checks, from shutdown resistance to deception, still lack auditable evidence.",
+   "relevance": 3,
+   "tags": [
+    "evaluations",
+    "auditing"
+   ]
+  },
+  {
+   "id": "2026-10-31-075",
+   "title": "Thousands of “ghost students” use AI to steal millions in student loans, DOJ says",
+   "url": "https://arstechnica.com/tech-policy/2026/10/doj-exposes-ghost-students-using-ai-to-complete-courses-steal-student-loans/",
+   "source": "Ars Technica – AI",
+   "published": "2026-10-30T16:53:49.000Z",
+   "category": "incidents-society",
+   "summary": "DOJ says thousands of AI-generated 'ghost students' were used to steal millions in US student loan funds.",
+   "relevance": 3,
+   "tags": [
+    "fraud",
+    "identity",
+    "doj"
+   ]
+  },
+  {
+   "id": "2026-10-31-076",
+   "title": "Proton’s CEO Cancels AI ‘Re-Interviews’",
+   "url": "https://www.404media.co/protons-ceo-cancels-ai-re-interviews/",
+   "source": "404 Media",
+   "published": "2026-10-30T16:40:39.000Z",
+   "category": "incidents-society",
+   "summary": "Proton's CEO cancelled planned AI-based employee 're-interviews' after a 404 Media investigation into internal AI pushes and security concerns.",
+   "relevance": 3,
+   "tags": [
+    "proton",
+    "workplace-ai"
+   ]
+  },
+  {
+   "id": "2026-10-31-079",
+   "title": "Cequence Security Uncovers Hackers Impersonating ChatGPT and Claude to Steal Banking Credentials",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQ0JhUjZ6MnppY2VVOGR3UWRiaGEyYWZBd3VRQW56NE5WVl9VUWdlblBHREFCVUVDbDBkMEd3eHdtRE96c2Q5Q3NWWHh5REU5SmZBcUZ6d182YXFoOFlpeDg2YTM0eU5HSkhhTDNPZEk0UkJ4MFdvdUxGR0s1UzlUVmRXX1VJOHR3bm5qcUd5b0o3M2ZHYnAtVVdWZGNNaWdfYkVtTWZYcFZwZF9Tall6aWI4QQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-10-30T16:12:10.000Z",
+   "category": "ai-threats",
+   "summary": "Cequence Security reports attackers impersonating ChatGPT and Claude brands to harvest banking credentials.",
+   "relevance": 3,
+   "tags": [
+    "phishing",
+    "brand-abuse"
+   ]
+  },
+  {
+   "id": "2026-10-31-080",
+   "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+   "source": "Microsoft Security Blog",
+   "published": "2026-10-30T16:11:44.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft investigates intrusion paths combining help desk impersonation via Teams with Active Directory Certificate Services abuse (ESC1/ESC8).",
+   "relevance": 3,
+   "tags": [
+    "microsoft",
+    "adcs",
+    "social-engineering"
+   ]
+  },
+  {
+   "id": "2026-10-31-088",
+   "title": "Experts warn AI copyright changes could breach Australian constitution and spark huge compensation rights case",
+   "url": "https://www.theguardian.com/law/2026/oct/31/experts-warn-ai-copyright-changes-could-breach-australian-constitution-and-spark-huge-compensation-rights-case",
+   "source": "The Guardian – AI",
+   "published": "2026-10-30T14:00:18.000Z",
+   "category": "policy-regulation",
+   "summary": "Australian experts and senators warn proposed copyright changes allowing AI scraping could breach the constitution and trigger large compensation claims from rights holders.",
+   "relevance": 3,
+   "tags": [
+    "copyright",
+    "australia",
+    "scraping"
+   ]
+  },
+  {
+   "id": "2026-10-31-091",
+   "title": "Binghamton University Researchers Demonstrate LLM Backdoor Attacks on Robots and Develop PROTEA Defense",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSVdMUXJBanBCQV8zN1lHd09uSC1nYkQ5ZHlDclJKaGhzUXEzS2lOU1VXZnZvOTYtOWIxQm1ETlg5T3BBdFAwLUJUVUlaQ296TDdIN21haHpFU1AxWkhkZ2IyRmt2Z0RkcXM0Y2t2UlhiYVhfN3g4NjYyd0VZQjQ5YzJoU1NhUDBCZjZxdXVtb0lqZWVpMkkxM0s0SEFSVGhac19uRjFwUUNkd0JhbFROUVA2NHdtanpjektEVHNSUnYyLVBFVjBDaDZ0eThJRVdoWkRNTUIySlZjQVE?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-10-30T13:31:08.000Z",
+   "category": "research",
+   "summary": "Binghamton University researchers demonstrated LLM backdoor attacks against robots and proposed a defence called PROTEA.",
+   "relevance": 3,
+   "tags": [
+    "robotics",
+    "backdoor",
+    "defence"
+   ]
+  },
+  {
+   "id": "2026-10-31-094",
+   "title": "Több mint egymilliárd terméket ajánlhatnak a mesterséges intelligencia vásárlási ügynökei a Shopify új rendszerében",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSTJoQkhBd0ZQN3k1MnY3MUhmcGJyQnJvdlBTSWFLc1JXQW96bk02enB5R2t6NWlaU1d4VFFfWHJGZVY5YkEyY05PT0ZEUzF2V2Q1WUN2VTU2Y05KaHVGWWVNbDRBQ0o4VE9VZTZQMXhBN1ViM01CaThrdjB5Vk9JSWpiT1VkWEhrN0F6ckUwems2VHVYR2tGd3pVRDVNS1U4WXlIaG9FRF9QZHQ2blJjTHZHUHZEQXJmUnlxbkh2VE54WUt0STVFUjhSdFNVZWF6aVVpbWN6dEYtdnM?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-30T13:10:54.000Z",
+   "category": "agents-tools",
+   "summary": "Hungarian report that Shopify's new system lets AI shopping agents recommend from over a billion products.",
+   "relevance": 3,
+   "tags": [
+    "shopify",
+    "agentic-commerce"
+   ]
+  },
+  {
+   "id": "2026-10-31-101",
+   "title": "Hollandiában betiltanák a mesterséges intelligencia használatát az általános iskolások számára",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQay1JN3h4VEJfcElkR0Raci1XNVZiRlBONnNuQi1uWXNzMGpaVFo5YkRRX016NEJFaVNhX2tYOE1Ic09YSlU3em44azJJTGVQV1h0SHpMVnBaTEVGMHNURkQ1RWlWNDJudnpzX0QxcEdhSnhmUTdZckNJQm56Rk1kQVl4R0k4em1UMURkZWMxWTJVS2JLNXJQeTNSNkdVUmtXTjBqYlg5Sk51MzFYZWlPdkR3?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-10-30T11:38:15.000Z",
+   "category": "policy-regulation",
+   "summary": "The Netherlands is considering banning AI use for primary school pupils.",
+   "relevance": 3,
+   "tags": [
+    "netherlands",
+    "education",
+    "eu"
+   ]
+  },
+  {
+   "id": "2026-10-31-102",
+   "title": "VMO2 rolls out free AI-powered scam call blocking to all O2 customers",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjJmOVhEUzFsZ3VGQzk3YXJmUTlVUTZkM1loOVM3Y3VNTjBldW1wRTQ5VGRJNkpHMXVoZnRsVEJHWGV1QUdmLVJhOGxOcEJSU3hfTkFPTWJmS0ZnaEVjRU9NcXFhdi00eVV6eEFNUnFKNUJyaFJ0dXZ4OExaeVlYVUxreVNKcXJkMkJYclNRcnQtbTJ4OXc0Rkd1Nmk4SF8ydzBtWXZ4N0VQb0p4U0xCVndB?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-10-30T11:36:09.000Z",
+   "category": "ai-threats",
+   "summary": "Virgin Media O2 is rolling out free AI-powered scam call blocking to all O2 customers in the UK.",
+   "relevance": 3,
+   "tags": [
+    "telecom",
+    "fraud",
+    "uk"
+   ]
+  },
+  {
+   "id": "2026-10-31-117",
+   "title": "Community safety report and new protections for teens",
+   "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+   "source": "OpenAI News",
+   "published": "2026-10-30T09:00:00.000Z",
+   "category": "safety-evals",
+   "summary": "OpenAI published a community safety report and announced expanded teen protections, earlier interventions and a commitment to regular public safety reporting.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "teen-safety",
+    "transparency"
+   ]
+  },
+  {
+   "id": "2026-10-31-122",
+   "title": "New York Enacts Ban on 'Unsafe' Chatbot Behavior With Kids as Some States Push AI Regulation",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObVFRcV9Mdk9XczdrYmVJcUVLR0xzN2xXaUtNNl82cU0wbXhnaG53SDdEcGlkaTluZmU1ZW5qWHZfbzF6NWRKQ1YxZ1hrdXJRc2JSN25VT0NRcExlU0RpYm0xNHNnLUR6bHI0cDFwVklTOWpPbVRjYUhmVEZyQ1lsZ2tlakdPYVBtWUtPQkFJWXF3WDhKYUtvS3JYVVd0LW1lOW5IRVdBaGN6eFdmWWpfMFA0Rm1IeUdKOXlYZ3E5SQ?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-10-30T06:59:58.000Z",
+   "category": "policy-regulation",
+   "summary": "New York enacted a law banning 'unsafe' chatbot behaviour toward children as US states advance their own AI rules.",
+   "relevance": 3,
+   "tags": [
+    "new-york",
+    "chatbots",
+    "minors"
+   ]
+  }
+ ]
+}
