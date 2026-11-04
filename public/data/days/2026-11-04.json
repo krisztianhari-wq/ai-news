@@ -1,0 +1,994 @@
+{
+ "date": "2026-11-04",
+ "generatedAt": "2026-11-04T06:49:28.328Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 49,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 2
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-04-032",
+   "title": "Critical Langflow flaws enable authentication bypass and RCE",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVTF0ajBUaDBRUDVEZUpCWldicm9xZ3FhVjlFQUVSLUF2djJoVU9YUFJ1ZHZTZE9GNjVYVFAxQkJvMDdDRzBXblp3VlZjRVF1Rzl0QnFUNktjazBncEYxVVhaRUh3MEs2Y0FMZlBGbHV2Z2RTTkNVNExMcjliYzRGQ05obG9Za1Myb1NxbFlWYkFiM0MwNS12UVhwOEtCUHI4LXBiSi04NmJlMXM?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-03T23:14:58.000Z",
+   "category": "ai-security",
+   "summary": "Critical flaws in Langflow, a popular LLM app-building framework, allow authentication bypass and remote code execution.",
+   "relevance": 5,
+   "tags": [
+    "langflow",
+    "rce",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-11-04-059",
+   "title": "Setback for Google as EU court adviser warns AI chatbot may breach copyright rules",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3A5SlVKWVF6XzVHRldMWS1qd1FqWV9sVnF6RFJiMTIzd18wZUgtc1VtOXJabjY3LThCR045bFBrVzcyUmxJUDFWajYtX1l4RkVxY0xHTUZlRUFlR2dkcmtqOXI5MzIxMS16VEVBSE1JcExxbkJrVkk1S3NGa2g5WjhVZEJXczA3S0NUOVFudElESjBaMExucVBLQzRCLUJrVU9icU9fSkkyb1FoR2NfT29hT2JSbmhaMW9Z?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-03T19:16:17.000Z",
+   "category": "policy-regulation",
+   "summary": "An EU court adviser warned Google's AI chatbot may breach copyright rules, a potential setback with EU-wide implications.",
+   "relevance": 5,
+   "tags": [
+    "eu",
+    "copyright",
+    "google"
+   ]
+  },
+  {
+   "id": "2026-11-04-060",
+   "title": "U.K. warns AI-powered ransomware will likely hit critical infrastructure by 2028",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSWRYTTFybjhCUVdfLVgzemxJLUhvX2FiVVk0RHZpSG9CdUt6MzduMC1haENLVV9FMGwtelhZbjhOTlhuRDVNVllGbE9rN3VoOEZESGtnektNUFF4MkpXTHRtbVUybHlQbUhEcGlXRy1taktmYV9hVS1Bck1WM180OQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-03T19:13:38.000Z",
+   "category": "ai-threats",
+   "summary": "The UK warns that AI-powered ransomware is likely to hit critical national infrastructure by 2028.",
+   "relevance": 5,
+   "tags": [
+    "ncsc",
+    "ransomware",
+    "critical-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-11-04-108",
+   "title": "Google reveals new Gemini 4 Carbon AI model, narrowly beating Claude Opus 5.5 — frontier AI model is also the least likely to hallucinate, benchmarks claim",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxOTWhTVENnM3JSMkhHSWh6bDNNcVh4Nk9PRXJsUkJKSG9rLTRmNTB4ZWRydEctZnJFWWJvVWpKOU40VkhhWkdVTTdXZHU3WmxCRmd4czZ2WDF5OE5NNXJvY0FIVl80S1BNWXh0SFBDNFpBT1FXWldXaTQ3NWM5aGN0VmR2Q3VKRWE4bHctVW9OODFxbGwtaDZ5ZFY3a21wZ1oxaHJpRDJrUW12Ykd0VkMzcy1MZmJoeFlRaHdscHhaak91SkhncnY1Z0tOVFRGWWFBMVlKSWM4TzQ1NjVMdzU4bjI2ajJ6YWY4c2tLZnZOa2ZkSmd4eWNUc2ZtQUxfZ2k0dk92eDEyLTJHU0tMRG9kVWhTOUZIYnJBLVZkZ0dyaWdWeUNVczF2SDhWWmZSSXZaMUNobE9xcmQ3cTJZdFZN?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-03T13:00:00.000Z",
+   "category": "models-releases",
+   "summary": "Google unveiled Gemini 4 Carbon, which benchmarks claim narrowly beats Claude Opus 5.5 and hallucinates least among frontier models.",
+   "relevance": 5,
+   "tags": [
+    "gemini-4",
+    "google",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "2026-11-04-114",
+   "title": "Cyber chief: UK facing AI-powered attacks on critical infrastructure within two years",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV24yNXJ1SVVXeXI4VUJvQ1hUYmhiXzBueTc4cERpTmV5V0w2U3UzNG5qS1VVMVphVWRHU2xoVVNJUVZjUDY3dWtKWVU4ZTYyN25KTTVNa2hRYUNkODFCTnVXR1M5Mm55bXNjallpaWtSM2c0VVdKYk1sTERQUEc3bmN1MWMyRGV4eGgtazdGSExtMVJBY1JvXzVoUjhWLUtrNmNlZmcybnNZTlAzcEE?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-03T12:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "The UK NCSC says the country faces AI-powered attacks on critical infrastructure within two years.",
+   "relevance": 5,
+   "tags": [
+    "ncsc",
+    "critical-infrastructure",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "2026-11-04-129",
+   "title": "Mistral launches open-weight AI model ML4 to rival top systems",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5PZmZIaHkybTdSWEJ4eV9WRDZPaVd3clk1Snc0N3RKNTZLa0JmRjJha3d3NWpKWWVEQjJzS2Vtb3J6OVZoS3B5d0lzdFg5TDNpQWhSQUQzWXg5SHJYdUR5My1CX3N1RmdGMkg2OWR3?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-03T09:33:31.000Z",
+   "category": "models-releases",
+   "summary": "Mistral launched ML4, an open-weight model positioned to rival top proprietary systems — a notable European release.",
+   "relevance": 5,
+   "tags": [
+    "mistral",
+    "open-weights",
+    "europe"
+   ]
+  },
+  {
+   "id": "2026-11-04-003",
+   "title": "India’s cybersecurity agency, CERT-In, has secured access to Anthropic’s restricted frontier AI model Claude Mythos to test its ability to detect and potentially exploit system vulnerabilities, gover…",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IMWFENmotazdtemZMaTU5b2c5UktDUEktZjJraWJuZktzelRpNWVMdTZVOXdKTmdqX3poUWl2X0JEbmR1S3ZXNW5JRVpVdzdmM3c?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-04T06:33:29.000Z",
+   "category": "safety-evals",
+   "summary": "India's CERT-In reportedly gained access to Anthropic's restricted frontier model 'Claude Mythos' to test vulnerability detection and exploitation capabilities, per a Moneycontrol report.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "cert-in",
+    "cyber-evals"
+   ]
+  },
+  {
+   "id": "2026-11-04-011",
+   "title": "Hackers Use OpenAI Codex Jailbreak Toolkit That Secretly Injects Ads Into AI Responses",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QVVFPaVBDaXZQWEJwbGg0UVQ5UVN6U3pTbFdBNmxCOWNhdEViX2IzcUloNUdVZlZkTkRWMnNKZDNvS2FudGhIWGI2eXVIU2pwNGdNNFo1UFlfWnczOU42d1FpRdIBaEFVX3lxTE5tbFVpVUVMejRPVTlfQUhWU193WDQ1dFJTeGFuYUJVSnlOTVNRc2lQQWNibFVEWGNaeEpELUNIV0pPWTFTalVfei03akVoS25SUzdORFFreENVTExpR0NhZm5mdlJ5cExD?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-04T05:26:15.000Z",
+   "category": "ai-security",
+   "summary": "Researchers report a jailbreak toolkit targeting OpenAI Codex that covertly injects advertising into AI-generated responses.",
+   "relevance": 4,
+   "tags": [
+    "codex",
+    "jailbreak",
+    "supply-chain"
+   ]
+  },
+  {
+   "id": "2026-11-04-019",
+   "title": "Brookfield (TSX:BN) Plans £20 Billion England AI Data Center Push",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHIyZXQxa0sxWmVucURIVlZOeXlnRVRubHA2am1hbWNVTkx1OXUyOWtfUnZ4R1hVaVZfRnZxaThJUnFNME44VHJhckFxTzBiOW93MFJHR21BQXlUU3V6bE9UMF9nZ3p4czI4a2hKQTJzbE1ucmpiYjlhb094bXNlc0paSDAyb3ROTF8yZWZvYS1HRmFX?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-04T03:21:00.000Z",
+   "category": "industry-compute",
+   "summary": "Brookfield plans a £20bn AI data centre push in England, expanding UK compute infrastructure.",
+   "relevance": 4,
+   "tags": [
+    "brookfield",
+    "uk",
+    "data-centers"
+   ]
+  },
+  {
+   "id": "2026-11-04-022",
+   "title": "Researchers find 43 AI agent tools riddled with supply chain backdoors",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVJWVk52U3owRXJxSTRIUTBhVmpuTzlDNm1Dc0UtOXJzWTlDQ1Y4bU5fYUlDOEQ1dVFwcEVScUdBU0d3aDF5YlRiMzB2czRibldIdEdOZFU3NTRfOFhyaEtJUENwRWE5VHJiendlS1g5eWgtVVpVZm5WZzUwRnNEcHphMmExSktodVBoS3dCZTRaYnBYbTlhbjZBNHZLV0U?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-04T02:20:12.000Z",
+   "category": "ai-security",
+   "summary": "Researchers say 43 AI agent tools contain supply-chain backdoors, highlighting risk in the agent tooling ecosystem.",
+   "relevance": 4,
+   "tags": [
+    "agents",
+    "supply-chain",
+    "backdoor"
+   ]
+  },
+  {
+   "id": "2026-11-04-024",
+   "title": "Anthropic Releases FlashProve To Verify AI Model Responses",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBBOEJiSDZyS2dLWWlhbll4YnRSZ2ota1dmOG9GUG5RYW1iNUtvS3JfOGJtVFpXdXU5b3FDREhheG1xeXdwTUVoTlR3RmJkanVWd2doZHI2Z2FIM1BDQ0F6bXUzNXNCTFZJVkMwUHpUeUhsRFduRThTY3pR?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-04T02:00:00.000Z",
+   "category": "agents-tools",
+   "summary": "Anthropic released FlashProve, a system intended to let anyone verify that an AI response genuinely came from the claimed model.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "flashprove",
+    "provenance"
+   ]
+  },
+  {
+   "id": "2026-11-04-025",
+   "title": "China-linked hackers deploy AI to hit 200+ targets across 14 countries",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JbDRRR2F2dGtGbTRGMFhVeHFrLUE4LUljdUY3elIzeFRocXByU2xwX1Q4WXJ6S2NFLTNxSHBlbzIxS3F4ekhWdjNvTVdORUJLU3V3VVlRdkJHZ2lLVGJjcGprek5kQkpsVVJRYzJkZE05b00zZml3aGNR0gGOAUFVX3lxTFBZZmpENDlCZ2d4TVFTTmJFU09LNHdYRjR1NTlHcENBQTQzQVJNNEN1SXkyb0l5cFJYMjRmU055a1lTVzdMa1owbWFjRzdpUGFFMVZuQlMxdExhMGpnVjc0NTF2M3plZXpwdG1yZzQ2YVJFWEpKQjkyOUxkVTZTWjZzRFdLWU1iSndjTTd2ekE?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-04T01:17:00.000Z",
+   "category": "ai-threats",
+   "summary": "China-linked hackers reportedly used AI to attack more than 200 targets across 14 countries.",
+   "relevance": 4,
+   "tags": [
+    "apt",
+    "china",
+    "ai-attacks"
+   ]
+  },
+  {
+   "id": "2026-11-04-026",
+   "title": "Google will cut off search access for students at schools that reject AI",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOckg1c2ExU2h1cS1JUnl2QjBJZTZETWg4RHR6cEhoU1djdjkta1YtbllEclB0NUZDRFpPa3FRbHFtNTEyUVpEaXlmaEpUVE9kNFJmSTNJZXBWak4xRjFVd01Wd2pMV2NGNUJCRmhrZkh4cTNTcVpQLXMtTy1ub1F0U3FrU1dFSTUtQWlINmxObEc?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-04T00:55:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Google will cut off Search access for student accounts at schools that opt out of its AI features.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "education",
+    "search"
+   ]
+  },
+  {
+   "id": "2026-11-04-030",
+   "title": "Canva layoffs: design giant to cut or relocate more than 1,200 jobs in major restructure",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/04/canva-layoffs-job-cuts-restructure",
+   "source": "The Guardian – AI",
+   "published": "2026-11-04T00:14:49.000Z",
+   "category": "incidents-society",
+   "summary": "Canva is cutting or relocating over 1,200 jobs, 22% of its workforce, in a restructure linked to AI competitive pressure.",
+   "relevance": 4,
+   "tags": [
+    "canva",
+    "layoffs",
+    "labour"
+   ]
+  },
+  {
+   "id": "2026-11-04-035",
+   "title": "Anthropic is working on a system to prove AI models’ identity",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-03T22:41:03.000Z",
+   "category": "agents-tools",
+   "summary": "Anthropic's FlashProve would let anyone cryptographically check that an AI response originated from the model it claims to be from.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "provenance",
+    "trust"
+   ]
+  },
+  {
+   "id": "2026-11-04-042",
+   "title": "AI ‘godfather’ Geoffrey Hinton: it might turn out we were better off without AI",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+   "source": "The Guardian – AI",
+   "published": "2026-11-03T21:35:42.000Z",
+   "category": "safety-evals",
+   "summary": "Geoffrey Hinton warned AI could trigger a large-scale incident such as a temporary financial or power system blackout, saying humanity might have been better off without the technology.",
+   "relevance": 4,
+   "tags": [
+    "hinton",
+    "risk",
+    "critical-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-11-04-043",
+   "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeTVmY0FleGRQbGVkYnFaTEJqY21jVWxUalgzanpuYWlKbkdHZTNjMWg1amU4RFJGYXViWnJna0xSVjhVS2ZGMm01ejl6bHB3VWcxZm43VnR5ZE9aTEUyN0JrSEc0VWVSRVQ5c1dCM1ZtWnVEQUQwNzFxNWhTQXg1N3ZIc05uaTlKa2FWNkN4NEt0WWwydUtpdTd6MmNvOGd5S1lsQnA1R0VIMC1qcHVzTQ?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-11-03T21:28:44.000Z",
+   "category": "ai-security",
+   "summary": "WorkOS says an attacker used an AI tool called ARTEX to breach an internal sales application.",
+   "relevance": 4,
+   "tags": [
+    "workos",
+    "breach",
+    "ai-attacks"
+   ]
+  },
+  {
+   "id": "2026-11-04-045",
+   "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOVdCM2RDYzRNRjE0LUlWY2ZPdmZkZG1TS1VRa08xeWJqVmtQbF8wS1B6SUE3T0hsVmlVUHpsR3NoUF9YOTR3WEZNQnR5T0M4dUh5RUJHTXAyeWhHNE1vbTRkOGlyYWdiMThCeG1FSVNBYUNEZElFOEswWGRfMWZyWWFZWQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-03T21:16:03.000Z",
+   "category": "ai-security",
+   "summary": "CrowdStrike launched an AI agent 'kill switch' for runaway agents and plans to acquire Fiddler AI.",
+   "relevance": 4,
+   "tags": [
+    "crowdstrike",
+    "agents",
+    "m-and-a"
+   ]
+  },
+  {
+   "id": "2026-11-04-051",
+   "title": "Google says there’s no way to use Search without using artificial intelligence",
+   "url": "https://www.theguardian.com/technology/2026/nov/03/google-search-artificial-intelligence",
+   "source": "The Guardian – AI",
+   "published": "2026-11-03T20:30:06.000Z",
+   "category": "policy-regulation",
+   "summary": "Google acknowledged Search cannot be used without AI, as it unveiled school AI tools plus controls that block Search if AI is disabled.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "search",
+    "education"
+   ]
+  },
+  {
+   "id": "2026-11-04-053",
+   "title": "Apple starts giving Siri AI access to third-party apps",
+   "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps",
+   "source": "The Verge – AI",
+   "published": "2026-11-03T20:16:17.000Z",
+   "category": "agents-tools",
+   "summary": "Apple's iOS 27.3 lets Siri AI act across third-party apps, using personal context, natural language prompts and on-screen awareness.",
+   "relevance": 4,
+   "tags": [
+    "apple",
+    "siri",
+    "assistants"
+   ]
+  },
+  {
+   "id": "2026-11-04-054",
+   "title": "OpenAI says GPT-6 Astra designed a hardware device from scratch in under a week",
+   "url": "https://the-decoder.com/openai-says-gpt-6-astra-designed-a-hardware-device-from-scratch-in-under-a-week/",
+   "source": "The Decoder",
+   "published": "2026-11-03T20:15:45.000Z",
+   "category": "agents-tools",
+   "summary": "OpenAI says GPT-6 Astra designed a hardware device for its Codex agent in under a week, covering enclosure, PCB and firmware, though manufacturing tolerances needed human revisions.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "gpt-6",
+    "hardware"
+   ]
+  },
+  {
+   "id": "2026-11-04-056",
+   "title": "Rapid LLM development is outrunning the research meant to explain it, study finds",
+   "url": "https://the-decoder.com/rapid-llm-development-is-outrunning-the-research-meant-to-explain-it-study-finds/",
+   "source": "The Decoder",
+   "published": "2026-11-03T19:41:43.000Z",
+   "category": "research",
+   "summary": "Stanford researchers tested 50 widely cited LLM claims against 20 current models: 44% were already 'expired' and 34% significantly weakened, with an average claim lifespan of 15.7 months.",
+   "relevance": 4,
+   "tags": [
+    "stanford",
+    "llm-research",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "2026-11-04-062",
+   "title": "Hackers behind $6.3bn Binance heist ‘used malware and bogus job interviews’",
+   "url": "https://www.theguardian.com/business/2026/nov/03/hackers-63bn-binance-heist-malware-bogus-job-interviews-cryptocurrency",
+   "source": "The Guardian – AI",
+   "published": "2026-11-03T19:00:23.000Z",
+   "category": "incidents-society",
+   "summary": "Binance says the $6.3bn heist combined malware, bogus job interviews and abuse of an internal AI tool, starting in June.",
+   "relevance": 4,
+   "tags": [
+    "binance",
+    "crypto",
+    "insider-threat"
+   ]
+  },
+  {
+   "id": "2026-11-04-064",
+   "title": "DeepSeek previews new AI model adapted to run on Huawei chips",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNjZ1ZzRnN1ZiM0d6QkcyMGh2MEQ1NFhkV2dYb25jVkhnc3VkMThfYzlyQk43bTFIRktrUnJmWllXYjJTMGEtbVpRRGJLZUM0VkhVZDk5QzZaaDZMQS1FMmpPYVhyUXc5NmRUSkpHQ2kyckRqRnBsNHFlVDFfMzYzT19JaEpoc0RuQTBrTlBiUWI?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-03T18:57:39.000Z",
+   "category": "models-releases",
+   "summary": "DeepSeek previewed a new AI model adapted to run on Huawei chips, underlining China's domestic hardware stack.",
+   "relevance": 4,
+   "tags": [
+    "deepseek",
+    "huawei",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-04-065",
+   "title": "OpenAI employees warned about operational security lapses for years, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2NHYWtHR3NKMlg5Rjh4OG5RcGVTY2VoaFRlb2hhaTkzZEpCemRIQkdCUTgwMFJMZjhrdUVpV08wWC1JclZVdXVjb0cwYmE4X1BxcnpNbmhNMG44cVVkTU4wYXhic1dNRW1JWXBNMUJoeUxGdVNYOTdBS3JwMHlQSm8tcEtkVkFycy00YmpoXzdsSW5LZkR2eXE3cUlHX1lNUkNiQjY4a004ZmdPcF9JT2o2cVVvQzJ4cF9BaQ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-03T18:56:00.000Z",
+   "category": "ai-security",
+   "summary": "Reuters reports OpenAI employees had warned internally about operational security lapses for years.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "opsec",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-04-066",
+   "title": "UK organisations warned to brace for AI-powered ransomware attacks",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZVBsRTdVWVFydkN1WUNPZzFRSDBPVEtTRGdDOWJqc1pMTVNyTWo4ME44alNRRkVUNmVjYzkzNkVsTnVnRWU4MGlQYXFWQVZNZkFRbEp6MFZ0NF8yamw4bWQ0TEZiQWxSY3pmNHctNjh2NGp0blROaU9wRHA2eklLSXBObEdBaExnZndHMURORW41cFpSdFFqOEJ0SlVxMWFZY2RfWkVZWk9JaG9lR3k0LThfVQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-03T18:53:53.000Z",
+   "category": "ai-threats",
+   "summary": "UK organisations are urged to prepare for AI-powered ransomware attacks following the national cyber warning.",
+   "relevance": 4,
+   "tags": [
+    "ransomware",
+    "uk",
+    "ncsc"
+   ]
+  },
+  {
+   "id": "2026-11-04-070",
+   "title": "OpenAI says ChatGPT is catching up to Google in search",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search",
+   "source": "The Verge – AI",
+   "published": "2026-11-03T18:30:42.000Z",
+   "category": "agents-tools",
+   "summary": "OpenAI says ChatGPT search query volume now equals about 20% of Google's, per its consumer product lead.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "chatgpt",
+    "search"
+   ]
+  },
+  {
+   "id": "2026-11-04-071",
+   "title": "Automating subtle emergent misalignment research",
+   "url": "https://www.alignmentforum.org/posts/MuQDLAJyKJPFkw6q9/automating-subtle-emergent-misalignment-research",
+   "source": "AI Alignment Forum",
+   "published": "2026-11-03T18:27:53.000Z",
+   "category": "safety-evals",
+   "summary": "Anthropic researchers automated a red-team game in which a Claude model wrote training data to make a small research model subtly misaligned while evading production-style monitors.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "alignment",
+    "red-teaming"
+   ]
+  },
+  {
+   "id": "2026-11-04-073",
+   "title": "Cold war? Why are fridges being hacked and what could be next? - The Latest",
+   "url": "https://www.theguardian.com/news/audio/2026/nov/03/cold-war-why-are-fridges-being-hacked-and-what-could-be-next-the-latest",
+   "source": "The Guardian – AI",
+   "published": "2026-11-03T18:21:30.000Z",
+   "category": "ai-threats",
+   "summary": "Supermarket fridges in several European countries malfunctioned after a reported cyberattack; the EU called it a deliberate attempt to disrupt food supply, amid UK warnings on AI-powered malware.",
+   "relevance": 4,
+   "tags": [
+    "eu",
+    "iot",
+    "critical-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-11-04-080",
+   "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQcEtTVi1ULWNCZzJlMkxLdDJGT0laYVJzbjRmdjdoWWVQZTljVXE4amhTSnJfUTVXNXFiYjJNU1podkVPNVNrcEhHSVBwdnpMeWVpdU1xSXc4Zw?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-03T17:32:05.000Z",
+   "category": "ai-threats",
+   "summary": "UK authorities say an AI-powered ransomware attack on critical infrastructure is 'highly likely' by 2028.",
+   "relevance": 4,
+   "tags": [
+    "ncsc",
+    "ransomware"
+   ]
+  },
+  {
+   "id": "2026-11-04-083",
+   "title": "Anthropic is still grappling with the economics of compute",
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-still-grappling-with-the-economics-of-compute/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-03T17:07:01.000Z",
+   "category": "industry-compute",
+   "summary": "TechCrunch reports Anthropic's compute margins are worsening despite expectations of improvement, raising questions about AI unit economics.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "compute",
+    "economics"
+   ]
+  },
+  {
+   "id": "2026-11-04-085",
+   "title": "Google is entirely disabling Search in schools that don’t want AI",
+   "url": "https://www.theverge.com/tech/1025411/google-turn-off-search-ai-features",
+   "source": "The Verge – AI",
+   "published": "2026-11-03T17:00:04.000Z",
+   "category": "policy-regulation",
+   "summary": "Google will fully disable Search alongside Gemini for K-12 student accounts at schools that reject its AI features.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "education",
+    "bundling"
+   ]
+  },
+  {
+   "id": "2026-11-04-106",
+   "title": "Is Europe in a ‘complete trap’ without frontier AI?",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdXNnYVZSZG9wUVVCNVc1Z1lGNXlWV2pPcXl3bDE0cGpGakdkWXNPWDFLVFJtVGZZa1UzZVdpbmNtZ2ZleXg1dmdsc1MyQjcyQkdITFBkMXpkMG1UamJ0WUtOTFNiWEthUE1YTFV1TTNkdE1ETHZ0cHRsZm9HY1pUdGtVN3V1WXpRTzRXMEI0NVRkU041aXJlaFJUU3RWM1E?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-03T13:22:32.000Z",
+   "category": "industry-compute",
+   "summary": "Analysis asking whether Europe is trapped by its lack of homegrown frontier AI models.",
+   "relevance": 4,
+   "tags": [
+    "europe",
+    "sovereignty"
+   ]
+  },
+  {
+   "id": "2026-11-04-112",
+   "title": "AIs Hacking the Law",
+   "url": "https://www.schneier.com/blog/archives/2026/11/ais-hacking-the-law.html",
+   "source": "Schneier on Security",
+   "published": "2026-11-03T12:01:00.000Z",
+   "category": "research",
+   "summary": "Schneier highlights German demonstrations of AI systems finding exploitable vulnerabilities in written law, arguing scale could overwhelm courts' interpretive fixes.",
+   "relevance": 4,
+   "tags": [
+    "schneier",
+    "legal",
+    "ai-risk"
+   ]
+  },
+  {
+   "id": "2026-11-04-116",
+   "title": "UK’s most polluting power plant could power country’s largest AI datacentre",
+   "url": "https://www.theguardian.com/business/2026/nov/03/uk-drax-power-station-ai-datacentre",
+   "source": "The Guardian – AI",
+   "published": "2026-11-03T11:55:28.000Z",
+   "category": "industry-compute",
+   "summary": "Drax's owner, Brookfield and Radiant struck a £20bn deal to build a 1GW+ data centre at the UK's most polluting power plant site, potentially live by early 2028.",
+   "relevance": 4,
+   "tags": [
+    "uk",
+    "energy",
+    "data-centers"
+   ]
+  },
+  {
+   "id": "2026-11-04-122",
+   "title": "How “reverse game theory” could keep AI agents in check",
+   "url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
+   "source": "MIT Technology Review – AI",
+   "published": "2026-11-03T10:43:41.000Z",
+   "category": "research",
+   "summary": "MIT Technology Review covers 'reverse game theory' (mechanism design) approaches that incentivise AI agents to follow rules as a complement to alignment.",
+   "relevance": 4,
+   "tags": [
+    "alignment",
+    "agents",
+    "mechanism-design"
+   ]
+  },
+  {
+   "id": "2026-11-04-123",
+   "title": "AI Agent Hacked GitHub in a Government AI Safety Test. TÜV Demands Pre-Market AI Audits.",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSzY1SGRtb3JUOHhaTEpXZEdxc2RjNHloQXZ3dFBMX180c2NnSHFpMHI0ZlJxWnBYTzVRQXkyUnk5aFNXenBwaHdFVVFZNG5ueTFRa1EwV1lkU3NRMHdlU2MwUDNKVmV3RWJRbHZxTFlfeUFRdzR0Q0hmUHh2czlWRzZtNDZWTVg5NUZzTGFDMEFlVG1vd1FuOENzeWVDSWpiSkljY0VLbWVtWFBjbmRHeEdiclhtMkJDMkRkX0NfM2lybmlzSjREcWJNZ3NfbGdON1E?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-03T10:29:00.000Z",
+   "category": "safety-evals",
+   "summary": "An AI agent compromised GitHub during a government AI safety test, and TÜV is calling for mandatory pre-market AI audits.",
+   "relevance": 4,
+   "tags": [
+    "tuv",
+    "audits",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-11-04-124",
+   "title": "GDPx Benchmark: Best Frontier AI Scores 12% on Real Work, Zero on Finance and Legal",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOGhTNGFvVFZmWVMyU0dscTdPQWRxRTBBQjA0dlZ2S3UtTmplNlM1UHNfb3BPQmd3ME5hYWc2b3ByZ2hPMzFJcENvdENHeF83d2lVNVRrMC1vdUd4bVB3Z2kzSzZ2STl3RHk5NEVNdTdpeXFYSnJnQ0tjNS1QcUJqMFNHSHFGbzVXbjZxS0NtYWZTYXM1V1czU0lldXVzdGJ0emJiMHNiMmxoakl0T3ZmOVJSY3g4NThnbFZIYnVMLWEyMkE?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-03T10:21:52.000Z",
+   "category": "safety-evals",
+   "summary": "On the GDPx benchmark of real economic work, the best frontier model scored just 12%, with zero in finance and legal tasks.",
+   "relevance": 4,
+   "tags": [
+    "gdpx",
+    "benchmark",
+    "evaluation"
+   ]
+  },
+  {
+   "id": "2026-11-04-135",
+   "title": "‘A serious failure’: CPS prosecutor cites imaginary case to high court after AI search",
+   "url": "https://www.theguardian.com/technology/2026/nov/03/a-serious-failure-cps-prosecutor-cites-imaginary-case-to-high-court-after-ai-search",
+   "source": "The Guardian – AI",
+   "published": "2026-11-03T06:00:40.000Z",
+   "category": "incidents-society",
+   "summary": "A senior UK crown prosecutor cited a nonexistent legal precedent after an AI search, adding to dozens of AI hallucination errors in court proceedings.",
+   "relevance": 4,
+   "tags": [
+    "hallucinations",
+    "legal",
+    "uk"
+   ]
+  },
+  {
+   "id": "2026-11-04-001",
+   "title": "Nasdaq 100 futures plunge 2.4% on AI regulation fears; Asian tech stocks also falter : Finance : JKN",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9haGNzdm9sZVhENG41UUlhSVVSSVd3Tm1xdlNIYlRJNVR4T1RtWDAxendyMFlmb3FxczdlM1AxQXdyaWtjR1dQS1lTOHFraF8yN21pQzM0WS1KSmtsUGkxdDB3?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-04T06:40:05.000Z",
+   "category": "industry-compute",
+   "summary": "Nasdaq 100 futures fell 2.4% and Asian tech stocks weakened on fears of tighter AI regulation following the US elections.",
+   "relevance": 3,
+   "tags": [
+    "markets",
+    "us-politics"
+   ]
+  },
+  {
+   "id": "2026-11-04-004",
+   "title": "AI Data Center Boom Is Set for Upheaval After US Election Rout",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeUxLRDFBU2J3Si1KLW50RDFPTE9oMjJNX2JGd2xCRXJDbW9nOXdqblFZM0lIM2ZaR3M3dWQtTDJsWW9aOU5iR1NteTdVX1hLN1J1WUpfNHNVQ3hjN2ZaRWRydEZROUNwclhqNWNZYkdlMlBmS0NnR0RXVlRMVU9jalI3Q193UzVWRFp1WjZXMG00Z3FXbWFXdjFwUjNpNVRPQ3YtdFhRWmVIN2cxNDV2Q1Q2cw?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-04T06:23:00.000Z",
+   "category": "industry-compute",
+   "summary": "Bloomberg reports the AI data centre buildout faces upheaval after the US election results shift the political backdrop.",
+   "relevance": 3,
+   "tags": [
+    "data-centers",
+    "us-politics"
+   ]
+  },
+  {
+   "id": "2026-11-04-007",
+   "title": "A Google megengedi az iskoláknak a mesterséges intelligenciájuk letiltását, de ezzel a cég keresőjét is elveszíthetik",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1ZndkRxc0JHcWstbllSR1M3a2k4d3E1bDNla0Zsa1J3WE90Y0hLYUFuQ0FCbF9GTGtoWURJSkg3MjVGYzUzQUQ3cENZcEx2aXROZ1VPM0J1T2Z6dkEwWlZsekczNzVyQ1ZTaU84d2JYMmtXRUg0WWRCV0k3SGx0RzFNVUJjb2xTTXVxaW1hQTNrajNSUW1vcG1jQ2htQQ?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-04T06:17:11.000Z",
+   "category": "policy-regulation",
+   "summary": "Hungarian coverage of Google letting schools disable its AI tools, at the cost of also losing access to Google Search.",
+   "relevance": 3,
+   "tags": [
+    "google",
+    "education",
+    "hungary"
+   ]
+  },
+  {
+   "id": "2026-11-04-069",
+   "title": "Apple’s latest watchOS beta includes its new always-on Audio Intelligence features",
+   "url": "https://www.theverge.com/tech/1025002/apple-watch-audio-intelligence-watchos-beta",
+   "source": "The Verge – AI",
+   "published": "2026-11-03T18:31:00.000Z",
+   "category": "agents-tools",
+   "summary": "Apple's watchOS 27.3 beta adds always-on Audio Intelligence: Siri Recap conversation summaries and Live Rewind transcripts of the last 15 minutes.",
+   "relevance": 3,
+   "tags": [
+    "apple",
+    "privacy",
+    "siri"
+   ]
+  },
+  {
+   "id": "2026-11-04-076",
+   "title": "Google will let schools skip AI tools, but they have to give up search, too",
+   "url": "https://arstechnica.com/ai/2026/11/google-will-let-schools-skip-ai-tools-but-they-have-to-give-up-search-too/",
+   "source": "Ars Technica – AI",
+   "published": "2026-11-03T17:54:43.000Z",
+   "category": "policy-regulation",
+   "summary": "Google will let schools opt out of its AI tools but they must also forgo Search; it promises AI tools that do not simply give away answers.",
+   "relevance": 3,
+   "tags": [
+    "google",
+    "education"
+   ]
+  },
+  {
+   "id": "2026-11-04-081",
+   "title": "CERT-In Gets Mythos AI Access: Cautious Use for Cybersecurity",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVzJLMFo2YmlXam15TlY0TF9lQk1VajBJZjRRVTZCalE1OUJWdmgwdUxlbWREbUJZOFhnYjhXNzFacVVOeFdZdXlFaUVNSWNnU2I4ZGNRTmtNR2FMLXkxT1F6NG1LUFpEMG0tWmhXbHh6d1RpNVRna00ydTJZV1hVTDZieW5XZDZlTDFtZ0FHLWRJQWEzNmRxZWdaQTZRUkxQNXpJMXA3cWY0QnViMy1DSUV30gG3AUFVX3lxTE9FWXhNTlBwcFpyd1o0RjBvVnBkcUltb21YMmtkbDQ5dVhhbmlkdmJYNHFSaTNQWkFwT2Z4UmluNm5LQUN1NnVMSm5ORlA2SWpQTkxWQnRzS2dndFBjRktkWmtZSFpfOW1KWEVRS0txRjl4STdsRnQwa1VzR0oxR1JfeE52T3Y0STI3Z0o0N253TUp2WEJ6ZTFLOWI2bTBsUjZ6RUZSVlIybmY1WG9uYzJlUXJDeC03RQ?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-03T17:20:19.000Z",
+   "category": "safety-evals",
+   "summary": "Report on India's CERT-In gaining cautious access to the Mythos frontier model for cybersecurity use.",
+   "relevance": 3,
+   "tags": [
+    "cert-in",
+    "india",
+    "anthropic"
+   ]
+  },
+  {
+   "id": "2026-11-04-082",
+   "title": "StateBench: Testing how language models track state changes over long documents",
+   "url": "https://huggingface.co/blog/allenai/statebench",
+   "source": "Hugging Face Blog",
+   "published": "2026-11-03T17:15:21.000Z",
+   "category": "research",
+   "summary": "StateBench is a new benchmark testing how well language models track state changes across long documents.",
+   "relevance": 3,
+   "tags": [
+    "benchmark",
+    "long-context"
+   ]
+  },
+  {
+   "id": "2026-11-04-099",
+   "title": "Here’s Why You Shouldn’t Use AI to Vote",
+   "url": "https://www.wired.com/story/heres-why-you-shouldnt-use-ai-to-vote/",
+   "source": "Wired – AI",
+   "published": "2026-11-03T14:45:08.000Z",
+   "category": "incidents-society",
+   "summary": "Wired argues chatbots like ChatGPT and Claude are unreliable for election information due to hallucinations and bias.",
+   "relevance": 3,
+   "tags": [
+    "elections",
+    "hallucinations"
+   ]
+  },
+  {
+   "id": "2026-11-04-109",
+   "title": "China's Baidu launches AI model simulating road environment for robotaxis",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWlBTNlBkSzVNYUdnYUdqdDdXSUxPbGFmQkhtZXpFdmIxY0ZCN1dBUEhXT05Jd3lvelZOalJkQkJRTkppamVnSndpRzE5SzZZTHZNbE9sdkYwQ1FZakRMQnVXcnlQNTVGQUZCenlic1ZkYkxUMjY2aWo4MDF5X2Rma0w5TjVjcF9ycDl6YTdlUDJfZzE3dEpvMFdnWTZOb3RMaGRyMERRQTFKdklIOXB5TnlYMmwwUQ?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-03T12:44:36.000Z",
+   "category": "models-releases",
+   "summary": "Baidu launched an AI model that simulates road environments to train and test robotaxis.",
+   "relevance": 3,
+   "tags": [
+    "baidu",
+    "autonomous-driving",
+    "simulation"
+   ]
+  },
+  {
+   "id": "2026-11-04-113",
+   "title": "Accelerating engineering for the physical world",
+   "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+   "source": "OpenAI News",
+   "published": "2026-11-03T12:00:00.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI describes how ChatGPT and Codex are being used to speed CAD, PCB design and simulation workflows in physical engineering.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "codex",
+    "engineering"
+   ]
+  }
+ ]
+}
