@@ -267,7 +267,7 @@ You receive a JSON array of news items scraped from public RSS feeds. The items 
 Categories:
 ${categoriesDesc}
 
-For every item, return: id, the best-fitting category (feed_category is only a hint), a neutral 1–2 sentence English summary (max 280 characters) written for a busy tech leader, a relevance score 1–5 for a European audience following AI (5 = must read), and up to 3 short lowercase tags (e.g. model names, vendors, ai-act, prompt-injection). Mark clearly off-topic or promotional items, listicles and hype with relevance 1.
+For every item, return: id, title_en (the headline in English: if the original headline is not in English, translate it faithfully and drop date prefixes or teaser text glued to it, max 140 characters; if it is already English return an empty string), the best-fitting category (feed_category is only a hint), a neutral 1–2 sentence English summary (max 280 characters) written for a busy tech leader, a relevance score 1–5 for a European audience following AI (5 = must read), and up to 3 short lowercase tags (e.g. model names, vendors, ai-act, prompt-injection). Mark clearly off-topic or promotional items, listicles and hype with relevance 1.
 
 Then write a LinkedIn post (English, max 1200 characters, no emojis except at most two, 3–5 relevant hashtags at the end) that presents the day's 3–5 most relevant items as a professional daily digest. Do not include URLs in the post; the reader will find them on the website. Do not make claims that are not in the items.`;
 
@@ -281,9 +281,10 @@ Then write a LinkedIn post (English, max 1200 characters, no emojis except at mo
         items: {
           type: "object",
           additionalProperties: false,
-          required: ["id", "category", "summary", "relevance", "tags"],
+          required: ["id", "title_en", "category", "summary", "relevance", "tags"],
           properties: {
             id: { type: "string" },
+            title_en: { type: "string" },   // "" = already English
             category: { type: "string", enum: CATEGORY_IDS },
             summary: { type: "string" },
             relevance: { type: "integer" },   // 1–5 a promptban; a strukturált séma nem enged min/max-ot
@@ -319,7 +320,8 @@ Then write a LinkedIn post (English, max 1200 characters, no emojis except at mo
     const byId = new Map(parsed.items.map((r) => [r.id, r]));
     results = results.map((r) => {
       const m = byId.get(r.id);
-      return m ? { ...r, category: m.category, summary: clip(stripHtml(m.summary), 320), relevance: m.relevance, tags: m.tags.slice(0, 3).map((t) => clip(stripHtml(t).toLowerCase(), 24)) } : r;
+      const en = clip(stripHtml(m?.title_en ?? ""), 160);
+      return m ? { ...r, ...(en ? { titleEn: en } : {}), category: m.category, summary: clip(stripHtml(m.summary), 320), relevance: m.relevance, tags: m.tags.slice(0, 3).map((t) => clip(stripHtml(t).toLowerCase(), 24)) } : r;
     });
     post = stripHtml(parsed.post).replace(/ (?=#)/g, "\n").trim();
     llmOk = true;
@@ -332,7 +334,7 @@ const byId = new Map(results.map((r) => [r.id, r]));
 const final = candidates
   .map((it) => {
     const r = byId.get(it.id);
-    return { id: it.id, title: it.title, url: it.url, source: it.source, published: it.published, category: r.category, summary: r.summary, relevance: r.relevance, tags: r.tags };
+    return { id: it.id, title: r.titleEn ?? it.title, ...(r.titleEn ? { originalTitle: it.title } : {}), url: it.url, source: it.source, published: it.published, category: r.category, summary: r.summary, relevance: r.relevance, tags: r.tags };
   })
   .filter((it) => KEEP_ALL || it.relevance >= MIN_RELEVANCE)
   .sort((a, b) => b.relevance - a.relevance || b.published.localeCompare(a.published));
