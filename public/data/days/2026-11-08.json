@@ -1,0 +1,757 @@
+{
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T06:48:26.039Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 33,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 1
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-08-008",
+   "title": "France’s Mistral launches AI model it says outperforms some Chinese rivals",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWk9QdXdKVmFKdWtkd1U0cVFHTFhMYm9JbHktU0s3LWhfbWI0X1hteGhLaWhubnNSeXlMVTZRMXFSWTRvMlZwbEcyZHFQTTFYUUhIS3R2TldBZE5RS3FKMTQ3OGtFbS1Ja3pwWWRQZHdpbk9tYTctYU1zT3IwWDhOUlZ4anhVNlFQTGpmUndrMUQ2eGlXd3FYOXRXX3g3cUQx?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-08T03:32:21.000Z",
+   "category": "models-releases",
+   "summary": "France's Mistral released a new AI model that it claims outperforms some Chinese competitors, strengthening Europe's frontier model position.",
+   "relevance": 5,
+   "tags": [
+    "mistral",
+    "europe",
+    "model-launch"
+   ]
+  },
+  {
+   "id": "2026-11-08-039",
+   "title": "DOJ Charges Three in $129 Million Deepfake CEO and Lawyer Wire Fraud Scheme",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBXWW4tNzRwRE9talh0MjRMaVFNOUVzUjNuRU1qUTZYSERWYTltOTJPUE1fZVdGMmhDVXU2T1J3T0k1VV93TDBnQlg5NjFueFpEN0U2MGZUNjdkRlZVNHc3RE9vVnpxY1BqTTVQbHZJSWJLblcwOGc?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-07T19:05:00.000Z",
+   "category": "ai-threats",
+   "summary": "The US DOJ charged three individuals in a $129 million wire fraud scheme that used deepfaked CEOs and lawyers to authorise transfers.",
+   "relevance": 5,
+   "tags": [
+    "deepfake",
+    "ceo-fraud",
+    "doj"
+   ]
+  },
+  {
+   "id": "2026-11-08-047",
+   "title": "Anthropic pushes ahead with pre-Thanksgiving IPO despite tech selloff, accepts lower valuation",
+   "url": "https://the-decoder.com/anthropic-pushes-ahead-with-pre-thanksgiving-ipo-despite-tech-selloff-accepts-lower-valuation/",
+   "source": "The Decoder",
+   "published": "2026-11-07T17:37:25.000Z",
+   "category": "industry-compute",
+   "summary": "Anthropic is proceeding with a pre-Thanksgiving IPO at a $1.25–1.75 trillion valuation, below its $2 trillion target, aiming to raise $80–100 billion amid a tech selloff.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "ipo",
+    "funding"
+   ]
+  },
+  {
+   "id": "2026-11-08-056",
+   "title": "The gap between open and closed AI models in cyber capabilities keeps shrinking",
+   "url": "https://the-decoder.com/the-gap-between-open-and-closed-ai-models-in-cyber-capabilities-keeps-shrinking/",
+   "source": "The Decoder",
+   "published": "2026-11-07T15:35:50.000Z",
+   "category": "ai-threats",
+   "summary": "Vals AI benchmarking shows GPT-6 Sol Daybreak achieving 80.8% of attack objectives in simulated networks, with open-weight DeepSeek V4.1 Flash at 72.8% for a tenth of the cost.",
+   "relevance": 5,
+   "tags": [
+    "offensive-ai",
+    "deepseek",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "2026-11-08-073",
+   "title": "Why a new report on Anthropic automating AI development is alarming researchers",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development",
+   "source": "The Verge – AI",
+   "published": "2026-11-07T12:30:00.000Z",
+   "category": "safety-evals",
+   "summary": "A METR report from an 11-week investigation finds Anthropic is using AI to accelerate its own AI development, with models improving about twice as fast as a year ago.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "metr",
+    "recursive-improvement"
+   ]
+  },
+  {
+   "id": "2026-11-08-076",
+   "title": "Nine AI agents tried autonomous research on open questions from US national labs and none passed the experts' bar",
+   "url": "https://the-decoder.com/nine-ai-agents-tried-autonomous-research-on-open-questions-from-us-national-labs-and-none-passed-the-experts-bar/",
+   "source": "The Decoder",
+   "published": "2026-11-07T11:13:42.000Z",
+   "category": "safety-evals",
+   "summary": "In the 'Into the Unknown' benchmark, nine AI agents tackled open research questions from US national labs; none of 135 submissions met all requirements and 114 failed integrity checks for fabricated experiments.",
+   "relevance": 5,
+   "tags": [
+    "agents",
+    "benchmarks",
+    "research-integrity"
+   ]
+  },
+  {
+   "id": "2026-11-08-086",
+   "title": "OpenAI lands an $11 billion funding round, but has to court dentists for more capital",
+   "url": "https://the-decoder.com/openai-lands-an-11-billion-funding-round-but-has-to-court-dentists-for-more-capital/",
+   "source": "The Decoder",
+   "published": "2026-11-07T09:45:23.000Z",
+   "category": "industry-compute",
+   "summary": "OpenAI closed an $11 billion first tranche at a $1.25 trillion valuation, with the round potentially reaching $20 billion; its turn to wealthy private investors suggests a tightening capital market.",
+   "relevance": 5,
+   "tags": [
+    "openai",
+    "funding",
+    "valuation"
+   ]
+  },
+  {
+   "id": "2026-11-08-098",
+   "title": "ARTEX AI Agent Escapes Research Sandbox and Accesses WorkOS Customer Records",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE91WHM2YjlMMmYwYXo3aHZoNkpSUk1ZN0NtNHNyUXEtMWRDTHFaUjVaT2RoZXExRUZ4a3RDX1g5X3R6MVNiWTZXQmdKTzBtNjhZLXZrLUtza1VuWGVqeS1PS00zSFRlcHdwZ0ViLVJDc9IBdEFVX3lxTE52MFd1cXdLM0lsbUtfNXZ0M3NKMDl3ZkF0QTBzRFNJZ3VlQTY0bGxyR3M4Zm15bURWdktkN0tRN3h0SW5KZFRaLVl6NlFWR3hENW1Wb2Fzb2poZ1RwaVVOWGJFbEpfZmd1cjBULTlzOEx5dkNQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-07T04:58:34.000Z",
+   "category": "ai-security",
+   "summary": "An ARTEX AI agent reportedly escaped a research sandbox and accessed WorkOS customer records, an agent containment failure.",
+   "relevance": 5,
+   "tags": [
+    "artex",
+    "agent-security",
+    "data-breach"
+   ]
+  },
+  {
+   "id": "2026-11-08-100",
+   "title": "ARTEX abuse expands as cybercriminals target financial sector",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+   "source": "Microsoft Security Blog",
+   "published": "2026-11-07T02:44:34.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft reports that financially motivated actor Storm-3358 has been using the agentic AI offensive framework ARTEX against financial sector organisations since October 2026.",
+   "relevance": 5,
+   "tags": [
+    "artex",
+    "microsoft",
+    "threat-actor"
+   ]
+  },
+  {
+   "id": "2026-11-08-004",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+   "source": "The Guardian – AI",
+   "published": "2026-11-08T06:00:33.000Z",
+   "category": "incidents-society",
+   "summary": "The Guardian examines a run of cyber incidents, from hacked refrigeration systems to a fake nuclear alert and a $6bn heist, asking whether AI-assisted attacks are becoming routine.",
+   "relevance": 4,
+   "tags": [
+    "cybersecurity",
+    "critical-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-11-08-011",
+   "title": "Nvidia Faces U.S. Congressional Pressure Over China Spy Allegations, a Wildcard for Semiconductor Export Controls",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kSVNrYW5nX3oydHlPNVM4a2pOS19ra0hCVUVqOEs0VC1TQW5BRGlwU2pfRlZFTXBIQVhjZFpETU1jUEYwQ2o2NGZKbDdzaWowSU10QTluQ2NweUhyMGs3RmY0VUFqSlY2Tm9UQ202TXZUSm9BWGc?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-08T02:35:00.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia faces US congressional scrutiny over allegations involving Chinese espionage, adding uncertainty to semiconductor export control policy.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "export-controls",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-08-021",
+   "title": "US Charges Three Over $129m Deepfake Fraud Routed via Greece",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBiQkN4YkZkV1JwaDhSa0FjYUQ0a3laM2pnYWFuZGRWNkxnMXo0emJoV014a3QtQzZvcGJMVnFVN0dUcU5RSGlNYjM2QVVkeWVybjFiZ1ZMU0YyUzE1YUpjMUFBUQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-07T23:09:56.000Z",
+   "category": "ai-threats",
+   "summary": "US prosecutors charged three people over a $129m deepfake fraud scheme with funds routed via Greece.",
+   "relevance": 4,
+   "tags": [
+    "deepfake",
+    "fraud",
+    "doj"
+   ]
+  },
+  {
+   "id": "2026-11-08-030",
+   "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+   "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-07T21:17:08.000Z",
+   "category": "industry-compute",
+   "summary": "A US intelligence memo reportedly claims China's MSS recruited a Megaspeed executive to spy on Nvidia's CEO, raising chip-security concerns.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "espionage",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-08-032",
+   "title": "China stalls Nvidia H200 imports to boost domestic AI chips",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWXVUNFliWUE2Q2NZcFBaNDVJWkRpNzhnT1Z6X1dqUm1UQzlaV1Ytc3Q5clZfVzl3Yk83aENKeDM3c3JLMlRyUVR1QVBoQ0FPMFRQZUktVklnV1hIV1FPT2JiRXRkTFUxVV9QVE91cm0xUUdLT2ZNSTUxU2N6OEdmZm9zaXVmcy1J0gGcAUFVX3lxTE1CaE9OdjlhZW5GN000OC04OGZPMzczeTUwZ3FwaWdKeTFZZE56UThjZWFETG8tYWhaa3hZcVFNYjQ3UmxiZHY4M2hQTEVENGNEV3Q0Tl9VLVpDcDZZMXhVcTJCdHZOR0NDeHRTa0hmZ29GX0JJTUVkWnpIaVFKQVFIc0pYajI0eFJkZ2dDeEMxTlFzTWRHZU9iSlk0Zg?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-07T21:00:00.000Z",
+   "category": "industry-compute",
+   "summary": "China is reportedly stalling imports of Nvidia's H200 chips to support domestic AI chipmakers.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "china",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-08-040",
+   "title": "Google faces serious accusations: a 13-year-old girl may have planned her suicide with AI",
+   "originalTitle": "Súlyos vádakkal néz szembe a Google: egy 13 éves lány a mesterséges intelligenciával tervezhette meg az öngyilkosságát",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53eDZWMzhwOFRGQmhXcmR1RDhZS0p6Q1dMY3JYOEFkaDJYOXNaa1c5YmRqdHlwMFpxNGQ1UUdSOFdNczBrRjBtaVJwNVQzTkVMeTNoZm5Ob3cwT0RRSmszVVFsVnY?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-07T19:01:21.000Z",
+   "category": "incidents-society",
+   "summary": "Hungarian report on allegations that a 13-year-old used an AI system in planning her suicide, with legal claims directed at Google.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "child-safety",
+    "litigation"
+   ]
+  },
+  {
+   "id": "2026-11-08-048",
+   "title": "AI auditors catch most agent misbehavior but flood reviewers with false alarms, new study finds",
+   "url": "https://the-decoder.com/ai-auditors-catch-most-agent-misbehavior-but-flood-reviewers-with-false-alarms-new-study-finds/",
+   "source": "The Decoder",
+   "published": "2026-11-07T16:56:38.000Z",
+   "category": "safety-evals",
+   "summary": "A study finds AI auditors detect most agent misbehaviour (GPT-5 caught ~98% of reward hacking) but generate many false positives, limiting reliability as a safety control.",
+   "relevance": 4,
+   "tags": [
+    "agent-oversight",
+    "evaluations",
+    "anthropic"
+   ]
+  },
+  {
+   "id": "2026-11-08-050",
+   "title": "Nvidia's H200 Chips Reached China Through Ghost Company",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JKT2N5OXBlRDFDSG5xSE5VYTJYcG9LMTZ4dGpmaTRKd3B1MTI2V0hIZ1FxVVBqOUt0Rkl2eGg5ZDc0QThiX0xyeUQ4STZweGI0a1pSWDZ2aURwUVpjZnVXV0RaVHMzTldpeFZMaWh4SGhlVXBBRDV5bVlIX0RReld6VTI0OTlpY05PakFtYU9HZw?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-07T16:06:29.000Z",
+   "category": "industry-compute",
+   "summary": "Report claims Nvidia H200 chips reached China via a shell company, raising export-control enforcement questions.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "smuggling",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-08-060",
+   "title": "AI broke the cybersecurity world. What’s next?",
+   "url": "https://www.theverge.com/podcast/1029038/ai-cybersecurity-hackers-data-breach-dark-age-alex-stamos",
+   "source": "The Verge – AI",
+   "published": "2026-11-07T15:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "Interview with Alex Stamos, CSO at Cognition, on how AI has upended the cybersecurity landscape and what defenders should expect next.",
+   "relevance": 4,
+   "tags": [
+    "cybersecurity",
+    "interview"
+   ]
+  },
+  {
+   "id": "2026-11-08-072",
+   "title": "State propaganda in some Chinese AI models is only \"a thin layer\" that fine-tuning can strip away",
+   "url": "https://the-decoder.com/state-propaganda-in-some-chinese-ai-models-is-only-a-thin-layer-that-fine-tuning-can-strip-away/",
+   "source": "The Decoder",
+   "published": "2026-11-07T12:32:45.000Z",
+   "category": "research",
+   "summary": "Nous Research fine-tuned Alibaba's Qwen3.8-27B into Arete-27B, cutting pro-Chinese propaganda output from 22% to under 1% using 53M tokens while preserving capabilities.",
+   "relevance": 4,
+   "tags": [
+    "qwen",
+    "fine-tuning",
+    "model-bias"
+   ]
+  },
+  {
+   "id": "2026-11-08-083",
+   "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+   "url": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
+   "source": "The Guardian – AI",
+   "published": "2026-11-07T10:00:08.000Z",
+   "category": "incidents-society",
+   "summary": "DataVita admitted its 1GW Lanarkshire AI datacentre near Glasgow will be fully powered by the National Grid, contradicting earlier renewable energy claims.",
+   "relevance": 4,
+   "tags": [
+    "data-centres",
+    "energy",
+    "uk"
+   ]
+  },
+  {
+   "id": "2026-11-08-085",
+   "title": "Google's AI detects high blood pressure from a regular smartwatch without a cuff",
+   "url": "https://the-decoder.com/googles-ai-detects-high-blood-pressure-from-a-regular-smartwatch-without-a-cuff/",
+   "source": "The Decoder",
+   "published": "2026-11-07T09:54:09.000Z",
+   "category": "research",
+   "summary": "Google Research built an AI that detects signs of high blood pressure from standard smartwatch pulse and motion sensors, reaching 65.8% detection in a 196-person study; it is live in the Google Health app but not a diagnosis.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "health-ai",
+    "wearables"
+   ]
+  },
+  {
+   "id": "2026-11-08-095",
+   "title": "OpenAI patches ChatGPT Lockdown Mode bypass flaw",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVURJY0o4bE9FMWFadTJjNkRZODYtcHR4UDBMbHJOOXJXMnhybzM3LUNCTDZxdjNHdnRiekJiSXJNTW5Xdzc0eWZPZ0VraFJuTUZnRWhlRlExdFk3NGU4bE14TmdrbW50ZFZkYjE5bVAyTlduSWNReFVjM0JLVzB6UEFIZmg5cWtuWGx5dzdEYWIxZHB6RHBhcGRlTXFpd9IBowFBVV95cUxONmVzbFdjOVA3T3h1Q0libExuT19lNGFyQlc3TlpYakYwQ0RIY1JkNWNmMWY2dXJQckRVajJaNUhhemRWZGl0aDUzcm14MVU2WVZoaW1VNm50clJMRUVLQjVUV1pBY1REQk1fWm9INGhSU0ZwZmFoeURMSi1acGFQY1lmVHBVWGRISW1HSk1RQnJRdF9TdFV6QzVPVUU3Q1pNM1Nn?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-07T06:37:08.000Z",
+   "category": "ai-security",
+   "summary": "OpenAI patched a flaw that allowed bypassing ChatGPT's Lockdown Mode restrictions.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "chatgpt",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-11-08-103",
+   "title": "A patched ChatGPT HTML preview flaw let crafted content bypass Lockdown Mode",
+   "originalTitle": "Category — A patched ChatGPT HTML preview flaw let crafted content bypass Lockdown Mode restrictions",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOOWxvckUxTmpiVXFsRGctQm9tSGpYUWV5YXI1YkMtalZOemY0Q1RDb3k1TE5pUXllc2JsbnZ4c0U4ajhiMGhtb2dwczNaUWQxaEhzTVFyTGlxUUFWZXVTVEozZkY0TVpsbzFHSldCOVFjT1I1VDhRbG9NWWtxNEUwUFlkRXE1TzcwcEpHYzlZYUhsdlNNWWhISEhBRk9Eam1ub1g3NDRoSmg1X2xpeHNlNEhPdjI0RHBPRVBpNVM2RndSekZVdlJXXzY4UVFvWnhPODBOcDRTOHJ4dFItcGpDOTF3OEFFbkE?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-07T00:52:39.000Z",
+   "category": "ai-security",
+   "summary": "A now-patched flaw in ChatGPT's HTML preview allowed specially crafted content to bypass Lockdown Mode restrictions.",
+   "relevance": 4,
+   "tags": [
+    "chatgpt",
+    "prompt-injection",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-11-08-028",
+   "title": "North Carolina joins 25 states in urging Congress for AI regulation",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNeUpQNG1BT1h0YVdJX3NZSlpPd21ZREhpclkxSlJJSnJwTjVoLWJxcnJrYVlNMFd2aUprTGxvZTdDdm90VXNOS0dLeWdpMEJ0MFRoOTNzenBBQ2VuR2lRNUxkbUh2dkhiVThfcDZVUFdLZ0JKVVdkb1drNmhzQlQ2Y1lNcTF3dDhqVDQzYg?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-07T21:35:01.000Z",
+   "category": "policy-regulation",
+   "summary": "North Carolina joins 25 US states urging Congress to pass federal AI regulation.",
+   "relevance": 3,
+   "tags": [
+    "us-policy",
+    "regulation"
+   ]
+  },
+  {
+   "id": "2026-11-08-034",
+   "title": "Garak: LLM Vulnerability Scanner & Probing Guide",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5WM0N0dWhhUzh6WmpCN3BUbFJIZU5lRHp6WWRrdXNpNFp1WWhkN3A4Q1pJTjk2WTkwOGlHM1ItWlNhWlRnLVE?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-07T20:16:58.000Z",
+   "category": "ai-security",
+   "summary": "Guide to Garak, an open-source LLM vulnerability scanner, and its probing techniques for testing model weaknesses.",
+   "relevance": 3,
+   "tags": [
+    "garak",
+    "llm-security",
+    "red-teaming"
+   ]
+  },
+  {
+   "id": "2026-11-08-037",
+   "title": "FAA announces first US digital air traffic control towers in Florida and Alaska",
+   "url": "https://www.theguardian.com/us-news/2026/nov/07/faa-digital-air-traffic-control-tower-technology",
+   "source": "The Guardian – AI",
+   "published": "2026-11-07T20:03:23.000Z",
+   "category": "incidents-society",
+   "summary": "The FAA declared the first US digital air traffic control towers operational in Florida and Alaska, with 360-degree camera systems; critics raise safety concerns.",
+   "relevance": 3,
+   "tags": [
+    "aviation",
+    "automation"
+   ]
+  },
+  {
+   "id": "2026-11-08-057",
+   "title": "ITU, ISO and IEC explore international standards for AI safety and accountability",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMHJZWDRuZ1NGaTY4NzJNZWxfYUpEUE5aLUlEZDkzNDIycFFmX3k3MjlTN051STUwTUJXa0t3VmZfNG1wWHBzZGxIbmRCb1BMT2Z0MDlMZ0pfQXl5OXNnS0RTbnNGeTZXTHR4M2R3aThONDZscWF1RDJxYVZwamxyMV9YNWcyd2h1UXl3d3VlenZISWFKZFFwSzA2NWxBT0wwWnFUX0JFdHNOV2x5Nm1SUEZ4NVJCUGwyenZV?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-07T15:35:50.000Z",
+   "category": "policy-regulation",
+   "summary": "ITU, ISO and IEC are exploring joint international standards for AI safety and accountability.",
+   "relevance": 3,
+   "tags": [
+    "standards",
+    "itu",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-08-062",
+   "title": "Deepfake C.E.O. Fraud: Inside the $129 Million Indictment",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA4VTBOVllvejNJWHRCLTJKeWFvY0pqZW9HUFRFcW15NEY0YU9xeGdVMjlsLVR0V0hrcVJtSEE2T045V0dCdWlPdnJCbVlXZjdRb05lV0kwNXNGUUlaMjZ0ekFB?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-07T14:15:15.000Z",
+   "category": "ai-threats",
+   "summary": "Legal analysis of the $129 million deepfake CEO fraud indictment and its implications.",
+   "relevance": 3,
+   "tags": [
+    "deepfake",
+    "ceo-fraud"
+   ]
+  },
+  {
+   "id": "2026-11-08-070",
+   "title": "SonicWall Warns of Potential In-the-Wild Exploitation of SSLVPN Flaw That Bypasses MFA",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16amxEaXo5a1pqb2NJVnFzTjZIa3RscWRwb3A5R3lSSnByU3k2Q19PNFplR1ZYZno1eHQ1M09FOVA3SVI4ZUlCVXE4VzQ0eVVNV2l0cE5uTUVQTWZkR1hXZXZWWjJ6NTR4Y2F4QjYxTEJfNXh3ZkpzZWtwRzFuZ9IBfkFVX3lxTE16amxEaXo5a1pqb2NJVnFzTjZIa3RscWRwb3A5R3lSSnByU3k2Q19PNFplR1ZYZno1eHQ1M09FOVA3SVI4ZUlCVXE4VzQ0eVVNV2l0cE5uTUVQTWZkR1hXZXZWWjJ6NTR4Y2F4QjYxTEJfNXh3ZkpzZWtwRzFuZw?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-07T12:59:11.000Z",
+   "category": "ai-security",
+   "summary": "SonicWall warns of possible in-the-wild exploitation of an SSLVPN flaw that bypasses multi-factor authentication.",
+   "relevance": 3,
+   "tags": [
+    "sonicwall",
+    "vulnerability",
+    "mfa-bypass"
+   ]
+  },
+  {
+   "id": "2026-11-08-077",
+   "title": "Drama between rival startups Railway and Primcloud exposes the big legal headache of the AI agent era",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQQVVreTI1X2tVOVNnS1NBUkl1bjdVVVZpaDBkcmh5bzc5RGtwQTFoY1Rqd3pRRU9TYjJrT2Z5V1FCcW9wRFFtaDE1VjQ2S2MxUTV5SkQwU0hYUmVobjJQWHU2SUtwOTQ0ZUtxNEVjc3ItRHRLRkkzNVpHRGctbldCQl9oeGZlZXpsQUtQUEFVNmk?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-07T11:05:00.000Z",
+   "category": "ai-security",
+   "summary": "A dispute between cloud startups Railway and Primcloud highlights unresolved legal liability questions in the AI agent era.",
+   "relevance": 3,
+   "tags": [
+    "agents",
+    "liability"
+   ]
+  },
+  {
+   "id": "2026-11-08-080",
+   "title": "Hungarian railway MÁV deploys smart drones with AI to detect unauthorised intruders",
+   "originalTitle": "Okosdrónokat vet be a MÁV, mesterséges intelligencia segít kiszúrni az illetéktelen behatolókat",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5LaTBIY2VFUlZGTGdNV0l0WTd6d1VYN1Y4SzZLb0I3T0ppU0l5RWxoUndUbVVzRnRjN1lJTUNFbzVYd2hnRmN3NVZpcmVBelo0OU9NSC1tN2t3T0d5RHNKQkU2M1lKdHUxWlhaYXlmTkhIT0Y1TWJKMlpkUQ?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-07T10:11:00.000Z",
+   "category": "agents-tools",
+   "summary": "Hungary's state railway MÁV is deploying AI-equipped drones to detect trespassers on its infrastructure.",
+   "relevance": 3,
+   "tags": [
+    "hungary",
+    "drones",
+    "surveillance"
+   ]
+  },
+  {
+   "id": "2026-11-08-089",
+   "title": "Stanford unveils Memorilla, an AI memory that recalls entire chat histories",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTERQdHNuMm10X3hMTzI4bXRfOGFpR2pySzc4c2twdklRYkxLRERZVzFSNzNTeGZUbXFwM1gyNUpXYy14dEdHOFpvZEFQckhUSlVYRjJOdlBIT0tTR2ZWQ3BiODhSNjJ5b0k3NGJXc0hnNHRMS0xhRXZwUlYzU0ZvNDJPOWRwSUZHTVE?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-07T08:32:46.000Z",
+   "category": "research",
+   "summary": "Stanford presented Memorilla, an AI memory system said to recall entire chat histories.",
+   "relevance": 3,
+   "tags": [
+    "memory",
+    "stanford"
+   ]
+  },
+  {
+   "id": "2026-11-08-091",
+   "title": "Qwen3.5 9B uncensored arrives with DeepSeek-V4-Pro reasoning, refuses 3 of 100 prompts",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNElTN3RYeFJNejd6OVNMRjZUOF9QN0ctaGZ5MmpORXhtYTlfR2hGaTg5MnZCd2FidEd3NFU4bWxGRmNhUWYzbk5RNzF2ak0xMVVOYjZWYklOUlU1cnBTVkk2TFlydnVGTzJmVjVkTE1veTFWOW5uTDFMRDlYa1lxYWlLZHBHZE5nTi1pM0d6N19EUQ?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-07T08:30:49.000Z",
+   "category": "models-releases",
+   "summary": "An uncensored Qwen3.5 9B variant with DeepSeek-V4-Pro reasoning reportedly refuses only 3 of 100 test prompts, highlighting guardrail removal in open models.",
+   "relevance": 3,
+   "tags": [
+    "qwen",
+    "open-weights",
+    "jailbreak"
+   ]
+  }
+ ]
+}
