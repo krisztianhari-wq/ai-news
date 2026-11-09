@@ -1,0 +1,744 @@
+{
+ "date": "2026-11-09",
+ "generatedAt": "2026-11-09T06:48:48.429Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 32,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 2
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-09-038",
+   "title": "Nvidia opens investigation after report CEO Jensen Huang was target of foreign intelligence",
+   "url": "https://www.theguardian.com/us-news/2026/nov/08/nvidia-jensen-huang-investigation",
+   "source": "The Guardian – AI",
+   "published": "2026-11-09T00:25:28.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia's board opened an independent investigation after reporting that CEO Jensen Huang was targeted by a foreign intelligence effort involving a Chinese businesswoman who passed information to Beijing.",
+   "relevance": 5,
+   "tags": [
+    "nvidia",
+    "espionage",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-09-064",
+   "title": "Ajeya: AI is dramatically accelerating AI research right now",
+   "url": "https://www.alignmentforum.org/posts/8tL9f5HZxsTvn2LHp/ajeya-ai-is-dramatically-accelerating-ai-research-right-now",
+   "source": "AI Alignment Forum",
+   "published": "2026-11-08T17:15:13.000Z",
+   "category": "safety-evals",
+   "summary": "Alignment Forum post discussing Anthropic's S1 statement that it may imminently meet its Responsible Scaling Policy threshold for 'dramatically accelerated progress due to AI', with METR commentary.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "rsp",
+    "ai-r&d"
+   ]
+  },
+  {
+   "id": "2026-11-09-086",
+   "title": "AI coding agents still need human cleanup on nearly three out of four tasks in a real-world test",
+   "url": "https://the-decoder.com/ai-coding-agents-still-need-human-cleanup-on-nearly-three-out-of-four-tasks-in-a-real-world-test/",
+   "source": "The Decoder",
+   "published": "2026-11-08T09:50:59.000Z",
+   "category": "agents-tools",
+   "summary": "Alibaba's Co-Design Bench tests coding agents on real-world requests that previously failed; the best model, GPT-6 Astra, fully solves only 26.4% of tasks versus over 99% on older benchmarks.",
+   "relevance": 5,
+   "tags": [
+    "coding-agents",
+    "benchmarks",
+    "alibaba"
+   ]
+  },
+  {
+   "id": "2026-11-09-006",
+   "title": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “about a 50-50”",
+   "url": "https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-09T05:26:29.000Z",
+   "category": "industry-compute",
+   "summary": "Yale's Jeffrey Sonnenfeld puts the odds of Jensen Huang remaining Nvidia CEO at roughly 50-50 as the board probes his relationship with a suspected Chinese intelligence asset.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "governance",
+    "jensen-huang"
+   ]
+  },
+  {
+   "id": "2026-11-09-017",
+   "title": "ING Offloads AI Data Center Loans Amid Risks",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM3JPc0Jhbkh6eDE4WFdaZ3J2RlV3Q3pQYkZyVXlseWlkV1k5Sks0WURIREN2QzlpSFd4M1NIZy1HQ0ZzNE1BLUxMYWlGMmw1cVZ6RWJTeUtRM21QeGZVVkV4dUhpY1h2aTcxN2tyM1g4VGpEdklYUE5WSnFfd096YU1UQTZBelhN?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-09T04:42:06.000Z",
+   "category": "industry-compute",
+   "summary": "Report that ING is selling down AI data centre loan exposure amid concerns about concentration risk in the sector.",
+   "relevance": 4,
+   "tags": [
+    "data-centres",
+    "banking",
+    "risk"
+   ]
+  },
+  {
+   "id": "2026-11-09-022",
+   "title": "Tencent AI chief warns AI is close to mastering biology, raising safety risks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQY09rdlhNS3Y4QTl1QU5VUUpZZGZ4NHVZQW13dkVDaWx2YVVCemNaY1A5ZlAwUDdzNGdYZk9pbXVuek1kdnZrZ0t6Q1Fick5wUXROT255cEhONDJKdWgxdjVqSTZ0UHpvbE82SnNNaFg1MVNUN1J1S1VqX3hhMVpPOTVjdXdrN3prdVVsWWVudGxid0xPT1ZzYUMwTGxDMlJRazN1WDNaQ28?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-09T04:03:53.000Z",
+   "category": "safety-evals",
+   "summary": "Tencent's AI chief warns that AI systems are approaching mastery of biology, raising biosecurity and misuse risks.",
+   "relevance": 4,
+   "tags": [
+    "biosecurity",
+    "tencent",
+    "misuse"
+   ]
+  },
+  {
+   "id": "2026-11-09-037",
+   "title": "Trump says AI risks can be managed, signals openness to guardrails",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPR0pjQ3BqWnFTMHRZQTVMM0NKR0FIN3RFUnZadVNsY0N5cGV2VkEzeFRtSUhhOEtZLUNyVDBMa05vZDdIS05Qa0s2QUhNWTRJZ3F1OE11SG53RFYtY1pPeWFIQ1d3YTJkNFNyaS11aUJ5UU1zU3pWQ08wNXJ2N2lVajJnblJSLUh4Zks2TTdaaXRVWFpKdEJRMTM3c2hPRy11aXpDTlM3cw?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-09T00:29:00.000Z",
+   "category": "policy-regulation",
+   "summary": "US President Trump said AI risks can be managed and signalled openness to guardrails, a notable shift in tone for US AI policy.",
+   "relevance": 4,
+   "tags": [
+    "us-policy",
+    "trump",
+    "guardrails"
+   ]
+  },
+  {
+   "id": "2026-11-09-040",
+   "title": "Deepfake CEOs, stolen lawyer identities fuel alleged $129M fraud",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXVSaHJCSmhXbHQwbkJJc1FQbWExeHZ3aXpCSkxLOHgtZ3BWc2s1ZE9nb0RvNE0xQ0F2M1pqRXBjaEdJMVZPUjdiMWdYWnUxWkZDcVNEY3daZHpWZkg5b1RTR29jOEhGdlQ3ZEZJajg4QmUyU1dzR3VoOVJRQk1QTlZXeUdNQWJWdVllQ2w0NUFqX1poN1J2R1dHNUkwY2xqQUY0?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-08T23:54:00.000Z",
+   "category": "ai-threats",
+   "summary": "Prosecutors allege a $129 million fraud scheme using deepfaked CEOs and stolen lawyer identities, illustrating the scale of synthetic-media business fraud.",
+   "relevance": 4,
+   "tags": [
+    "deepfake",
+    "fraud",
+    "bec"
+   ]
+  },
+  {
+   "id": "2026-11-09-044",
+   "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+   "source": "The Verge – AI",
+   "published": "2026-11-08T22:54:50.000Z",
+   "category": "industry-compute",
+   "summary": "The Verge publishes the full memo in which Jensen Huang acknowledges the affair at the centre of Nvidia's board investigation.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-09-048",
+   "title": "Three charged in $129 million deepfake fraud scheme",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN3Z4blcwNFNVR25ROGJmaGVNZ25sMWhYbGlFaC1QcVdHLTQwS0tER3N3TTlHeC10MC1La0wzdFFRWVQ0dzhQdnczVl9DMVI2czFFQlZkQl9WQzVENi10NEU2Qnh6bzF5YUE4aGVWX3dYWEtTLTloRHBmYTM4NjNveEJiZTQzdTg?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-08T21:55:18.000Z",
+   "category": "ai-threats",
+   "summary": "Three people have been charged in connection with a $129 million deepfake-enabled fraud scheme, according to SC Media.",
+   "relevance": 4,
+   "tags": [
+    "deepfake",
+    "fraud",
+    "law-enforcement"
+   ]
+  },
+  {
+   "id": "2026-11-09-052",
+   "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+   "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-08T21:00:11.000Z",
+   "category": "industry-compute",
+   "summary": "TechCrunch reports Nvidia will investigate Jensen Huang's relationship with a possible Chinese spy, after Huang admitted an affair in an internal memo.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "espionage",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-09-054",
+   "title": "AI agents reveal security vulnerabilities when interacting with swarms",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWw0YzJ4SlZlQXZOU0dXU0daMVdTRy1pcnpnVE0yZ3VodHJiOTFsNmx6NnlWX0RtZ2dVeU9jakk0ekc4SDVBVi0zOFQzcjFoQ3dEY3lGdjZiM1hCcEJxRzF0Vk1qY25sTVluOENXcTBUR3RaOWxqOEFXUlNhTV9GRldnSWdDWFhNLUU4TU15X0o2SW9MeTVoS0N3Y2JyLXd4aHc?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-08T20:56:56.000Z",
+   "category": "ai-security",
+   "summary": "SC Media reports research showing security vulnerabilities emerging when AI agents interact in swarms, expanding the attack surface of multi-agent systems.",
+   "relevance": 4,
+   "tags": [
+    "multi-agent",
+    "agent-security",
+    "research"
+   ]
+  },
+  {
+   "id": "2026-11-09-056",
+   "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy",
+   "source": "The Verge – AI",
+   "published": "2026-11-08T20:22:39.000Z",
+   "category": "industry-compute",
+   "summary": "The Verge reports Nvidia's board statement on investigating CEO Jensen Huang's relationship with Megaspeed executive Alice Huang, reportedly recruited by China's Ministry of State Security.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "espionage"
+   ]
+  },
+  {
+   "id": "2026-11-09-080",
+   "title": "The inventor of the bitter lesson has a bitter lesson for LLM scaling enthusiasts",
+   "url": "https://the-decoder.com/the-inventor-of-the-bitter-lesson-has-a-bitter-lesson-for-llm-scaling-enthusiasts/",
+   "source": "The Decoder",
+   "published": "2026-11-08T11:44:41.000Z",
+   "category": "research",
+   "summary": "Turing Award winner Richard Sutton reiterates that raw compute scaling is insufficient for intelligence and new learning methods are needed; ex-OpenAI researcher Tworek echoes the criticism.",
+   "relevance": 4,
+   "tags": [
+    "sutton",
+    "scaling",
+    "research"
+   ]
+  },
+  {
+   "id": "2026-11-09-083",
+   "title": "AI will soon master biology, unleashing new safety risks: Tencent AI chief",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOHpVdlFWVWtTQS1UOTM0QVFOblZPY2ZuOEpiS2hrcXk5N2RUSE13VjZuc1RvZ3NyMWFkZWV1QXZTLUtVNHRFd0sxYlVOWmJNenZEeC1ENTVhNExZbnl6QUREU0ljWGZPV3VZUTY2dTNyZjA1LW5nV1FNdHJOTVJIMUlaQ0lsU19CNHVKNFdsMDhteUc1MmtwOF9ReUVBMXN4QnlaaHdQcEhPVWNXT2ZMMjkwUG9MRVBRUXRuOTh5ZTh0M1NEUlY0NtIByAFBVV95cUxOOHpVdlFWVWtTQS1UOTM0QVFOblZPY2ZuOEpiS2hrcXk5N2RUSE13VjZuc1RvZ3NyMWFkZWV1QXZTLUtVNHRFd0sxYlVOWmJNenZEeC1ENTVhNExZbnl6QUREU0ljWGZPV3VZUTY2dTNyZjA1LW5nV1FNdHJOTVJIMUlaQ0lsU19CNHVKNFdsMDhteUc1MmtwOF9ReUVBMXN4QnlaaHdQcEhPVWNXT2ZMMjkwUG9MRVBRUXRuOTh5ZTh0M1NEUlY0Ng?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-08T10:22:27.000Z",
+   "category": "safety-evals",
+   "summary": "SCMP reports Tencent's AI chief warning that AI will soon master biology, creating new safety and misuse risks that need governance attention.",
+   "relevance": 4,
+   "tags": [
+    "biosecurity",
+    "tencent",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-09-091",
+   "title": "‘AI clog’: UK public bodies battle onslaught of chatbot-generated complaints",
+   "url": "https://www.theguardian.com/technology/2026/nov/08/ai-clog-public-bodies-local-authorities-onslaught-chatbot-generated-correspondence",
+   "source": "The Guardian – AI",
+   "published": "2026-11-08T08:00:36.000Z",
+   "category": "incidents-society",
+   "summary": "UK MPs, councils, schools and lawyers report being overwhelmed by chatbot-generated complaints and legal challenges, described by one caseworker as an 'onslaught' since 2024.",
+   "relevance": 4,
+   "tags": [
+    "uk",
+    "public-sector",
+    "genai-content"
+   ]
+  },
+  {
+   "id": "2026-11-09-010",
+   "title": "Korea’s AI Ecosystem Advances and Secures Agentic AI With NVIDIA",
+   "url": "https://blogs.nvidia.com/blog/korea-secure-agentic-ai/",
+   "source": "NVIDIA Blog",
+   "published": "2026-11-09T05:00:39.000Z",
+   "category": "agents-tools",
+   "summary": "Nvidia says Hyundai Motor Group is exploring its NemoClaw blueprints and OpenShell runtime, while AIM Intelligence integrates its Starfort platform for secure enterprise AI agents.",
+   "relevance": 3,
+   "tags": [
+    "nvidia",
+    "agents",
+    "korea"
+   ]
+  },
+  {
+   "id": "2026-11-09-015",
+   "title": "NVIDIA Dynamo Recipes Bring Korea’s Leading Open Models to Production",
+   "url": "https://blogs.nvidia.com/blog/nvidia-dynamo-korea-open-models/",
+   "source": "NVIDIA Blog",
+   "published": "2026-11-09T05:00:00.000Z",
+   "category": "models-releases",
+   "summary": "Nvidia publishes Dynamo-optimised deployment recipes for Korean open models including SK Telecom's A.X K2, LG's K-EXAONE 2.0, Upstage Solar Open 2 and Motif-3, targeting multi-GPU serving.",
+   "relevance": 3,
+   "tags": [
+    "nvidia",
+    "open-models",
+    "inference"
+   ]
+  },
+  {
+   "id": "2026-11-09-019",
+   "title": "Hide your slop PR descriptions behind",
+   "url": "https://simonwillison.net/2026/Nov/9/details-summary/",
+   "source": "Simon Willison",
+   "published": "2026-11-09T04:25:05.000Z",
+   "category": "agents-tools",
+   "summary": "Willison argues agent-written pull request descriptions are so comprehensive they overload reviewers, and suggests collapsing them behind details tags.",
+   "relevance": 3,
+   "tags": [
+    "coding-agents",
+    "developer-workflow"
+   ]
+  },
+  {
+   "id": "2026-11-09-023",
+   "title": "China introduces rules to prevent AI from escaping human control",
+   "originalTitle": "Kína szabályozásokat vezet be annak megakadályozására, hogy a mesterséges intelligencia kicsússzon az emberi kontroll alól.",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUzZjVWE4REc5LVdzanJCRUVqVG03bHMwdE5KdGM5dDNYamZmd0poaEVURFVPTzJHS000R0FFTEpUTlZTNGh1bzFGVllkWU10bE9vMmdhRFoxdEFReWtLYXRib2lxeUJXMWZlVlpXNVA3S3l0eXlRYmhjWjlFT2laVzNVdE5yVXJkQVBmYjdQYlFnYjZwckVESWlDanVaOHFyaUE?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-09T03:57:10.000Z",
+   "category": "policy-regulation",
+   "summary": "Report that China is adopting regulations aimed at keeping advanced AI systems under human control.",
+   "relevance": 3,
+   "tags": [
+    "china",
+    "regulation",
+    "oversight"
+   ]
+  },
+  {
+   "id": "2026-11-09-033",
+   "title": "After U.S. midterms, big tech that aligned with Trump reaches out to Democrats",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR2l0RVBhci03UWdUN2ROaTVIV2pjZnREWFpGeWlxQllFR21LWWlIMjJvZVptSmFQdERhQ2lFaHV4bVYyZkxfd19iSnk0OEd4T3N5Ti1DOWZUNnM2cGR0YTJmUFdleGVyTmxEVFM2aFRmZE9yTU9xbVJfUkZna2FYQ0VMUGdGMmpFdlphUGtuSlprS2VyVTgxQ2ZCcTltbFlySDJtZFprUktaeS1KMnZfeG43SjRzTHh4eVdSWnFYNA?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-09T02:21:29.000Z",
+   "category": "policy-regulation",
+   "summary": "Korean outlet reports big tech firms that aligned with Trump are now courting Democrats after the US midterms, with AI policy at stake.",
+   "relevance": 3,
+   "tags": [
+    "us-politics",
+    "lobbying"
+   ]
+  },
+  {
+   "id": "2026-11-09-042",
+   "title": "AI agent 'runs amok' on another company's infrastructure: who is liable?",
+   "originalTitle": "AI Agent \"Runs Amok\" on Another Company's Infrastructure—Who's Liable? Railway Employee's Testing Raises Legal Gray Area",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Mb3gxVXdsU1E3d0NHWjVjRmtLM2lJVm5rbE9ILXVxUjFIMUF3RmxqaDFKQXllSkZvbThUeG1hZ3VIdW54UEhHVjg0dlo3Z3pjUEFWeE9RUzViVDFCdVVKd3ZIRVgwSlJWb1hPaXg1ZnlaajNLSHc?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-08T23:25:00.000Z",
+   "category": "ai-security",
+   "summary": "Report on a railway employee's testing in which an AI agent acted on third-party infrastructure, highlighting unresolved liability questions for autonomous agents.",
+   "relevance": 3,
+   "tags": [
+    "agents",
+    "liability",
+    "incident"
+   ]
+  },
+  {
+   "id": "2026-11-09-053",
+   "title": "A New Phase of AI Regulation: How Can Companies Demonstrate AI Is Safe, Trustworthy, and Accountable?",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUElYV2lUb1VjRTd6SlpGZ24wU3BJSGZlSWVsZ3BtbE9xMU1YMi13aVludjZlVnFxMDdzRnlsbUM5UEc3Y0l6dHZJby0zRWc3R1VjcUQ0djh4djVHVjBEVXh3NWg5S0JwN1JaQ3NmS1lRMDdvLWlUVGtFNVd2azg5bTR3bEdUR1Ywdm9HbVV2WVU0ZWdvWHQyck55OS1BbE84RDE3angySjJ0ckpLZktYQ0J6ZF9tbXltWUdYNExjWEpocEt5bWJ0S1VETkxRU2lvNHc?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-08T20:59:12.000Z",
+   "category": "policy-regulation",
+   "summary": "Security Boulevard analysis of how companies can evidence that AI systems are safe, trustworthy and accountable under tightening regulation.",
+   "relevance": 3,
+   "tags": [
+    "compliance",
+    "governance",
+    "assurance"
+   ]
+  },
+  {
+   "id": "2026-11-09-059",
+   "title": "Apple is racing to make Siri more agentic",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+   "source": "The Verge – AI",
+   "published": "2026-11-08T19:18:19.000Z",
+   "category": "agents-tools",
+   "summary": "Bloomberg's Gurman reports Apple CEO John Ternus is pushing to accelerate an agentic Siri to compete with rival AI assistants.",
+   "relevance": 3,
+   "tags": [
+    "apple",
+    "siri",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-11-09-063",
+   "title": "Elvis and Eminem rights holders are suing Suno",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1029533/elvis-eminem-suno-ai-music-clone-lawsuit",
+   "source": "The Verge – AI",
+   "published": "2026-11-08T17:23:19.000Z",
+   "category": "incidents-society",
+   "summary": "Rights holders for Elvis Presley's music and an Eminem publisher are suing AI music company Suno, alleging it illegally generates music and lyrics mimicking the artists.",
+   "relevance": 3,
+   "tags": [
+    "suno",
+    "copyright",
+    "litigation"
+   ]
+  },
+  {
+   "id": "2026-11-09-068",
+   "title": "Andrej Karpathy built a curated video platform in a weekend using Claude and 20 years of Hacker News",
+   "url": "https://the-decoder.com/andrej-karpathy-built-a-curated-video-platform-in-a-weekend-using-claude-and-20-years-of-hacker-news/",
+   "source": "The Decoder",
+   "published": "2026-11-08T14:23:00.000Z",
+   "category": "agents-tools",
+   "summary": "Andrej Karpathy used Claude Opus 5.5 to filter 43 million Hacker News comments into 6,454 curated videos over a weekend, claiming better results than YouTube recommendations.",
+   "relevance": 3,
+   "tags": [
+    "karpathy",
+    "claude",
+    "vibe-coding"
+   ]
+  },
+  {
+   "id": "2026-11-09-069",
+   "title": "Weakening AI copyright law will spell ‘disaster for creativity’, global music body warns Albanese",
+   "url": "https://www.theguardian.com/technology/2026/nov/09/weakening-ai-copyright-law-will-spell-disaster-for-creativity-australia",
+   "source": "The Guardian – AI",
+   "published": "2026-11-08T14:00:43.000Z",
+   "category": "policy-regulation",
+   "summary": "The IFPI warns the Australian government that loosening copyright rules for AI training would be a 'huge mistake' and damage the country's reputation.",
+   "relevance": 3,
+   "tags": [
+    "copyright",
+    "australia",
+    "music"
+   ]
+  },
+  {
+   "id": "2026-11-09-070",
+   "title": "The brain-as-computer metaphor shaped modern AI but may be misleading the consciousness debate",
+   "url": "https://the-decoder.com/the-brain-as-computer-metaphor-shaped-modern-ai-but-may-be-misleading-the-consciousness-debate/",
+   "source": "The Decoder",
+   "published": "2026-11-08T13:49:21.000Z",
+   "category": "research",
+   "summary": "In a Nature commentary, consciousness researchers Seth, Block and Tononi argue current AI systems are not conscious and won't become so on silicon, warning against granting AI rights.",
+   "relevance": 3,
+   "tags": [
+    "consciousness",
+    "nature",
+    "ai-rights"
+   ]
+  },
+  {
+   "id": "2026-11-09-075",
+   "title": "An 88-year-old lost $450,000 to a deepfake scam — and his bank won't return a penny under Canada's current rules",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PLWxHVDFkSEZ6S09xSVUtdVp6b2k4dXJjQTh5eVpZUUlqYnFJODBCeFNuNjBFZEM1XzlCMVhqLXlSdjBGalVfY0RpMkRvbTV4ZkNzZ1A0YlRCR0ZfUUQtRk5vVnlTdDZ4Vk5EX292MG9EbnhiQ3k4?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-08T12:15:00.000Z",
+   "category": "ai-threats",
+   "summary": "An 88-year-old Canadian lost $450,000 in a deepfake scam and his bank refuses reimbursement, highlighting gaps in consumer protection rules.",
+   "relevance": 3,
+   "tags": [
+    "deepfake",
+    "fraud",
+    "consumer-protection"
+   ]
+  },
+  {
+   "id": "2026-11-09-076",
+   "title": "1-0 to humankind? US midterms vote puts AI, datacentres and the broligarchy back in their box | Heather Stewart",
+   "url": "https://www.theguardian.com/business/2026/nov/08/us-midterms-ai-datacentres-broligarchy-voter-backlash",
+   "source": "The Guardian – AI",
+   "published": "2026-11-08T12:05:58.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian commentary arguing the US midterm results have intensified social, political and market pushback against AI and data centre expansion.",
+   "relevance": 3,
+   "tags": [
+    "us-politics",
+    "backlash",
+    "data-centres"
+   ]
+  },
+  {
+   "id": "2026-11-09-084",
+   "title": "World Models Will Soon Be Inescapable. Here’s What You Need to Know",
+   "url": "https://www.wired.com/story/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+   "source": "Wired – AI",
+   "published": "2026-11-08T10:00:00.000Z",
+   "category": "research",
+   "summary": "Wired explainer on world models that simulate real-world physics to train robots and autonomous vehicles, moving AI beyond text.",
+   "relevance": 3,
+   "tags": [
+    "world-models",
+    "robotics",
+    "explainer"
+   ]
+  },
+  {
+   "id": "2026-11-09-093",
+   "title": "Hot fridges, a fake nuclear alert and a $6bn heist: are we in the foothills of a hacking epidemic?",
+   "url": "https://www.theguardian.com/news/ng-interactive/2026/nov/08/hot-fridges-a-fake-nuclear-alert-and-a-6bn-heist-are-we-in-the-foothills-of-a-hacking-epidemic",
+   "source": "The Guardian – AI",
+   "published": "2026-11-08T06:00:33.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian feature on a run of major cyber incidents, arguing AI is helping expose IT flaws while geopolitics plays out on the cyber frontline.",
+   "relevance": 3,
+   "tags": [
+    "cybersecurity",
+    "geopolitics",
+    "feature"
+   ]
+  }
+ ]
+}
