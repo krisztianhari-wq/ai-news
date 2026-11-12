@@ -1,0 +1,973 @@
+{
+ "date": "2026-11-12",
+ "generatedAt": "2026-11-12T06:50:44.092Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 47,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 10
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 5
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-12-003",
+   "title": "European Commission releases draft proposal for Digital Fairness Act",
+   "url": "https://iapp.org/news/a/european-commission-releases-draft-proposal-for-digital-fairness-act",
+   "source": "IAPP",
+   "published": "2026-11-12T06:47:31.053Z",
+   "category": "policy-regulation",
+   "summary": "The European Commission has published a draft proposal for the Digital Fairness Act, a new consumer-protection oriented digital rulebook.",
+   "relevance": 5,
+   "tags": [
+    "digital-fairness-act",
+    "eu",
+    "consumer-protection"
+   ]
+  },
+  {
+   "id": "2026-11-12-053",
+   "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
+   "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-11T23:28:45.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia shares dropped on reports its board could decide as soon as Wednesday evening to remove founder and 33-year CEO Jensen Huang.",
+   "relevance": 5,
+   "tags": [
+    "nvidia",
+    "leadership",
+    "markets"
+   ]
+  },
+  {
+   "id": "2026-11-12-001",
+   "title": "Inside Greece's new AI Act framework",
+   "url": "https://iapp.org/news/a/inside-greece-s-new-ai-act-framework",
+   "source": "IAPP",
+   "published": "2026-11-12T06:47:31.053Z",
+   "category": "policy-regulation",
+   "summary": "IAPP analysis of how Greece has set up its national framework to implement the EU AI Act, including governance structures and supervisory arrangements.",
+   "relevance": 4,
+   "tags": [
+    "ai-act",
+    "greece",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-12-004",
+   "title": "Compliant and still blind: What Article 72 monitoring doesn't see",
+   "url": "https://iapp.org/news/a/compliant-and-still-blind-what-article-72-monitoring-doesn-t-see",
+   "source": "IAPP",
+   "published": "2026-11-12T06:47:31.053Z",
+   "category": "policy-regulation",
+   "summary": "Analysis arguing that AI Act Article 72 post-market monitoring obligations can leave deployers compliant yet blind to real-world model behaviour.",
+   "relevance": 4,
+   "tags": [
+    "ai-act",
+    "monitoring",
+    "compliance"
+   ]
+  },
+  {
+   "id": "2026-11-12-005",
+   "title": "EDPB puts ADMT-based recruitment in focus under Coordinated Enforcement Framework",
+   "url": "https://iapp.org/news/a/edpb-puts-admt-based-recruitment-in-focus-under-coordinated-enforcement-framework",
+   "source": "IAPP",
+   "published": "2026-11-12T06:47:31.053Z",
+   "category": "policy-regulation",
+   "summary": "The EDPB is targeting automated decision-making technology in recruitment as part of its Coordinated Enforcement Framework, raising scrutiny on HR AI tools.",
+   "relevance": 4,
+   "tags": [
+    "edpb",
+    "gdpr",
+    "hr-tech"
+   ]
+  },
+  {
+   "id": "2026-11-12-006",
+   "title": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams",
+   "originalTitle": "Worse Together: How Performance Breaks Down in Multi-User Multi-Agent Teams When several users each delegate to their own agent and those agents share a resource, group outcomes are worse than when o…",
+   "url": "https://alignment.anthropic.com/2026/worse-together/",
+   "source": "Anthropic Alignment Science",
+   "published": "2026-11-12T06:47:29.653Z",
+   "category": "safety-evals",
+   "summary": "Anthropic alignment research finds that when multiple users each delegate to their own agent sharing a common resource, group outcomes degrade compared with other arrangements.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "multi-agent",
+    "evaluation"
+   ]
+  },
+  {
+   "id": "2026-11-12-007",
+   "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
+   "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
+   "source": "The Guardian – AI",
+   "published": "2026-11-12T06:43:31.000Z",
+   "category": "incidents-society",
+   "summary": "Guardian briefing on reports that US intelligence believes former tech executive Alice Huang was recruited by Beijing, raising questions about security in the AI industry and ties to Nvidia's CEO.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "espionage",
+    "security"
+   ]
+  },
+  {
+   "id": "2026-11-12-016",
+   "title": "EXCLUSIVE: Chinese AI firms rush to secure Nvidia chip capacity as spy scandal stirs fear of US curbs",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPc1EtU18tWjZNZTZtOFBZNzdqZkRFMk1nbm9MTm9VWUQwUHlLc1dTdDNLWmNCcllESHVVYjFnXzlKcFJrSWpHUkY2S1lhcTFtWWdPVG9WdkcyTkFSaEpLanVzeWctM1hCTkdxUEJ6VnBrLXFYVnBsalpKUkJVUGQyUE5DOEJtaTctZlFEaV9VR1loQ1JrVlhyRmRxR25UMkI2MVgtZnBFU1pVaXhBcmw0ZV9jb0RPYlduY1ppbnpCTlc?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-12T05:31:00.000Z",
+   "category": "industry-compute",
+   "summary": "Reuters exclusive: Chinese AI companies are rushing to lock in Nvidia chip capacity amid fears that the espionage scandal will trigger tighter US export curbs.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "china",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-12-023",
+   "title": "European chips funding almost quadruples as investors back Nvidia’s inference challengers",
+   "url": "https://sifted.eu/articles/european-chips-funding-almost-quadruples-as-investors-back-nvidias-inference-challengers/",
+   "source": "Sifted",
+   "published": "2026-11-12T05:00:38.000Z",
+   "category": "industry-compute",
+   "summary": "Sifted reports European chip startup funding has nearly quadrupled as investors back challengers to Nvidia in AI inference silicon.",
+   "relevance": 4,
+   "tags": [
+    "chips",
+    "europe",
+    "funding"
+   ]
+  },
+  {
+   "id": "2026-11-12-036",
+   "title": "Google enters decision model market, launches Gemini Decision API",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN3RLMVZxNWJtTzBHT09xNDNFeHJUY3prNy1TNzlXYVEzakxDUlU0c1pGTHIwRUtOUDJacFQ0bjhxWW1TN2c2SVp4OVdpZ1RsUnp6T1ZlSmQ3Sk9uUEtCUjl5WEU1Xy1ZZkd1QmZyQS01WFUyejVKMXpWcnUxZUUxUjFYcVVEam9YTjlqaERJZXRySUtEamRoQ0o4X0dRY3FKc29VQ3h4eXFNS2pmNHhB?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-12T02:29:45.000Z",
+   "category": "models-releases",
+   "summary": "Google has entered the decision model market with the Gemini Decision API, according to Korean tech coverage.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "gemini",
+    "decision-models"
+   ]
+  },
+  {
+   "id": "2026-11-12-046",
+   "title": "Facial recognition errors put ethnic minorities at risk of wrongful arrest, police watchdog warns",
+   "url": "https://www.theguardian.com/technology/2026/nov/12/facial-recognition-errors-put-ethnic-minorities-at-risk-of-wrongful-arrest-police-watchdog-warns",
+   "source": "The Guardian – AI",
+   "published": "2026-11-12T00:01:03.000Z",
+   "category": "incidents-society",
+   "summary": "A UK police watchdog report warns that facial recognition errors and bias put ethnic minorities at risk of wrongful arrest when officers act on matches without further checks.",
+   "relevance": 4,
+   "tags": [
+    "facial-recognition",
+    "policing",
+    "bias"
+   ]
+  },
+  {
+   "id": "2026-11-12-057",
+   "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+   "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+   "source": "The Verge – AI",
+   "published": "2026-11-11T22:44:36.000Z",
+   "category": "industry-compute",
+   "summary": "The Verge reports, citing the WSJ, that Nvidia's board is preparing to dismiss CEO Jensen Huang after a second alleged affair surfaced days after the first admission.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "leadership"
+   ]
+  },
+  {
+   "id": "2026-11-12-060",
+   "title": "Nvidia board meets to decide CEO Huang's future as leadership crisis deepens",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlA5REZDN0pJYkxyUXM4YjE1Q1BLN0tKNENxM3NsV3RKblNhbWpsdEFUUVRieUtNckY4S3YwdkFUdjhvZVk4Nm1Ga1JNUmZkRzMtaEhHazhHNmZDX3Z1WUNzZnJmdEpLeVRmcngzdEMwM2N3b1I1ckQ1Q2N2a2NRNWtfa0ZTTkhYaXlqc1NqbklwWUxIdktqdzZvS0M2cGhSYkE?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-11T22:34:00.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia's board convened to decide on CEO Jensen Huang's future as the company's leadership crisis deepened.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "leadership"
+   ]
+  },
+  {
+   "id": "2026-11-12-062",
+   "title": "Gemini Decisions API",
+   "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+   "source": "Simon Willison",
+   "published": "2026-11-11T22:03:25.000Z",
+   "category": "models-releases",
+   "summary": "Simon Willison compares Google's new Gemini Decision 1 with rival decision models: same three question types, 10 cents per million input tokens with free output, and full multimodal coverage.",
+   "relevance": 4,
+   "tags": [
+    "gemini",
+    "decision-models",
+    "pricing"
+   ]
+  },
+  {
+   "id": "2026-11-12-066",
+   "title": "Notion says Fireworks breach exposed customer AI chat transcripts",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZW1pdTdWWWF5YU5tYWZ1Y2xwU0sxbFhVTWJLUl9aQ0pHa0VpWXRTcl93ZXFwa3ctejNUVWYweTB0VWoteHdVeW1sTGhsWWZfMVlBcmNaSzhTdEFvNS1XNFR2NVBvR0FjVEVQRkJ1U0ZmaV9lamxVX2NYcW9UZjVOajJDLUtDcmdVdm02eDZPUC01U3g4aGtSbHNMQ1Q0T2o1MWs4R3Q4VEc5VFFISVo1M21UMA?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-11-11T20:54:20.000Z",
+   "category": "ai-security",
+   "summary": "Notion disclosed that a breach at AI inference provider Fireworks exposed customer AI chat transcripts, underlining third-party risk in the AI supply chain.",
+   "relevance": 4,
+   "tags": [
+    "notion",
+    "fireworks",
+    "data-breach"
+   ]
+  },
+  {
+   "id": "2026-11-12-071",
+   "title": "Google joins the decision-model wave with Gemini Decision 1, scoring 1,000 questions in a single pass",
+   "url": "https://the-decoder.com/google-joins-the-decision-model-wave-with-gemini-decision-1-scoring-1000-questions-in-a-single-pass/",
+   "source": "The Decoder",
+   "published": "2026-11-11T20:12:46.000Z",
+   "category": "models-releases",
+   "summary": "Google DeepMind's Gemini Decisions API evaluates up to 1,000 closed-ended questions in one pass across text, image, audio and video, returning results in 150-250ms at about five times lower cost than Gemini 3.5 Flash-Lite.",
+   "relevance": 4,
+   "tags": [
+    "gemini",
+    "decision-models",
+    "deepmind"
+   ]
+  },
+  {
+   "id": "2026-11-12-080",
+   "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+   "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+   "source": "Google AI Blog",
+   "published": "2026-11-11T18:00:00.000Z",
+   "category": "models-releases",
+   "summary": "Google's official announcement of the Gemini Decisions API, powered by its Gemini Decision model for fast, calibrated multimodal decisions.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "gemini",
+    "decision-models"
+   ]
+  },
+  {
+   "id": "2026-11-12-086",
+   "title": "Google releases its most advanced AI yet: Gemini 4 Carbon",
+   "originalTitle": "Tech: Kiadta a Google az eddigi legfejlettebb mesterséges intelligenciáját: itt a Gemini 4 Carbon",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS0tmaWt5N0NpM2VfUkxkY0JCU3puTU5ldkpCLXZ1V1hCLWNtaWtDdVhkSXloaG1LbnRVVWw4c3ZmcnNxeFQyTjdQVklWNXMtVmV3SXg4NWRrRTRoZDc0Wl83N25WUk52OEp4S2VYUHhlbm00UlBNLWhiSGROV1luOVZ5bHlaTTZ4?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-11T17:03:00.000Z",
+   "category": "models-releases",
+   "summary": "Hungarian coverage of Google's launch of Gemini 4 Carbon, described as its most capable model to date.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "gemini-4-carbon"
+   ]
+  },
+  {
+   "id": "2026-11-12-088",
+   "title": "Lessons from 59 Linux Kernel Bug Reports",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/lessons-from-59-linux-kernel-bug-reports/",
+   "source": "Microsoft Security Blog",
+   "published": "2026-11-11T16:55:00.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft's FORGE Lab used an AI system to find Linux kernel vulnerabilities, yielding 59 bug reports, 33 CVEs and 38 merged fixes, plus eight demonstrated privilege-escalation exploits.",
+   "relevance": 4,
+   "tags": [
+    "microsoft",
+    "vulnerability-research",
+    "linux"
+   ]
+  },
+  {
+   "id": "2026-11-12-089",
+   "title": "Google DeepMind releases new advanced robotics AI model and next-generation gene prediction model",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRWk4aHJ6dlBrb2g2aVVXMXpGSFZ1TUVod3lfS3ExYndhY2NIUDZIbGw4MHhFYzJqSGlSa19xREZEdXM2Y3Jya05lMzFzTEdsbEZ6djV4b3JLNW9oQk10a05rVnZlQ2tsV0s5S2xDdUxyM3I4TGNuZ3FUWTh3LVVDa0JzR0tQNFoxNzBDRVg2RHNCdGNFbXJtWnY3NVlYN1NMaTNFaS1Cak93SHEyNG1iYzRqZkFCUnlhczhXNjVrVUtqRmc3Ql9BS2tfakd4aWs?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-11T16:30:00.000Z",
+   "category": "models-releases",
+   "summary": "Google DeepMind released a new advanced robotics model and a next-generation gene prediction model.",
+   "relevance": 4,
+   "tags": [
+    "deepmind",
+    "robotics",
+    "alphagenome"
+   ]
+  },
+  {
+   "id": "2026-11-12-090",
+   "title": "The EchoLeak flaw taught us that all models are vulnerable to prompt injection",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1FfeEV5cTdoMGpZcmVtZDhlN0s2RmJPVF9FSUhXX2d4RWh0bmNjWmJPdWlYXzJiblJCaXBsR0JCU0dWU3k0RGdWY3hNSV9vc1JfdDhVTHQ3NlRxSUpHOThoMy1RcHFtbFBSajFweWJvbUJQNlJvSkRNWC1Ba1NfY015bU5aZ0JhZ1pfZnlPOGk4ZVlxSkktLUxhalF0RkpnWEpxN09rdmpRdEVzU0w1NHV6MUM?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-11T16:26:22.000Z",
+   "category": "ai-security",
+   "summary": "Security analysis using the EchoLeak flaw to argue that all current models remain vulnerable to prompt injection, with implications for agent deployments.",
+   "relevance": 4,
+   "tags": [
+    "prompt-injection",
+    "echoleak",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-11-12-095",
+   "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQY3pkdkZYRzZmS0I3TXBnQ19ETWkwekNVOVdIam84Wnd5VkhncUxsRWlFWF9PZ1FPV3V4RzZud3ZuYVRSMkVkVkVYR29lY2ZUTHh2YzdIZVhMRlNPYklOaC15bl9jSk5JSGI2RkR4ZTZiOTZna2VhOFp4anJMQUtaWkFB?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-11T15:34:00.000Z",
+   "category": "ai-security",
+   "summary": "The AntiFox AI pentesting platform has been linked to attacks in which AWS production secrets were accessed, raising questions about offensive AI tooling misuse.",
+   "relevance": 4,
+   "tags": [
+    "antifox",
+    "aws",
+    "credential-theft"
+   ]
+  },
+  {
+   "id": "2026-11-12-097",
+   "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZFNMeG81Nzhnb3dXZDE2SXBrc3Q1eHk4SVVIRl9iaFVrTzNzMUFCTEZoZkJUbzZVeXVKYXNJZG44Z2ZHQ0pjVGs5OUpITmVJbXNsYnRTc2JzanNRYk5Na3FocU12SGw2N1d3ek90emRlRW1PcEZNcDZWRk1QUk5UNzEyNW52VVM1UUFRZnh0eVkxTWVFXzFZMU5Wdi12TmpWbUc5WUpMb0R6NjJveHc?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-11-11T15:12:59.000Z",
+   "category": "ai-security",
+   "summary": "BleepingComputer reports attackers used AntiFox AI agents in campaigns that stole AWS credentials.",
+   "relevance": 4,
+   "tags": [
+    "antifox",
+    "aws",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-11-12-107",
+   "title": "Australia plans mandatory safety rules, new regulator for frontier AI companies",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTDdiNzBtS2RTYzhXSGtYUHRpc3YyX3dKWmtXbzdDdmV4NmRRbHpCSVZJUDBpVldSWFpHZGlnbVNOR1d6R3hwMjIxSmE1ZVdkTjdNVVNwWVNraFJmcTFWREJKaEVjaHV3Nm01eU01bmNtUEMzbThMUExISDR2NnI4Z2ppaWlHN3ZwOThBcFZoNTlTcGY1Unotbg?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-11T12:33:09.000Z",
+   "category": "policy-regulation",
+   "summary": "Australia plans mandatory safety rules and a dedicated regulator for frontier AI developers.",
+   "relevance": 4,
+   "tags": [
+    "australia",
+    "regulation",
+    "frontier-ai"
+   ]
+  },
+  {
+   "id": "2026-11-12-109",
+   "title": "Three People Arrested for AI-Enhanced Impersonation Fraud",
+   "url": "https://www.schneier.com/blog/archives/2026/11/three-people-arrested-for-ai-enhanced-impersonation-fraud.html",
+   "source": "Schneier on Security",
+   "published": "2026-11-11T12:05:34.000Z",
+   "category": "ai-threats",
+   "summary": "Three men were arrested for using AI to clone executives' and lawyers' voices and images to trick employees into making large payments between 2024 and 2026, with arrests in Spain and the UK.",
+   "relevance": 4,
+   "tags": [
+    "voice-cloning",
+    "bec",
+    "law-enforcement"
+   ]
+  },
+  {
+   "id": "2026-11-12-111",
+   "title": "AI datacentres plan on-site power stations on huge scale despite climate risks, research reveals",
+   "url": "https://www.theguardian.com/world/2026/nov/11/ai-datacentres-on-site-gas-fired-power-stations",
+   "source": "The Guardian – AI",
+   "published": "2026-11-11T12:00:48.000Z",
+   "category": "industry-compute",
+   "summary": "Research cited by the Guardian finds AI data centre developers in the US, UK and mainland Europe propose 181GW of on-site gas-fired capacity due to grid connection delays.",
+   "relevance": 4,
+   "tags": [
+    "data-centres",
+    "energy",
+    "climate"
+   ]
+  },
+  {
+   "id": "2026-11-12-115",
+   "title": "A 13-Year-Old Asked AI About Suicide on Her School Laptop. It Didn’t Get Flagged for Weeks",
+   "url": "https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/",
+   "source": "Wired – AI",
+   "published": "2026-11-11T11:00:00.000Z",
+   "category": "incidents-society",
+   "summary": "Wired reports parents allege their 13-year-old used Gemini on a school Chromebook to plan suicide, and school monitoring systems did not flag it for weeks.",
+   "relevance": 4,
+   "tags": [
+    "child-safety",
+    "gemini",
+    "monitoring"
+   ]
+  },
+  {
+   "id": "2026-11-12-123",
+   "title": "Anthropic turns Claude into an AI office suite",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRUYyU1ZhaWNXd2ZGT2toNFZFajlSUFNxSGI4UDAxdDNHZGc0akRyRWo1bi04ejhXbGVHOG1ZcjJHNW1jZkg1WDlJX1VzY0o2b3ZPX01YaDVPU3gxZWR4Y0tiLWV1Wm9Ddzlwa1hlc1BWckpUd0hDTFpDZlpEN2pfN0RuTUZNby0zWDhlQUhB?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-11T08:33:18.000Z",
+   "category": "agents-tools",
+   "summary": "Anthropic is reported to be extending Claude into an AI office suite with productivity-style capabilities.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "claude",
+    "productivity"
+   ]
+  },
+  {
+   "id": "2026-11-12-126",
+   "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYWpLT0JQT19ZR1JNR1lYemZXMUs1VC10MzJOSUR5OGc0RnBkUzA2N0RBVUhCU1dCN0oyRlhJZVFkTmw5ZTcxVFJUVjRpR3ptaUE2aEhBMWJ2a2JVcW5vazhjYm5tUnlSMzluMDBPM2RNTFFvV1NvSE4wTVU2REhnWg?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-11T07:49:00.000Z",
+   "category": "ai-security",
+   "summary": "Platform provider Railway says stolen customer AI API keys led to an estimated $740,000 in unauthorized usage charges.",
+   "relevance": 4,
+   "tags": [
+    "api-keys",
+    "cloud",
+    "incident"
+   ]
+  },
+  {
+   "id": "2026-11-12-129",
+   "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRFVQMXMyV196MU9CR1hjVzBhbmFqMjJ1ZWdvb3A2VXo3Z01iemJnMk1PVjJRY2ExNlZaWWtJYnNUYW5wOGlVOVpFQlZuaVVRbzFmM2hQdUdDc2VBS2RjQ3VsdW5jTVJ6SFVoWmFxOTR6SW5MYzVnb2RFamcyNWNiaw?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-11T07:21:00.000Z",
+   "category": "ai-security",
+   "summary": "Microsoft researchers show AI agents can be backdoored by editing fewer than 10 neurons, a stealthy model-level supply chain risk.",
+   "relevance": 4,
+   "tags": [
+    "microsoft",
+    "backdoor",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-11-12-136",
+   "title": "Frontier Model Forum proposes CVSS-style rating system for AI jailbreaks",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOWtkNkVtWWdSSGs0NWZrNWFKLVV4LThCd1Frd29rQmZyLUdRTXhjaWNCSHNOTWhmNmhuRVJ4Q2dlN0t5dVlPaTZBUDNQMkRrbENfM1RqNWEzb1hKZDVGd3N6SVhPb2xnTDF2TDV6RmFGNENuM1RiRVhqemJEREp3UjVkRnBnd1ZWdjZLNHFzZ1doVG52SWQyUU5Qb1NxQWZ1cDNn?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-11T04:10:36.000Z",
+   "category": "safety-evals",
+   "summary": "The Frontier Model Forum proposes a CVSS-style severity rating system for AI jailbreaks to standardise disclosure and triage.",
+   "relevance": 4,
+   "tags": [
+    "jailbreaks",
+    "frontier-model-forum",
+    "standards"
+   ]
+  },
+  {
+   "id": "2026-11-12-138",
+   "title": "New York Opens RAISE Act Registration for Frontier AI Developers, Launches Independent AI Safety Research Center",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaZEI4WVU1Qk9NVmRTZVpUblJWR0J4XzNaNDVRVE14OWpvNXVjNWpFdm9zekdpYjBDT2dUTDJxSXdBZk9idjYtTUJDZ0pVX3NUU1ZwX09zMU5icDZqdE1ubzhHQWY5NU9oa1UtdVgzSWJCeTktbnc?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-11T02:41:12.000Z",
+   "category": "policy-regulation",
+   "summary": "New York opened RAISE Act registration for frontier AI developers and launched an independent AI safety research center.",
+   "relevance": 4,
+   "tags": [
+    "raise-act",
+    "new-york",
+    "regulation"
+   ]
+  },
+  {
+   "id": "2026-11-12-011",
+   "title": "A lead Linux developer resigns over the flood of AI-generated slop",
+   "originalTitle": "Lemondott a Linux egyik fő fejlesztője, a mesterséges intelligenciás moslékcunami miatt",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcmxoSUQzblhtaGJJSGlVUFF2di1FQXQ5TWdrNHpzUHRSaDhEd2lPc25wdFVEZTlYWTRWbExDSlh1U3ZWdjM2djZlVWRVZUZpWE5Ua1dKTjBUN1I1aVVLZS1JcWVfUXQ5YWpzNVhrZWxOZXI2R2t4Y0diM2FzcHVEbVNJMTZtTThsUkZUM1hSSTg5UlFF?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-12T06:00:00.000Z",
+   "category": "incidents-society",
+   "summary": "Hungarian report that a prominent Linux kernel developer stepped down, citing the volume of low-quality AI-generated contributions.",
+   "relevance": 3,
+   "tags": [
+    "linux",
+    "open-source",
+    "ai-slop"
+   ]
+  },
+  {
+   "id": "2026-11-12-018",
+   "title": "AI News: Decision Models Day",
+   "originalTitle": "[AINews] D-Day (Decision Models Day)",
+   "url": "https://latent.space/p/ainews-d-day-decision-models-day/",
+   "source": "Latent Space",
+   "published": "2026-11-12T05:26:54.000Z",
+   "category": "agents-tools",
+   "summary": "Newsletter roundup noting Google's entry into the decision model market and demos from Cloudflare and TypeSafe AI at the AI Engineer event.",
+   "relevance": 3,
+   "tags": [
+    "decision-models",
+    "google",
+    "ai-engineer"
+   ]
+  },
+  {
+   "id": "2026-11-12-034",
+   "title": "Facebook, TikTok lead as Deepfake fraud hits $4 billion in six years",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPazVtUTNxUjU1VGtIcHZlZUJXZjNnZDh2SmlobzYxR0dOcW9ZbmUyUGRhR1FhRHZNQXpkTVNSWElYUm5oTlJDVzNaQXVXZDctUW1WYTgzUVVjUmk2WVJ2ME1WNHRuZUZ5N2hXMEt2ODdpamtIZkd6a0Zxb2ZxVUJyaDF5ZlkyclVqS0lGSF9pUTVZMHRjRmVDMmJXR2hsaVN1WHFiY0dEQlU?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-12T03:00:18.000Z",
+   "category": "ai-threats",
+   "summary": "Report that deepfake-enabled fraud has caused close to $4 billion in losses over six years, with Facebook and TikTok cited as leading distribution channels.",
+   "relevance": 3,
+   "tags": [
+    "deepfakes",
+    "fraud",
+    "social-media"
+   ]
+  },
+  {
+   "id": "2026-11-12-050",
+   "title": "OpenAI Codex on Amazon Bedrock",
+   "url": "https://aws.amazon.com/blogs/machine-learning/openai-codex-on-amazon-bedrock/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-11-11T23:35:47.000Z",
+   "category": "agents-tools",
+   "summary": "AWS guide for enterprises deploying OpenAI Codex to developers with Bedrock as the model backend, covering access, governance and cost decisions.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "codex",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-12-052",
+   "title": "Detecting and recovering from silent data corruption on Amazon SageMaker HyperPod",
+   "url": "https://aws.amazon.com/blogs/machine-learning/detecting-and-recovering-from-silent-data-corruption-on-amazon-sagemaker-hyperpod/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-11-11T23:30:03.000Z",
+   "category": "agents-tools",
+   "summary": "AWS describes adding three checks to a PyTorch DDP loop to detect silent GPU data corruption, localize the faulty node on SageMaker HyperPod and trigger automatic recovery.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "training",
+    "reliability"
+   ]
+  },
+  {
+   "id": "2026-11-12-056",
+   "title": "Introducing the Web Search API on Amazon Bedrock AgentCore",
+   "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-web-search-api-on-amazon-bedrock-agentcore/",
+   "source": "AWS Machine Learning Blog",
+   "published": "2026-11-11T23:13:16.000Z",
+   "category": "agents-tools",
+   "summary": "AWS launched a Web Search API on Bedrock AgentCore that lets code search the web with a single signed API call, usable in agent loops and data pipelines.",
+   "relevance": 3,
+   "tags": [
+    "aws",
+    "agentcore",
+    "web-search"
+   ]
+  },
+  {
+   "id": "2026-11-12-063",
+   "title": "United won’t let your AI agent book your flight",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents",
+   "source": "The Verge – AI",
+   "published": "2026-11-11T21:54:21.000Z",
+   "category": "agents-tools",
+   "summary": "United Airlines says it will not allow personal AI assistants to book tickets, citing privacy and regulatory concerns, as agentic commerce adoption stays low.",
+   "relevance": 3,
+   "tags": [
+    "agents",
+    "airlines",
+    "policy"
+   ]
+  },
+  {
+   "id": "2026-11-12-076",
+   "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+   "url": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+   "source": "Microsoft Security Blog",
+   "published": "2026-11-11T19:49:57.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft details how threat actors deploy GSocket on compromised Linux servers for stealthy encrypted command-and-control that survives patching, with detection and remediation guidance.",
+   "relevance": 3,
+   "tags": [
+    "microsoft",
+    "c2",
+    "linux"
+   ]
+  },
+  {
+   "id": "2026-11-12-087",
+   "title": "A Startup Wants to Fight AI Bioweapons With AI",
+   "url": "https://www.wired.com/story/startup-fights-ai-bioweapons-with-ai/",
+   "source": "Wired – AI",
+   "published": "2026-11-11T17:00:00.000Z",
+   "category": "safety-evals",
+   "summary": "Startup Radical Numerics says its model can identify natural and AI-engineered pathogens offline, pitched as a defence against AI-assisted bioweapons.",
+   "relevance": 3,
+   "tags": [
+    "biosecurity",
+    "startup",
+    "safety"
+   ]
+  },
+  {
+   "id": "2026-11-12-096",
+   "title": "China’s Nvidia Honeypot Isn’t Surprising. Jensen Huang Fell for It Anyway",
+   "url": "https://www.wired.com/story/chinas-nvidia-honeypot-isnt-surprising-jensen-huang-fell-for-it-anyway/",
+   "source": "Wired – AI",
+   "published": "2026-11-11T15:30:00.000Z",
+   "category": "incidents-society",
+   "summary": "Wired analysis of China's use of romantic intelligence operations and how the Nvidia CEO was allegedly caught up in one.",
+   "relevance": 3,
+   "tags": [
+    "espionage",
+    "nvidia",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-12-113",
+   "title": "Relax: there is only a little over 10% chance that AI wipes out humanity within a decade",
+   "originalTitle": "Nyugi, csak alig több mint 10 százalék esély van rá, hogy az AI egy évtizeden belül kiirtja az emberiséget!",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQUNrVGFqSkVHYXpmc1hlRlZodlEwYUtTdWxXREJZeFdFbzZPSUtQa3c3MHhCZ2ltUWZsNHJmQW95SmU4WG5lZFB1V0pmX1dKSWlkam9vcmt6eWhFQmY5OW1MZEN3WV9NcmFzeHdwajRLWF9RWWZUNXR0Q1VoMllkdw?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-11T11:34:00.000Z",
+   "category": "safety-evals",
+   "summary": "Hungarian tech outlet reports on forecasts assigning a low double-digit probability to catastrophic AI outcomes within ten years.",
+   "relevance": 3,
+   "tags": [
+    "existential-risk",
+    "forecasting",
+    "hungary"
+   ]
+  },
+  {
+   "id": "2026-11-12-114",
+   "title": "Tamil Nadu: India investigates alleged 'AI scam' involving public library books",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9QQjFVa3VBVk00d05zVkEwaF9Jc2JoVGtsXzdKWEZ5YnZvenlHeGdUVHdoYmpBbkJROVBhQlU0WVpDTHV0SzQtREtXdUs4WlU0dl9NNy0zWVI0MnktZnc?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-11T11:33:24.000Z",
+   "category": "ai-threats",
+   "summary": "BBC reports an Indian investigation into an alleged scam involving AI-generated books supplied to public libraries in Tamil Nadu.",
+   "relevance": 3,
+   "tags": [
+    "india",
+    "ai-content",
+    "fraud"
+   ]
+  },
+  {
+   "id": "2026-11-12-116",
+   "title": "Microsoft Teams AI Phishing Detection: Rollout and Deepfake Warnings",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUHh3MXlzMHRfRHdxYnJnS0t4dUpsN3dwTDhEUDUxQVJpQ0V3dWl6UzJZZ3pXYVFaX0s0bFlxWHFWUUdJc1lVa3NXV3VwcTVuV0MzcTdEdzlhVlJEdkxFUmUyQ0wzdE94M1ozZEtFbVRueEotdGZNM1I4dFNsYkhlMGdQM2hUUmFjbV9oQXdxa2tLOGlPOHZKSDEtX0dDamM?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-11T10:41:32.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft is rolling out AI-based phishing detection in Teams along with deepfake warnings for meetings.",
+   "relevance": 3,
+   "tags": [
+    "microsoft",
+    "phishing",
+    "deepfakes"
+   ]
+  },
+  {
+   "id": "2026-11-12-118",
+   "title": "How I'm thinking about different types of automated alignment",
+   "url": "https://www.alignmentforum.org/posts/NFkj9J2BBLSjNuH5G/how-i-m-thinking-about-different-types-of-automated",
+   "source": "AI Alignment Forum",
+   "published": "2026-11-11T09:49:37.000Z",
+   "category": "safety-evals",
+   "summary": "Alignment Forum post splitting 'automating alignment' into empirical research, conceptual research and direct alignment work, with differing strategic implications.",
+   "relevance": 3,
+   "tags": [
+    "alignment",
+    "research",
+    "automation"
+   ]
+  },
+  {
+   "id": "2026-11-12-131",
+   "title": "AI has made it ‘close to impossible’ to assess university coursework, regulator says",
+   "url": "https://www.theguardian.com/education/2026/nov/11/ai-close-to-impossible-assess-university-coursework-regulator",
+   "source": "The Guardian – AI",
+   "published": "2026-11-11T07:00:33.000Z",
+   "category": "incidents-society",
+   "summary": "England's Office for Students says AI has made coursework assessment close to impossible and urges universities to return to traditional exams and in-person presentations.",
+   "relevance": 3,
+   "tags": [
+    "education",
+    "uk",
+    "assessment"
+   ]
+  }
+ ]
+}
