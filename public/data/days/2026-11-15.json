@@ -1,0 +1,864 @@
+{
+ "date": "2026-11-15",
+ "generatedAt": "2026-11-15T06:48:51.644Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 40,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 8
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 2
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-15-033",
+   "title": "Anthropic CEO Amodei admits \"there's a huge uncertainty in what's going to happen next year\" days before a record IPO",
+   "url": "https://the-decoder.com/anthropic-ceo-amodei-admits-theres-a-huge-uncertainty-in-whats-going-to-happen-next-year-days-before-a-record-ipo/",
+   "source": "The Decoder",
+   "published": "2026-11-14T19:05:17.000Z",
+   "category": "industry-compute",
+   "summary": "Ahead of a potentially record IPO, Anthropic CEO Dario Amodei called compute purchasing his 'deepest business dilemma', with commitments near $901bn and uncertain future revenue.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "ipo",
+    "compute"
+   ]
+  },
+  {
+   "id": "2026-11-15-042",
+   "title": "AWS Warns of MCP Gateway Registry Vulnerability Allowing Attackers to Access Internal Network Services",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ES2RsNzNHWXJLc3hEQUNUekhYMTdmU2p0dWcyNlYwbkFXWG9ReWhTc3VwQ2dTdXc4V19od0w0bThjR05zOXh0b0lSdkFQQ1YtdFp5dHM2bURMTnRzYzFwVnc5dkdHb2NzdE03UHoybUQ5dUNtX015T2Rn0gF_QVVfeXFMTURkc2YzRnJqZ2pka1NBRXFtWHJBYTB2YmRhNlVIbS0yd05qYklQdGR0dmhTcFRFbG9VNEF1Y1FHLVhvVFU2bUFXZE1qcnJ1S0tTT3NrakpJMlI1cFpDSWNTN09HUXlnbTVQVDRtcXlxVHAwN25fUGtVN3lER0x3NA?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-14T18:16:41.000Z",
+   "category": "ai-security",
+   "summary": "AWS warns of a vulnerability in its MCP Gateway Registry that could let attackers reach internal network services — a notable supply-chain risk for agent tooling.",
+   "relevance": 5,
+   "tags": [
+    "mcp",
+    "aws",
+    "vulnerability"
+   ]
+  },
+  {
+   "id": "2026-11-15-046",
+   "title": "Cursor confirms security breach led to malicious Claude Code extension",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQZGZ6cDY2N1VKakpFcW9sN0NqTkJBck9xMGxNbGdzTDJQUmt0cmNmdzlBdWdaQ2tzbEF4U1JoZVBsWGFQTWxuZUN4WHVNcGhTMjBCOE85eWVLdFZnRk9JV0c3QWRXUnl1Y0JkM3dPNGlyNHNnR29PT3J6eU95cHZ3SW1WOHEwcUM4ZG1FR3BPSHkzaUdDc0Z0TExMSHRlV2c1OFg4REhaeGphZHd6cTR1YUliWnBFRFVlWUE?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-11-14T17:27:25.000Z",
+   "category": "ai-security",
+   "summary": "Cursor confirmed a security breach that resulted in a malicious Claude Code extension being distributed, a direct supply-chain risk for developers using AI coding tools.",
+   "relevance": 5,
+   "tags": [
+    "cursor",
+    "supply-chain",
+    "claude-code"
+   ]
+  },
+  {
+   "id": "2026-11-15-065",
+   "title": "Beware the New AI-Fueled Ransomware Boom",
+   "url": "https://www.wired.com/story/beware-the-new-ai-fueled-ransomware-boom/",
+   "source": "Wired – AI",
+   "published": "2026-11-14T13:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "Wired reports that fully automated ransomware has not arrived, but relatively unsophisticated attackers are already using AI tools to scale damaging campaigns.",
+   "relevance": 5,
+   "tags": [
+    "ransomware",
+    "cybercrime",
+    "ai-threats"
+   ]
+  },
+  {
+   "id": "2026-11-15-001",
+   "title": "‘Jensen Huang lost his mind’: how AI’s smartest man fell for the world’s oldest trick",
+   "url": "https://www.theguardian.com/technology/2026/nov/14/jensen-huang-affair-nvidia-nightmare",
+   "source": "The Guardian – AI",
+   "published": "2026-11-15T06:00:06.000Z",
+   "category": "incidents-society",
+   "summary": "The Guardian examines the resignation of Nvidia CEO Jensen Huang amid allegations of an extramarital affair with a suspected spy, framing it as a landmark corporate espionage scandal for Silicon Valley.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "huang",
+    "espionage"
+   ]
+  },
+  {
+   "id": "2026-11-15-002",
+   "title": "Microsoft Research Details Dormant-Neuron Backdoor Risk in AI Agents",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2RGczZZLWNkcDBNdVowZDZveTcyQl96RUxtakZST2JIS0c3QU9fd3VGOS1TejIxc0Q4OXAtdTBBUTRvbkdEQTFKNGtrR2dUN2FoZGdOaHZYRFk3ZE5VeGh4N1hhNjdjdjdyd3NDUVN0dGdwcXdrOUEyalA3NFJzWnpmNnB3aGQ2?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-15T05:38:22.000Z",
+   "category": "ai-security",
+   "summary": "Microsoft Research reportedly details a 'dormant-neuron' backdoor risk in AI agents, where hidden triggers can activate malicious behaviour in deployed models.",
+   "relevance": 4,
+   "tags": [
+    "backdoor",
+    "agents",
+    "microsoft"
+   ]
+  },
+  {
+   "id": "2026-11-15-016",
+   "title": "Where was Nvidia’s security team?",
+   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-15T00:08:07.000Z",
+   "category": "industry-compute",
+   "summary": "TechCrunch reports Nvidia's security chief left in August, and a former intelligence officer says the kind of exposure behind Huang's exit—leaks via everyday relationships—is something most corporate security teams cannot detect.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "insider-risk",
+    "security"
+   ]
+  },
+  {
+   "id": "2026-11-15-020",
+   "title": "US AI Safety Center Staff Asked to Report to the White House",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS1pPR3pLOHhFVWtMTUFsZ3Y5R2d3U3FsRThTZVdjY1BfNXc2MnBtaFZnVlpOMC1sWkhueHMtWWNfYWxQXzROTXkxbGVkMUk4X01vU2VNNXFpYWEycUZlMmEyQ0dmY3gzcUgtRGs4cDVCTDJPSWJxUktBTmhlalZTSUxB?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-14T22:43:12.000Z",
+   "category": "policy-regulation",
+   "summary": "Staff at the US AI safety centre have reportedly been asked to report to the White House, raising questions about the body's independence.",
+   "relevance": 4,
+   "tags": [
+    "us",
+    "ai-safety-institute",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-15-022",
+   "title": "Commerce Department under pressure for delaying export controls on Nvidia chips",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcjdnek9mQmRSSGo0bmFxaVRBcmVzbEdEbkwxV3FWNFdGa1A1T1QyN2ZZZ2d1aE9jVm0xTjA4NlowU2xsSVFzUHZFMmZ2WGNRWXdzVHh2dmh1T3Z3a0FKamNMYXRnaDRJUzFlUU5YZFhJbEJmREViR3ZEdDlVTk9TUmdmWGJqQ2xicE9tekdpajIyLVgtb3B6TGFTdE9fQVZxWGdSY3pDQWFzZW1hRy16ME85b0cxT3pCVHdZcFNxUFB6dw?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-14T22:21:07.000Z",
+   "category": "policy-regulation",
+   "summary": "NPR reports the US Commerce Department faces pressure over delays in implementing export controls on Nvidia AI chips.",
+   "relevance": 4,
+   "tags": [
+    "export-controls",
+    "nvidia",
+    "us"
+   ]
+  },
+  {
+   "id": "2026-11-15-030",
+   "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnU2U4ZzlIVFZkLU5OUEFCeUxoRU1xd2ZmSzlRMFF2N2M4X1lxNHNFbi0td3Z4SHpEWXpXVGFETUwwcHdIMl9XcXVZTHp2NFpyLWllc3AweUtwV2YzVHpPU2lQZFo1UUpwbzVzNEhIWGNqN0xaUFFNaHI1Yw?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-14T19:24:34.000Z",
+   "category": "policy-regulation",
+   "summary": "New York has enacted a ban on 'unsafe' chatbot behaviour involving children, part of a broader wave of US state-level AI rules.",
+   "relevance": 4,
+   "tags": [
+    "new-york",
+    "chatbots",
+    "child-safety"
+   ]
+  },
+  {
+   "id": "2026-11-15-031",
+   "title": "Blacklisted Chinese Military University Gets Its Hands On Powerful American AI Chips",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTjhBN2RMTUo5WXNwZnB6Ti14M3lYbHFLTFdWcDh4RmJ2WHNnc0FTZzQ0bUpxeHhKMnJ3Q3B1QllLZUN1dUJSQTNGSmZaRmJYd1hFenQ2cFFqNjJCNGlkcFUyVGFVNGthQS0wcGR0VklQeVVFb2M4bDcwVHV4dnprMVRHOFQteDZhRlRIbl9BOHBFUjRzQWUzOFpkTGdCVllIWk95V0pBZ0pLa1l6VFpWRWRoODRNWk1Sa1FVQkRMUQ?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-14T19:11:15.000Z",
+   "category": "industry-compute",
+   "summary": "Report alleges a blacklisted Chinese military-linked university obtained powerful US AI chips, intensifying export control debate.",
+   "relevance": 4,
+   "tags": [
+    "export-controls",
+    "china",
+    "nvidia"
+   ]
+  },
+  {
+   "id": "2026-11-15-040",
+   "title": "Google Launches Gemini 4 Hydrogen With 2.5x Faster Performance, Challenging GPT-6.1 and Claude",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQajhXcnM0QWtWZU9NUTVMLTlhaUtXQjkzQ3BYdjZsZU9uUUQ5VmtNZ3laZUpkUU1MMVVLelJ2dWZIMXB5d0ViWHZGVmxZbkJnY1hQOGlCRmZiZEZaOVNuX0puZXAxc2tCekhWbjdLREdHT1ExUEFwdkVyN1pMa3UzSFFicHRyY1ZZajRPaUhZSVIxam0yNVhLcjcxYkhzbFNOTWQxR2VqeUdURDJIU0QxVUJ1dzlnUTNYSHBpUFlja0djNTJKWkE?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-14T18:22:28.000Z",
+   "category": "models-releases",
+   "summary": "Google launched Gemini 4 Hydrogen, claiming 2.5x faster performance and positioning it against GPT-6.1 and Claude.",
+   "relevance": 4,
+   "tags": [
+    "gemini-4",
+    "google",
+    "models"
+   ]
+  },
+  {
+   "id": "2026-11-15-043",
+   "title": "Italy fines Meta $887 million over Android users' data access",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-14T18:12:20.000Z",
+   "category": "policy-regulation",
+   "summary": "Italy fined Meta $887 million over how the company accessed Android users' data, adding to EU enforcement pressure on big tech.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "italy",
+    "privacy"
+   ]
+  },
+  {
+   "id": "2026-11-15-044",
+   "title": "North Korean hackers steal faces for crypto fraud and cyberattacks",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUjJpcU5Dc09DZjl4U2g1TWtCc1BxQnMwVHRCN0pLMjc1OGdpZm9sWXpWRHFlU3VjYldEWGxEOWs0bTI3TEQwVUxfWTg2SlI2TEU0MmlMd3YzTWw5QkgtNHdaOFNBc2pmU0ladVhzZWgzYzFoanBKTGNVREE2YUk0U25fVFZqZTh4Q1kySlBqalF5bE1KOE1GVDB5SUZ5Y1hNYzZRVUk1MnY?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-14T17:53:00.000Z",
+   "category": "ai-threats",
+   "summary": "Report details North Korean hackers stealing facial biometrics to support crypto fraud and deepfake-enabled cyberattacks.",
+   "relevance": 4,
+   "tags": [
+    "deepfakes",
+    "north-korea",
+    "biometrics"
+   ]
+  },
+  {
+   "id": "2026-11-15-049",
+   "title": "Gemini 4 Carbon takes the MathArena crown but costs 15 times more than GPT-6.1 Sol",
+   "url": "https://the-decoder.com/gemini-4-carbon-takes-the-matharena-crown-but-costs-15-times-more-than-gpt-6-1-sol/",
+   "source": "The Decoder",
+   "published": "2026-11-14T16:48:01.000Z",
+   "category": "safety-evals",
+   "summary": "Google's Gemini 4 Carbon and Anthropic's Fable 5.2 displaced GPT-6.1 Sol atop the MathArena benchmark, but at substantially higher cost — Gemini reportedly 15x pricier.",
+   "relevance": 4,
+   "tags": [
+    "benchmarks",
+    "gemini-4",
+    "matharena"
+   ]
+  },
+  {
+   "id": "2026-11-15-051",
+   "title": "Anthropic says outdated prompting habits are slowing down Claude Opus 5.5",
+   "url": "https://the-decoder.com/anthropic-says-outdated-prompting-habits-are-slowing-down-claude-opus-5-5/",
+   "source": "The Decoder",
+   "published": "2026-11-14T16:42:56.000Z",
+   "category": "agents-tools",
+   "summary": "Anthropic made Claude Opus 5.5 the default on paid plans and published updated prompting guidance, advising users to drop 'think hard' prompts and start at Medium effort.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "claude",
+    "prompting"
+   ]
+  },
+  {
+   "id": "2026-11-15-057",
+   "title": "The OpenAI board member who fired Sam Altman says we still can’t trust AI CEOs",
+   "url": "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview",
+   "source": "The Verge – AI",
+   "published": "2026-11-14T15:00:00.000Z",
+   "category": "safety-evals",
+   "summary": "In a Verge interview, former OpenAI board member Helen Toner argues AI CEOs still cannot be trusted to self-govern, discussing safety and policy oversight.",
+   "relevance": 4,
+   "tags": [
+    "governance",
+    "helen-toner",
+    "openai"
+   ]
+  },
+  {
+   "id": "2026-11-15-075",
+   "title": "US officials raise alarm over restricted Nvidia AI chips reaching China",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEY5eEp5OVVraXdkaFBxSjFkMUN6T0tDbDRtdzhYTzQ2d1NQQzdDdWc2TXh2R2NvVldtUHZVZzlGZFN1bXNQOEJ6eDVFNXVUTGNGVzdTZ1FIaXpvQXR5M2RoaHVYaG9HTWxVd2xRTGdlWXQxVEsxb29PeW1qNHIwSTg4UWh4SUVpRUpxbEkzNnBJaU9peTJKM3lLNWQtbWg5WkY1TTVVb0RQUVQ1Tm5JWFItcDcyN3JRODZieE5QdHpJd0Zw?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-14T11:50:46.000Z",
+   "category": "industry-compute",
+   "summary": "US officials raise alarms that restricted Nvidia AI chips are still reaching China despite export controls.",
+   "relevance": 4,
+   "tags": [
+    "export-controls",
+    "china",
+    "nvidia"
+   ]
+  },
+  {
+   "id": "2026-11-15-076",
+   "title": "OpenAI reassigns robotics researchers to other teams as general-purpose models might make specialized robotics AI unnecessary",
+   "url": "https://the-decoder.com/openai-reassigns-robotics-researchers-to-other-teams-as-general-purpose-models-might-make-specialized-robotics-ai-unnecessary/",
+   "source": "The Decoder",
+   "published": "2026-11-14T11:40:51.000Z",
+   "category": "agents-tools",
+   "summary": "OpenAI is dissolving its standalone robotics team again, redistributing researchers, after concluding general-purpose models such as GPT-6 Astra can control robots directly.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "robotics",
+    "strategy"
+   ]
+  },
+  {
+   "id": "2026-11-15-078",
+   "title": "Anthropic can already retrain Mythos with \"a fraction of the compute originally needed,\" says former researcher Coxon",
+   "url": "https://the-decoder.com/anthropic-can-already-retrain-mythos-with-a-fraction-of-the-compute-originally-needed-says-former-researcher-coxon/",
+   "source": "The Decoder",
+   "published": "2026-11-14T11:21:41.000Z",
+   "category": "research",
+   "summary": "Former OpenAI and Anthropic researcher Jacob Coxon cites an Anthropic IPO roadshow slide showing accelerating algorithmic efficiency gains, and renews his call for a pause on frontier model development.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "compute-efficiency",
+    "pause"
+   ]
+  },
+  {
+   "id": "2026-11-15-090",
+   "title": "Runway's open-source Praxis-1 turns video AI into a robot controller",
+   "url": "https://the-decoder.com/runways-open-source-praxis-1-turns-video-ai-into-a-robot-controller/",
+   "source": "The Decoder",
+   "published": "2026-11-14T09:45:45.000Z",
+   "category": "models-releases",
+   "summary": "Runway released Praxis-1, an open-weights Apache 2.0 robotics model that applies video-trained knowledge to robot control and leads Nvidia's RoboLab-120 World Action Model benchmark, though complex planning remains out of reach.",
+   "relevance": 4,
+   "tags": [
+    "runway",
+    "robotics",
+    "open-weights"
+   ]
+  },
+  {
+   "id": "2026-11-15-094",
+   "title": "US Democratic senator wants assessment of whether Nvidia is 'too big to fail'",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU1VaSFhwajh0clNVbElvWjVHcHZGaDBibjRzNjhwMU5RSVJ2bkVwRjczMzhrdmZUTXlmc190QjlELUQzYzRkSW9LX0NjXzA1cXQ0OTNxYWRRQVJLaV9WYXVyWGZ5QlIwZ2IxN0FxQi00TTJwcW84ZlFJMlVsQ1h1dmZXUjNtZGczampObE9GNVR3TzQyZlFIamc0bThDOUdEdE1ScEVtNDhJZmdiSFpwc1BZR2pzcENKLXZESlJOZw?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-14T08:46:21.000Z",
+   "category": "policy-regulation",
+   "summary": "A US Democratic senator is calling for a formal assessment of whether Nvidia has become 'too big to fail' for the economy.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "us-policy",
+    "systemic-risk"
+   ]
+  },
+  {
+   "id": "2026-11-15-096",
+   "title": "DOJ Seizes $1.2 Billion in North Korea-Linked Crypto, Dismantles ‘FaceStealer’ Deepfake Scheme",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZ2o2SXlfa0ZWemItbkFWQVprNUN6VG1sZzd0NHRpTUg3TVVJZ0ZLMDZUS3lrOWJZazRYdndjZVh1Mk9uN0pMVE0wZFpubUMzMnlreGR6Y0luYXdheC1ZUzEweXV1Wl90RFBzUUNIZGhTd29CeVotOEpMQUNkY2xKMklzam5WMlBBaFN0NWxqdEJPSi1tN2xFUzVJYkhtNjJkV1FyVWRIeFJCSGd1eG1vX29yano2UQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-14T08:19:07.000Z",
+   "category": "ai-threats",
+   "summary": "The US DOJ seized $1.2 billion in North Korea-linked cryptocurrency and dismantled a deepfake-based 'FaceStealer' identity fraud scheme.",
+   "relevance": 4,
+   "tags": [
+    "deepfakes",
+    "north-korea",
+    "doj"
+   ]
+  },
+  {
+   "id": "2026-11-15-099",
+   "title": "European Telecom Hit by AI-Driven Cyberattack, Healthcare Database Accessed",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWkttU0tGSDlfenFKUXNMQmViRzhwNzU0ZnByY0IzclhTSWhORW55R2tabGJGTlZlX1hzZXBhcjhxUGdlMVd5M1F1MGhRUlJHT3ZIeXF1NWctZ3U2T3ViMnYxWUNUWWc?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-14T03:51:40.000Z",
+   "category": "ai-threats",
+   "summary": "A European telecom operator was hit by an AI-driven cyberattack in which a healthcare database was accessed, per the report.",
+   "relevance": 4,
+   "tags": [
+    "telecom",
+    "breach",
+    "europe"
+   ]
+  },
+  {
+   "id": "2026-11-15-003",
+   "title": "Samsung conquered AI chips. Now it wants to build data centres",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcGlFcXVUUzVSNTBhc2s3R1RFQWpYZGxGc2JCTll4WE1hQ0dRWlBlbzhiRW80ZHVmdktJMlBmZF82dmRyZkpIUW93RDRPbnVPLVloRTlDcmlJOUxGWFJrNnhYWENUZFVZNXBwN19kRjljVkVnaE5lYTUwODdvai1CU0xyTC0?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-15T05:08:13.000Z",
+   "category": "industry-compute",
+   "summary": "FT reports Samsung is extending beyond AI chip manufacturing into building data centres, deepening its position in the AI infrastructure stack.",
+   "relevance": 3,
+   "tags": [
+    "samsung",
+    "data-centres"
+   ]
+  },
+  {
+   "id": "2026-11-15-004",
+   "title": "Tamil Nadu suspends 5 library officials over AI-generated books, fake authors and inflated prices",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQbzdYZk56aGljbTJ2cUFYbjBiWlA1TDRNZ29NT0lCVmc5aWQ3a2k1T05Qck4wM1pramIzRzNxN1NHekdEY1VVeWh1SWpqeHdITXNSZHRNM3l5c2hvNEhjOTlkbEZzeWp4WU1uWDVXN1lYQ0V5bXN1WC1CeEp5V3JySGl0V1ltN2h1LXJuUkRGendKMVhqTUtuYlB5cnF5R2xnc2xkdmg1M0hwam9ic3luRXBCeUpQSlBhc0FVY01VMTNGRVVzT3J2dGV6c1BBN1gtcVk3anhnRjlIR2tnYXVhY2hYV2hPRi1TZlM4QVZDNG1JMHlNRGloVGpuT1c1SmI00gGGAkFVX3lxTE5jamEycDJKT25vWFRZR2ZvRnpTa0dnNS1FdEd5cGJSSjhyaHpoR1BudzNMeV9wWW10ZWZ3aWs1Mm1hQVJVS1c1SnlvOTREd2Z6WGg3LTV1OGh0Sk9mWHJXbnZCNEVCSXZvbzVhb3FtaGdnN2lTZnNidG92TDRrSjlxaTBJTGJIQUhOaDRfdHlHMGZ4WW96czNTWXJ2U01lU1A2N2FxYVZGUWlOU1NZS2RXUjBpSDNTTUtJSDlEVHhqLVZPc2VUSF90Vmp0aTNpb3RYbmh6U1c2VWxXdTN6UHhfa2QzV0dEM2hsTmxseHQ3VXRDUjRfOFFDTXE1ajRVZjl3d2JRMkE?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-15T04:08:00.000Z",
+   "category": "incidents-society",
+   "summary": "Tamil Nadu suspended five library officials over procurement of AI-generated books with fabricated authors at inflated prices, highlighting public-sector exposure to synthetic content fraud.",
+   "relevance": 3,
+   "tags": [
+    "ai-slop",
+    "procurement",
+    "india"
+   ]
+  },
+  {
+   "id": "2026-11-15-009",
+   "title": "AI chips, rare earths and trade: 5 US-China questions looming over Shenzhen Apec CEO summit",
+   "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORVZMcnlhcmEtTGpLcXJCeklJZHh1SGFQTWVNRXZ4aFZSR3FVZmdGYlE2bkNnWWd2S2dIVjVDV3YzZFVlR3hVUHhZOVEzUG1aMmgxWHBkYzhKRnh5UUVuMlh3bmN5RGJCTjgzTHpLLXpLd3NKcWlJYWRuaTBselhoRWVKSTZ4T1ZzSDkwcFIzZWpvdTg0QTZjZVc4amhTa2dTLV8wRTJkUVFOV2VleHg3cUEySHE5ZnJZMTZGalFNZEhiQ2FXZFkzdXV1NjdDQk9jUFhjQmZlZkZQdm8?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-15T03:13:00.000Z",
+   "category": "industry-compute",
+   "summary": "Preview of the Shenzhen APEC CEO summit, outlining five open questions on US-China relations covering AI chips, rare earths and trade policy.",
+   "relevance": 3,
+   "tags": [
+    "us-china",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-15-019",
+   "title": "Evidence-Linked Memory Cuts LLM Degradation",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWDFXX2c0YXgyT0t3bWZCenJKN19FMHk3Z2NEZ2V5QmVjV00tZ0FWNTV3blVObncxeW9PWU1PbWQwbkRlQ3A0S085dVpfYUlJMm16V1lQOFkyUXBmc2l2Z1hFZUk2a0xZVnpOWE1FZndiWnZHZjIwTE9wdkJESl91UVlodTBHQThMajFv?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-14T23:23:22.000Z",
+   "category": "research",
+   "summary": "Research summary claims evidence-linked memory techniques reduce degradation in LLM performance over long interactions.",
+   "relevance": 3,
+   "tags": [
+    "memory",
+    "llm",
+    "research"
+   ]
+  },
+  {
+   "id": "2026-11-15-024",
+   "title": "AI Standards Report Urges Runtime Controls Over Congressional AI Pause",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNXZmYmxHYzVYWVU2eUIya011RHJOR1o1dU9fbmJ3bkdQa2hYRDdScUFGaUVWVE9GNW1sYjhUcmFIMktneUxkd2VqeENrcWJJSHNIaW5rUkdCN2E1SGZtdzdYVmFqSWh3N1hiUjE2WnJGb0toTTJ0S2JaRjlUNWRNdWFQbWVxRnUyQUVYdjFZVkJseDBPSVZqSDRQbHJoMVhrRGwyVV9IbmgzUFZIT0VsbVV1cV9PZFh6U0FQTG5peVhTZw?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-14T21:20:08.000Z",
+   "category": "policy-regulation",
+   "summary": "An AI standards report recommends runtime controls on deployed systems rather than a congressional pause on AI development.",
+   "relevance": 3,
+   "tags": [
+    "standards",
+    "us",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-15-027",
+   "title": "Multi-Institution Team Introduces Embodied First Exam Benchmark for Multimodal Robotics Agents",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbHoydGhvTG1INlpfSVkzWEJpU2xlamhZYnRsekhBLVJoU1hwUlNodURNV0VFQzN3Wm0wcWY1dTFwNUFXb3ZqYm5GaVl5Tml2cVhXMXlsV0lENHdZWjJYaWFscXdnWmVvUXpISVhpeVBNWTcyWkxZU1dIcWtWWUxRU1hmTHJPSld1VGJkd1Q4cmRNaXM?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-14T20:33:07.000Z",
+   "category": "safety-evals",
+   "summary": "A multi-institution team introduces the 'Embodied First Exam' benchmark for evaluating multimodal robotics agents.",
+   "relevance": 3,
+   "tags": [
+    "benchmark",
+    "robotics",
+    "evals"
+   ]
+  },
+  {
+   "id": "2026-11-15-038",
+   "title": "Translated launches Lara Mini, a 45-language model that leads its class",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVTU2T1AwT3NDQ0wwa18wZkFQRlBxQ2dyVmUtTEUtSUh5ejMxM3M4a281cExjSU1vVllxOXNrUjl3RTU3VFRPQ2d3bTVwbHZBVTA5TjJyRTA5bUhYUTFaR280b2tEdlNVU3dKZzB3dTlFR29EMWxROUY3Z0NQV1lZVF9ZcERGSXdPVXc?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-14T18:27:37.000Z",
+   "category": "models-releases",
+   "summary": "Translated launched Lara Mini, a 45-language translation model the company says leads its size class — relevant for European multilingual workloads.",
+   "relevance": 3,
+   "tags": [
+    "translation",
+    "lara-mini",
+    "multilingual"
+   ]
+  },
+  {
+   "id": "2026-11-15-058",
+   "title": "Google Launches Gemini 4 Hydrogen, a Faster AI Model, in Search and App",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUZvWHZNaXM5NVVCM3Y0YUJUeTllZGhybHpWLVBXTUQ4OEJCRGMxNFdRR2hSbTNHbTlVQU4tZWkwWFV1YnBkNElOdHFDZzZfWnpDWTJ1QWJUeFFuVjg4UndKME1uNk5xVHF6WXRGRTJfQWtXU0ZJMGdXSERiandvLW1ZNTJOeUMtdlA5azZJTmktLVpDcG45aC13?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-14T14:26:32.000Z",
+   "category": "models-releases",
+   "summary": "Google is rolling out Gemini 4 Hydrogen, a faster model, across Search and the Gemini app.",
+   "relevance": 3,
+   "tags": [
+    "gemini-4",
+    "google",
+    "search"
+   ]
+  },
+  {
+   "id": "2026-11-15-068",
+   "title": "Samsung's Gemini-powered eyewear launches on December 10, starting at $395",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ1VpRVg0OElKbVB2MG5LLXBRanlCVXlIRjJkMTR6aDhoQVF1MU5DRmdna21sVlNPem4zNThQaVdSR0toMnRRdF9OdnNFLVBrZHNJcGNMN3l5SjlaOFJSNGFuMlNUdDJRaXhWLTA5aTYwcG42Umg3WUprOXRiVUZia18zVDk2cDJ5d25LbVo4ek9lMVY0WHM4OFd1VXI2WGpaSWJnQTVmNEJHdGNiNmNMTkNOZnFrZVhLZTlCOE9n?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-14T12:44:33.000Z",
+   "category": "models-releases",
+   "summary": "Samsung's Gemini-powered smart eyewear launches on December 10 starting at $395, pushing assistant-style AI into consumer wearables.",
+   "relevance": 3,
+   "tags": [
+    "samsung",
+    "gemini",
+    "wearables"
+   ]
+  },
+  {
+   "id": "2026-11-15-081",
+   "title": "No Pilots. Few Air Traffic Controllers. What Could Go Wrong?",
+   "url": "https://www.wired.com/story/no-pilots-few-air-traffic-controllers-what-could-go-wrong/",
+   "source": "Wired – AI",
+   "published": "2026-11-14T11:00:00.000Z",
+   "category": "incidents-society",
+   "summary": "Wired examines the push to introduce AI into aviation — including pilot and air traffic control roles — in a sector traditionally slow to adopt new technology.",
+   "relevance": 3,
+   "tags": [
+    "aviation",
+    "automation",
+    "safety"
+   ]
+  },
+  {
+   "id": "2026-11-15-083",
+   "title": "Fraud losses in Asia estimated at $136.5 billion over a year — Channel NewsAsia",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlMzNHNLZVEwZFBDNjdwWFR1OHJ1QUJZTlh0bU9SeVNqVEZqT2RLam5pU1lPbEJxeDROcjBQU3lBTUlkUkRkN0pXSzQxRkN0aThhb0lfcllZQ05RWnFhN2tJcmNXVV9ZNVpDZmdMVmdaZ1BBSTJFcDQ2a0NZWktkZFJ2T2pLcXliS2w1Q3BWelBkTFo5MkhZNkprcVJZZDNZMjB5ZWRxZ1lmNElPeW9N?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-14T10:24:59.000Z",
+   "category": "ai-threats",
+   "summary": "Fraud losses across Asia are estimated at $136.5 billion over the past year, with experts flagging AI-enabled scams as a growing driver.",
+   "relevance": 3,
+   "tags": [
+    "fraud",
+    "asia",
+    "scams"
+   ]
+  },
+  {
+   "id": "2026-11-15-084",
+   "title": "Stanford Research Open-Sources Memorilla, a Latent Memory Module for Frozen LLMs",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWDgxSXJBcXdtQVoyY3lLc1BmOS02Q3E0Y2VpNlVIQjV3Nl9sMXJaSUxTSHlxbG16UzBsVDZtX3dvbmJuZl9ORG92Vkt1SUFXVzBXVFN0SkRWd0ktWTJiczAzRHBINWNrSnRka0d2X0ZKSUNXUVdsV0V2b1k0ZUd4NDQ2NjZBQkNCUV9fMmRiOUhYOTVqUkN6cmdWRVTSAZwBQVVfeXFMTlg4MUlyQXF3bUFaMmN5S3NQZjktNkNxNGNlaTZVSEI1dzZfbDFyWklMU0h5cWxtelMwbFQ2bV93b25ibmZfTkRvdlZLdUlBV1cwV1RTdEpEVndJLVkyYnMwM0RwSDVja0p0ZGtHdl9GSklDV1FXbFdFdm9ZNGVHeDQ0NjY2QUJDQlFfXzJkYjlIWDk1alJDenJnVkVU?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-14T10:21:21.000Z",
+   "category": "models-releases",
+   "summary": "Stanford researchers open-sourced Memorilla, a latent memory module that adds persistent memory to frozen LLMs without retraining.",
+   "relevance": 3,
+   "tags": [
+    "memory",
+    "open-source",
+    "stanford"
+   ]
+  },
+  {
+   "id": "2026-11-15-085",
+   "title": "Scam losses across Asia estimated at US$136.5b in past year; experts warn of growing AI threat",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdHlLSXdyODFWMUY2cUZzRGNpRnNla0I2WklOZTExMldGTWo5Qjhfc19xS3BrOV9TNERiMGJWTDBoeEs1czZob2tZSmRQa1M3cVQwNUJRQmpKWEtaVlNpM2pfZkttV250SEpRMUVNTkdpRlZDb1k5MkpUd2ctUXNScFBWTUttcEVaeUg3V2VrZ0FmQ0FNMHRiMHp3WGRjR09VTklzc1JOUlBlQjZuTDdv?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-14T10:12:58.000Z",
+   "category": "ai-threats",
+   "summary": "CNA reports scam losses across Asia reached an estimated US$136.5bn in the past year, with experts warning of escalating AI-driven fraud techniques.",
+   "relevance": 3,
+   "tags": [
+    "fraud",
+    "asia",
+    "deepfakes"
+   ]
+  },
+  {
+   "id": "2026-11-15-093",
+   "title": "‘It’s like the wild west’: how AI has rocked the literary world",
+   "url": "https://www.theguardian.com/books/ng-interactive/2026/nov/14/its-like-the-wild-west-how-ai-has-rocked-the-literary-world",
+   "source": "The Guardian – AI",
+   "published": "2026-11-14T09:00:40.000Z",
+   "category": "incidents-society",
+   "summary": "The Guardian reports on turmoil in publishing as authors lose deals and are removed from prize shortlists over accusations of AI-assisted writing.",
+   "relevance": 3,
+   "tags": [
+    "publishing",
+    "generative-ai",
+    "copyright"
+   ]
+  },
+  {
+   "id": "2026-11-15-098",
+   "title": "New York expands independent AI safety research network",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5BRG9lVzBmTkdPSk1NWHBVcnhEeEx5Ykx2SzVkb1hRT1RaaC00d1c2ZGNhM0ZoRm14emJDSUtOM0U3dUtqenAyTmh6cVdtVVZaTmhSRXB2dFh0OVdzQ1FOU0pNQWZ4MDVYZlBqenVOXzAzUWlYY1lB?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-14T07:38:39.000Z",
+   "category": "safety-evals",
+   "summary": "New York is expanding its network of independent AI safety research organisations.",
+   "relevance": 3,
+   "tags": [
+    "new-york",
+    "ai-safety",
+    "research"
+   ]
+  },
+  {
+   "id": "2026-11-15-100",
+   "title": "Meta Muse AI Agent Declared Privacy-Breaching Spyware",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYXVmRDdFd21fUUhBY1BqR09ZX2UzTGQ2RUNJVzhrcDM1dUx6c09zdDdjTW03S3hyOWt6MVNxaF9FTi1jVnZtU2U3b1J4eFcxcmNKY1d5ck11X1NLcE5COWVOWWplckJvMjFpNzVNS01OX1FjQWRsVVluX0F4Z1RBZm9DTzY?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-14T03:24:31.000Z",
+   "category": "ai-security",
+   "summary": "Report claims Meta's Muse AI agent has been classified as privacy-breaching spyware, raising data protection concerns for agentic assistants.",
+   "relevance": 3,
+   "tags": [
+    "meta",
+    "privacy",
+    "agents"
+   ]
+  }
+ ]
+}
