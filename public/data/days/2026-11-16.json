@@ -1,0 +1,818 @@
+{
+ "date": "2026-11-16",
+ "generatedAt": "2026-11-16T06:48:53.099Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 37,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 7
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 2
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-16-040",
+   "title": "Reports of AI-related child sexual abuse material rise 8,400% in two years, data shows",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/ai-related-child-sexual-abuse-material-rise-exploitation-deepfakes",
+   "source": "The Guardian – AI",
+   "published": "2026-11-16T00:01:27.000Z",
+   "category": "incidents-society",
+   "summary": "Childlight research finds reports of AI-related child sexual abuse material rose from ~4,700 in 2023 to over 400,000 in 2025, an 8,400% increase, driven partly by nudify apps.",
+   "relevance": 5,
+   "tags": [
+    "csam",
+    "deepfakes",
+    "child-safety"
+   ]
+  },
+  {
+   "id": "2026-11-16-054",
+   "title": "EU Issues Article 50 AI Guidelines on Labelling Synthetic Content",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXRVZmliRVo2NmtjakpLVHRVTTJyRV9SWEUtSDFyMV9fUTNIZDFvdFBiNTRpQV9hUjhTT3ZpV3o3UWc0TVhLX1N6QWlJMEpDZm9JbXN5cExtVFVPUlN6SEVzQmFsc1JKMWJ2SDh2WlpFcHAyNng5b3pMM0Z2b0drazFXVU9WTmJMVU5sblhhUWRWRl9STXVnSTE4VHUwZ0ZBd1Y0LXotQQ?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-15T20:32:45.000Z",
+   "category": "policy-regulation",
+   "summary": "The EU issued guidelines under AI Act Article 50 on transparency and labelling of AI-generated synthetic content.",
+   "relevance": 5,
+   "tags": [
+    "ai-act",
+    "eu",
+    "transparency"
+   ]
+  },
+  {
+   "id": "2026-11-16-059",
+   "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQWDNpQjg4VlY2a2g5Y1Z5S3pSUlJYc0tMbEQtMEZDR3huN0V3c2FpWGhTX1dISUJwY00yTkVwVEROWF9WMDkwZnV6bU5zY0MtU0x0WmxjSlZTamRhcXJrdkdBdEFibG5SUzVsYk9oTDgzblZ0UUFPdzladmthck5CdUtKRVRCQmNSb0JTVWVUTDFiVGgyZDRPOTFUMnZxSTE0bzFSa05tX2RFSmpmVGhQZA?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-11-15T18:29:53.000Z",
+   "category": "ai-threats",
+   "summary": "The FBI warns that an AI hacking tool called ARTEX is being used to power cyberattacks worldwide.",
+   "relevance": 5,
+   "tags": [
+    "fbi",
+    "artex",
+    "offensive-ai"
+   ]
+  },
+  {
+   "id": "2026-11-16-063",
+   "title": "A French bank lost around €100 million in a 'very likely' AI-assisted cyberattack",
+   "originalTitle": "Egy francia bank mintegy 100 millió eurót veszített egy \"nagy valószínűséggel\" mesterséges intelligenciával támogatott kibertámadásban",
+   "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQRExrUkZBVUUzdnJPZE9ic295LVJWMDROMW96X2JzX21qcHhKRFByZmcwaGZoQnBUbzJOcjJqY3RoeWJvQXVjRWdDYmFZZlJIWE14WWRLM2NCT2ptTzRGYkRfcU5EVk9XVkZKVnhxTjZTNkhjQW5TY3ZJTXIxMzJqNzU1S292T2ZGYUxNNDV0WVV6Y2FFaUNlcklRaU1ZZGJBY0hwTXdMMzA5SWx2amk1QlRsV1RtVDl4eVg3aU9PWFFxb0ZxSmFrZlRPbHRsNUFtYzVhdGFMTVdhTFkyNkF1ak5NRW1QaUZic1VOR24yTWlfVjA3OEZfS2JtaGdIeVJHcnc4eWRVR2UtZFF3?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-15T15:43:00.000Z",
+   "category": "ai-threats",
+   "summary": "Report that a French bank lost roughly €100m in an attack described as very likely AI-supported.",
+   "relevance": 5,
+   "tags": [
+    "banking",
+    "france",
+    "ai-attack"
+   ]
+  },
+  {
+   "id": "2026-11-16-077",
+   "title": "EU AI Act Article 50 guidelines published",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjdmk2M0Q3MmlJR0drNmRSRnd6UlhHSGQwNlp6cDdxOWs4eFhhYnZ4dXllUzFlWkhEQ3RPT1NKM3EwU3lDeDRFWWtYZWpiTXFQY2JZaDdabXNfUC1UM1E5cnpIMGhKQ3pNUmZJZVBmSE8yWHY4SUVpNWpxUkw?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-15T13:13:14.000Z",
+   "category": "policy-regulation",
+   "summary": "The European Commission published guidelines for AI Act Article 50 transparency obligations.",
+   "relevance": 5,
+   "tags": [
+    "ai-act",
+    "eu",
+    "compliance"
+   ]
+  },
+  {
+   "id": "2026-11-16-087",
+   "title": "Meituan releases a 1.6-trillion-parameter agent model that never touched an Nvidia GPU",
+   "url": "https://the-decoder.com/meituan-releases-a-1-6-trillion-parameter-agent-model-that-never-touched-an-nvidia-gpu/",
+   "source": "The Decoder",
+   "published": "2026-11-15T10:06:06.000Z",
+   "category": "models-releases",
+   "summary": "Meituan open-sourced LongCat-2.5, a 1.6-trillion-parameter agent model trained entirely on Chinese hardware, scoring 88.4 on Terminal Bench and deployable on Huawei Ascend chips.",
+   "relevance": 5,
+   "tags": [
+    "meituan",
+    "longcat",
+    "huawei-ascend"
+   ]
+  },
+  {
+   "id": "2026-11-16-091",
+   "title": "North Korea’s Deepfake Calls Fueled Over $400M in Crypto Theft, DOJ Says",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMTN3MzN2dnM0YWNFckF4YlZpYWxiU2czc2xiUmJORDBIdnZpQnlDTHZEck1rY0JxcnVnRkEzb3JUZ1ZQWFNuRkgyWGx2bUV5VUNDLUI2cUw4SEdNc2RKQ3ZlSUlpbHNXOWdiZnhqSlRNNmVwZjRrRHVRSjZmaEw1WnRwV1NDNDdQRGhTM1AwRklvY0VONjlkTXAtcjcwOVZVNmg1RFdTeEJwRGRhY0RaYnA4MmM?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-15T08:56:46.000Z",
+   "category": "ai-threats",
+   "summary": "The US DOJ says North Korean operatives used deepfake video calls to help steal over $400m in cryptocurrency.",
+   "relevance": 5,
+   "tags": [
+    "north-korea",
+    "deepfake",
+    "crypto"
+   ]
+  },
+  {
+   "id": "2026-11-16-095",
+   "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZ0pVd0VKNnk2Vmpxalp6amtSaFlvX0Vpd0NOQkNZVldpTjRYdzQyZHd2c2IwdmhEdm5RNElZWXJ6bWtMVGhlemhGX0FqM0d3Vnp3MWRvWUNxTGJwMnV3Ymx0cy1TbWJJMVliVi1HM0xaUExCZ0FQU3NOMEJWWHJhaGZ3?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-15T08:22:00.000Z",
+   "category": "ai-security",
+   "summary": "Cursor says a stolen Fireworks AI API key enabled an incident involving a trojanized Claude Code extension, highlighting supply-chain risk in AI dev tooling.",
+   "relevance": 5,
+   "tags": [
+    "cursor",
+    "supply-chain",
+    "claude-code"
+   ]
+  },
+  {
+   "id": "2026-11-16-001",
+   "title": "Alibaba says Qwen4-Max cuts task costs by 60%, boosts cyber safeguards",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFZoNkJLekhkbC1jcUVjcXNQaENWWUxNUVUxbnRUMXB2T0pTVno0ZEw1WVZHX29uSnNJLVE3ZWVCUmNHdHZ1SldoZ3BSeGhfMVRzZ1Z6TGRHZzB1b0s2Mm83UnNLcWhELXhIUWRpX0k0X2JPNEJuTmZwZ2tjWW8xYnhzeXNremZjZ0NPdmFTWS1rZ2VhM2tFRGNSMkYwczVuOVpMRlpSZ0tCZ0hMd19iSjJnTFRDbmJubTJibWt3TEktNWZfVXBFdFgtZEhJQdIB0wFBVV95cUxPT2d5YnJGVU83aGtzaWJFNzdoV1pMVk1md0JFVTZKTGRxcEp0REUtd2hSUVNZZ2RCbkc2ME1KQlVLVDFaVTlOcnJxV1FZSWdBYVk2eGRfakI2MWFFRXVYLUt3aXVTWDMyZTV2dWZZUzZ3VVdzUlpuM0E4NTdtdU9iQ3gtS19YbV9CbUthWW02ZnJ3RlNyWkdWT0RYa085QzU3eXRWNWtKVUZWZ3dzTTRSSmlsQV8zQ21KWTh1VnVyZUExc19QSjZZNkR5UHpjWGtvck8w?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-16T06:33:09.000Z",
+   "category": "models-releases",
+   "summary": "Alibaba claims its new Qwen4-Max flagship cuts task costs by about 60% while adding stronger cybersecurity safeguards.",
+   "relevance": 4,
+   "tags": [
+    "alibaba",
+    "qwen4-max",
+    "cost"
+   ]
+  },
+  {
+   "id": "2026-11-16-005",
+   "title": "Alibaba launches Qwen4-Max, claims it outperforms US AI rivals in coding and cybersecurity",
+   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPd1ZwYkpYZUt0T2R2T24wdDVmeldDNXVmbTJDWnNpUVU3aDEzQWVDNE1GSTVleC1pMFpTempoMi0xX203eE5Vbjlmemg1QWlVZzU3QXBJaVpKUkJCUFdKSVp6WDdoODlmM0tDOWFfNE1GYUNvLUx0UF9BWldlOEU4blNnV0UxVXZsdExuNzlzUm1WNWFJdkpJUUhNMnd5T2lEcG5lX29obmdaQnliVl9RNFU5eWwwUEY3RnQ0WTB5UXRCUnpHblhZcGt4Q0xZakxHbWpBNkNIODJLVS00dVZubk1JMzZ5SWxfdTFpWdIB8gFBVV95cUxOb3V1UlJlYVBhbWNIVUNQYzhObE1tUEt5WC1UUFN0OV95MU43bVFqNzFIRlNUMTRjUjlYUXJla0FjRmxVTzBpT3RhRXIwMmlhNmtCN0Y4eW5mcDJrOFlOQ2hBR2dUTVFzRHFIN2prQ194VHI5NE54MUdxdjBOV3BRaEV6TTFwZlFIdkd4ZTVzd2xPcHEwS1p2WmdkcHBDZGJHTVFSVktoa0tMdUw2elg4SllOZnp4azhyZlhKQ0lKLVFEZmRDSmFpMUhwNmlIWFFtR21SUlNFRjlGcW1ib3hGcUdBWTNBZ3YyN0RMOUZDQ0FwZw?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-16T05:55:28.000Z",
+   "category": "models-releases",
+   "summary": "Alibaba launched Qwen4-Max, claiming it outperforms US rivals on coding and cybersecurity benchmarks.",
+   "relevance": 4,
+   "tags": [
+    "alibaba",
+    "qwen4-max",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "2026-11-16-008",
+   "title": "Threat Actor Use of AI-Powered Platforms is Rising Rapidly, FBI Says",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYVpkUzE3RUFfMDkyQmU3NF9FelZDc05tc1BDb2lzUnFVazM2NjhIRGQ0R1JDLTlEb190bU5mZGc3a3Fscy1BZW14a2dJU2pSVnM4Nld6aGx2LUt0Z2RWMHZVS0RjYms5QW1rTE1SaXBVczVHTVM5M1pEWmRxUUllMkNSTWViWVJ2TEQ0amgzVkxyQVVPajlwSnk3YkFzV2w2LXEzTEk2NVQxUQ?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-16T05:45:26.000Z",
+   "category": "ai-threats",
+   "summary": "The FBI reports a rapid rise in threat actors using AI-powered platforms for criminal operations.",
+   "relevance": 4,
+   "tags": [
+    "fbi",
+    "threat-actors"
+   ]
+  },
+  {
+   "id": "2026-11-16-017",
+   "title": "Alibaba unveils new flagship AI model with safety upgrades",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUVhrY1I2NEhJUndRTG5sMWlxRXUxTS0wOHdOLVg2bG83NS10R0RuM1h2VWpMVTFrcHd3SmlsVy1hWFhiNld3NGdzcGxLWVVwN0UtUjhjUTdwaFdzMnVoSEkwZWR0MHYxMUw1NDVxbW5GZkFNbWZuaXlGZlRHUjRaTU1JM3FiVGRONXNCaTNtb3dFa1hmZlYxbUd6ZWRBdmgxVk1od0RDT3dscl9XaDRncU84RkxmYnNlcVFF?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-16T04:29:00.000Z",
+   "category": "models-releases",
+   "summary": "Reuters reports Alibaba unveiled a new flagship AI model with safety and security upgrades.",
+   "relevance": 4,
+   "tags": [
+    "alibaba",
+    "qwen4-max",
+    "safety"
+   ]
+  },
+  {
+   "id": "2026-11-16-018",
+   "title": "Trump administration to name Nvidia, other AI firms as US 'national champions', WSJ reports",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbzFERGNkd2ZLODdReVZtV3pnNVdJT3RyNDdpbUZQRXZHUEgzbVYtZTBwelhfV1hRbVVfOGsxeDJURWd2bEJubFlFUjFXZC1HM2Z4U3l2TXVhTXR3OTFPZ2xUaDhOVlBDWF93dDE0V2lsOEI3bGFGWXlmbnVldjNCQkJKQlFNbDVfaWR6cGpJdktZWlJXcEdNQkZnWWsxSlZGX19tQTIxYW5NVWQxb2NQclEza1JHaHBma3lmaFNzQWRtQld0UkRwT01IZEY0eUk?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-16T04:17:00.000Z",
+   "category": "policy-regulation",
+   "summary": "According to WSJ, the Trump administration plans to designate Nvidia and other AI firms as US 'national champions'.",
+   "relevance": 4,
+   "tags": [
+    "usa",
+    "nvidia",
+    "industrial-policy"
+   ]
+  },
+  {
+   "id": "2026-11-16-020",
+   "title": "Alibaba launches Qwen4-Max model with strict cybersecurity guardrails",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQaHl0ZVByMTFnMVVaU2h5UFBhMzFaVmFKQi1pcGhPb3lLeTdjdGh4TkpnU0FPUVAyMU9rYjV2UkhFdjhOUHRDVUFMRm9seUVzWDRzeno1YllqLVpmY3R6WmI5bnJSS1lkeFAzSm1lM1pkWnAtclpOQmxRWFVwMmZaVjE2cy1KYzRJcEw5RUVIbVExdlhveFJYLU1HRTFSVERTV2VzdHFtS1J2SE1PMjBFbVNYMFNRSmZmT3FtV2kxYUd0QmdBSkJMb3pGUWJTUGFzcC1wYg?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-16T03:56:53.000Z",
+   "category": "models-releases",
+   "summary": "SCMP reports Alibaba's Qwen4-Max ships with strict cybersecurity guardrails limiting offensive use.",
+   "relevance": 4,
+   "tags": [
+    "alibaba",
+    "qwen4-max",
+    "guardrails"
+   ]
+  },
+  {
+   "id": "2026-11-16-028",
+   "title": "Alibaba Unveils New Flagship AI Model in Riposte to US Rivals",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON1VKTHI4cWNWNG10TkNPUDNKb0tLQXlxMmJ1aHE2d0twMW5Gb3NfREZMZmRhcnlMeFpHWVBfU0xoYnJ2TW1KTXRLbWxHOW5hWVZITUlRUW1OTlcxVENtM2t2aXRQZV9VR0tnVkVJU0podW1wLWRiVUJXLWQ0UWtGYTBkTGthd1o5YzQyOGJyR3lWSUtaWlRXblZZUVVIUnFfSkYxcEh4ckFaM3FqVi02amp3?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-16T02:00:00.000Z",
+   "category": "models-releases",
+   "summary": "Bloomberg reports Alibaba unveiled a new flagship AI model positioned as a response to US competitors.",
+   "relevance": 4,
+   "tags": [
+    "alibaba",
+    "qwen4-max",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-16-029",
+   "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJV1pWdW9NZ0tRcjE1U21pVTVyUnpvSGVqZ2RqZ2VpSlNER3Q0WGcta0piOEp3NmZURS1DT3BEd0ZPM3p1Q2pBM3B0ZkttNVRLc0hCaGlqSXlwRUU?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-16T01:47:57.000Z",
+   "category": "industry-compute",
+   "summary": "Megaspeed says the suspected Chinese spy linked to Nvidia's former CEO left the company in 2025, as the espionage scandal widens.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "megaspeed",
+    "espionage"
+   ]
+  },
+  {
+   "id": "2026-11-16-032",
+   "title": "Asian shares fall before Nvidia earnings, Anthropic IPO test tech rally",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-16T01:35:00.000Z",
+   "category": "industry-compute",
+   "summary": "Asian shares fell ahead of Nvidia earnings and Anthropic's IPO, both seen as tests of the AI-driven tech rally.",
+   "relevance": 4,
+   "tags": [
+    "markets",
+    "nvidia",
+    "anthropic"
+   ]
+  },
+  {
+   "id": "2026-11-16-035",
+   "title": "Elon Musk joins 165,000 others calling for Nvidia to bring back Jensen Huang in open letter",
+   "url": "https://www.theguardian.com/technology/2026/nov/16/elon-musk-tech-execs-open-letter-jensen-huang-return-nvidia-ceo",
+   "source": "The Guardian – AI",
+   "published": "2026-11-16T01:01:08.000Z",
+   "category": "incidents-society",
+   "summary": "Elon Musk and over 165,000 signatories back an open letter demanding Jensen Huang's reinstatement as Nvidia CEO pending an independent investigation.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "jensen-huang",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-16-039",
+   "title": "US and Russia to oppose talks on limiting autonomous weapons",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUS1qMHhiR1ozLTIyenNWclR0dVZYNnBsSG01eHJkN0VMSGFnSnIxNjc5Q01HNFJma2JEazF2aWh2U3VlWnNwYm82NUFWZGM1ME5CVTZaTWxseU5nRmppbWVDalBPODdzVWJBUDNEemdteXhFbXNXdEVvNnZiZ1FSRWIyS1JNSVBFUkxGVEoyaUNZTDNHQndZ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-16T00:03:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Reuters reports the US and Russia will oppose negotiations on limiting autonomous weapons systems.",
+   "relevance": 4,
+   "tags": [
+    "autonomous-weapons",
+    "un",
+    "geopolitics"
+   ]
+  },
+  {
+   "id": "2026-11-16-047",
+   "title": "Australia to legislate safety rules for frontier AI",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUJoYWIzeWRqWExMU19aZm5Oci1PZnpQS1dRVGNFT3p0a0o3WUhCNHpydlV1WGhOWlcwSzFpazF2SzdYOTIxRUtCc2RORW40LWZEeVZzbko1UDFBVHVNZmNjTzlTeGhYYWkyNEFsM2lETkFHNFpkaHlOV2swWlBaVjF1cDRDbm44MGFDZEVQUQ?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-15T22:15:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Australia announced plans to legislate safety rules for frontier AI models.",
+   "relevance": 4,
+   "tags": [
+    "australia",
+    "frontier-ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "2026-11-16-048",
+   "title": "A step toward defining the Standard Model on a lattice",
+   "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+   "source": "OpenAI News",
+   "published": "2026-11-15T22:00:01.000Z",
+   "category": "research",
+   "summary": "OpenAI describes a candidate nonperturbative lattice definition of the Standard Model, with GPT-6 Astra helping develop a detailed proof.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "physics",
+    "gpt-6"
+   ]
+  },
+  {
+   "id": "2026-11-16-057",
+   "title": "Congress wants to tighten export rules on AI chips after Nvidia spy scandal",
+   "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china",
+   "source": "The Verge – AI",
+   "published": "2026-11-15T19:15:43.000Z",
+   "category": "policy-regulation",
+   "summary": "US lawmakers from both parties push to tighten AI chip export rules and want Nvidia executives to testify after the espionage scandal.",
+   "relevance": 4,
+   "tags": [
+    "export-controls",
+    "nvidia",
+    "congress"
+   ]
+  },
+  {
+   "id": "2026-11-16-067",
+   "title": "Firm linked to Jensen Huang's ex-lover reportedly brokered nearly $12 billion in Nvidia chip orders for China",
+   "url": "https://the-decoder.com/firm-linked-to-jensen-huangs-ex-lover-reportedly-brokered-nearly-12-billion-in-nvidia-chip-orders-for-china/",
+   "source": "The Decoder",
+   "published": "2026-11-15T14:45:12.000Z",
+   "category": "industry-compute",
+   "summary": "WSJ reports Megaspeed, owned by the ex-Nvidia CEO's former partner, brokered nearly $12bn in Nvidia chip orders for Chinese firms in 2024-2025; a short seller claims China revenue exceeds reported levels.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "china",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-16-085",
+   "title": "Australia's central bank finds AI hitting young workers first, especially in software and customer service",
+   "url": "https://the-decoder.com/australias-central-bank-finds-ai-hitting-young-workers-first-especially-in-software-and-customer-service/",
+   "source": "The Decoder",
+   "published": "2026-11-15T10:45:58.000Z",
+   "category": "incidents-society",
+   "summary": "Australia's central bank finds early signs AI is reducing entry-level job postings for 15-24 year olds in software and customer service, though other factors may contribute.",
+   "relevance": 4,
+   "tags": [
+    "labour-market",
+    "australia",
+    "entry-level"
+   ]
+  },
+  {
+   "id": "2026-11-16-093",
+   "title": "North Korea Crypto Theft: US Seizes $1.2bn, Flags Deepfake Scam",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQjhZdUxQelhrNjhIRnRnc1pTLTJZQjVTYjRyeW5jb3VHN2dvYmY3c3VOTFFhOGo5Yi1tcTRoN0Jmem54M0pKN2toLXRYVHBCSmwzTWZRVDZkNlRlRE4yRHRmemlYUC1IUkdjNVZFck9Ea0FXeG5MRk1UbHBUclRpUWJ6Y1VmTFpoeEhPTFpWX19KdUh1T1AtM3BMWm1ER2c?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-15T08:29:28.000Z",
+   "category": "ai-threats",
+   "summary": "US authorities seized $1.2bn tied to North Korean crypto theft and flagged deepfake-enabled scam tactics.",
+   "relevance": 4,
+   "tags": [
+    "north-korea",
+    "deepfake",
+    "seizure"
+   ]
+  },
+  {
+   "id": "2026-11-16-102",
+   "title": "Microsoft Research Details Dormant-Neuron Backdoor Risk in AI Agents",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb2RGczZZLWNkcDBNdVowZDZveTcyQl96RUxtakZST2JIS0c3QU9fd3VGOS1TejIxc0Q4OXAtdTBBUTRvbkdEQTFKNGtrR2dUN2FoZGdOaHZYRFk3ZE5VeGh4N1hhNjdjdjdyd3NDUVN0dGdwcXdrOUEyalA3NFJzWnpmNnB3aGQ2?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-15T05:38:22.000Z",
+   "category": "ai-security",
+   "summary": "Microsoft Research details a dormant-neuron backdoor risk that can be hidden in AI agent models and triggered later.",
+   "relevance": 4,
+   "tags": [
+    "microsoft",
+    "backdoor",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-11-16-002",
+   "title": "UK exposed to polycrisis of threats amid government ‘complacency’",
+   "url": "https://www.theguardian.com/society/2026/nov/16/uk-exposed-to-polycrisis-of-threats-amid-government-complacency",
+   "source": "The Guardian – AI",
+   "published": "2026-11-16T06:30:35.000Z",
+   "category": "incidents-society",
+   "summary": "A UK House of Lords report warns of government complacency over interconnected threats including cyber-attacks, sabotage and climate crisis, urging urgent resilience planning.",
+   "relevance": 3,
+   "tags": [
+    "uk",
+    "resilience",
+    "cyber"
+   ]
+  },
+  {
+   "id": "2026-11-16-004",
+   "title": "Apple launches app to study how people use AI for health queries: Details",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObkRseDc2TDd1Q2E0aFQ5Nl9wUHRCZ2hNWmNCZ3FFRWhlVzVkSjNnRmV1VG91bmlsZUFza2QtT3hvVE5PdldJSUV1azBUV3AwZl9GX19UcVAtTWFqd0NOb1lpWXRmTi1PRl9oclk2UzVaZ3o3WjdRSlRjdFVTSm9TaVJ2cGFIdmlpSU9yMTBmek9oWHBoNVRDSFp6N1Q5aW8tSVlicEc1Xy1iWjZvNVNialVwVHNfRVJzZUVMd1FuekdfRzJTR1JvNmpVOS1pS2t6RkZwNWRTZEp4RHgtNHJmWtIB5gFBVV95cUxNYXhxLUNJeGEzNGR0TVZkbVBWYjJuOURtWEZfWDM2WGljdTR0TzRSZXBMRUJMeHFSbjZUSGJfRUxpX2o3c1VyWDRscHRJM1NGTEZGaDk1WkVlNVFTVFNvYW5ESXMwVEZqZVFnMXA1Q1ZqMVRJS1AwcDFBU0pGajR4d3Z1Q24zbG80TFhDc0pKNFBfMkdSUVRzSnVJcmg3R3l2UF9PNlVRWkxQd3hoMWU5NTU4NVdTLXlFVE9HRjlTR2NsaTBNTFFDdVJEal9EOGMyRGVUeHhYOTBTcU8zSE9nS054dkpydw?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-16T06:15:41.000Z",
+   "category": "agents-tools",
+   "summary": "Apple released an app for a study examining how people use AI assistants for health questions.",
+   "relevance": 3,
+   "tags": [
+    "apple",
+    "health",
+    "study"
+   ]
+  },
+  {
+   "id": "2026-11-16-009",
+   "title": "Morning Bid: AI selloff resumes as Nvidia earnings loom",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcFRFLTFjUUlGa0plMjBTUHVpcVFwMXkzbWR2MWs3TnBjSE9tLUJWb2Z1Szg3MV9ON010RmN1VXJMMTRaMG51Ynp3ZEJBRTdnRXB6MzF6b2RzXzhDQlZIMXFZZ3BOTWIyN1ZyRi1xQ2dCbVVMNWliS1lubWVkb2plalJGWQ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-16T05:32:00.000Z",
+   "category": "industry-compute",
+   "summary": "Market report: the AI-driven selloff resumed as investors await Nvidia's earnings.",
+   "relevance": 3,
+   "tags": [
+    "nvidia",
+    "markets"
+   ]
+  },
+  {
+   "id": "2026-11-16-014",
+   "title": "Exclusive: Italian robotics startup Mosaico raises €7.5m to tackle AI’s data problem",
+   "url": "https://sifted.eu/articles/robotics-software-ai-funding-round-mosaico/",
+   "source": "Sifted",
+   "published": "2026-11-16T05:00:44.000Z",
+   "category": "industry-compute",
+   "summary": "Italian robotics startup Mosaico raised €7.5m to address data scarcity problems in AI and robotics.",
+   "relevance": 3,
+   "tags": [
+    "mosaico",
+    "robotics",
+    "funding"
+   ]
+  },
+  {
+   "id": "2026-11-16-016",
+   "title": "SK Telecom, Hyosung Heavy Industries Partner on GW-Class AI Data Center",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQalBNN2NBM0RHTXQ5RzZORUFlSElTRDAtVEs1LVUydmxoa0JfUWg5VzJ3Wk5MYmthWk5SLUtXLXFmVjZmNnJRTjExQWU0YkZueGltaXRlN1pld05ESUNGcnh1YURFd01mT3FiUldBbDk0ckRpWER2amJEZXU0QUFqRTVIWVpFM1di?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-16T04:43:06.000Z",
+   "category": "industry-compute",
+   "summary": "SK Telecom and Hyosung Heavy Industries announced a partnership to build a gigawatt-class AI data centre.",
+   "relevance": 3,
+   "tags": [
+    "sk-telecom",
+    "data-centers",
+    "korea"
+   ]
+  },
+  {
+   "id": "2026-11-16-033",
+   "title": "Apple launches new app to study how people use AI for health",
+   "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-16T01:30:00.000Z",
+   "category": "agents-tools",
+   "summary": "Apple launched an app supporting a study on how people use conversational AI for everyday medical questions.",
+   "relevance": 3,
+   "tags": [
+    "apple",
+    "health-ai"
+   ]
+  },
+  {
+   "id": "2026-11-16-034",
+   "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
+   "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+   "source": "The Verge – AI",
+   "published": "2026-11-16T01:26:56.000Z",
+   "category": "agents-tools",
+   "summary": "Apple's Health AI Usage Study, run with clinical AI platform OpenEvidence, will assess how useful AI health answers are to users.",
+   "relevance": 3,
+   "tags": [
+    "apple",
+    "openevidence",
+    "health-ai"
+   ]
+  },
+  {
+   "id": "2026-11-16-036",
+   "title": "METR Time Horizon: Evaluation Protocol & Metrics",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4taExiMVlOeFJtQXZqVEtqOWlfN1c1aW0wd0ptcms5OVplcnZhWGlVZlFMOEpYdDltWXJNN05hX3A3eUpURVNJeDc2bkZsWW1nXzRHUml3?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-16T00:46:57.000Z",
+   "category": "safety-evals",
+   "summary": "Summary of METR's time-horizon evaluation protocol and metrics for measuring AI task-completion capability.",
+   "relevance": 3,
+   "tags": [
+    "metr",
+    "evaluations"
+   ]
+  },
+  {
+   "id": "2026-11-16-052",
+   "title": "Australian firms face wave of AI cyber threats, ESET says",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1puaHBsbF9QRFZTNWs4aDZWNG8zekJFTTVYRU1WckNZNVBneHRXaVBETHBnNkE1ZzBaRF9rMWVuR0w2S0RyOG9jN3VxNVQ0dm1sbzVieGgxcnRyQUtXUjU2bE43a21IZ2V3RmJPQTQ2MEVRNGJQdEdDT2xydFFHS0Q2eFNpRFVwWmdueHdn?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-15T21:00:00.000Z",
+   "category": "ai-threats",
+   "summary": "ESET says Australian firms are facing a growing wave of AI-assisted cyber threats.",
+   "relevance": 3,
+   "tags": [
+    "eset",
+    "australia",
+    "threats"
+   ]
+  },
+  {
+   "id": "2026-11-16-071",
+   "title": "Is the AI job apocalypse finally here? The evidence suggests otherwise | John Quiggin",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/16/is-the-ai-job-apocalypse-finally-here-the-evidence-suggests-otherwise",
+   "source": "The Guardian – AI",
+   "published": "2026-11-15T14:00:19.000Z",
+   "category": "incidents-society",
+   "summary": "Economist John Quiggin argues evidence for an AI-driven job apocalypse is weak, and AI may affect stock markets more than employment.",
+   "relevance": 3,
+   "tags": [
+    "labour-market",
+    "opinion",
+    "economics"
+   ]
+  },
+  {
+   "id": "2026-11-16-092",
+   "title": "160 questions, only one wrong: top scorer in South Korea tax exam admits AI cheating",
+   "url": "https://www.theguardian.com/technology/2026/nov/15/ai-cheating-south-korea-college-entrance-exam",
+   "source": "The Guardian – AI",
+   "published": "2026-11-15T08:56:11.000Z",
+   "category": "incidents-society",
+   "summary": "The top scorer in South Korea's tax accountant exam admitted using generative AI to cheat by photographing questions, raising concerns before the national college entrance exam.",
+   "relevance": 3,
+   "tags": [
+    "south-korea",
+    "cheating",
+    "exams"
+   ]
+  }
+ ]
+}
