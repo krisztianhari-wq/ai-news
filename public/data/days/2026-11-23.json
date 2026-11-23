@@ -1,0 +1,772 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T06:48:41.334Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 34,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 4
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": true,
+   "items": 11
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 1
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-23-055",
+   "title": "Two groups verify mathematician’s claim that Claude helped prove mathematics problem",
+   "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+   "source": "The Guardian – AI",
+   "published": "2026-11-22T17:55:27.000Z",
+   "category": "research",
+   "summary": "Anthropic mathematician Levent Alpöge says Claude helped him prove the Riemann hypothesis over roughly six weeks, and outside experts say the claim holds up.",
+   "relevance": 5,
+   "tags": [
+    "anthropic",
+    "claude",
+    "mathematics"
+   ]
+  },
+  {
+   "id": "2026-11-23-065",
+   "title": "AI coding agents ace isolated tests but complete fewer than one in ten tasks in a simulated workplace",
+   "url": "https://the-decoder.com/ai-coding-agents-ace-isolated-tests-but-complete-fewer-than-one-in-ten-tasks-in-a-simulated-workplace/",
+   "source": "The Decoder",
+   "published": "2026-11-22T15:15:48.000Z",
+   "category": "safety-evals",
+   "summary": "A new benchmark placing AI coding agents in a simulated developer job with colleagues and messy handoffs found top models including Opus 5.5 and Astra fully solve fewer than 10% of tasks.",
+   "relevance": 5,
+   "tags": [
+    "benchmarks",
+    "coding-agents",
+    "evaluation"
+   ]
+  },
+  {
+   "id": "2026-11-23-074",
+   "title": "AI is getting better faster than experts can reliably test whether new systems are safe, METR warns",
+   "url": "https://the-decoder.com/ai-is-getting-better-faster-than-experts-can-reliably-test-whether-new-systems-are-safe-metr-warns/",
+   "source": "The Decoder",
+   "published": "2026-11-22T13:00:43.000Z",
+   "category": "safety-evals",
+   "summary": "METR warns that frontier models such as Opus 5.5 and GPT-6 Astra are improving faster than evaluators can reliably measure, so a dangerous acceleration cannot be ruled out.",
+   "relevance": 5,
+   "tags": [
+    "metr",
+    "evaluations",
+    "frontier-models"
+   ]
+  },
+  {
+   "id": "2026-11-23-077",
+   "title": "Security researchers show how cheap AI inference providers steal keys and snoop on users",
+   "url": "https://the-decoder.com/security-researchers-show-how-cheap-ai-inference-providers-steal-keys-and-snoop-on-users/",
+   "source": "The Decoder",
+   "published": "2026-11-22T12:07:56.000Z",
+   "category": "ai-security",
+   "summary": "Dragos researchers sent two million decoy AI requests and found compromised low-cost inference providers stealing AWS keys and reading customer prompts; OpenRouter removed three providers and 125 endpoints.",
+   "relevance": 5,
+   "tags": [
+    "supply-chain",
+    "openrouter",
+    "inference"
+   ]
+  },
+  {
+   "id": "2026-11-23-082",
+   "title": "Lean and Mathlib community officially confirms Levent Alpöge's proof of the Riemann hypothesis is correct",
+   "url": "https://the-decoder.com/lean-and-mathlib-community-officially-confirms-levent-alpoges-proof-of-the-riemann-hypothesis-is-correct/",
+   "source": "The Decoder",
+   "published": "2026-11-22T11:08:31.000Z",
+   "category": "research",
+   "summary": "The Lean and Mathlib community has formally certified Alpöge's Claude-assisted Riemann hypothesis proof, with dozens of verifiers checking 17 million lines of code — far earlier than Terence Tao's ~2050 forecast.",
+   "relevance": 5,
+   "tags": [
+    "lean",
+    "riemann",
+    "claude"
+   ]
+  },
+  {
+   "id": "2026-11-23-013",
+   "title": "Backed by Nvidia and a16z, Black Forest Labs sets its sights on world models",
+   "url": "https://sifted.eu/articles/black-forest-labs-nvidia-a16z-andreas-blattmann-interview/",
+   "source": "Sifted",
+   "published": "2026-11-23T05:00:45.000Z",
+   "category": "industry-compute",
+   "summary": "German image-generation startup Black Forest Labs, backed by Nvidia and a16z, is moving into world models.",
+   "relevance": 4,
+   "tags": [
+    "black-forest-labs",
+    "world-models",
+    "europe"
+   ]
+  },
+  {
+   "id": "2026-11-23-022",
+   "title": "Alibaba rolls out Qwen4-Max with 2.4 trillion parameters",
+   "originalTitle": "Alibaba widely releases its Qwen4-Max AI model with 2.4 trillion parameters.",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVU4N0thWDNka18wR0xvRlk5enNBNDFUTVF6SDVmTWJrWlZXb3Q5VVA2UGNTX0poRm1yS1VTQWdIOHRpb3Q3NmtyUkY3enpjclpvTzFkUllWYlhUeWNrODVHZS1PNUtXYlcxZnV2cVZNaWpYMHVYMGFyYUpZOWpybi1xLXZZY0pKV2pNUDFJVWNMRldj?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-23T02:15:09.000Z",
+   "category": "models-releases",
+   "summary": "Alibaba has broadly released Qwen4-Max, reported at 2.4 trillion parameters, extending China's frontier-scale model push.",
+   "relevance": 4,
+   "tags": [
+    "alibaba",
+    "qwen",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-23-035",
+   "title": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPa0ZQb0xtalJ5djRmZmkwQnhmdDBlMEtncDUtUEJsUFBtWmptbkdVQ3c5QjY2TzhKN0NFT2ZzYnZmenQxY1lrUWFFYjJsdS1KazdRUkJINEJRemQ1alh6TGtnNW1nRE92bTF3RW9FMTIyODB3UmpBaW5oSzFDWDFVT3FXdjZDVzQ0TVNVd29nQzZvY3ByWVpBLUlhRVg0bFZiRHUxVjhqclptLUMycDJlYVBsQXQ4a28tRnFnbQ?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-22T23:09:00.000Z",
+   "category": "safety-evals",
+   "summary": "An OpenAI scientist proposes industry-wide limits on AI development pegged to a measurable model intelligence metric, per Reuters.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "governance",
+    "safety"
+   ]
+  },
+  {
+   "id": "2026-11-23-041",
+   "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+   "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-22T21:14:07.000Z",
+   "category": "safety-evals",
+   "summary": "TechCrunch covers OpenAI's chief scientist proposing a 'speed limit' on AI development, noting the core difficulty is agreeing how to measure progress.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "safety",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-23-047",
+   "title": "Ireland's DPC delayed or cancelled 9 AI launches in five years of reviews",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWi0xRGNlVkJUQzZXVGlqYjQwUmgyUTY4Q3JWRENGUk9COUdJOVM4d0tUMXBhOWRrRTBXd3lMb2RhWTZWWTVuQVZOQkhmVkZ0azBicnNYUWtpVnZCUERUX3hMRmEwekZZNmlsSTBHaVhLeE9NYkZwNy1IblkyNF83N29ibVNfYkM3bWVkT1llSWQweXVT?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-22T19:25:38.000Z",
+   "category": "policy-regulation",
+   "summary": "Ireland's Data Protection Commission says it delayed or cancelled nine AI product launches over five years of reviews — a reminder of EU privacy gatekeeping power.",
+   "relevance": 4,
+   "tags": [
+    "gdpr",
+    "ireland",
+    "dpc"
+   ]
+  },
+  {
+   "id": "2026-11-23-058",
+   "title": "US intelligence says China accessed restricted American AI chips",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xUHZUNTVfV2o3SWVIRjk0Ni1hb0FfZUVBVURwSndoRzUzYTZJOWxhaWVWWmNXdUdnOERCb19lVlJPWG5rZXh6allpcW15eEhuckxlcUVXbzZCSDFJSllBa05vbHhnMTczSFZZY1BVUlY3WFJ6clo4ZzBzV3pSY3c?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-22T17:51:59.000Z",
+   "category": "industry-compute",
+   "summary": "US intelligence reportedly concluded that China obtained access to restricted American AI chips.",
+   "relevance": 4,
+   "tags": [
+    "china",
+    "chips",
+    "intelligence"
+   ]
+  },
+  {
+   "id": "2026-11-23-066",
+   "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcWtWMUFQYWZtUWJfRF9rNVRZbXZkZXRtTnZSd1FBS0ZlREN0U1VpU2N4LWNqdlZuUXdUOEdBOWFydVFpQjBNbUE0OTY3aG5MZVFHa0ZORnZzd3V3Ml9hRzZHU2ZNUmdBMXpVTWlPQzNqbTdOclBNZ0dEeTVvSWJacnZrY1VSLXg0VmdzWWUyWXJXWElGUFNKWUJpSHRQaWhJeDV0dGtsNXZsY2dEb0lPS3oyVzM?oc=5",
+   "source": "BleepingComputer AI (via Google News)",
+   "published": "2026-11-22T15:15:25.000Z",
+   "category": "ai-security",
+   "summary": "Signal will block Siri and Gemini assistants from capturing chat content on iOS and Android, limiting OS-level AI access to private messages.",
+   "relevance": 4,
+   "tags": [
+    "signal",
+    "privacy",
+    "assistants"
+   ]
+  },
+  {
+   "id": "2026-11-23-069",
+   "title": "Perplexity's new Monitor API turns web search from a one-off query into a nonstop watchdog",
+   "url": "https://the-decoder.com/perplexitys-new-monitor-api-turns-web-search-from-a-one-off-query-into-a-nonstop-watchdog/",
+   "source": "The Decoder",
+   "published": "2026-11-22T14:20:28.000Z",
+   "category": "agents-tools",
+   "summary": "Perplexity launched a Monitor API that runs scheduled web searches and pushes webhook alerts to agents only when a decision model judges a change relevant.",
+   "relevance": 4,
+   "tags": [
+    "perplexity",
+    "api",
+    "agents"
+   ]
+  },
+  {
+   "id": "2026-11-23-084",
+   "title": "Banks Have Had It Up to Here With Your AI Agent",
+   "url": "https://www.wired.com/story/banks-are-cracking-down-on-ai-agents/",
+   "source": "Wired – AI",
+   "published": "2026-11-22T11:00:00.000Z",
+   "category": "agents-tools",
+   "summary": "Major US banks are blocking third-party AI agents from logging into customer accounts and warning that costly bot errors remain the customer's liability.",
+   "relevance": 4,
+   "tags": [
+    "agents",
+    "banking",
+    "liability"
+   ]
+  },
+  {
+   "id": "2026-11-23-087",
+   "title": "Gemini 4 Neon Launches: Google's Mid-Tier AI Model Brings Faster Coding and a Million-Token Context",
+   "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQVGZHVzc0SU16Q083dTUzTFJQTm52QnhGY2oyRVFxUkhrQmFBcjhkSWZCVzllT0EzWmtyZHJ2ZW5SVHFMTmg4UkFibGdpdmRrNFM1S0d2X1JTMVVfR0hfZkFkcWRzYVM0RUJiMW1ELVZRcGx5X3hQVnFUbkJlcmEwR2NweHU1ZVJNOVpmS3ZnSjBOelMxZ2FOMnEzUlQtbWtQLUlpal9pdXRQN24zVUhydVVDQVlPUWM1cUNBQjBUVEpPNjE0cG4wWlNCU3NiMkdFUDU0ekhGV0JLZUEzNzZQR2R3UUxYR0huak02aEJGM0tqckRIM3dqTmpscWNNV1FxcW1iUndtRUh6X3NIdXhFVnE0OXVRbm5QaUE3Zk5yTERSZw?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-22T09:54:18.000Z",
+   "category": "models-releases",
+   "summary": "Google launched Gemini 4 Neon, a mid-tier model with faster coding performance and a one-million-token context window.",
+   "relevance": 4,
+   "tags": [
+    "google",
+    "gemini",
+    "context-window"
+   ]
+  },
+  {
+   "id": "2026-11-23-088",
+   "title": "GPT-6.2 Astra and Sol get to the point faster but score lower on transparency than Claude",
+   "url": "https://the-decoder.com/gpt-6-2-astra-and-sol-get-to-the-point-faster-but-score-lower-on-transparency-than-claude/",
+   "source": "The Decoder",
+   "published": "2026-11-22T09:41:37.000Z",
+   "category": "safety-evals",
+   "summary": "Analysis finds OpenAI's GPT-6.2 Astra and Sol answer more concisely but express uncertainty less often, scoring below Anthropic's Claude models on transparency.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "claude",
+    "transparency"
+   ]
+  },
+  {
+   "id": "2026-11-23-091",
+   "title": "It will soon be too late to regulate use of autonomous weapons, warns Red Cross",
+   "url": "https://www.theguardian.com/science/2026/nov/22/red-cross-warns-too-late-regulate-autonomous-weapons-united-nations",
+   "source": "The Guardian – AI",
+   "published": "2026-11-22T09:00:22.000Z",
+   "category": "policy-regulation",
+   "summary": "The ICRC and rights groups warn regulation of autonomous weapons is falling behind development, after a UN CCW conference of 120+ states ended without agreement on an instrument.",
+   "relevance": 4,
+   "tags": [
+    "autonomous-weapons",
+    "un",
+    "icrc"
+   ]
+  },
+  {
+   "id": "2026-11-23-002",
+   "title": "Nvidia Export Controls: Bessent Points to General Counsel's Office While Treasury Lacks Answers",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPUWdwQjhBQlBJNmdZMlhSRXBrbmpEenlRbjJlUVcxakM0eDEyME5Ec043V1hZbDFJX1AyRUtWOWtXSVg5ZndMVmtraVZka2NaZ29FOEV4VHNxLXJqbWZsNzI4SFRSX00tSzM5RzU2UTNMX3pYQ3RIME1BQmhPbVkzNkJoUnB0RjJvZjN0Tk1ldGxfYndMdThPdUlQUVc0UzVNeDNqQ05aZ1NMbGRjZi1kemdqSTVtRGFrdzF3c2x4azZFckNSak1IdFYtOURzb192OEpTOFBkSlhNYUZ3a2c?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-23T06:20:17.000Z",
+   "category": "industry-compute",
+   "summary": "US Treasury Secretary Bessent reportedly deflected questions on Nvidia export control enforcement to the General Counsel's office, as Treasury offered no clear answers.",
+   "relevance": 3,
+   "tags": [
+    "nvidia",
+    "export-controls",
+    "us-policy"
+   ]
+  },
+  {
+   "id": "2026-11-23-004",
+   "title": "Export Controls Are Easy to Implement, Harder to Enforce",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOWd6cl9ZRjctVFJkQjdfemlPVG91b3NORFRCV3hlOUhvTjg3WklhelIzZ1A4djZwbC04YlNiWk5UR19TMFFCT2V0Sll5eEVYRzlqLTlmUEhWLWRNdmt0VkNGanpvRktRX25jU1RtT1ZqcGE3TDN0NVJpNXRqbFNNb1ItU25keXA5Y09aeGhxVlNNUDJTN09NUkhfQmx4WElW?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-23T06:05:17.000Z",
+   "category": "industry-compute",
+   "summary": "Analysis arguing that chip export controls are simple to legislate but difficult to enforce in practice, amid the Nvidia-China chip controversy.",
+   "relevance": 3,
+   "tags": [
+    "export-controls",
+    "chips"
+   ]
+  },
+  {
+   "id": "2026-11-23-006",
+   "title": "The AI data center boom is driving billions into private infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV2JVZ2puSDVnMGlmREpENzZjVDFkU1FZMXZCN2s5cFBBYkZPZVdUdm5vSGt4X25aX1g5X0ZMbjVlU0k3ZDc0SUE1X1pCQmZyTjBubzlCZGRMelpqbmJGUGc2WTFGUkpDdWlUV3hIQ3BjdHJGWEUxR3FQUndDY2lFYkR4NjFKWXI20gGOAUFVX3lxTE1OMjA2djVrTEQ0OERvR2VBc2lMSHYwcGwySWhySFpoS3hxYWR6WWZWdWFwRWpUM2lnbDVIbXREMnhCZnFyUFdCUE9fNGJzX282WWNmSS1UMENNSTNfZGhyUncwb2NqZ3ctcUFsb0NaaVo5d1Q0WTdXaHQ5OG9rS0lHeGI2WFo5Ymcyay0xZXc?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-23T06:00:01.000Z",
+   "category": "industry-compute",
+   "summary": "CNBC reports billions of private capital flowing into AI data centre infrastructure as the buildout accelerates.",
+   "relevance": 3,
+   "tags": [
+    "data-centres",
+    "investment"
+   ]
+  },
+  {
+   "id": "2026-11-23-007",
+   "title": "Every AI Agent Has to Cross Your Cloud Network. Contain It There.",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeEctUVV2UzVVNjY3TGNDZ1B1Nm9JdnBDZGZfeU1fSFlJY1lQTGF0a3R0RUM0SnZrNjRNeFBZZ2taUVFVZ25LajlLbDdxUjE2cV80SEhBaDZBNGp3WjF2X3ctNXc1YURTcmJuLWJnd2NsME5DZHgwT2hCcjV2TFh3TjFJekk3UVpYREw2MDZSeXRtZWlNUXloT0FXVmNjT0RZTnU5TDNIUVRjeGM?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-23T05:34:55.000Z",
+   "category": "ai-security",
+   "summary": "Dark Reading argues enterprises should enforce AI agent controls at the cloud network layer, since all agent traffic traverses it.",
+   "relevance": 3,
+   "tags": [
+    "agents",
+    "cloud-security"
+   ]
+  },
+  {
+   "id": "2026-11-23-009",
+   "title": "Sixty percent of African fraud victims recover nothing as deepfakes surge, Sumsub",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2dNZmlRMnlZci1TR0M4RUp2Q2JZRGNfTkh4LTZ2N2sxZlZBQzltMG0tU0FXUEVVMnp5NGVENmZDdlhSWWNJY2twbGlobV9HTktBY0I0QWVubU9mSlN6cHVqXzRjU1ZyRTZQY3VGUDZqR3Y0eExoZWpDS2x4eG5YNnByUXcyZXkxX05ZUENlNU15aUVRVDNkT0ZXVHB1cFdBUlRTVng0VVhGUWplR0ZZbU1OU0pLSEpza3FDanl6bzJjbDdaYzlN?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-23T05:14:24.000Z",
+   "category": "ai-threats",
+   "summary": "Sumsub data cited showing 60% of African fraud victims recover nothing, with deepfake-enabled fraud rising sharply.",
+   "relevance": 3,
+   "tags": [
+    "deepfakes",
+    "fraud",
+    "sumsub"
+   ]
+  },
+  {
+   "id": "2026-11-23-012",
+   "title": "Eileen Burbidge backs Monzo alums’ anti-fraud startup in £1.8m pre-seed",
+   "url": "https://sifted.eu/articles/acorda-pre-seed/",
+   "source": "Sifted",
+   "published": "2026-11-23T05:00:46.000Z",
+   "category": "industry-compute",
+   "summary": "Eileen Burbidge backs an anti-fraud startup founded by ex-Monzo staff with a £1.8m pre-seed round.",
+   "relevance": 3,
+   "tags": [
+    "funding",
+    "fraud",
+    "uk"
+   ]
+  },
+  {
+   "id": "2026-11-23-031",
+   "title": "South Korea's education minister quits over exam cheating chaos",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSHhGdTlDN3hOUVlXUHRLSlVmbWRGTWRQWWdQaDV0a0UyZFhjR0w1RDZtRmZMcHNvTWE1QWJhclVLaHBtVXBMVVo0cU1jemIyc2NzUmQtX2NHU0FRaklZcElORnoxYnBkVE53TEhFQkMydlpULWJFM2pVbHc2UXREal9ENG42SkFqZWg5dEM2eTZLaHVYVUg0b0gtOVpCcDNuLVhPU3cwZjdUTHdST3VHYzhmNjVCQmlI?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-23T00:20:00.000Z",
+   "category": "incidents-society",
+   "summary": "South Korea's education minister resigned over an exam cheating crisis linked to AI-assisted fraud.",
+   "relevance": 3,
+   "tags": [
+    "korea",
+    "education",
+    "cheating"
+   ]
+  },
+  {
+   "id": "2026-11-23-037",
+   "title": "We haven’t seen the last of the major tech outages",
+   "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+   "source": "The Verge – AI",
+   "published": "2026-11-22T22:48:02.000Z",
+   "category": "incidents-society",
+   "summary": "The Verge notes a run of major outages (FAA ground stop, multi-day Outlook outage, JPMorgan banking issues) and expert warnings that more are likely.",
+   "relevance": 3,
+   "tags": [
+    "outages",
+    "resilience"
+   ]
+  },
+  {
+   "id": "2026-11-23-039",
+   "title": "Saskatchewan introduces new legislation to crack down on AI deepfakes and deception",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNmM3MG56cHZBVTh5M19PSzBjR1R5aHUyVTQ3RnBkeW9LaE42YnZYVU5BeHZSVXowa2MxNW5kbUtZbl9BSHZld2NwQ3RKX1o5QzJiYWxYOWZHMTVldjgyT2VUNXh3T2VRU181ajFLQVZ2VXZ0OWdtYndlamN4MlItVTZQNG1WRng5dk13Z2dZRDFoVFlZRkU3VFp4bEJKWnhCXzI2TU1hek5iSXBHSDkzX3pKTm9nUzh1TU13WFZ5Y2cxTEli?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-22T22:04:56.000Z",
+   "category": "policy-regulation",
+   "summary": "The Canadian province of Saskatchewan introduced legislation targeting AI deepfakes and deceptive synthetic media.",
+   "relevance": 3,
+   "tags": [
+    "deepfakes",
+    "canada",
+    "regulation"
+   ]
+  },
+  {
+   "id": "2026-11-23-040",
+   "title": "Sarvam releases upgraded 105B AI model with cheaper hosting and a single-GPU option",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMkgxUkNQTTFzSEpubWhlVkVxUjdoc0g5bnhSNlY5bEdhTDNLd29IZGhFWElncGpmNjkyejVOMFBENTh0bG14bWQyMnA4czRzVnIzTWwxQUcyeGZTLXp1UmFQOURQcUs5Y1dXcHhYbWtHQjNEYUxWd002VmFDNWNneXlKVU5aZEhkazhoTmt1cWRhOVluMmZqVHBXTy1HN251Z1RPWGZ1cTVzakVOZml6eFdrcXFGXzln?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-22T22:02:30.000Z",
+   "category": "models-releases",
+   "summary": "Indian AI firm Sarvam released an upgraded 105B-parameter model with cheaper hosting and a single-GPU deployment option.",
+   "relevance": 3,
+   "tags": [
+    "sarvam",
+    "india",
+    "open-models"
+   ]
+  },
+  {
+   "id": "2026-11-23-048",
+   "title": "Datacentre bosses met Australian state premiers and ministers almost 120 times in three years, analysis finds",
+   "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+   "source": "The Guardian – AI",
+   "published": "2026-11-22T19:00:34.000Z",
+   "category": "incidents-society",
+   "summary": "Transparency International Australia found data centre executives met state premiers and ministers nearly 120 times in three years, raising lobbying access concerns.",
+   "relevance": 3,
+   "tags": [
+    "data-centres",
+    "lobbying",
+    "australia"
+   ]
+  },
+  {
+   "id": "2026-11-23-060",
+   "title": "Binding of Isaac developer removes AI music from Repentance Plus",
+   "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+   "source": "The Verge – AI",
+   "published": "2026-11-22T17:25:20.000Z",
+   "category": "incidents-society",
+   "summary": "The Binding of Isaac: Repentance Plus removed AI-generated music after players found Suno metadata in audio files and review-bombed the game on Steam.",
+   "relevance": 3,
+   "tags": [
+    "suno",
+    "gaming",
+    "genai"
+   ]
+  },
+  {
+   "id": "2026-11-23-076",
+   "title": "South Korean minister quits after AI cheating scandal engulfs university exams",
+   "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+   "source": "The Guardian – AI",
+   "published": "2026-11-22T12:12:07.000Z",
+   "category": "incidents-society",
+   "summary": "South Korea's education minister resigned after an AI-assisted cheating scandal around national exams, saying he failed to prepare adequately.",
+   "relevance": 3,
+   "tags": [
+    "korea",
+    "education",
+    "cheating"
+   ]
+  },
+  {
+   "id": "2026-11-23-083",
+   "title": "Why I won’t leave mathematics, despite AI solving centuries-old problems | Ken Ono",
+   "url": "https://www.theguardian.com/commentisfree/2026/nov/22/why-i-wont-leave-mathematics-despite-ai-solving-centuries-old-problems",
+   "source": "The Guardian – AI",
+   "published": "2026-11-22T11:00:26.000Z",
+   "category": "incidents-society",
+   "summary": "Mathematician Ken Ono reflects on staying in mathematics after AI-assisted proofs of long-standing problems, arguing human judgment remains essential.",
+   "relevance": 3,
+   "tags": [
+    "mathematics",
+    "opinion",
+    "riemann"
+   ]
+  },
+  {
+   "id": "2026-11-23-090",
+   "title": "Week in review: Java4Shell proves tricky to exploit, malware planted via Optimizely hits 178 orgs",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNV2g5SEE4Mnk0VnZNYmxkVlhGSHZZOGFFSjRPWndnbXRHTnd2VW1NTTNrRW1fci1sOWNEckNSdGF0ZHlweV9zVEV4TmFXSG1LdFRJQWpYTF9vNW9LZGVWZFl4MFllNktoVXJZYVZoeWs0OE9XMlluRmxjN3Z4RE51NkpRN0xRQWgzRDFiNzF0clZSekp3NWxma1dudW5zcEJ1STc3MFVZV0ZuWnVWbXVYZG9RT1JDYmNOUFNSS2xJVG1JWVRjNjhPclpCZWJacURNMVlsU2pn?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-22T09:00:25.000Z",
+   "category": "ai-security",
+   "summary": "Security week in review: Java4Shell proves difficult to exploit and malware planted via Optimizely affected 178 organisations.",
+   "relevance": 3,
+   "tags": [
+    "vulnerabilities",
+    "supply-chain"
+   ]
+  },
+  {
+   "id": "2026-11-23-094",
+   "title": "New York enacts ban on 'unsafe' chatbot behavior with kids as states push AI regulation boundaries",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBnU2U4ZzlIVFZkLU5OUEFCeUxoRU1xd2ZmSzlRMFF2N2M4X1lxNHNFbi0td3Z4SHpEWXpXVGFETUwwcHdIMl9XcXVZTHp2NFpyLWllc3AweUtwV2YzVHpPU2lQZFo1UUpwbzVzNEhIWGNqN0xaUFFNaHI1Yw?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-22T07:35:01.000Z",
+   "category": "policy-regulation",
+   "summary": "New York enacted a law banning 'unsafe' chatbot behaviour toward minors, part of a wider wave of US state AI rules.",
+   "relevance": 3,
+   "tags": [
+    "chatbots",
+    "child-safety",
+    "us-states"
+   ]
+  },
+  {
+   "id": "2026-11-23-102",
+   "title": "Thinking Machines releases Inkling 2 Mini, an open-weights looped model for laptops",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ0N2RmltdDlNbU9ZQ3Z5dnlMYjJUVDJ6S0s4QlBQLXlVdjVCdzkxVkRwanpMd1JxLWdfR1hpZjFsczAtOFFNSkFONkJlRklDOUkzSUl1TDcyb3JlNkF3cTlqVzFlcVNRLWYzenZtVmdhaUFVdXRXc29SSENmUjB4bUdhdXNjSXc0WDFkQmwzMA?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-22T01:17:38.000Z",
+   "category": "models-releases",
+   "summary": "Thinking Machines released Inkling 2 Mini, an open-weights looped model designed to run on laptops.",
+   "relevance": 3,
+   "tags": [
+    "thinking-machines",
+    "open-weights",
+    "local-ai"
+   ]
+  }
+ ]
+}
