@@ -1,0 +1,839 @@
+{
+ "date": "2026-11-27",
+ "generatedAt": "2026-11-27T06:49:15.111Z",
+ "model": "claude-opus-5",
+ "editorial": "done",
+ "itemCount": 38,
+ "feeds": [
+  {
+   "name": "404 Media",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "AI Alignment Forum",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI Incident Database",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AI News",
+   "ok": false,
+   "error": "Maximum nested tags exceeded"
+  },
+  {
+   "name": "AI regulation (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "AI safety (via Google News)",
+   "ok": true,
+   "items": 5
+  },
+  {
+   "name": "AI-enabled fraud & attacks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Anthropic Alignment Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Anthropic News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Ars Technica – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "AWS Machine Learning Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BAIR Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "BleepingComputer AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Chips, compute & data centres (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Embrace The Red",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "EU AI Act Newsletter",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Euractiv AI (via Google News)",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "GitHub Blog – AI & ML",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google AI Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google DeepMind",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Research",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Google Threat Intelligence",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Hugging Face Blog",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "IAPP",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Import AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Interconnects",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Latent Space",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Mesterséges intelligencia – HU (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Microsoft Security Blog",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Mistral AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "MIT Technology Review – AI",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Model releases (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Nature – Machine learning",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "NVIDIA Blog",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "OpenAI News",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "OWASP GenAI Security Project",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Prompt injection & jailbreaks (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Quanta – Computer Science",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Rest of World",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Reuters AI (via Google News)",
+   "ok": true,
+   "items": 12
+  },
+  {
+   "name": "Schneier on Security",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Sifted",
+   "ok": true,
+   "items": 9
+  },
+  {
+   "name": "Simon Willison",
+   "ok": true,
+   "items": 3
+  },
+  {
+   "name": "TechCrunch – AI",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "The Decoder",
+   "ok": true,
+   "items": 6
+  },
+  {
+   "name": "The Guardian – AI",
+   "ok": false,
+   "error": "HTTP 403"
+  },
+  {
+   "name": "The Hacker News AI (via Google News)",
+   "ok": true,
+   "items": 2
+  },
+  {
+   "name": "The Verge – AI",
+   "ok": true,
+   "items": 1
+  },
+  {
+   "name": "Trail of Bits",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "UK AI Security Institute",
+   "ok": true,
+   "items": 0
+  },
+  {
+   "name": "Wired – AI",
+   "ok": true,
+   "items": 1
+  }
+ ],
+ "items": [
+  {
+   "id": "2026-11-27-002",
+   "title": "Swiss AI Agent Cyberattacks Confirmed: Five Cases, Three Targeted Critical Infrastructure",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNcWdYdVUtXy1fdTZHMWZlX3JzT0VIVWdOdUdlZERTUDRodEloV01ESk9mUFNmSXBYNGFPTmZubk9wdHlhQjQ1Q0hIYy1CYkFzZzFobTdDRExhWS1CSjNNbVlIZ244b29FNklaS00zTXlTRWpsMmlvU2tpQnJzeExLSmJacW5qWnVSSDJKbDRwU0gwRVlNSWE1RVltR3RrTGVzQWtyUFlZWkNxMi1NYUN3dzI4UHRLWDhId1AwZWt4eHlWVjVOU0NTbnk5Q2dqQ1VReUo4Zk5ENnp1QQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-27T06:25:34.000Z",
+   "category": "ai-threats",
+   "summary": "Swiss authorities confirmed five AI-agent cyberattack cases, three of which targeted critical infrastructure operators.",
+   "relevance": 5,
+   "tags": [
+    "switzerland",
+    "ai-agents",
+    "critical-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-11-27-003",
+   "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pekhob0J5dDJOZzdPaHN4T3Y2WTdhUzhrVl9HVWhSV3RObnhLN3cxSHV1SV9MMGR1Vkw5MDN4Z25OYnJFRUdpOWpNTVNBQWMtaHpmSm9aSkxvNjNSVWtmM19vZkJXaURNclV2cW9KT201Vk1RTGRocG4tZw?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-27T06:04:00.000Z",
+   "category": "ai-threats",
+   "summary": "Switzerland publicly confirmed that AI-assisted cyberattacks breached critical infrastructure operators, per The Hacker News.",
+   "relevance": 5,
+   "tags": [
+    "switzerland",
+    "critical-infrastructure",
+    "ai-attacks"
+   ]
+  },
+  {
+   "id": "2026-11-27-037",
+   "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+   "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+   "source": "TechCrunch – AI",
+   "published": "2026-11-26T20:03:54.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the US tightens efforts to keep AI chips from reaching China.",
+   "relevance": 5,
+   "tags": [
+    "nvidia",
+    "export-controls",
+    "southeast-asia"
+   ]
+  },
+  {
+   "id": "2026-11-27-045",
+   "title": "Switzerland counts five AI-agent cyberattacks, four successful, as Italy warns too",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWlc0dHZfdnNyRm9NOWF3SVpKcEYyXzJRN3dPRmdQTUxWaV8yeWlGTDR4SU9GQldpTE1ackxvQmd4Y2lwTjlaczVURzB3SHpxdGQ4dHFwM3I2b3VzTzdzLURERUFTUlFvdi1KWlM3TlBRMlZrNWNSWTBxMEpzQUMzZ3N5a2NKUV9pSnFBdTkwOEs0ZDVtYmVjRw?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-26T17:59:00.000Z",
+   "category": "ai-threats",
+   "summary": "Switzerland counted five AI-agent cyberattacks, four of them successful, while Italy's cyber agency issued a parallel warning.",
+   "relevance": 5,
+   "tags": [
+    "switzerland",
+    "italy",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-11-27-081",
+   "title": "Microsoft details how state-backed hackers use the ARTEX AI framework to automate cyberattacks",
+   "url": "https://the-decoder.com/microsoft-details-how-state-backed-hackers-use-the-artex-ai-framework-to-automate-cyberattacks/",
+   "source": "The Decoder",
+   "published": "2026-11-26T11:30:06.000Z",
+   "category": "ai-threats",
+   "summary": "Microsoft detailed ARTEX, an AI framework in use since July 2026 that runs largely autonomous cyberattacks with specialised agents, used by Chinese and North Korean state-linked groups and criminals; recommended defences include deception and honeypots.",
+   "relevance": 5,
+   "tags": [
+    "microsoft",
+    "artex",
+    "autonomous-attacks"
+   ]
+  },
+  {
+   "id": "2026-11-27-082",
+   "title": "Nvidia halts server shipments to Malaysia, Singapore, Thailand, and Indonesia after tighter US export controls",
+   "url": "https://the-decoder.com/nvidia-halts-server-shipments-to-malaysia-singapore-thailand-and-indonesia-after-tighter-us-export-controls/",
+   "source": "The Decoder",
+   "published": "2026-11-26T11:21:16.000Z",
+   "category": "industry-compute",
+   "summary": "Nvidia instructed partners including Dell and Supermicro to halt server shipments to four Southeast Asian countries after new US export controls, leaving thousands of B300 chips and data centre loans in limbo.",
+   "relevance": 5,
+   "tags": [
+    "nvidia",
+    "export-controls",
+    "b300"
+   ]
+  },
+  {
+   "id": "2026-11-27-098",
+   "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-26T07:19:00.000Z",
+   "category": "models-releases",
+   "summary": "Reuters sources say US chip curbs plus a crackdown on model distillation are jointly threatening Chinese AI model development timelines.",
+   "relevance": 5,
+   "tags": [
+    "china",
+    "distillation",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-27-001",
+   "title": "China Telecom releases 285B AI model trained on Ascend chips and MindSpore",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV3ViRGRZRWROUm1pcVJYRHliQ0tyQW90cmZOOHA1a0h5b2hEYUx3bEZqY2g5TWZWbmJKSFhjVlBQTXAxWmlPQi1ZNHNUbDJremN1OWViU0NmTGVjMVoySDgtVnFKbE9sR0RJaXhlOGk5WUpNMXdRUzJsZk5abjhyazNhZnRrbExjbEt1R0dYeXJwWVphbXFnNHR0R3BjREJKNkIyVDBnZDhHanBE?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-27T06:40:00.000Z",
+   "category": "models-releases",
+   "summary": "China Telecom is reported to have released a 285B-parameter model trained on Huawei Ascend chips with the MindSpore framework, signalling further domestic stack independence.",
+   "relevance": 4,
+   "tags": [
+    "china-telecom",
+    "ascend",
+    "open-models"
+   ]
+  },
+  {
+   "id": "2026-11-27-007",
+   "title": "Singapore reaches out to local firms amid reports of Nvidia chip shipment halt",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNWRzUEs1YmhCTTlUUEkwcXpldHFMWWpPdUxrdEtQR0o0OXN4YTBVMmNDamJ3Y1Q2UTZ4Y2owRnowZ042bTg0VEJwY1pna3daLURsMHFOMkNFUHkwX3dGdXFlNTkwVXJPaGJqcl9mSW5sQnFwMzY0a3JXLVlPUnRQMEIwV1RWR1NIVzB0ZWdKY25WNXNLbHhtNHlzM0ZMQXZFM09xbXRBZUdlZ3hRVUY4MnNuRHRGTjBrVGVxejk5WThiV1JBQVN0SjZmUGVKZ03SAc8BQVVfeXFMTUYzNS1Od3V1UkhMQ2MtWjFGbThFXzg4NXBrTjg0NE9lSGVUZTJwMHB2XzNaOVJvRG9maThuWnRpN3ZpUUswSDh4eXp3OU12cTFVaXdJQ3dPOHc0NUFUQlhOQkdHSEswQVlCSmNMSXhCQ2RxWXRXNk5mVFVRTktXVHRLRm5TZnc4eTVuOFFSOWMxTnBLUVMxSkRPYW1xeG11dUhkZ29RbDBKZEFMQ3lkMzZVOFFwcmFyQ3htb3MzWmZDRWE4Zjg3NGVieXM0WXZB?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-27T05:13:01.000Z",
+   "category": "industry-compute",
+   "summary": "Singapore's government is engaging local firms after reports that Nvidia paused chip shipments to the region under tightened US export controls.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "singapore",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-27-012",
+   "title": "Anthropic research reveals AI agent sandbox security risks",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRk8xbUpzWkpwTHRqLV9EcEN3cUl3T0RVQVpYWXBxRDhjdFpMVjd3cnBEMXQ3ZmNtRmtnUkZCSXhjSXFPdzR1MGp2SElZdUdEOEFkWTlIQXptWHJJYmxwaC1BWS1hcFREeFp4NnVHbE9BQXY2ZzNjbU5Ea0VfVW9LWQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-27T04:12:12.000Z",
+   "category": "ai-security",
+   "summary": "Anthropic research reportedly identifies security weaknesses in sandboxes used to contain AI agents, relevant to enterprise agent deployments.",
+   "relevance": 4,
+   "tags": [
+    "anthropic",
+    "agent-security",
+    "sandboxing"
+   ]
+  },
+  {
+   "id": "2026-11-27-016",
+   "title": "ShellBench Benchmark Exposes 40% Failure Rate in Frontier AI Agents, Challenging Enterprise Autonomy Claims + Video",
+   "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9XdW9ZRzlRMHBuallGWEpHZTRncnoxU3I4SVdvMmRVdm5ycVZQQXBWb01ZNVotandnUkY4?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-27T03:30:30.000Z",
+   "category": "safety-evals",
+   "summary": "A new ShellBench benchmark reportedly shows roughly 40% task failure rates for frontier AI agents, casting doubt on enterprise autonomy claims.",
+   "relevance": 4,
+   "tags": [
+    "benchmarks",
+    "agents",
+    "evaluation"
+   ]
+  },
+  {
+   "id": "2026-11-27-018",
+   "title": "Chinese-Controlled Firms Used as Conduits for Nvidia’s Advanced AI Chips",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsQlhVX3VWTlFiNjl4RUh6T2h4MDVoNmptUl9oYzZsNGtPZ1F0VUVmRThzc25uS2c5b1NFbk52Q2lKcVM4bmJzMjNzc0VsZWtxRjlEcFhBakpEZVBvZW9iR05nYVJqSy01RjJtNVNRODZEa2kt?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-27T02:59:58.000Z",
+   "category": "industry-compute",
+   "summary": "Report alleges Chinese-controlled companies acted as conduits to obtain Nvidia's advanced AI chips despite export restrictions.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "export-controls",
+    "china"
+   ]
+  },
+  {
+   "id": "2026-11-27-025",
+   "title": "OpenAI chief scientist proposes shared limits on frontier AI development",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMkZOVGpNbTJJRlpCYTA4eHFzQXo5NHJ2RTdnRk5Hc3dzV29pX2ZSV1BLN2kxbGNfY2xnbjZvcUVDVVVCd05UUEx0U0JJeUh6bzFMMmI4dGhCNlFxQlQweF9Pazgyd2dPLTNYYlV3XzNOWU16YmdJRnpEamhzdlQ2S0d1WW0tUF9UZWxkeWl0VzVabVRKbzk1Zms0anVxLXZxcmdETy1UTHNZXzNTZEdpUTdjVQ?oc=5",
+   "source": "AI safety (via Google News)",
+   "published": "2026-11-27T00:34:34.000Z",
+   "category": "safety-evals",
+   "summary": "OpenAI's chief scientist proposed shared, industry-wide limits on frontier AI development.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "frontier-ai",
+    "governance"
+   ]
+  },
+  {
+   "id": "2026-11-27-032",
+   "title": "Nvidia's Most Advanced AI Chips Suspected of Leaking to China Through Chinese-Owned US Entities",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BUU9hSVRLUHZMQlVEaGp5WHc4MUdENHJPVmJXSzZic3ZxNTA2anEtT3ZoOE02eGNFZDRJaGJFQXdFd2VkbTgxRDdOMDlLOTA0dHJoZUY4bkFhVXRDN1JqaUdqREt3Q2wxSWdDWHVZbXZmenFHV2c?oc=5",
+   "source": "Chips, compute & data centres (via Google News)",
+   "published": "2026-11-26T22:25:00.000Z",
+   "category": "industry-compute",
+   "summary": "Report that Nvidia's top-end AI chips may be leaking to China via Chinese-owned entities registered in the US.",
+   "relevance": 4,
+   "tags": [
+    "nvidia",
+    "china",
+    "export-controls"
+   ]
+  },
+  {
+   "id": "2026-11-27-039",
+   "title": "EU needed 2 requests to get AI incident answers from OpenAI and Anthropic",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcnh1cXp2eTYzUVRTd01UbDAwX19VcVdTejlYY3RPeDZFeGVuWTZrTlhDc25tbmR2SGdPZDNoQTVQRW5CWWxYdXRndWRsQk1sNVFkcE9XMW5RMVh3ZFR4MU5UTEwyVXk3QV9WNEVRSko1Qnh3TlhIS3NydGdWdHBMY3dRRldycmJSc2JuQmUycmI3NXJqSmc?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-26T19:40:45.000Z",
+   "category": "policy-regulation",
+   "summary": "Report that the EU had to issue two requests before OpenAI and Anthropic supplied answers on AI incidents, raising questions about cooperation with regulators.",
+   "relevance": 4,
+   "tags": [
+    "eu",
+    "openai",
+    "anthropic"
+   ]
+  },
+  {
+   "id": "2026-11-27-041",
+   "title": "Former OpenAI researcher says the Riemann proof matters less than the fact that an AI system can produce it",
+   "url": "https://the-decoder.com/former-openai-researcher-says-the-riemann-proof-matters-less-than-the-fact-that-an-ai-system-can-produce-it/",
+   "source": "The Decoder",
+   "published": "2026-11-26T19:31:46.000Z",
+   "category": "research",
+   "summary": "Scott Aaronson argues the significance of recent AI math results lies in the capability demonstrated, and says he is confident labs hold undisclosed cryptography results.",
+   "relevance": 4,
+   "tags": [
+    "aaronson",
+    "mathematics",
+    "cryptography"
+   ]
+  },
+  {
+   "id": "2026-11-27-047",
+   "title": "GPT-6.2 Astra users now hit limits 40% faster after OpenAI patched a pricing error",
+   "url": "https://the-decoder.com/gpt-6-2-astra-users-now-hit-limits-40-faster-after-openai-patched-a-pricing-error/",
+   "source": "The Decoder",
+   "published": "2026-11-26T17:28:56.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI fixed a billing bug that had given GPT-6.2 users incorrect discounts; Astra and Sol users now reach limits 40% and 25% faster, with compensation offered to subscribers and business users.",
+   "relevance": 4,
+   "tags": [
+    "openai",
+    "gpt-6.2",
+    "pricing"
+   ]
+  },
+  {
+   "id": "2026-11-27-056",
+   "title": "After OpenAI and Anthropic shut the door on their data, a Chinese AI developer is turning to Google and Meta instead",
+   "url": "https://the-decoder.com/after-openai-and-anthropic-shut-the-door-on-their-data-a-chinese-ai-developer-is-turning-to-google-and-meta-instead/",
+   "source": "The Decoder",
+   "published": "2026-11-26T15:45:08.000Z",
+   "category": "models-releases",
+   "summary": "Chinese developers Z.AI and Moonshot AI are delaying flagship models and seeking alternative training data after OpenAI and Anthropic restricted access, reportedly turning to Google and Meta outputs.",
+   "relevance": 4,
+   "tags": [
+    "z.ai",
+    "moonshot",
+    "distillation"
+   ]
+  },
+  {
+   "id": "2026-11-27-057",
+   "title": "Dutch groups ask court to halt Meta smart glasses sales over privacy concerns",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTW1YMnQzOGZCbUZNd2loMlNOS203R0ZwcGg3STdSRTlXcnFraDRvNzFwcG5URDlGMDI4Skt3WDRybmVQUi1mUlBMSGwxakl4eEFkU1NtdEdWb3pHc0w5Z2l6cHA0dUloalM1ZkhJYTRTTzlIdVdSUG41ZkpxRElOMG5UUHdobklDckZCZUt3VkxqV1pOYW13b1c5MTBsaXhKcG1sUmhrNnFjdy00VG9OWWhGUDVjRGxINUZaUWdwck9uY2tNeGc?oc=5",
+   "source": "Reuters AI (via Google News)",
+   "published": "2026-11-26T15:20:42.000Z",
+   "category": "policy-regulation",
+   "summary": "Dutch civil society groups asked a court to stop sales of Meta's smart glasses over privacy concerns, a notable EU privacy test case.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "privacy",
+    "netherlands"
+   ]
+  },
+  {
+   "id": "2026-11-27-070",
+   "title": "FCC clears SpaceX to deploy up to 1 million Starmind satellites for orbital AI data centers by 2040",
+   "url": "https://the-decoder.com/fcc-clears-spacex-to-deploy-up-to-1-million-starmind-satellites-for-orbital-ai-data-centers-by-2040/",
+   "source": "The Decoder",
+   "published": "2026-11-26T13:41:07.000Z",
+   "category": "industry-compute",
+   "summary": "The FCC authorised SpaceX to deploy up to one million Starmind satellites as orbital AI data centres, with first launches targeted for 2027 and full build-out by 2040; analysts expect costs to exceed terrestrial options.",
+   "relevance": 4,
+   "tags": [
+    "spacex",
+    "orbital-datacentres",
+    "fcc"
+   ]
+  },
+  {
+   "id": "2026-11-27-084",
+   "title": "Meta Refused to Share Muse for Testing, UK Financial Watchdog Complains",
+   "url": "https://www.wired.com/story/meta-refused-to-share-muse-for-testing-uk-financial-watchdog-complains/",
+   "source": "Wired – AI",
+   "published": "2026-11-26T10:51:27.000Z",
+   "category": "safety-evals",
+   "summary": "The UK Financial Conduct Authority complained that Meta declined joint pre-deployment testing of its Muse personal agent before its UK rollout, warning of new attack surfaces.",
+   "relevance": 4,
+   "tags": [
+    "meta",
+    "fca",
+    "agent-testing"
+   ]
+  },
+  {
+   "id": "2026-11-27-088",
+   "title": "ACN, AI Agent Attacks Hit Italy and Technical Debt Becomes a Risk",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONjA5ejdYS3Izb3FYTWdOamJQQk1hZkwwRzU3a09WN01xSEozZVZ5cHJJTUcyaFR0RlNMSDJ2VFNPVXVFX0czb0RGU05VbEFMWnM2X2dXdzdNbU5Ca1pmT0dXTGhMUHFZeW1tUjF2TS1xOWRYaE5jaFN3eTVtOC1OZFpJQU5hUWpN?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-26T10:15:38.000Z",
+   "category": "ai-threats",
+   "summary": "Italy's cybersecurity agency ACN reports AI agent attacks hitting Italian targets, highlighting technical debt as an added risk factor.",
+   "relevance": 4,
+   "tags": [
+    "italy",
+    "acn",
+    "ai-agents"
+   ]
+  },
+  {
+   "id": "2026-11-27-090",
+   "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+   "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+   "source": "The Verge – AI",
+   "published": "2026-11-26T09:54:40.000Z",
+   "category": "incidents-society",
+   "summary": "A coalition of 42 US state attorneys general is seeking to block Character.AI from selling chat histories of more than 21 million accounts during its Chapter 11 bankruptcy.",
+   "relevance": 4,
+   "tags": [
+    "character.ai",
+    "privacy",
+    "bankruptcy"
+   ]
+  },
+  {
+   "id": "2026-11-27-096",
+   "title": "Indirect prompt injection: how to protect AI agents from hidden instructions",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0dxVnhOZlp2NWVEMV9jTjBabDU3N2lhQXZqdnhNX3ptZURIMWl4SHZzNjdmYjRnZXF4N1RoZzZrakJWTmhhbGExNDhOUG8zdlR5bzVHUnlZaXpaZGpwdnJmdU1MdGFtMTVsbTFsRnhxSE9mdUpwWkNKdmVnN1dtcWhockItWHZzak1zLWV6S3pxcFg0Y3BQaGFqajE0cllZ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-26T08:30:00.000Z",
+   "category": "ai-security",
+   "summary": "Telefonica guidance on indirect prompt injection and practical measures to protect AI agents from hidden instructions in untrusted content.",
+   "relevance": 4,
+   "tags": [
+    "prompt-injection",
+    "agents",
+    "telefonica"
+   ]
+  },
+  {
+   "id": "2026-11-27-006",
+   "title": "People are not being fired because of AI — they simply are not being hired",
+   "originalTitle": "Nem kirúgják az embereket, hanem fel sem veszik őket az MI miatt",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWl9rUVVBT3RJU0F0TlFqWVZBQzR2MzVXS3FFWUpQb25RSVJJUURHQURUWTRrUVVLZ1RTR1RuTnNzTXJlWEtsSUJISUVNWTZHRUx1NzFjRUwxSXpwclBKQTcwcjVFeUo2bURaMnQzaGhjcWZMTmdIenFtNXJ1em1fbzAyYlZxek1fc0J2bEhCUXVudC02MmdVWQ?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-27T05:16:00.000Z",
+   "category": "incidents-society",
+   "summary": "Hungarian report argues AI's labour market effect shows up mainly as frozen hiring rather than layoffs.",
+   "relevance": 3,
+   "tags": [
+    "labour-market",
+    "hungary",
+    "hiring"
+   ]
+  },
+  {
+   "id": "2026-11-27-017",
+   "title": "South Korea bans ads featuring AI-generated fake doctors and experts",
+   "originalTitle": "Dél-Korea betiltja azokat a reklámokat, amelyek mesterséges intelligencia által létrehozott álorvosokat és szakértőket mutatnak be.",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZHR5bjJFVzVTTW9GZVNuSmQyb3dzUnFSMVczdUp6S1hUckZYN0I5V3BfVERGQkVDeW5vbzZyOUo0b2RxT3pvLTRvajNLRGd3ck1pTW51TjBDdkFOTFM1ZEJfTXZOMU9VT0NIVkhET21yYnBrX21tMVNNNnZuVzNibFRlMzZDNWJYWXNaajdCVUhpQ05adzZ5dXA2Yw?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-27T03:25:32.000Z",
+   "category": "policy-regulation",
+   "summary": "South Korea is banning advertisements that use AI-generated fictitious doctors and experts, targeting deceptive synthetic endorsements.",
+   "relevance": 3,
+   "tags": [
+    "south-korea",
+    "deepfakes",
+    "advertising"
+   ]
+  },
+  {
+   "id": "2026-11-27-019",
+   "title": "OpenAI fixes GPT-6.2 billing error, limits change",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdnF5SnBQYndpTHMwZEdIWmlPNnpvN3NvNnJkRjVYdVNiLUNzX0g2OW1yb285OG1FQlF0RE1MamViT0VSZ19qODdiRlpKenB4Z2J0aXBTNVhhNVlQY05mc0NlRlcwek5wYjZ6QnBzOEFmLTlBTXhjWlpHZkd5S2RPYmRqZnowTW56emJibXdtb3V4TmlIU1Rz?oc=5",
+   "source": "Model releases (via Google News)",
+   "published": "2026-11-27T02:59:09.000Z",
+   "category": "models-releases",
+   "summary": "OpenAI corrected a GPT-6.2 billing error, with resulting changes to user usage limits.",
+   "relevance": 3,
+   "tags": [
+    "openai",
+    "gpt-6.2",
+    "pricing"
+   ]
+  },
+  {
+   "id": "2026-11-27-028",
+   "title": "Bipartisan Desire to Regulate A.I. Faces Obstacles in Congress",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdm5vVlNYSU1RdnJub1pDc2hpOHhGZWNRWDBubnlHTURaQ3FHSEdXcjFyVkdkLTJyeWJWWHNzU3F0ckdTcHBqcUhtR2tyd3ZXSDVVWHlEVUctRThyLUFmS1FtWnpUYTlKWF9LOGRhR2VobFVVQy0xY0szVEpheHBhZm9kVHhvTjNW?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-26T23:19:08.000Z",
+   "category": "policy-regulation",
+   "summary": "NYT reports that bipartisan interest in regulating AI in the US Congress is stalling against procedural and political obstacles.",
+   "relevance": 3,
+   "tags": [
+    "us-congress",
+    "regulation"
+   ]
+  },
+  {
+   "id": "2026-11-27-033",
+   "title": "N3on AI Voice Clone Used to Run $260,000 Crypto Scam That Landed a Florida Man 47 Months in Prison",
+   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQc2lwRFNRWk5fQU9YeXNKTTA2WThkbFUzRE80RE0wUlkxRW5zTkk4cEZlcDN6Wmk4bVJBWl84djZMOVZwTlljQzlrRk9uelU4S2RCaVVYaWc2dkt5Zks3cFJFZVc3Sms0bjRLbUdwTTR3RWpNNldfN3VneU5HdE95TDJvTVBoSjdCT0EyNEw1TFBNMmZRV3dHUkpiUlNPU3FaNkZ4NmwtNGdkSnRuTVZVbG5wdlNtOHlkd3c4U1Jjdll2eDAzYUROVmhMb0pQNkZtRXByNg?oc=5",
+   "source": "AI-enabled fraud & attacks (via Google News)",
+   "published": "2026-11-26T21:28:28.000Z",
+   "category": "ai-threats",
+   "summary": "A Florida man received a 47-month sentence for a $260,000 crypto scam that used an AI voice clone of a streamer.",
+   "relevance": 3,
+   "tags": [
+    "voice-cloning",
+    "fraud",
+    "sentencing"
+   ]
+  },
+  {
+   "id": "2026-11-27-040",
+   "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jQ0V5Wjh1bEk2bXlnbks1Q0dhaVAwVjc1VzByR1ZJYWxUZFNVelZPWUtSb04tcW9MYXNZTjRjZW41Mk8zSlRoLVNtT1FLSW5hMUZLMFN3S1Z4Uy16LVppZlA1NXJyR0NlekU2N2Z6bklqSFJleUhIaXJOd3VwUTQ?oc=5",
+   "source": "The Hacker News AI (via Google News)",
+   "published": "2026-11-26T19:39:00.000Z",
+   "category": "ai-security",
+   "summary": "Hacker News roundup covering millions of exposed NGINX services, hundreds of malicious browser extensions and AI server hijacking incidents.",
+   "relevance": 3,
+   "tags": [
+    "threat-roundup",
+    "nginx",
+    "ai-infrastructure"
+   ]
+  },
+  {
+   "id": "2026-11-27-064",
+   "title": "Who is liable if an AI agent leaks trade secrets?",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQX0gwdU1vVjJ2T2RETDA1SUZRZjFhTmFoaGVDZWU3eEVHZEpGQkRZRko4anRsRmRBVUNNMHQ5RGFUbFFuNm5oMUNMV0NQY1BYaEw3UkRRdWdXRWVLOWhIdDk1RzFWelJFQjFOdml6VU53dnBoWXZFeVlfdUV4SDF1eEdXcjUzMF9RbmZtS2dhcklLblk5UkNfVUxfWQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-26T14:30:00.000Z",
+   "category": "ai-security",
+   "summary": "Analysis of liability questions when an AI agent leaks trade secrets, relevant for European legal and risk teams.",
+   "relevance": 3,
+   "tags": [
+    "liability",
+    "agents",
+    "trade-secrets"
+   ]
+  },
+  {
+   "id": "2026-11-27-066",
+   "title": "Wiz launches ADR to detect attacks within applications",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSVR0bHhIbHhYd1d5UjBQN3hRNlpWazlORXJEaUdtWVQzZHh3MndtRU16dWh1Q0FycDBDelJQVE0wNlhXWU1aUGRmRmxPclBvMFhGWm5wUGRIa1FKSzBvMlhPRkUxRUNJaEV3LW8tQnRwd0NJaW9BcF9CbzNqQlRPaktKUlViT1lUMkRvdlVBUlFLV2xfUmVQRXBmajRzTlFzV3c?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-26T14:16:00.000Z",
+   "category": "ai-security",
+   "summary": "Wiz launched Application Detection and Response (ADR) to detect attacks occurring inside applications.",
+   "relevance": 3,
+   "tags": [
+    "wiz",
+    "adr",
+    "cloud-security"
+   ]
+  },
+  {
+   "id": "2026-11-27-067",
+   "title": "Expert warns of a major pitfall: uncontrolled AI use can bring huge fines",
+   "originalTitle": "Hatalmas buktatóra figyelmeztet a szakértő: óriási büntetést hozhat a mesterséges intelligencia ellenőrizetlen használata",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbF9yMnpQTmxBdWZSbmhHWjVjZkpzOWN0Qm9oU3BrYk9mQ21kN0w4VE95Yl94ano4OXFvS25CZExJa2tTc3ZPUUoyQVRxOWFITUg5VldrNDNCNjFvQUVEQ3pMTUxnWlh5UVNWSHJudUhESHZQbVgzMEgzcmpLR05acUZGdXdyWUVSdHZwTkpzY0dTazdZZHQ4SHo2YzhTVENSWUViX0w0dU54cmpRb18xVzlDSW5RQTZkNGgzaVhPVEhyaHgzNVgxMWlOcDB0WEJNbmtFUGh6ZW9uVjFkLTNjTG5XcEY3dEVVM25rc1EwNkxjblI1SldVdUhTdlllUUNZbHfSAYcCQVVfeXFMTzNaVE9ScTZYOURqLVhINWJsMklkSlNYX2FieG5GNG9qd0dCVkNNWWhRLUd1dlA4Nk5jQXRUVzFEX01wbDU0YzRBQ1dzUm56NTdiVXp5a0xzWF9RcUpibjJkMGF3ZVExTURVc2pCcDQ5MlprV3pDWFp0Z0dYd0xPSG5tSzZhX09tbHYyN0JWSmVwMXk4Z2pNaFR2S2NneDRMZmRqb1JpUnZPNGhRaUNISDFhR2FYUVJHWk1zOVZ0SnFWelkwZ2I5cXVvblBzQ0NQNVgwalJiYTJ6ZjRQaWpmZTl2VWtYMUNZa1FRVUxwc3dHZzJicVJZTTE2cEEtZkJndTdBWTlwdzA?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-26T14:13:00.000Z",
+   "category": "policy-regulation",
+   "summary": "Hungarian coverage warning that unsupervised corporate AI use can trigger significant regulatory penalties.",
+   "relevance": 3,
+   "tags": [
+    "compliance",
+    "hungary",
+    "ai-act"
+   ]
+  },
+  {
+   "id": "2026-11-27-080",
+   "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+   "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+   "source": "Hugging Face Blog",
+   "published": "2026-11-26T11:37:17.000Z",
+   "category": "agents-tools",
+   "summary": "Hugging Face introduced a llama.cpp benchmark dashboard covering AMD Ryzen and Radeon hardware, useful for local inference planning.",
+   "relevance": 3,
+   "tags": [
+    "llama.cpp",
+    "amd",
+    "benchmarks"
+   ]
+  },
+  {
+   "id": "2026-11-27-083",
+   "title": "AI fully takes over coding at a Hungarian company",
+   "originalTitle": "Teljesen átveszi a kódolást a mesterséges intelligencia egy hazai cégnél",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOU3N0R0MyQWFDZkwwb05KT3lVZEZJdzFPcEVGVWd4em9IN2E2aVY3VXR1WXhkWGhWaExRUzdEUUxpNGJfSmhhaFpyZ2c1UXRUcWhxeno0Y0F3bWg5UXRfcmIxRVpTUF9aeTlTR1kxaTFTd2NzbnNDZWVBeGVvQVQwZTVIWTNnUjdrdlZuMFd1YlBEcmt0cjRxSkR5OVlRVEFTc0N1YXlCMjN2SlZtbl9fWmVfRGhzZGdKOVpQZ1pDWk1PQdIBxwFBVV95cUxPT0ZMU29xV0ppYU44MXlkMGRFYV9nNGpGOFB3d19SWHl0QTNxX1dZRDVRdGxSVWRQenlJeUxkUjBnN2RhcWRoUkx2REFmOG1WazZ1YWg5bERGekhDMG5CZC1wdnFkNVRNNTk5WDdxeHZEQ202cmw1QXZySEQzanQtRUZHTEZpRHN0UVByTWgyZkxIYV9zQTF1Rk5zUnJ4amwxcDVweF9fRlhMcXFualFrNEtzeVBnZ25DS3BtTllCV2NRMHB6NVl3?oc=5",
+   "source": "Mesterséges intelligencia – HU (via Google News)",
+   "published": "2026-11-26T11:11:00.000Z",
+   "category": "incidents-society",
+   "summary": "Portfolio reports on a Hungarian company where AI has taken over the coding work, a local signal of workflow change.",
+   "relevance": 3,
+   "tags": [
+    "hungary",
+    "coding",
+    "automation"
+   ]
+  },
+  {
+   "id": "2026-11-27-087",
+   "title": "CISA Adds 10 Exploited Flaws",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLVAzQzJSRWJ2TnJoX2ljMjJ5M2hQQkJUSWZBMkRtaFhTSG5DaTAwZWNvWGRTRTZkalVpNW9mNHBtTjMtNjVTS3NEZWZoXzJWcGRBM0VTVnowVHdUOVdCTk5mZ2ttbXBPRmlHRXFMNW9JSllxQm5oa3VCSFVZMDVyWQ?oc=5",
+   "source": "Prompt injection & jailbreaks (via Google News)",
+   "published": "2026-11-26T10:28:42.000Z",
+   "category": "ai-security",
+   "summary": "CISA added ten actively exploited vulnerabilities to its known exploited catalogue.",
+   "relevance": 3,
+   "tags": [
+    "cisa",
+    "kev",
+    "vulnerabilities"
+   ]
+  },
+  {
+   "id": "2026-11-27-092",
+   "title": "How the EU AI Act and Equality Law Address Discrimination in Automated Decisions",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOd2V1MUFFV2lmQ0lCNWljYmZBeloyNHFkb1lKcFFWOTJ2cl9GbEt6enhVRXRiQld0dzlRUDlsajNDSjRRaW1FbkkwR0NrME1JcDFad1g0X1BNbV9SVi03S1N1bGFvMDlkZms4TWc0dVJGQVAzREFwNVZ4ekMxSUE3REZjdGdGTnJGSEVqUmhXMjNoOU5DdEUtdHBHZXl5MWlGTUVCdUd5UDZhM1l1WExDWDgzZ2pfZkEzVlBZTDUwdEZIdHlMd2xMd24wZmhWN0k0R2fSAdcBQVVfeXFMT0gycU9TNkVzSXNSd2gzajZUSkhKOE1VZDJDQlJHSHZlWW11Y3lLX2hYeXluSWoxOENYSmR0VHY3bGlnMEd3dE9Zb1JIYWljRDlPOTFsUGMxbmZmTHpocnluRUxSbUEtdEIzQkpXRkQydzg4M011Wk4tcjZHRHJqcF9PUFoyRVdQUTBwN0lyTWYxZDEwM0o4Z2hxc3lwMnhTeWhTR1JjSFJoQW5wQWRGS2NJSC1UdFY3cXZKak55T2FUQzhkM25XOFZBbk1PcGRZWDAzcE9iNUE?oc=5",
+   "source": "AI regulation (via Google News)",
+   "published": "2026-11-26T08:57:49.000Z",
+   "category": "policy-regulation",
+   "summary": "Analysis of how the EU AI Act interacts with equality law to address discrimination in automated decision-making.",
+   "relevance": 3,
+   "tags": [
+    "ai-act",
+    "discrimination",
+    "eu"
+   ]
+  },
+  {
+   "id": "2026-11-27-104",
+   "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+   "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+   "source": "Hugging Face Blog",
+   "published": "2026-11-26T05:05:36.000Z",
+   "category": "models-releases",
+   "summary": "Hugging Face post on building with Nemotron 3.5 Parse, covering open data, fine-tuning and faster inference.",
+   "relevance": 3,
+   "tags": [
+    "nemotron",
+    "fine-tuning",
+    "nvidia"
+   ]
+  }
+ ]
+}
